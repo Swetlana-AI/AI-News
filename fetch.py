@@ -1,7 +1,7 @@
 import feedparser
 from datetime import date
 
-URL = 'https://news.google.com/rss/search?q="Sam+Altman"+OR+"Dario+Amodei"+OR+"OpenAI"+OR+"Anthropic"+OR+"Andrej Karpathy"+OR+"Grok"'
+URL = 'https://news.google.com/rss/search?q="Sam+Altman"+OR+"Dario+Amodei"+OR+"OpenAI"+OR+"Anthropic"+OR+"Andrej+Karpathy"+OR+"Grok"'
 
 feed = feedparser.parse(URL)
 
