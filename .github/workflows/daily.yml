@@ -1,0 +1,29 @@
+name: Daily AI news log
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # daily 08:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - run: pip install feedparser
+
+      - run: python fetch.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "news-bot"
+          git config user.email "bot@github.com"
+          git add news.md
+          git commit -m "Daily AI news update" || exit 0
+          git push
