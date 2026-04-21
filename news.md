@@ -19387,3 +19387,306 @@
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1CX24zeXRQM0JTbWtlLUdtSDdXM2lMQUJNRHhhb2ZEMU1JTUlwSlptYjlydmJ4UlRwaDN1OGpLcE9kNE8wdlpGeVlSY09BR3hwMnNzN2RacU5oT3EzNEIwR0syYWVfRDYwZ2xkdGJBaE5ocE9tMjFWb3hzM1dDelU?oc=5
 
 
+## 2026-04-21
+
+- Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute - Anthropic
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fdy1yMjdvS1NvTl9pS3h1ck56aG0wRERDMy0yeDJJNmdJdEd0Z3I4N0xYS3RlY3AxWmtBR25FSkpPUWNrM0M1U1RxT0lPTXhja1prTGw4RGNNOHIweHdvcXd3Nk1DUQ?oc=5
+
+- Amazon and Anthropic expand strategic collaboration - About Amazon
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1FlbU1kTVBFR2RLTlJrc0l5cVBoS3QydUJTSlNOSWk4ZUNSSUhySGV2RnJYRnRkajJQY1FVTUdET3QybFFpazcySWx1bm9ja25ielpISWhRenZ1Rk1Fbm5wN0JsbXd5ZUo5ZjcyNU5mNmRWblJLbXpPQk50UGdQbTk4WXZ5UXRVckhtOU10cElhcEZDQXZPeFpR?oc=5
+
+- Amazon Plans to Invest Up to $25 Billion in Anthropic - The New York Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGc3ZDFvdjctMkFaRE13Q19UTjFkOGxmdkZDWGFpQ0U5RlZuZ1pFZDAwVlpxdzhGQ20xdG9aNnk5blRkSHR3YUI0WTBuX1BOSXk2YW9QcHdoOWJrZUdSTUFSQk9oTTdZM1dFLUFUb2dvWUlwanZGQjRock9aUVJJM05WcEY?oc=5
+
+- Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal - CNBC
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdENHZTV6MTdDdGFScHBGUTJEandaV2pqb3ZJWWFVTHpJNUtsNWJJUVBWZFQyQ05MSWVYOFcwQ05Keks4R1FEWVNENkw4VTRHOEZjXzkwLUNIZ1pjd1ZRNUpfSmVFZTZWQ21HX09jQzdUSUJhS1lDTzZPWFg2QmpVeWhZdHlOZGRoVVRkOEdOZzNSNWFDRjFMSTZXdk1LX2ZjcFVJWmZ1YUQ3d9IBrwFBVV95cUxNVWN2VjU0RFV1OFl6R1cyVXlpQ2JKaTdfQndJQzBuZ0tuQVZlUUJJQ09WMDAwY2NYdk51UWdyZElSTGkwZHVXX1JPSVBTWE5rbzBURWRGaFhtZHR1OFN5WXJvRlA3RlMtX2Z5SjRnTGRZZjFkVDRtcTFtZmNobVk2MzRwNDdHUkZpdl92c21HUkF6eWZrSjFTUTRSWmdNajhpcW1MSm9OTmU1THpGRlJF?oc=5
+
+- Amazon to invest up to $25 billion in Anthropic as part of $100 billion cloud deal - Reuters
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmRoNkpPdFlOX25hNWQwSDJ3RmItSGt4Y1ZpelF1RVJXczFXbUY2cE5PdGFvTndvYTB2MzVWOXZaV016anhHSEk4TE1Gdm1vR0VLbWd0WEFLUHpJTWtmX1g4OHNLd05Yb1ZGX3dib2RKM2ItdDk4bndIM0M5ZHlQdXNmZi1Oend3OTA0TGJYNXNBNXpsdWpxNVhjZWhNQ0hHQ3QtOFpNNA?oc=5
+
+- OpenAI Takes Aim at Google with New Image Model - The Information
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2Mxclc0YUZKWHR5dGc4VG5sTUZZc3VGVTBHYVBiTUtZR1J0SjFtNXFITmh1bkVRZTJDVUNvTDRNYUdJTDV3c21lWjZIUVVsWlhHS2RxLUoyVXJMLVlxb0pUb3Y3MVc2dVUzWEFtMWZwVGhJYnJCVUg2alQweS1LZ3A3OEtwdjBSQkVObWhHU3V5djdwUUxR?oc=5
+
+- Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return - TechCrunch
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxOWm8zN1JhMXBJdjhuWnRreVJPMjltOHNVX05GNHJoSkJENjlvbnZjaXhpWXE4aHA0VXFJR3FIVHVtZFdpWmF3cmc3NlBhODg1Sl82TDZlc1R5T1JsRmczNDdkZmVZSS13N2RJaXAwU0t1QU01c2tQcTd0a2dUUHQwYmJMZ3dSQ25tMmhUbFFzUWtpZ1dBV090aDh2enc0QXdqUm9pWENRZjJTVEFNMnp3?oc=5
+
+- Anthropic, Amazon Tighten Bond in $5 Billion Investment and Computing Deal - WSJ
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0NRZVNGRFVoMmlaZU1MNnBadTVRQmZTd3YzeVNfaGowNldFb0lQaDczem93TXpmd1BrVUF3T3BIamcwbGNJbmNPVkliZUJpRmg5SnpPc0tVLUtLQjQtMEpNYVl3bXFicUFoSnhYeEk5Sll4SVMxeUROQjJfempxNEMtbGlrUHh4TXNnS252UGx3M1dYUTRFUHBYclRJNmpVV0NNcFFyRXhublQ3ZHc?oc=5
+
+- Anthropic’s Mythos moment: How frontier AI is redefining cybersecurity - The World Economic Forum
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSFZBR3I1eXh1NVBMMXVFcy1BRGVaQldMN1R6Q19sWEJrZjA0MWpEdWo2Qm1zWlI4ajl4ZmJKYVlXM3QtUG5HWE94M2h4ckNteHlleXBZdzI1bzIyZDJlSjU1SDFucTlsalB4UzhQRmNWeDVIMkpQbzQtNTliV1k?oc=5
+
+- Why OpenAI is ‘running at lightning speed’ to build an ad business - Digiday
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxONTdiel9xM3RjaV8tYVhlcWgwUl9lZktHcl9hNVZyNmozQmlhZmJDWFhSSUhhMHVDS1otQ0RreDhPRWw3VS0zODFMQzZsTmRSdWsxbzdGbWs3X3pONVhERW5IYXQyQjc4NFVpQXBZUTNDOTNJQUxLUWFodEZXZkx5Q1ZqOXdZV2ZwazRfOTRVQXV4Q3hBa3p3Y1FB?oc=5
+
+- Anthropic CEO makes shocking admission about AI - thestreet.com
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0tuN3FGSHNQYWx4NWhJdG9uODJyUlRpYk9iRllMREVLOTJVcDJDQy1KUnBFNkZBRWxQdjctSmhSa1EwLWZVV0pWSGdmZWR1X3ZRRkszUEpsRFhWVnQwYl84U1gtMUFkZHl0MnR0M0UyT0V3dUJxM1FxWEw4eWNwQjlmcmo2clg1RnFQQw?oc=5
+
+- Opinion | Why Are Palantir and OpenAI Scared of Alex Bores? - The New York Times
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxOZG5kS1g5bjUyRVpqbG9ZOXF2aW5YMl83SUhVVFVEY0hKbG0tWkpsb2l4U1BYdkZxd1Vlci1yUldteVJTNkRIclpaSWc2QnkzZ2tTWUxQSnhZS1Vkc3VBcDdrNFV1RnVpZndoSk1vYjdzUzFVQXc0UHpNa0t5UDFiU1p2dw?oc=5
+
+- Introducing Claude Design by Anthropic Labs - Anthropic
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5
+
+- Explainer: What do we know about Anthropic's Mythos amid rising concerns? - Reuters
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0pxVnpPaC1ZS1dsUEFtbmpwUU5oOFljenVabmYwYlB3SHhsMXJlSnNUa2Fwbm5nMXNUTFFFVmUxaG1XQUFJYmRMdVBjZFl0amFpekZFbGxwNWxlWkEtZTFBdmZFSllla3I0UG1tR2tUdk1nZ1ZZU0MxTkxkdTVsUjd0UEFITEc3bjcwaFVKMjRfaFNRdWhEU2xsUGRiN29tRWJrRXpucmx6T3J5TzVRQnFMZw?oc=5
+
+- Tim Cook reactions: Sam Altman, Palmer Luckey react to Apple CEO move - CNBC
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE51OXVoTDhQdU0wdmgzMWNKUUdjM3FGYWExUnZBWlpCNzlJTENfR3hGWnI3TGpHZnREdGtzajNHRWJ4RjFyZ2dOZGtxLXMtWmNMVFRpYUZScGZDUVF4TTR6X1pEZjZkUFBva3ZRekVVbWtkTVHSAXhBVV95cUxNNE1uc096azh0WjJYejg1TGVSTXpXVDlkQzE5OHQwSGxqVE91WV9UVGRIV1AwSDVaWS1oV1hibHl4UmlQTEU2a0MxTmlWOGNvdi1WSlg5NXZpSnhLUUhOemZ5Tm80amVGU3dBcG9POG5CVnVZM1lXYjc?oc=5
+
+- NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud - TechCrunch
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjVWSTNlemxNTVhNdWw1a0RzNVM3SUQ2Rld2VnhtSXhaenZPUERwQm9HbE5EZnI5Y0kxUklDXzJ0V1BwOVRIcHdzMV8ySVNCMVFiVEZkNE1YY3ppbjNNTDZYeHhXTDZhRVQ3R2swU01UaFRidHIyQUhXa1JnNEs0UmhJMHB1Sl92MElYUkdHY0lwdGtiZ3FldHJnSUYyOVh3akNMZGFjUlo?oc=5
+
+- Opinion | Anthropic Wants Claude to Be Moral. Is Religion Really the Answer? - The New York Times
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE9IdjBjVFMzUkd6T0ZnM0N4NmRDV1dTcmFCOVlTdTBEUncwb3V5QWJpbS1IMEtDbXFpUnVIZ2MtUERLRnBXYjFLZFBkYUo1RldVSDR5R0ZLTnFtVU45M3dfMXZyTm9ucS1CR3dGS1FvX0hyd1pKeXh3?oc=5
+
+- Introducing Claude Opus 4.7 - Anthropic
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5
+
+- Banking industry scrambles for Anthropic's Mythos as global regulators review risks - Reuters
+  https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHBGdXc4MW82dlM2U21Kc05mVkdsbERMSEVKQ3Y4Ty12WElOQ3dkdmRKQTF2S18zQzcweXhQSmJZWEY2UTFnTEFEazl6Q1ZnakxuRXZocnhwY0NwVjVLMTB5bDdCdW41THBWQXluLTdQM0tTaS1aVHV1UHp0RGtmN3F5bWNYeWdQSjJ1OEdEX0hIYXBad04tMFBwN0dXT2RCTzQtV294bVlma2pRS1A0dloyVWtUN1FzdVhqb3EyZC1RaTRX?oc=5
+
+- Asia regulators monitor Anthropic's Mythos for potential banking risks - Reuters
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjFpNFhsTE9fZVpFZE42eGdjbFBfeUZwcjBOOElOMXdNdUUtUUk1Uld1NVdfV3ZHdEdkRm1YdThsSmlaSmhNNThsVlhSY2RHdTFQOGUxSG52TXFJVjBpeFdvb2FXeVdHVEpvTWlXdDZMX1JUcnV2dS02RmlKU2dxZElOZzBUSHVZdkIyRjdTNGJaUVdQMHZOeEFnNk9SNlJrZXBoVGR3?oc=5
+
+- Anthropic bites back in the compute wars with Amazon partnership - Axios
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBodDJTWFRsYnN3NXItQVQxTXQxWWdSZy1LUDl4b1o4M21hZVpaSVMzYmt4c0Q1MWpOX0ZtYVdNVHNFcTZZS0c2WEI4TnIyMUlJY3hibi1LT2dCamlrbFAwdzVuN25hanNqUjJHVURvSQ?oc=5
+
+- Report: Google DeepMind builds “strike team” to catch up to Anthropic models - Sherwood News
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxObGdhVlZ3dWNGSGhqUFpQZkNVR1Z0a2pleUdWazA3SVBTTFJoX05LOWF4aEJQenBLV29IVS1EdWFGNVMyYjFrdVI3a1V5bGphY2Z0emszck5WNGd4TzNEM2otNFJVNUY1T0JNZWNUNDg5c2VpY1ZyZ0JYaHBsZHVtdXNudjVSaW5WWWtOOHdDeU96SEM5SlZibHZR?oc=5
+
+- Amazon is investing $25 billion in Claude developer Anthropic - Techzine Global
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxQNy1jaXQ5MXNtUno2LXNKa29vdWVpUHhOWUpUZjc4ckxnTEhMS3hzN25lVU8xbUttRzJ4aUl5OVgyajRnM2h6Wmg5T2c2UkdPVW13Y096UVpTdWNLdVNuSVlQOU41dVd1akV2aGwtampBdEdNcDRPei1hckE0LTZfU0xRVVNDMmRNN3p0YnlhbVZITUFSR0ZpQVZnbEJXbG9CYWlNZk1NUEh4R3B0c3Fwc25n?oc=5
+
+- Scoop: NSA using Anthropic's Mythos despite Defense Department blacklist - Axios
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE5UUW9jYXVFV0RVZ2EzSk5IMjZ4b09JeHQ0THZRbnpLQ1FULUlENUk0YTkwSGhKRmkwaGdQaS11R29NSUszVDVZTlV3MUZ2cHI5U0lZNmlXT2UzWlRiSkUyZDJFSU9pRUtjTC1SaVdHTQ?oc=5
+
+- German central bank chief calls for wide access to Anthropic's Mythos - Reuters
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxQbDdTTmY0dEFQbDI4MzdBYnBKZFRzanZ6eVlRMDdSQ0UzeUZiSDRENy1lUmF3VmJqMVM3U0t3SXZyRURucXZwMkFhbkNPV2RELTJFelVZeTlUMzdJSHhZLWJlQ0U2T2liQ3V5WWNOeTdOUGtDdDZhVnJCanQxWlZuZ0lvNy1ucTh6V09KeFdISG5xQWs1R1A3MnJwZGdhQXRVVlhtd016Smt0U0tRUkVSZjlFX20?oc=5
+
+- Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain - The Hacker News
+  https://news.google.com/rss/articles/CBMifkFVX3lxTFAtRF9YSE9CZy02UXJUb01la20wVzlFZVVJMGhpUGk1NXRFYlZoVjg3cE1pQWltMllNblFBaHI3cDhYTWVnSjk2OFRtaTVYMm51VjFNQ2djRUFkWkd1Rnl1VjdrX2ZtdGRKRzZfSzA5TXF6ZmotX2Q4bVJpUG11dw?oc=5
+
+- Amazon to Invest an Additional $5 Billion in Anthropic - Bloomberg.com
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWdXRDhqZ3Q5emN4eER6VmNBNHVXZ1VsNkJsWElZUEpTSmtsaTRkdWs1OEotWjhNdm5pSko4LUhaOWJJTTR4MURZbmNoeGJYaUstM1R3a18tQ3pIbHVpV2lxbWFrc2N4S2d0aFRXS18tZko3bUVOSEV3U1NwNjRlZXo0V2o4WjBMWkZ5SVlKbjBsdUEzdVJQY2xDNEpIQmlKQ09DOVpsUQ?oc=5
+
+- Introducing GPT-Rosalind for life sciences research - OpenAI
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5
+
+- Amazon and Anthropic Deepen Ties With Investment and Hardware Pact - PYMNTS.com
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXEwUmRra3hRM3hpb09Fa0V3dGtKdm55NEszM3R3c09aa0dJLW8yTDF6a0hNbUJKQ0RFbUpHWEU3aWRMci1nTHlXeXdZS0NGNkJzQ253ODhrNG9kMDZDSTNxNlVCRndfN25mU2ZQMFJ4WkpkdUtZQmdJZlR5OUFqWTczY1k4Y2tIOFhjeXBjS0hQdFVrNEdsdUwxRUJ6Vk83TDBWd3pSYnlka2MtWk9DSzVrTnIzOE1hRHdDWHZB?oc=5
+
+- Scoop: Anthropic to have peace talks at White House - Axios
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE1OTklBbDVwWXBNcGNLN0JMSlRyTW01YUMwZkdjMEFMdndQd2V0TTQtd243bHBKT0hJZHdSbjNYdkZ6MmV3aHNuMEFQVlVZdXZQU0tRbGFiVGYxNnNERUo3Z3dEdEdkSTJZYWc1NUZ3UE1KLWtjaWZTNHJR?oc=5
+
+- Amazon invests up to $25 billion in Anthropic to expand partnership; shares rise By Investing.com - Investing.com
+  https://news.google.com/rss/articles/CBMiugFBVV95cUxOS3Q1ejV0TGlDQm9rZmNsX0t3NkRidThuYzJsX1FKRFgyYzZORzJ2dGlXdDRRcjhlbGpSMGR4eDQtbkhsY2Fsekx0WVgxdXZQTWozYmJWbnpyUzZTNkJYa1lWTmxDUC1CcEdZUVVJNHcwdjF4TDFoanJBSnBhTUtHX0FnZ1h3Y0w0UG1UeURyZ2k5LXZic1JHY01ydHpLNXpxR1FsWTQ0RDByR3VtbF9hREw4bV8wV25QVWc?oc=5
+
+- Anthropic has ‘unprecedented’ demand — and it’s leaning on Amazon for support - MarketWatch
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxPRERpYVQ1Y0s1NUFHNjFpYVlOelVwdmw5NDhaMHJLVjhJd00tYzBsZFQwVTdhcUFoZ2FsRXJMVXdmZGUzZnB2QTJNMkFKcXdlVUZGNXBmV3Rlb0NUQUFzMjNrNGxuRWYxb0JZTUJSbF9SWHBEREVkeHlQbzZ0S3ZSN1R4N0xUeWpfaDlJQV80SmFXdzkxcFM3cUpBUU9xd2FmSURtbkQzN1B1d3lWMS1UWnMyX1g5QQ?oc=5
+
+- OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to ‘Care More About Human Creators, Not Less’ - Variety
+  https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRDJyUDc4Y2dScnlMZFdiRG1yS3ZnZUVqVDBOdUItak14UVNLZkd6TzdMZmxrN18zTXNhOWtwNHdrazRjNUUxbk1RZnBSLVRtNnJmUVdSWmppMEM1NjRva1pTYV9NUW1IZlpsc185NXRZbGtpZjl4WkVWM0ZIT1JTXy16OFRBTFRobDBHeUdZcGtjbDh6Mjh6RkNmaVp5SU1ORjNuS1ZSSlp3NVBSUHI4WHNiMGs5SjNoNVZvSEw1WS1xZmVNZnY3QlFFZFhNcGZkTFpSTERuT1pRSmNqeDBhOW0zOA?oc=5
+
+- OpenAI's Strongest Competitor Gets $224.9 Billion Additional Investment from Amazon - 36氪
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5X0M0aDFEMFVUYmFOdEItc3RDZGRLeFZoQWVyeVNUeVQwSS1leDRUSE80b09fT2NhTTBuak5ld3BPcDdOMkRoUmNFNEpoTjNwSGNV?oc=5
+
+- Sam Altman Returns to the Spotlight as Hollywood and Tech Collide at the Breakthrough Prize Ceremony - Vanity Fair
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE5WNUdYVUMxSXo3ZzRobzRqNkY1ZUVGekp1M0xySzZoOHNUUWdiSnJsaDBXNFI1eTJlM3pGZUhibEdUeGpfbjA0bXJFSTNKRW9vV1FWYVhFdmZMTDlyWGx5dnpVOERGNlRtWlg0a2NUcXNfZ3JuRTR1LVpRU2o?oc=5
+
+- San Francisco Apartment Where ChatGPT Was Born Lists for $1.5 Million - Realtor.com
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmVBM3hRb21aWjJ5X3YwY2NjMFJVenlxREpIeC13RmxPSFVLR2hmMlhIOXJoWTgyQnRkOHVVY2NyYnpubzBPUVRoTjBOSzZIR3Awd0lGVWtBWkp2SmRqLUxyQ0dHY3ZzV0w5RE1ON3hXN1BEQ0VRUjAyeWFKUG5iaEQxOFBob3lfTWJaLTlNSE9OTjN5NXNEZTAzdm1OS1R4d0VqeG9aWQ?oc=5
+
+- Amazon expected to report a strong quarter on the backs of Anthropic's Claude, AI demand - Yahoo Finance
+  https://news.google.com/rss/articles/CBMizAFBVV95cUxNMjZVT21SM25Kd0c4dXlFb0dwdElqTXRVRzh3SjNTc0lHMkZBdzJMN05JZlpwVHR0bzJMTHM4Y2p1VWVyeFVFMTNnQjQya2xlOWh2d2g4dm5RYlNybkFQZ1czdFZhc3lZZWVyQUxhbmRtSWF3YjdiMnQ4QWEtZFBMd3cxTndwV1AxbURfM3Z0eWlRSlg5SVh5U0NCOUkxM29MckVlY0lvWFZsbGF0YmZVb1lUVkY5QVdpVXdIWl9qUUNKQWFVbGVUZ3hpSUw?oc=5
+
+- Sam Altman, Summoner Of 'Aliens' - Rod Dreher's Diary
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE1YempCQ2JuX1FBYVNQUktvTTUtTm5Bb2trdGI1RDFFXy1DU0ZIYXJuVnVTR1FYM2hFWU4xMDJ1UmozUndKTVBHUTBvb1k0VVh6SE1vWk53MGRjYU8xdUhJdUtWS1pFcGJPTW54Sm1rWQ?oc=5
+
+- US security agency is using Anthropic's Mythos despite blacklist, Axios reports - Reuters
+  https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVQxQUdjUjgtWnUzUnNfXzI5WFdiMXNkOC1qakZhZ0hfMEZvUVBpckJXQWlFTkdKTzljaU1vQm5hSDFOY3ZHc2p3M1pSSVp5enZuS0VfS3RiT3o4MWx4MnE2dkNHaWNDNVZlR0xUZDRpbEc5eW83V3BmQm9CX1JTeWxvdXJubnJwT19lTXJaLUotTzJ6X1ZER0poQ2N5VEMzOUNuWUxJZWxqYnlRVFNjQzJHeUhCalNNY21KMDJLSQ?oc=5
+
+- Anthropic and Amazon agree $100bn AI infrastructure deal - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjdMT0pnNVphVzEzcFFLSUp3bEhQbEZUbmZfaDhNLWFLeUFWLURGZTA2MWxKemFVSjBqcnhjbUVPa05BWU5wVk1CaXo5dDloQ25ZVUpUOHpsYnQ2a0tteHZQWnBEYkZkbFR3emtoTE03a280WXhRU0pLUUQtV0NFQUV3Nno?oc=5
+
+- Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos - CNBC
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE5yVW5DaHlxVVlGUkMyR2tMMFVOTExEVktHNmFIaTVUSEpKemNxQWR2V1ktcWo5TjZ1TmxGLUZPSFl2SE85Q3Z5M28xRlgtV0wtZVRPODlsTkgtUWFlanRvWGJtLUt0UVdUZ29VSlpJVHlLRGt4d2ltWXRmTjPSAYIBQVVfeXFMTy0wVFVPVFZXS3RpZ2pPdGE4Y0xMR0xSRmRIQmFSNE5mU0ZJOVVzVDc2SURzRXljRF9qWFhId0NJNTVXcm94Q0RFQkpyZVRPdzJMdDdVS1B1LUdFMDh1YWFLVXliNWVBSnpfV3ZGSGJkWW5abWtaVGhMdjM3XzZ5V3N6Zw?oc=5
+
+- Amazon will invest up to $25 billion in Anthropic in a broad deal - Engadget
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN043RVFadm9Gc0RobDFaMHM4M2VHN0VVT0IzZkU5a0twZVRfSXBiMnctOXlaaTdseDdRNDl6blp2TU9pNF9JX2s1OTFYeVZPT2lHbnhwdXlsVlVicVl4dS1DbnBEZlBRQWw2S1pJSFVtYUNOLUNUMWxpNm5NdFVJMUxnY1NqWGRwa1VQVzZncHRpRjN0VjVWRFpNRk42RFNDX3otTFpsMWdjYk0?oc=5
+
+- White House and Anthropic hold 'productive' meeting amid fears over Mythos model - BBC
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTWNaaDlVRVRKRF9fRnZIX2FaLU1SZ2NLRDNDdzBVdUQwZ29uNlgzVDBDc29SbU4zMDFPc1R4NXc2dTRRdGF3RlNWZ05aNWphaFpUaEFUSm9zdw?oc=5
+
+- News | British Land confirms major HQ letting to Anthropic and toasts rent and earnings growth - CoStar
+  https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTlkNmpEU3ZPZS05NUZ6bS1mcDlNQTVaUDhLUG5wODdPSEl2ODhTbF9NcFpPclM2bnhyV3BOcFlqcFg4QjFyWDZMbkpybk9XckZqNThlcER3MEZNT0dZLXViQlIyWTBQbDlZYjNHUEstd0Q5V0hxU1pFcGJQQXZwOWdGTmtiZ1BlamhNYVAzeDVkU3V2aEtBZjF2WGtka0JrNG1JcHh0YWF0em95WVljNWY4SnhTRFliTEY4Vk1xcnNackFQOUZWSQ?oc=5
+
+- OpenAI's ChatGPT Down for Thousands of Users, Downdetecter Shows - GV Wire
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDZRVGhrb3RYX3hJNnJZdW04SGNMUEk0cFB3OUdTZmxIdlVDeUxjV3pYc0NSMUo5eF9wMVFpTDlzemQ1SlpzLXBaOHJMdGwtc3lsRENHRXJEZXJOdW1QNmhtVnR2YmZoeHcyMTJVM2VyX0dobkYzYkJrMnNyWjV0WU16Vm41Z0h3cWhDTzV1Y2ZEdUJueDBaXw?oc=5
+
+- Anthropic’s B2B campaign ‘Keep Thinking’ looked at problems as invitations - Ad Age
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGtqTHU3eU8xbjFFcWpzRTg0VTkwOG9SS05kem9GaEZCRWJRVkFVU1YxRWZ2NkJtTWdGYmNjMnphTEVIaTJTWHF5N2IxNmx5UFBCVmxpOXk4dVluV3lNVjZUcGpuNU5rZEJwNVZ0Z3ZkajhoWHFCeHhOMDBfQWttbWp3NUhVcjFOQXRPX0FFR0plMFliYVBMcVhGcktZQW9YLXEwdUpjZw?oc=5
+
+- Video: Opinion | Why Are Palantir and OpenAI Scared of Alex Bores? - The New York Times
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2RERndJNGlJdUFoRmlnOWNRYkdzSHdpaG40NHZmTFVqWHJGLVVPYXFWSjhoQmVreE40WWpKZVllcmRGUTRQX3g0eWRGNmhzTXpnV0w5UGF1MmgtQ3FYWTQ4eGJnNEE4SHpUa3pIb1RZRjJJWUFITWk0WjdlX1FOUW01bURVSmN3YUlVUXk4Z2tNUTZNR3RtNWFUVDBaUDQ0Y2tfdk5Mc0RvZVU?oc=5
+
+- AMZN: Amazon Stock Gains 3% on $25 Billion Anthropic Investment - TradingView
+  https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTh3UHVuX2ZrWW1UZ25TX3hVYUlBUG9DalV4ZFU0STlNUUVIcXVEOHJCVXRlUF9vYVlybUlfbWRkRXk2cFJzbjFnSVk5djM3QkdRN25xVW05U3ZwbmM2UnF3SzBnZHIwMThsVHY5RXdvR0lWYzhXWXFKNlRzWFh6Y2RKNXFuQlRGLWk1c3BIRlJydTRLWGdGbVpoYUpxVW5HWjRYNVF4aVpOSl9NeGpfQzZVRnlBczNXZTY5NWJiYw?oc=5
+
+- Japanet Expands Its VC Fund After Bets on Anthropic, xAI Pay Off - Bloomberg.com
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjdvbnRlTVRSWXFaM3prVVRRX1I1TVJ5V3BvRS1Hd05oSTFMME16eE1JX0NmNzZ5NGhQZXJIR0MwN1RwSElYTG9yRTdCQS13UDlyS2pjRXdnS3V1SDVqcHJjZWFvNk9LalBnWDB2bFlDeXZCdkk3V3pNWTJGZzV2dVFQLUFpRXUtcGgyaVkzdGg1WDNvN21fVEZ4alBKYWRWaVJpSFVkd1ZGUkhtTWhGTktwVHo?oc=5
+
+- Hands-On with Anthropic Labs’ Claude Design Preview - MacStories
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzROVWt4VTA3NUJhODdGNWpJN0Y3YnlsY25fNjNZM2pVUl9mQ1lkaGQzUlpuZThpa0Vnak5rSnIteU4tWFEwY1ZhbFlrYVczUFRGeEtqSUVIaE1IbUlsWE1IVWFsdW96aElCUGRhaXpYWmlkZlBkU0U5cnJ6OUxlSTJ3c0xtdV9EWFBVSklzUQ?oc=5
+
+- Amazon invests another $5 bn in Anthropic - KTEN
+  https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzVTWlJKYzJGQlA3QVQ4Mmd1bXRoTm5MaWg1X3h4by1fd216YklUN0ZNT0ZGUHVpZGRKV29ZU1JWbGl3U05BdDVpc1lCa29sY0FYUjFwQzBwa2Y0Y1Z4R2NWOEpaZm40bmJ4WE8temY5ZXVkWVJsVVNTUmJWd2duZURXVkwybHNWNU81eWd0eU5feTJyUTF5Q2dRSzctVUxDdUJxVGQwR0NNVGxzbVQyUXB3TlJGR0k?oc=5
+
+- Amazon to invest up to $25 billion in Anthropic as part of deal - Yahoo Finance
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjFQNXBzbTJuc0pDZEgwUzB0U29sWHVsMFBlV05FR1VUWUV6T1Bodk5JZ3FBenNCSWFpRmlpRDRZSnJQZW5XS0hQNll0c0YzS2pCRzEtSmtUR21LLTdRMFpaOXFUUXBDVFdCd2JrM0N2LWhzQngyQ0hsc1NwWEE0amg3WHhjN2tw?oc=5
+
+- Amazon to invest up to $25B in Anthropic as part of expanded cloud partnership - SiliconANGLE
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0thdVRpRDRlZHl3Sk1mUEhURmdra0o0ZEtuT1oteEs4YlN4c3FHMzNVM05YVXgyQ3NIOGcwWXYtSHBIb2xULXdkc25UMGVpUnBHaUJHakl6cDl6a0VZaUR3V2VEN0xXWlhrcmJGMUVwdktGS3RhQkphX3EzWGVpaEszYmtxUGppWWlKdEdEcDN3SC1zd3NzS0VoZGs?oc=5
+
+- Amazon puts up to $25 billion more into Anthropic and secures 10-year cloud commitment in return - The Next Web
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE8yT2xfdTF2ZDVhVFdxM0pOQllhWHRFd1Z1ZWVHcUxtVHg5SDJZSUtldjFPMjFKYnV5N1pEclZJMTNBZGhIQmxPa25mWDNvd2NIQ254WWpqQW5vWW5qUFhsM0lRWC1PQ09aQTNMUGoyWmNINVFF?oc=5
+
+- Project Glasswing: Securing critical software for the AI era - Anthropic
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5
+
+- Mythos Access Must Be Granted on Level Playing Field, Nagel Says - Bloomberg.com
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVRFOXl3OEMzaU5weFhuMGRoVTRMMnlRMXpkZkh1cF80WW5ndXhyLWpCcFE3ZEVTbnpQRVdWUTdBM3pDc0h6OUpmcTZpX0dpbE16SXhtYmYzSXg2UGV2c3BNZ1g0QXhRaGpMNklBYVlPWC1WRFAwM0ZXUmNOdWdzSVZOM1QxOWFaYUhCRWNpRFIxWjIteGNtNlZqSG9zOElTRkcxZmQxOFFhdUVKYWh6a00tMEw?oc=5
+
+- Amazon and Anthropic Expand Partnership with $100 Billion AWS Commitment - TechAfrica News
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0ZJS1R4d3QwTWM4SW51ZDJvTElCR0tjMHluaUZnZy1ITXp1QXdyUlU2OUprTlJEbWpJUHdoa1ZvWnNNX0NiZEFKUi1IaThWdnI2cldaREE0ek1nQk1SRmU4MnlxcVhZQjVmRFlyR200STZkZnBIN1NDdE1jYWh2NE1ES21BVzZTckQ0bGc3Y2lNSThyNUN5RmQ2MVpSVGk1UzBPbDhPdGR2SmMwdnA4?oc=5
+
+- They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants In - WIRED
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVBob0stWHk1ZnBWTy1CUnlJSVNyWV9HOEc5M2M0S2k0bzhBRlNYNDRaQjZhMjk1d29zSTR2MFJGVEJVU0otT2NOQksyd1JFUGdlRS1VbVRpcGJzYlZKRUZoUURseTlyeWxqWGVSaVM3T3d3N0pOcDNwTERrRjlPNXJSTlhQVG5QUnhFcXdDRQ?oc=5
+
+- Sam Altman | Biography, OpenAI, Microsoft, & Facts - Britannica
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBONVdkamlZZGstd2NFTzNDVXZZWDdud0RJeURCbk0zUndKNWNRT2REQVEyeW4zT3UyN0VFNnYwdUticVBwZUVfTmFQbzZ4Qk9qREVrdmdB?oc=5
+
+- John Ternus becomes Apple CEO - Fortune
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFA3UzVjVDNaSk1lZGt5VkM4Sm93Zzc1WUJTemttWEpfZ052b0VmaEJXUVVhemI0ZkM2SFJZWXozZjNHb3F3TVVvelpnbUkxSUZlVFVhT2QtQV9NajY2Y2FwOTk0VWhwOU5rRjU0Yk9B?oc=5
+
+- Anthropic CEO, White House chief of staff convene on Claude Mythos - SC Media
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxOS25HT0JPYjRtYTlFLW9CaHY1VGlidjlyN3B5VXRNcmFiY0laZnFwdzZUMkFLSWs1YUE0amluWkw5OHVGa1BrZzFYVEN2UjlabUxKOG10WXBPY0gwU1BJdS0zNU1uaFZEbzdHVWpxWWEwY3pvX2QyTGVNRmNqVkpjNDF3V1ZGdENsZmZLSVl5UVFuakhBMVhRenVuNA?oc=5
+
+- Amazon invests $25B in Anthropic to boost AI capabilities - Crypto Briefing
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxQTkdGV0xKSUM1c0MyZ2cwNDJKTDJieDg1bXZnREZNR0M0MWdtV2xyUVR2RWFYQlJoWHdVUDg0NjdPTVYydlozR1V1WkhPNlpsYXN6UWZQOFY1YzBBQzVGODltOVZ5VE5MOWlJTWxXVE1jZy1rSGRsTUpPa2xhX2NzZ0RUcEZsZUNuZDg3OQ?oc=5
+
+- Petition: Tell OpenAI CEO Sam Altman to Withdraw From the Department of Defense Deal - One Green Planet
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2FLa0kxMm1ZamoxeWdvV1BIVkpnT3RNQlVwa2pjcGJJMEhqTlJBbXRZdnZtZnpGZ3FGRFU2Y1JlSnktOG03Ulo4STdoeDhtRDdyOTg4MUJISUN3TXYzZ2cxZDdmNktXLVdCT09sSk9Fay03Nmh0UmRTZ0U5bHl5cU9LUmdmcWh1Vk9xcml0Q2FmcHBMdWI1S1ZCc1QzUW0xNnFiMFZBcVNudkMtOElZQzlnYktFTENsck93dw?oc=5
+
+- How Big of a Threat Is Mythos? - Foreign Policy
+  https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUJFNUtrRUdhTXZldEktNTdObkdzX3pYZVA4ZDJwTXRZbVNMd1Z6RmF0WHBYblFHZWhiWXN3dmJVRDdLV2JZbGtUeC1OZ0NyMmpaY2xpUUtfOTl4MkU5M2htY0RVV3A5NldWV3BsWDFSUllwWm54a25vSy14b2dscS1LUUVESGliVFlKREhqcGxJcG02MFUwV0ZtT3VrdVFFQ1NvMllscGFPT3VuOEtGdE9mNmNsUktRd1BV?oc=5
+
+- AI companies raise $242B in Q1 2026, OpenAI leads with $122B round - Crypto Briefing
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTdwdVZEX0JKVDFNQklVRVVSTmJEOENWUVctVHc5V211cXBKODROeHhRaFhFaUM0dDhmdWpnd2lxMExNQ1JoT2NSQlZOanJxMnZET2ViWGJ6LTdnc2JRNkxVN0xSd3BLQ043eW1QNGwxSjROQTQ1Wk9JRWRoNmVYeTJuSHo0b3dBM2RsS201N0w5Xy1PV3c?oc=5
+
+- Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price. - The New Stack
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MOEVKcktkQmpETHFkOVhIZy1zOFM5NmdoSXYtSGlPcmY2Z0x5MGJjbWFkRHVRZEl1SUJhSEJ1ckhjUEhGSEM5UGVxQkQ5cV9KWlU2RXlqckh0Q1p5TGxKOFpZclA?oc=5
+
+- Your Questions About Anthropic’s Mythos AI Model, Answered - Bloomberg.com
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNT3d4NzFoZGN2WE8tT282djYwZnNoUVM2UXBFX28xV2dtaTRsRE5TT2lCZFczSnZfMnB2bDlBYVotS1hJTnFOc0FOYnRMNXBzYU5BaFRXRWlpaE1OQ0MzTG5CYXQtMzI5dmtWZmJNNkl0UWJhMDhnNkhaUksyRThIdEpPd0NrUGV4Q0puX2Y4SnVXTzB0Q0t4Tmp0ZmJxdw?oc=5
+
+- Amazon and Anthropic announce new deal to provide up to 5 gigawatts of compute to Claude AI models - CNBC
+  https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUEJyZ1ZHNFNnTFhvQURJRDV5TFl2bjVSZk81Z0U3aDhPRG8zT0dxcUFPeV9COHBDZi1tdEhDT2tLQ2FsMGJFZ19mclJuVjI3VV91MVUzRXhTcWZlYVMxYkZjWVB4TVRHRjd1d05iRU9aSy1uR1hjckxjN3VhRlpyXzBTRlR0WlNMZ1hYd1VuSFRJZ1dwRXVNaGI4ME02U2oyaHZvMjRiQVJqU3RNRndNSWlRem9FT25XbWxUY1RfdjVlRjFWSWx1VGZnb2hjOHV4ckwzWk8tdHQ?oc=5
+
+- Anthropic and Amazon secure 5GW compute deal with $100B commitment | ETIH EdTech News - EdTech Innovation Hub
+  https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMVRWUFdLWlpTZndENXhpLTZJT3FyX0pXbUF6Z1dyVkFzeWh1eUNUNTdQSTJoTl9nY1hnYy1weEJ2ZzNST3JMeEt5U2dvM0pwdUtKSjIxRlJ2UjM2cGpfY0ktbFBJdlJMeFd2UWhPRWVOb1dNQ1JyQ2VNU1JmdU5hcnYzdkVBcW1rS3lzZFJKZFBnMEx5OVhBUmFSTlBFUDBSS240aXR4SDFlSnRnbURpaGl4clhZR3V1TFJ4LV8ybjNYUE4zXzZMTmtLYk1uQmVNaHdXNg?oc=5
+
+- Amazon to invest up to $25 billion more in Anthropic; Claude developer to spend more than $100 billion on AWS AI technology - Sherwood News
+  https://news.google.com/rss/articles/CBMiggJBVV95cUxPZTNUenZlVFpzOXhybmVLQ0pqS0hZZ3BvSFM1R08yQjg1WjZlTTREV056WFBRUFVzZUE0THhPazFEcENHdEQ4TEVmVE1pR3lhLWpCRm5FNnZUSGVINWU1eWFPeTNqRVpHUmZldjBQdDQ2aW5ZRGh6MTV3a3FLX1RUeFZUUjFBR3Bra0hsNlc1OWdIeURmTmtMbDF4eVY2aTZxYkg1SlJTNGFteFdoekYyLWJaMWdTTFJZSjJPWmdoNDhkWVRlMEpqV3R0X2hLdW95WFU2bUlEOV82OC1UTEdUb0RTN19ranFpeVpxNmNpMmhpd2xUNkZzZmRZVkc2Uzl4OUE?oc=5
+
+- Activists Demand OpenAI Withdraw Pentagon Contract - Let's Data Science
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxPY29HTm5uYk8wWXFESmhZU1prZV9ucXFQcnVubkVZN3BndVpBb3loMmh3SDdBalFnYk1kcFMyWDY3bk9odVhwNkJ0d1BRQk5RVjdLV0t6dmlyWHZaeXJGcjdxQmRyYU1hUDRlcU1BZEFJZl9OamhSZnM1dnozdmI4Y0ZkRmFzSVZCdUt5a1Y1Q2QtZTdFVXhZ?oc=5
+
+- Anthropic Locks In Decade-Long AWS Commitment with Amazon's $25B AI Funding Boost - MLQ.ai
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxQSF9uNV9oUkRBdlR5VjFmQkFQOVNHSGVyYjJhTndVMWpXekFxZXhxc0E3ZHFSck01X0FZdmgwb0FjSlhHUWhlZVMwSm5XX19taWNmLUtud0lmZkNKLTJFVUsxTVZqUVo4UmNiZURMbzZFV1Jfei1weE51RTVWUll2LVlsTW1qUUpnUHBaLXgycHdsbWpZemFEZjBkUGJVWkFZT2c?oc=5
+
+- Amazon To Invest Up To $25 Billion In AI Startup Anthropic. Why The Stock Is Rising. - Investor's Business Daily
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUd1Sm05REtfUGJKNEJhRzlpUHZkNjg3eFZrWXE4Q3hyTjJOeGJody05dTJ2Y1NtMjVRUXVzNW5Eb1dIdlVoNWZ0SDZvNlN3ZE4zSlJLMWJ0eWw4WF9CX2xmNTJNTnBBVGpFTVE4WkowaFhiVlB0WGcwVS1WeGI0SnE3a0x2ZXBFS0NGUG1fSHNFOFJVR1ZzcjNTOHdEVG9Bd25OQWg2Vk80V3VodDM2WmRRbw?oc=5
+
+- EXCLUSIVE: Leaked Deck Reveals StackAdapt’s Playbook for ChatGPT Ads - ADWEEK
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxOSksxbGF2aC1mVUZkc3hGdXRkRzhHbjRSSXdDQ3FQdjl1S2Jtajd4SUl5WGtwNXo2ZFp2WVpkVTNPZUlKVXR2MlgtY080ZkJBVnRUSjNhV0FOdUE3ZVJGS2tGVzNhNWpDM2otQXlSM2hYeEowa0hneWFBekIwVVlaa2VhMXgyTGF5WGpocDN6LWsyN1d5VGhYRWdWeEc?oc=5
+
+- Why Anthropic and OpenAI are locking up their latest models - The Economist
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGxrTHhwdWszV1cxTEpLTk9WaV9OVFM2TE9nQTlSSDQ2ZU1MOFctRnhjWmNOUjZhemczelVrcTZnZWx4SDVfWHlFZnZNR3pLLTFsdFdVVGVyNFBnbGNHNWV1WmcyRlEzNFphMnMzSVJQNkZMbzNGRkVxeEE3QjEyTzZUaU10OGRhZGVwY1lYeDBsUnFYRmRWd20wWHk4NV9WT1FVdnQ2Z24?oc=5
+
+- 3 top executives leave OpenAI in a single day - Business Insider
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxQdF9kQU9yWldwTHBOZ1lvUjhTWHEwNzl1eE54NjFCM3J2djZVb2tyWDB4YUlXMXk0OVd1YzhFR25YWkhqTlFlWUNsR19iTC1faE9TZEVvS1Q3bFZtc1pNY0VIQTJXaGlKOVRTZFpOVzNnWDdDT1p0NFhrVkRobGVVSVFvNEZjTkc3TGxQS1lvdmVNZFRyNnc?oc=5
+
+- Inside Elon Musk and Sam Altman’s battle to be ‘first buddy’ — how it ended up in court and could destroy OpenAI - New York Post
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNaFhjZExSdERSVWdwQjk1bnNOTmlYcERsTU1JRmV3TjNDZC04aUVFZmFYUU40bkJKdWlJVU02X2tkMUpXV2JJNWtyRERmR3ctc1o4c190bjZDMWpOdmtsOUpFd01xNW9Ub1QxdkV3ZFVJZFA0S3pZaDREYTFqYjRnRDBSS3NLWmc?oc=5
+
+- Musk Snubs French in Case Over Grok Sexual Images, AFP Says - Bloomberg.com
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1d6eHdPRFRmSHMzREk5TWlaYlVGRkY5X2lyaGxlRVhxQm5mYjk5Z08xNnFaY2JHV2J2dGlPcTR3NlYybXM5SnhrOWlycUJNbldQVjl6ZGNqNlZmUWNSeUFqbWFsZWxwX0tFT05ONjJ3dmlNdE5WTXN3YldCSVpHTzZwU2p3LUtZbVBiZS1HQ19ET3AtLWtTdS1lQXZNT1hTRERpbHJPWmd4ckxhcFE?oc=5
+
+- Amazon Invests $5 Billion More in Anthropic, Secures 10-Year AWS Deal Worth $100 Billion - Bitcoin News
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUplcGdyM2JCNHUyTUlZZlVrNjdDM1ZaaDdlZ1ZGcnBBUnNlNkNuVHdHMVR2eWF1bkF0S3RkVF8wWTF1TVRfVUpuNEVMSVRvVGs4c2lVSE1JUXhoRXp6bjVvRVdpbVpDZUhnUkZnbmYwZ0RXZFpJcDBPX0MxNHlxSTdpQUtHMXJUMWtLNm1xZlA3OGdmZGwxMEpraVVNbHR1eWtRSWo1SktHS1ZHSVI5dA?oc=5
+
+- Amazon to invest up to $25 billion in Anthropic as part of deal - MSN
+  https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeDZNLUNmaHV3dEFXNnQyNXhOaVA4Y1ZjYXkxQjhUVlYtSUxzMzNFTlpzNEpDcFdtRjZsZkRud0gzTmNNY1MwdV9zR240aVhvXzh5UGZoRFZQNm1oeDhxeDR3R1NyRHhrR1RSUzhqdEFrVWhMNDBIX25ZaFVNc3AxRk9vMHpfQVlZeEdWcEs2ZDZVU3hFZGxndGJfWkMxNVRBWXFFTE9OV3R4YTlUeUxPVUZueVhtV1AyTlRIcFpNWXRNUEcydzJXQ3ROaFhvdDdzejRCRXNTNzhvUQ?oc=5
+
+- Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute - Anthropic
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dUE0NnFtSW9iTTQyZTFsa1FvWkZXaXoxdE5YY3RleHNUSXdwRlgzODd5S0lXOVBVTFRPSGdXX1I2cW16YUxwQV81NjRjNFB4ZDh5QVdIZy1BcVNKNzl2YWlUZkRjWHNzay1nVEhjaW5QQndL?oc=5
+
+- Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own - WSJ
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE1rNkY4eTRrS3VYV1pWV2ZDU0xHamNOblQwelE3djYxbnFLbC1QeHBEMWRJSWczbmJrbzVTbnR2QmNhRVdIQWZXYndMbjdxaVYxUGNZYXdiWjNoX2Z4Rm12Ym9zQUFabXpBc0tQdmJ0OA?oc=5
+
+- Anthropic Secures $5B From Amazon While NSA Quietly Uses Its Restricted Cybersecurity AI - AI Insider
+  https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUXkySEo3ZW81b1RmZHQ3UHlsd2NETWoxeWd0a3B4RnRZQmI3RjRQN0M5NlpHYzFEdHhPX1NOX0hjTWg1emJ2dl83M2lqT3c1cGxUM1ljXzl3XzNacHJoQ2tyZDRPMk14YXlULXNBd08tUExtXzdCcFRyYmtZay1pRVU1TUpCbGF6bzkzX3dpeDhuNHNGc205dkY5aGtscVFlWmpSMHRLWXlxaTl0Mmdpek9JSk40Sk9Vem80YVF4bXpIY1k?oc=5
+
+- AMZN Stock Extends Gains Overnight On Anthropic Boost — But 'Circular Deal' Fears Are Keeping Retail On Edge - Stocktwits
+  https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTE5wVklfQ0pkc24yUU1ramVqRnBvVmE4N2hnajhJcWZKeWtuMVF0bHo3SGotQXUySGF2MVB1RU5VT0tzcGtXNV9KZ3dCX1Y4NkMtR3haVHVaSnVvRkV3R3lsSTc0Q1BSY1JRekpGVEVadWpueW5STnB4cXNCTGN4WFpoZWgyLUYyT0xFZXk1VHhJbzVycEl1SHJhVjREdTR2UlQ1elJYS2xoaDNOM0NXSXNxVVlIa0pndi1SSUVhNE5HX2J1U3VjV3NxZzRlMkJpQkRZeDBoWDZsUGlMUG8wTWFSeXlNUVlSSzRJTmtmYzVodWNnclBPQmp6bzI?oc=5
+
+- Elon Musk on France's X, Grok probe; Accenture, Greek bank's new hub - S&P Global
+  https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY05qWXphaDNxekFoTE5xQURKRjVfRXhyQnVmc2hfbWdaS0hhM0Y5UWpDSmdaQjhkYWxhMGROOWpPSGlfZmhsMnhqbjY0ZFYxc3FpRDVsZUtKcDBQV0ljNXg5dVhDWEZ2MjNWakswUDRxQ1ZZZDV3NFRlTzBkQVZDLWgwYWN5RHl6V0RnZ2xvbTNkc3R2djNpZlJvOWswSDhVdjlBM1dYbkQ1Qk81bFJ1SkFkalphQTM4RlRjZFFzOUlCUEtvbWRsanI2NU9nZWJybGJvNDk3ZHRfSlhUcXBxNWY5NEZOajBr?oc=5
+
+- Anthropic Secures $100 Billion Deal with Amazon for AI Capacity Expansion - GuruFocus
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxPM1YwdGFKQWwxbktrMkFKZk5pUWo1Ung0TlQweXROMHVTbXFCUnVodnZkT056aFdvYThYXzdCN2xTWGJGdGpJU2ZzaWx2MHlPYTB3N2RfWm5zQ0llbU9jR25RdzN3NjNUdTBzNVo5U05pdW5lVV90T002RTVJS012SWRkOFZSRjVaRUNGYlVBUTIyUGYwZDROY1RtdGVhc1ZVVHh5MFRjeHBocXBjWi1jeQ?oc=5
+
+- Automated Alignment Researchers: Using large language models to scale scalable oversight - Anthropic
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE0zZWZGN0k0MWZLY3dHeU9oQkRYN0NhRmlEVHVwVDh4UzE1NC1UbUlaV085Vmt4Rm9RNUFqWUdtalRUclRLNlJGTkJqdTZhTHdrMm9IMVVNR3BpX2FQNzBfcTQxUzNTd3AyZDAwdnQtZHA3cWRU?oc=5
+
+- The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending - CNBC
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0NhNjBCMDF6eVpOOW9FejZwaUhBR05YaFBCcWR6SXRZTnlocFpnQ0pLeVYyR3pQRFZQQmhMM1JIXy13TFdCMFlQM0tMY01Qa3RyVGZqcjV5UXFrNVR3cnR3eTVwd3dFR0FKRnpOYXdaWDNpVUtVR3hJa1VBcUc2YVdHenptRWlubVh0VU8xQUFTUdIBlwFBVV95cUxNQWYtUVN6ekNrdGtyalk0dnVlN2ZzaThjWkdsYm4yRGU3ZTk3V2hqTlNHb1BNNFB3ZHJJTGtOYVBDN0huSDhqekw1YkR1ZXNtNzVFd2h2RVJncl9LeGlpVTB2bUZYQW5uZ0tmdEVfaDRfa0o0SFl3WVRMMjlGSVVFTkoxYVVfMm1JZ1ZuamNVc3ZiMnd0anhV?oc=5
+
+- Amazon Plans to Invest up to $25 Billion in Anthropic - trendingtopics.eu
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFNLR0dnSzJEMnF5RFNXZHdGaHJRdnlfeDlCMDlJOGFUYURLUTIxZkNzaDllTWZOcHBmOEZucVVKWGU0THdWWE5ETHBYaElIYlplZEFiLV9NSmRmR3hjbDdFMFc5Nmx4VWktN0NzUjdzQmpWdW5kUUIzQmVhWC1QcHRUNTFXVzgtWVg0?oc=5
+
+- “We’re aiming to build the next Palo Alto Networks or CrowdStrike” - CTech
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5iS1lNRkNqaV9rallPMG5DVTZUdnFsdGt2YmMxa3JmNFhpNXk4Nlc5bzRoRkxRQ1JRT3V0YnE4UXVFMGVmYnZPeTZJSS1kZldKM0JiWUtCTHBUUWtpSlRKUEtlakFnSVRkM1E?oc=5
+
+- ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - AP News
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalM2c25TbHR2TmVETHhRSXdlN2dVY1hyMGJ0NUlqQUZHeHFjRnNpd01BdTEyMjB6MkFZN0JMbGNSYzNSRVl0V1RiMXB2WU4zaWpFMFdCWnpPaHREQkdLLXduZXZzbGpwSWhjQ3ktaThMbVRmS0dUYWsySnBUNkFETHZSZWVfQU1rNUJocHMzbjd4YzhCNXEzN19UbldvUVE2TlprZ0NpSWg0STQ?oc=5
+
+- OpenAI and Booking.com team up to offer free ChatGPT training for small businesses - EdTech Innovation Hub
+  https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVAweF80MlVoUlJoT000ckhtc0ViRzRTU1llamhHOWFTTG9jSFd1N0VzWmFLSWtkOGRMMXBJVFFEQ0h0RnNiWkswb25BLUZrSHhCZFJaUW54a1NVbU9nWFdNdUdXZzFjak8tejhtTktGUFlZYU02X21sbnJMNG5mVWJIODBpTjRjRHNRc2pVUm1RRDBENnNkUUJWOHpCMU9yQjFCVktYc1lwRWFnQU9JdkMwWEVzZkpOb1lIaUwxaw?oc=5
+
+- NSA Utilizes Anthropic’s Mythos Model Amid Pentagon Dispute - ForkLog
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxPenRHVXhOSVlfWGhITmt6U2R0N1FhYTdPVURDNnVTcTZ1c3Y1WlNpeXV6QTZoWnFNSE5EV2NoN0VJQmRtdWd4ZFhrQmlHOEVHeWtBQXJtQzV0S0NtNDRkdHpnRnNZTGRldVB4YlF5UHBRUU14NGtsdTFDTnJ3RWl0ZExFRDEtaFgzZkE?oc=5
+
+- OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop - TechCrunch
+  https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVJqa08wVGRRcUZuVy1DWVBfY3VSVnB3YzI1dHNtWnVMa09YVWdnTUlUd3hTR01kS3luakl5NlBoXzNRUEdORVR5RDdKai1GZC1XemRpU3YyTkY3NmRObS1QdXZaWE9xMDF2VGVybTJ4VE85LUZONVJOWUE3bkloa0IxN004Yk9PWUpxaXA3eHJFX3B1QzhMLUFOMVU4VzA3ZFRwWlpBZWtjNjAyV29fWGpxcV9WU1lhQk5VY0JxUjJTZkpJUEhV?oc=5
+
+- Sam Altman May Control Our Future—Can He Be Trusted? - The New Yorker
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNZ21pbG9zZ0VPWlp4YV9WOGZBd0pGVXAwNE4tZjVXTVF5VDNXVFU1ODRWdWZaSjhiQ2owQXFkV29SQ3JXZzI4UmZOTGFsZTFKMmJ1NDktN1cxWEtHQ3JiaEtuVFhDTlRtWjZxZUFwZVdmRk5WN2ZSRmVZcG5sZm11ajlYNDBRM0ozRGVkZUlJei1peWIyRHZTUnhiREo4Zw?oc=5
+
+- Jim Cramer Says 'This Is Not A Circular Deal' As Amazon, Anthropic Lock In Massive $100 Billion AI Pact - Benzinga
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxNalJuZ0RnWVdXS0lPNDg5Q2tydUt3TElqT2ltQjI1UnlWTnVxZVNKdnJyT1hNNXlXcWxjdnZ5R2RiREFvWFpIaHlRSWhKbVpzWTJwRExxdzhna2k5cEp3S0lwUXVFOXVjMzlTRVVpR3loWjNXNFVBT1hjWWVFeUNYbEpJRWxkQ0xRTk5jaUxUdDNXRF85aGhVWlQ4Vmd1OTdVOUpFVEIzSEJ2aGZiVzcyYUhTRF8wX1NRNElMeF9B?oc=5
+
+- Why Anthropic's new AI tool has central banks and authorities terrified: Alex Brummer - MSN
+  https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaTh6Q19kMUk4MGc1QjlDRTFfUHRpVkpUNktETHUxRVNrcWhHR0d3cUZPVlR1VGlieDN2X1lfVHoxaEdnNFdTZVI1LWFOdVJHUDRNNVEzN0t5NnZYQXdWTWlxdjVVQktMMVNsZG9Na2UxS1BGZ0ZwVEt2TjE4ck5qbmozTG5zbXNQQmluUXQ3aEJub2hPUkg3SlBmcndGeUdJaUVLdTVfbm13MHVlV1o1UURzZzJRbjE3RzlNb0xwazFFd21Cd1JiT3N1Tk4tVHJTQWNSYU52d3dmMEVIejREb3JNTS1qLUZYSFFYb1hRUXZFdw?oc=5
+
+- OpenAI’s existential questions - TechCrunch
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5GNTBaRHVtRHlzdUhndlJLNDN6dG84alhqTWVWUkF1RGk0c3NDMXd6OEdGdlNsa2l2TVBwR0loWEFadGVrMF9CTDJLVVhtUmdJcWNVbE9mczdacERKckRZYkRlTnF1VTJuTTRiQ28teC1PZw?oc=5
+
+- Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmFNWW9wa1JGaWdJX3ZhczNaeGRlNV9fY3ZBQnVaWEVDNnNZbnFUNEgzMVVPM0tBbG9LNVFyMWx4T0lTZFVoSE9oNV9KZ21iaEZTbUc4d0RTcEYzVndmZ0RSNWd6WUFiMVZsVjNKUXJNQVJDQzVMT1U1LWVWNjQtLVRPZlFPdDMxQjJQdXc0dmFUVU9pQnc3WlRwejJwUlNBR2x5SlBDbkNHU2Mw?oc=5
+
+- Amazon to Invest Up to $25 Billion in Anthropic as Startup Commits More Than $100 Billion to AWS - bloomingbit
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlQVhLalQ1cXZVeEN0YWpkX0Y0eHhvTDY4SmRGQ2VacFQzYlRIb2g1TEZFWkE4UDlMVjBzQVJnLTA0N2Z3bGdNUWVUZlBfTm5CeWJaUg?oc=5
+
+
