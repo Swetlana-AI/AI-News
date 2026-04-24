@@ -20296,3 +20296,306 @@
   https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0FMZHJobFlvNmFWeU55UHh2MTJXTUl6TU5uOTVCdUZqMGFQTGQ3U2RoQmZuUDREZlRlNF90SlFCODJwRzl3TjU5dEQtMWZGQnJrWlVScXV2VXR0c3h3bGVuNDJPTnhCWU9FMjRJcTlrZGtzdFc3clNzbldwSjVBOU5lRk1oV3dHWUktNGhacjVoQWFWeTY1R3Y0WXZONjdTWEVELXBqdXExQ1VGU01JdlplclJKTjhZZVhwdkt4aTM?oc=5
 
 
+## 2026-04-24
+
+- Introducing GPT-5.5 - OpenAI
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5
+
+- An update on recent Claude Code quality reports - Anthropic
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lbzBkRXBGLTl2YjRQU2NDT0piaWdaZks2ckFNNXYwXzdEOERUZHBEWVZSTktyZ0xQLTNrM2h3NXZnY3N2Ty0xdUJFRzNfUFRqWHl3VW5hMGxpTkttOVR1YXRSMnVJNWR5?oc=5
+
+- Anthropic's growing pains mount ahead of OpenAI showdown - Axios
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9WTjFpN1NVTGhESFVlRUh3cFVoVXFIMjBrRnBLVjFYYjJFZXdYUmtYUmI4eUtLSjc4ekNmbnRGUUVtU1NTOTFzM0ljOUhSRXR3elAya2pDc0FTMFNHZHNDX0licGp4akx3bEE?oc=5
+
+- Creators of Grok, the AI Chatbot - xAI
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HakU4ZHBrYk9DOWpZUUs1MTAtcUtUckJMMVhOTzNPRXBrbUZhTHlXOGNSTjZTdWNjWGIxakJGc3kyTFpJbGYzLURRcVRPU3dQeDFr?oc=5
+
+- OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform - Microsoft Azure
+  https://news.google.com/rss/articles/CBMiygFBVV95cUxOWFdVU3l2RV9EcVJ5SWYySzc4Nm1mTzkxTHJqWklLQnJqeDB2SW5aeko1cEVDckFfNUFxcmwwWndHeEptLTZFQ2NhaUs3cTdVdDlnR3l2dFVKN0ZtemFYMVdfamVGRlhxdmFrM092Z1B2VkJoRFZnQVdCMzNQblFESnZLanpzUmNVZ2FLLUk0cjdjMk8tdlZNbkFNR0VVakRtN0FTaktpMEZQRGVKemd5a3dpY0ZtYlM1dzBFZjFLaXNpRlBELVpkVGpB?oc=5
+
+- OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work - NVIDIA Blog
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFBrS3h5OHdvNTR4WVZRTzV0cWhaaU9Nc0dpTWs4SlotZjRUZXN3OW04b1VYZ2tiWHJ1cGU0cjZISE9QUTFLaURZSUVTMm1yMU44amRTX0h5cVJvcnF1YlBmWGlmY1Z4dUQxTlZuSU1R?oc=5
+
+- Trump picked a fight with Anthropic. Now the administration is backing off. - Politico
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVliV3J2S09YS1NoMGdRaU5mWm9nbmdkblBCazRVTE1RS3g1V3hwdW5sdUdBNnc3RGFZblpZeDN5VFpFVWNtZS14TllCMTB5eHZLVVlJdENPU2VFd21ZUEZFZ1JnR0UtRjBoeG5IaUVYRG9IZmh6MlVHZ0JhYUd0dlcwdjl0cUNUTUF2bjdYQV9OMVJwSTBSd3hYZ0lXRVdVSDFRUHp3UHktYkk2LWxmT2JraFdldlFIZjRDbHNYaE0?oc=5
+
+- OpenAI announces GPT-5.5, its latest artificial intelligence model - CNBC
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjh3Wk9yM0RoT3R4WlFUNVNfVHpYckVDVVA2RUFZU3Z3dmFSWnVmTzdhdThQazVmUldfaDRrS2dlSVgyMHRDZlNLQ3pRakhSYWhmY2JuR2FfbW9Ub19vbkxYQ3FYLWxqMEZsZXhBSEd3SXhMc3F3dmpwZHVyQlFyQzk1WUZLZDRwWTlnOTkzRVVjZlFa0gGaAUFVX3lxTE4wNWhad28wTElXZDM5N3hLTVJWbmdsVm8zWm9rSzA2UGotanBONjZQdWdkNDZFc1BjVlp6MTVSWUhFUW5DZmIzUWRqaWVrVW05VkNabHhvbEh0bVRYa2U2bEYyOElfT19kaWVrR0pWNXl6STVSUmtUS1AySXVfTkpvV004a2F3TDFQaG00dUNRVzZqRnBQWlZLVGc?oc=5
+
+- Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money - The New York Times
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBHWVhKLWttcVRBaG45WFhYZ01LR2ZzdmU2RDlURE9FYm1xMk9TNC1lRXg0dV80SWxxRnV2UjdvS19icFhBdkpNT3JWRElZeExIUmlGa21UdUw2QlRHc0lxaWJkbVpnRWRMSzZoNXJwa0o1NnVucTlwMXR4LUlKUlk?oc=5
+
+- Grok tells researchers pretending to be delusional ‘drive an iron nail through the mirror while reciting Psalm 91 backwards’ - The Guardian
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxNSVVXeVppVDRfSUZYRkRDc2V0X2VTcldKUTVGQW1CbFlfNG9qQzdrUzVBVkh2WmtxTDk2RnY4bDU0RXVxY3BVX3V4TWZxYzRjVFdXOWNhZERGWEpPdE5FWkhTVlgwUThldVVQaUJwdG1ocGFrcWJENnlfNmVKUHVoTmJQZF9tUTNKVlg0cGtYVGhEVHV3bklwb2hoazgxcXJqTWotNg?oc=5
+
+- With jaw-dropping $1 trillion valuation, Anthropic overtakes OpenAI in market cap race - New York Post
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOEdTR1JsRHh0Mk4xeEVQZzdIVWI2WjlvcnA1VnJkTTBJTDZGRXpfYUc5ZlY2VmRhLXNwOE9OeEJuZDM3a2R3aExacl9sN1kxN0RmS0c5QXNJV1VjcDNIbjRwMkdwb1ZCd1gzaGR0bWo3R1U2U2pGZHRCd09WczJjR1d6c1dqR19udjBPdWtoUTJjTWl3Q0lhdTRWNkh3N1dlUkE5TUNfT2hoalg3YURRVTFtQmRhZjFvb2Q1cWlfSEZ1UQ?oc=5
+
+- A group of users leaked Anthropic's AI model Mythos by reportedly guessing where it was located - Fortune
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHpMY1BjcDVTNTNRZldOMzFRMThvenhoc0FRUVRvZU1BSENHWFA5ampfOFBIZTRwc01iaDIwVHByb0pjQ0h6YU5LbWtfVUg5QlNVMjZCNUFIN2tKc3pUdTVRMmpDRjVSbUF0NXRWaTB3MjRCYXZ0M1A3d05kajktVUxSQUdxWHNlekFMM0NiU2lpcGhMeWFjOThMSkdZMFg0MzZ6SFpaZw?oc=5
+
+- Anthropic says Claude Code did get worse — but shoots down speculation it 'nerfed' the model - Business Insider
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUR3amJ4N3FUUUR3WkJUeVFSd3pEcEIyYTA0bUpYbXpxR1pNY29KU2FBYVoyUGUwelV4RVZxRzJRWEV2azhqYmd1QVdEejVKWG5MS0MzVF9IbmM1QURwZnZ1RUtmTlhmeVRERk5GNnl2elpPb0RSRmkyWDYwNEtJc3l3ekZKUktvSjRBZlJUWUlLX0Y5VzZvdHlOamdMQTVSZTgzVEc1MTZOS3ZmN3dRMGhMZV9jQQ?oc=5
+
+- Anthropic admits it dumbed down Claude with 'úpgrades' - theregister.com
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5Gd3ByczVGemZXQ1BaaUM3bkc0QS1aUm1vcS1iaXIxVndUV1ZmRUVqcnd2a0tmaWdnU3hFS2k3UEVLQkk1bEpGNnNiWTJxRkFCNVVuSGRtTmVGN2hMMzl4YWpUV3BQeWc4RG9iTk5FM3Axd2RSenc?oc=5
+
+- OpenAI releases "Spud" GPT-5.5 model - Axios
+  https://news.google.com/rss/articles/CBMicEFVX3lxTFBZUGxueklxTlY4RC1CSVRyZnhmV1dGWFdjLWxWNXFSYTFPbzNQV2stT19yMDB0NlFhMHh6bkVaMUdsdExWSE1uRkdLQWdyQmpXcmF5N1R1UTRyc1ZSUm1VN1NBV0tQeTA4S2pQMXFYX2w?oc=5
+
+- Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute - Anthropic
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fdy1yMjdvS1NvTl9pS3h1ck56aG0wRERDMy0yeDJJNmdJdEd0Z3I4N0xYS3RlY3AxWmtBR25FSkpPUWNrM0M1U1RxT0lPTXhja1prTGw4RGNNOHIweHdvcXd3Nk1DUQ?oc=5
+
+- Introducing workspace agents in ChatGPT - OpenAI
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE14N1RKNWtPajlOcGJKUUh4V2JpWl83OE1PSHpSOENDSE5scTlyYlhzQi1OZGxKOWc5VjRaY2c4MzNyS0x5azRXUkpxR2FScmVqTGN0LTN0ODEzdS1HZDE4aHhfeHVVbjgtZjZqVVIta3pYbm8?oc=5
+
+- The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial - The Guardian
+  https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1FkS0J5cmxkN0xnR2RMOHJQbmptQ2hieVB1ZHVaNGtsWFlrTUt5NDlGSFVQTE5FYjJXZ0hMZWRPNGxLVW93alRFRlJqT3h4X1lWekVRZVdVTmg4TGRkX0U5bGtESHJaNTFoYVl5V3F2bWFERWNSUWg4ejltTXk5OTROZmU1QmpVUm9CSV9fLUhpLVdIRlJxcksxaHFPMk5rQkZ4QVpMZnR0d0ZvYW1Zbzh4QzQ0aHZYc1IzYm8zeEVtRkNvSnRzTlp3MERiOExPR2loaXoyb1V1WGtfVUdnVG5MS0o?oc=5
+
+- What 81,000 people told us about the economics of AI - Anthropic
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fd1pST1VJOWtNWWF4aEppa3dJUmtJSGFtOFdlRVlLVGNpOHVnSmZZb0htU2dmS1VfOFJCdTItUWc2LW95MC03c3JNMzdOcXFBUzRPSWt4bTRrdDNo?oc=5
+
+- Anthropic and NEC partner to build AI-native engineering at scale in Japan - Anthropic
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QU25hTGJxU1F1ZnY3aHVtRGlQSVBwV0RXVkdoQTVWM3NNTGl5aHZlYzdwd2pHMjMzYUNaSkxrVHZBaHYzTUdEZWZmS21sNVZyZnc1YzdYUQ?oc=5
+
+- Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users - Bloomberg.com
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHY3bk40dGNJVTJCU2JQRWl3UTNqWmdTZlZOcFRfbUtLSEs2MDNZVUcwOEVjaTRCVnE4X21DNWxFVVVWRF9BWkRObklfSVhtWjhwSjJsOXBjMm1IekxzeFpNTzktWjRTZ1RhemJ1eDJxZ2QxbXA0WU9rclB4d1RfcUxkc2gyZGVnWHBoYm0wYXRLNGxOdlE2SWVmcDA0Q0h3X0hfLW9zeFFVdnk0T0puRVlHdHFIUQ?oc=5
+
+- Making ChatGPT better for clinicians - OpenAI
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ydk1ZY1FmMTlCY1IwVHQxYjVEeFFCbHkzTHE4cVRUOTRWWk9GUHJWZWhOaTdEQ3c5anRTdWVtUUpzMlBHMTZYbkpVQnQ3aFJRVURldlpId2ptSWFUUG5IeEFWWk9zcnpNWjVhWGdrbw?oc=5
+
+- Databricks partners with OpenAI on GPT-5.5 - Databricks
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE43ZWF1MUJIQnQ3XzN1YWZNcTJMVC1uOUtEa01KNE1PbUN0Q2l1Ync2NUV3SkV4cGxHNzZSMnRGLXNOZFVlcFJzWkh4Zjh4MC1RbVo4UUVwQWlPNkppZXBDUVo0QUtaREY1NTdkbU1YVllTZWc?oc=5
+
+- Announcing the Anthropic Economic Index Survey - Anthropic
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE56QXhCeUdoZ1RQTHhGTkp5NDVyLTd4dlU0YjdmSTY0ZFhqcjJEMEFocXJCbU9BM0VyN25HeWgyNHp3eGVzSk4tMENybkoxLW5rZHlmcTFZWU9wVWNWSWkwbWVGaDktd1BxVUtkRGc2eW1razV1dGJqRA?oc=5
+
+- OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’ - TechCrunch
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTFRRUMtR0dlSnMtUlA1ZnhTcloxNHl0ME9pcm1TSG9zSlJfWkEzeklCckE5OEFDYjBnajJwcWQ5bGJhX2VuX3lwWTVtVEtna2NTSW1EVy1OeFFlR2phaDVLQ0l3emlSTEZPLVlZMzVMVzRta2pseTV1OW5la3dPaA?oc=5
+
+- Scaling Codex to enterprises worldwide - OpenAI
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9vQWpMZ0NQMWlHS2xyRDFDQ3paUlc4QlA4a3E3cEFVcW5sVlRNSnMzYzNBNFBnQ2lhRkR2eWNUVDdUZHg3bDZUQVVDSkFsN0ZvRlJCVy1zaEREMzNPMzgySWV2WVdvTkx5MFhYZnZwbzVTdw?oc=5
+
+- OpenAI Unveils Its New, More Powerful GPT-5.5 Model - The New York Times
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5kM0M1bXdZcFhlb1BDVEl6eTRQUDJQem9KQ1dCRFl2TTRSTFFhS1ZPZGh0UFdXQ3hjSFZQcXlLMGxpOFBIQW8xOTRfMnhwR2lPYmwwckhJZzUwaUZpbm5fX3JoNDlwYWVBWm1FYnN5bDhkYXhoM0E?oc=5
+
+- Introducing ChatGPT Images 2.0 - OpenAI
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96QnVnaXU0bWFnZF9MMVBROVpXeXVtSHBDSE1kc0k1cXMzdG1uLUJIT2U2Rk9jVVJNV2FzNzA4VFhrUkNqNi1janYtNzNneXZIWURncGNiZGdSWU1HVkxCN2tBYVZuWWc?oc=5
+
+- Introducing OpenAI Privacy Filter - OpenAI
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5Zbi1zbEx1RE9xZkEwWWk5QW82R0JvQk55SkdSajJBaGpueTc2UzM0QXd5NkJsTFZCWWthWlJsMkNYLUUxeElPd093RGpndmY1aTltellVekdxSDdOVUtBWXltb2tQbHY2Rmgw?oc=5
+
+- Anthropic’s Mythos breach was humiliating - The Verge
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWVuVUkyMGpFWngwOHoxa3FlSXFEa1pnRmVPU3Rhc3dHTjFuOC1QbHdZS2NvRkRoUTJ1ZVdzakpPTmtUYnZFRFFEYnRkNHVsWjJNcGN5bjl3OXpwTnFqSzhDR2xTOGI3UG5pbFZ5NGZaQXNvX2x3NklWR2ZpYXNCRFExNER2QkpkWmE3anFGNDZkdktsWEpCM1BmTVRBQ28wOXhZ?oc=5
+
+- Elon Musk and Sam Altman’s Epic Fight Heads to Court - The New York Times
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTNFcHhlQWpJRHh3akgxRUI2ZkpsMEhSZ1RTc0UwWXA5bmxzcHBiQTJTSFd6eXJmZld2OEI0UFc4WFNQMjhQUUhqZXRQVnpsZE5FMzh6WjRLYUpmZGI3aDBrOFpzQl83SnBvXzhCeHNYNERwLXZBTlR5Y0dPc3lwdm9GbkV6TU1MMHM5ag?oc=5
+
+- The unflattering secrets revealed so far in Elon Musk’s latest legal feud - The Washington Post
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUo1YTl5Y1ctczgxMTJLeFVRcGd6emI4b1pwbkp5d1FtdFQ2OEl0bmhTZXFpdFlRSGdQSG9SVnR4TWVpT2dnV0FWdGdxUnpELS1CczBJanRRbFZnUUU0ZGNhWEZ6VWJ0UGRMVWtDM1lLWnBRYTJ4WXJvZDhGdGgwand3a3Y0X3RYWjZfNklLQQ?oc=5
+
+- Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation - VentureBeat
+  https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVU96ZmdmYmd0NWFLNFJwRFV0X0Y2OEZQdUpHNzREaGRRMlZEOXV2MU5lYmZYUG5pTmRHMGZlV1dSX2RFd3pwRGZoTTMwTnFIN3dEVWExeWRMMjJPZzMxYkJHQzVYaEVGN1F6S1A3akpWSGxEdWNDQzA2RkpobGpXdFpZazFoc3o4Q0Q1SlNuUXJLMnYzcUZ0eXRXdERkSjlkQ0MzS3E1Zy1DSGMtenRWaURMTXhNMF9OMXowUWhzVkZvSVVjQjFvcjdqb0FIT1Fzck5rajJKZ2E0UDhqVHhJOXE0OA?oc=5
+
+- Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest - Tom's Hardware
+  https://news.google.com/rss/articles/CBMinAJBVV95cUxNY2E0aGIySUlOdURacFMxNXk3WXpNMi1aaGhRMU9naW5JSTZ4ZmpSN3BLM284aURuZTdPcGQ3X1ZFZnFOU1JkS2VxWllRVlNRTmx3MnE1STdpOVpLTFBEWVYyNElGZEdSNDdvcVQ2cHIwMURYNGZWRUxuQUh3OXpRcTBYSWEyeEpCdDF3eGF1SnVHNGp5OUtiT3pzU0ZmVmJnQWVuQjJkUllsV05CNHhscXo3OXRfOEREbVNfYlVDQ3h0TWd5S1c1X3gyN3FQN1E4R25vN2oxRFBVbkFVOG9oMEpuVHlyYUdQWFF2VVVGTUNEMEc3MFRxUTdoVXhoX0R5WG54bU9RSEFRQ2FHV0FuLWJGWFJWbk5MMXR6ZA?oc=5
+
+- Biggest IPO wave in history promises $3 trillion in value – with no profits - Reuters
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFlNblFxWVV2aEJLWldtYld6R3VXaEpvZkRBZkVhem5ZT2hpcUZodUUydDRPYUtlZmpVM3NPRVJRZEh6TnVIUEhiQlZ0MDZqbUI2NGlSNnVaVUg0WVBFb0RJZ3NIN2c3NTF2dS1ES0NVbTlqM0dQbHk0Nk9MYmJWMFYtd1BPWmlSNHNUd1VzR1hGSkVaTUFCZUxFN21NSFkycGxpR3l5QTNkYXA0NzhWTw?oc=5
+
+- OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0 - VentureBeat
+  https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG5WMHBBeXZkNWx3dEFPZ1FjSHBxUFlpbXpwbWJMTTlMaDhLNG1xb2dYbXhkS1RUUWVZUWZ0VFRXWUh0a2J2S2dMdUNfQnZoZDRNRHRFdFVGX042N1J5b1ZVcVRYU1RkUE9qbE0zUEVUUFMtZ2JmajNxSlB2dThjY1UtYWNRUi1ZbUJOaE0wcGpJM2dWQVNIQ25RNlh2dGJvY3dhNW5pMTdyTlU3dzZYTXNseEhSU0xyOExVdXdwVlBOQnRnTHFnTHlyRnlEVF9GQll5bg?oc=5
+
+- How the EU and UK Can Learn From Anthropic's Mythos - Tech Policy Press
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxONkJtYlIyNXh0cWJOcEhkQTkwRENWbUR1ckJCR1ZWMXpMNnhqUkpDWDJUVXhoX05WZmhiMy1IbUx3S1NZMmhmTHkxM1E1cHJUWVJhb2NrQkx6STRMcmdrMmUtNUN2TjJwWTlDX0lzS1FsWDVtYU5seU1ITFRwOEhoUVJadU45VEk?oc=5
+
+- OpenAI’s new model outperforms GPT-5.4, raises questions on GPT-5.5 release - Crypto Briefing
+  https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1hDeXdaQ3JBNE9ueEdTRFo1QkttODhqYWtvM0Vob0tHUVNwMGFSZmp1RnphZmtNSHRkWGh1QnpCNHAwdVY2ZFlJeXg1TFREbTNxeGpkWnRDTVRxbzBNM0tpNUF3d2FiWThGY3ZVRkh3WW41aU44NDZsYnFldkF3YWkwYWl4V3h6aEJERVhtOXNGTmZzdXNDT005WWV6Xzh0?oc=5
+
+- OpenAI says its new GPT-5.5 model is more efficient and better at coding - The Verge
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxORURxVjRuUjV3M0hnd3VhckZQYWxZbnNybVRJemo0Y09zRmNsZ0pOQ3VMUUlaZmdFRi1PTkRLLUl5TERPVUlHZTRDYmpLck9kY0xhOFRTbWZBUGFDeTdmLXpBTzJvRmtaUkNnZm8xSUJxMDFYS3VPOTd0bllQMTYtZVEwMFF1anhj?oc=5
+
+- OpenAI launches ChatGPT for Clinicians, a free AI tool for physicians, NPs and pharmacists - Fierce Healthcare
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDJOOUdqUTVhQjcwcFUtUU51LU9mYl81VXVGRi1RT2dJbi12VjY3VVdBU0dWV3RxWklhUWpzaU9nWnh4TXE2OHRZMzBWejhLc0tfSHBKTVdzUml4bnNWSXZDcGFzanZzUEZQbWJxbEJnY0pVamlTU19JX0RIdG94Q200OEc4VmFva1dyR1BWcURQcFNKMDBhMmpPbElLaVpFN1M3Zk13QWFnelNZWFI2NGJfdmpod0JtU25iWkgwNGM?oc=5
+
+- Leaked Code for Anthropic’s Claude Code Tests Copyright Challenges in A.I. Era - The New York Times
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGdMSEhUWmxXWGVlWmdkV1lMWWc0TGt2S25uVElvZUJvVFc2WmhWY1N2LU1rZnR6ZmZ1Qjg4SzBiODZKRUNCdVl1M2laUXE0X2d1b2swejJkc1c3NTJRZE1sR3FjTmVRVVhxM1Z0bkxiOWRtbjlPMjVhR2xqM3R2ZDNMR3Ryb00?oc=5
+
+- NEC Announces Strategic Collaboration with Anthropic Focused on Enterprise AI: Press Releases - NEC Global
+  https://news.google.com/rss/articles/CBMia0FVX3lxTFBva0dObW5fejIwUmlXUmRvMUY3aWg0RXEzVm5aSHQtaW9UX1NkaVdyQmxYSktlZFp1OC15cjJTclliaVZENVg4UVBmU255dzFBODhRcEVYa3ItMzBGRDhENVRwckdXdjJLVkxV?oc=5
+
+- Anthropic CEO Dario Amodei and Graydon Carter to Host A-List Cannes Party (Exclusive) - The Hollywood Reporter
+  https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVRJRVMwYk4zN1JFNDl4TTRHNzFLY1VaQ0NBNVBzQTQ2Vkt2VnE2QUtnWXEzUXNSMzlNMTBJU1pqWjd1WW9mZUFmYXVqeGtjTHpJN2JnNlVuS3hBWURXVHNEQnlzRkZXUHp1dDd1cGoxTVA1TWswTXA1RW1RQlV6dEJCb2hUY3Y4aGtvclFrblE5YWowRDQ0bHpHbzloUU1RVEY1SXJkM1VvLUdtdVpmNWhuVk1STmJmTHp4c25lVmxralg5Q3BhVnhBWFJJUEVLTzExRU41LXVhRDVB?oc=5
+
+- Amazon and Anthropic expand strategic collaboration - About Amazon
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1FlbU1kTVBFR2RLTlJrc0l5cVBoS3QydUJTSlNOSWk4ZUNSSUhySGV2RnJYRnRkajJQY1FVTUdET3QybFFpazcySWx1bm9ja25ielpISWhRenZ1Rk1Fbm5wN0JsbXd5ZUo5ZjcyNU5mNmRWblJLbXpPQk50UGdQbTk4WXZ5UXRVckhtOU10cElhcEZDQXZPeFpR?oc=5
+
+- Anthropic becomes impossible for White House to ignore - The Hill
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGU1VVFvcTFPNUNkWGZUdmFTRE4wNVp5MXdmS1JvcXp2Q18xOHZQN2Z5U1daVkFrY3VjTFNaNTJzdDVhbVpkaTlXN3pFN0RNOWxrb2ZQdVNaemV6bURSYjBxRGdfcUdLR09jZkhtdXpuU01aSHJLNGVCeDg3Tl9vMdIBhgFBVV95cUxOU3BWUGlYeHRxY3ZSRUIwLTRzQlM3Vkl6TGxnN2NtSWdmMXFkM0R5MXJWdjNTYnc0bUJjeENxcUJIMUxSUjRza1BJVU52VDBobWhPV0JRbENMUTRlMFJOYmFrclNBelpmUEt4NElBUGltbkZ5aXJoVXduWlBiTTdyYUFDQzRHUQ?oc=5
+
+- OpenAI launches ChatGPT for Clinicians - MobiHealthNews
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE5IbDUwSkRSOFNtalJlcVRqaUpoemx0MnFxU2gyZWFyeWtIWWowdUI4X2NSRDhDeWhqRXRuWUxvc1VrcDJBbXJaSGk4NlU2N0hVS2Nkc2JyNUtNQzBOYXltN0lLOXJfVDgyZGs5bmJlU1d1a0llbEROUm1R?oc=5
+
+- Anthropic’s Mythos moment: How frontier AI is redefining cybersecurity - The World Economic Forum
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSFZBR3I1eXh1NVBMMXVFcy1BRGVaQldMN1R6Q19sWEJrZjA0MWpEdWo2Qm1zWlI4ajl4ZmJKYVlXM3QtUG5HWE94M2h4ckNteHlleXBZdzI1bzIyZDJlSjU1SDFucTlsalB4UzhQRmNWeDVIMkpQbzQtNTliV1k?oc=5
+
+- Behind Cursor’s Deal With SpaceX, Anthropic and Compute Costs Loomed Large - The Information
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjdlSlRtZkZNRExLcjRKN3pOMmc5VE1VRkpwdzZJVGd0OC1qT1REUGQ1ejNnRVFzb3k1TUVQcDBtaVZkbEFCNnpwd045S3I1YkRiLVgxSFE3RnppZ1h0ODBLLWZWSnBGdXMzTDVzQWY5YWxjbGV2NEZfbTJScklmRndfem8zMkJNdld5allfUUhBdm96Qjl1dHhjSGFVS08yZGowcWFn?oc=5
+
+- New Security Breaches at Anthropic and OpenAI Proved Mark Zuckerberg Right - The Information
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnFScm4weUliRFgxQktaRC1Gcm9JMFNkeC1CdU9zcUJnMWd1NTZxWHRJTmxvVWRSXy02VGNqM19sMDljOGFhNTZMeGdsaDEtczgxQXVrUTNfOWFRUlZLYzFKNU9KYVF6amV5OXE1YU5fTW04WmM1ZGZtaVMwZ1dpZlZWZXJRTVc4LUJqT3BFcElLU3VRT3E4bWphNXBCR0tKR1N5Z0todzVyOHlQOFNwWGxxSXBac29LaVNaTA?oc=5
+
+- Banks charged sharply different fees for access to Anthropic investment - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxOakZ2SnowZHlBNjJQVnktOGhNOWpCRmZEYVNqQ21oeEgzLXlQUG5XWlNnVGVpZjRYR19PcUtHY1Rnb0Zqem1HNFEtY3ZSaFFHOE1UVlhHUFZvNndoX2EzRE1haTgxZ2tLVTQxZWVmU2VoN2pqd3FIREVwZU1faEFYbjJvNS0?oc=5
+
+- Introducing Claude Design by Anthropic Labs - Anthropic
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5
+
+- Anthropic and Freshfields agree deal to create legal AI tools - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmJQaU5IY2RSdERmLWttYUQtc1Z0MjljbFVnbEV2X25OWnVwYVVtSm1sVDhBUi1Lay10LUhRYW92cjA5SHdCSUFpcW44emtjODhZX0xIYkI3UGRGakE4ZnBnRGROSjFvaDk0Um9vUlRHbnFLN2FZbWowWUc3Ymt4d2xvNmo?oc=5
+
+- With GPT-5.5, OpenAI is focusing on AI that can execute workflows autonomously - Techzine Global
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEd3UEdjU3F2QmE4LUg3TVdvbjF0aTBUcHVzckdIQXpqRTliOVM1aDBfSFRpb0JzQjdBQ1ZndnVzRXpIemx4cEJoR0ltSHpDSE1yR0NPSnVhaUNJVGJ3Z081MzZxYTJ2MnBtbF9kdEIzZUZvYkgwemdzS0tLRjBfbTJCSVRJSGVoZGZKMGZXVEtaTEctdkVLTDJ1MFhPX0NvY1F2bGNFa2xhM3RSQjNTek85bUZ3R2tIRHBuOW1tMEtwTEJVUXc?oc=5
+
+- Grok Down? Users Frustrated as ‘High Demand’ and ‘Try Again Later’ Errors Continue - Men's Journal
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxNTHZ4MmRFQm93Y1hsLTd0a0RPNFhYcGV0MHoxNThpQmRtOUtyd2I4aTEwZkUzZG9mMzk3NXZoVHZJaWpvS1NIdzJNVWJCRFpCck5PUzFXUm5XVVNDSG90dEQ4NG1DS1k2WjlfSGF5NnhuMUlWVkt4MWNWNTJjcldwMzE4UQ?oc=5
+
+- GPT-5.5 is here—and AI model launches are starting to look like software updates - Fortune
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2amVfdnJfTjhyMnZrUUw2VXFrZGxiYXNiSUdWUlV5TUs2Q09ZOGxjTmNlMkl1Y0k4OUhfc1g1Sl82aTlGOTk1VjVVaWV3Z3RZd08xWEN1eFhESnRCWF9IcVRnbllIUQ?oc=5
+
+- Nvidia Deploys OpenAI's Codex Across 10,000 Employees As Jensen Huang Hails 'Age Of AI,' Sam Altman Says - Benzinga
+  https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa04zM3NOTmZyb2JLZE9DVGhoM2NWRzlZWTUycDJGMUU4Zk9QTGlUcE5iLW9TZFlUM1BMVXRQNEZoZXdoMjhkczktM1RPd2JMYnNEZFc1bFk5OWpEWFVKY2pCUzh2ZzYzQllfYUJfNWxyd1p5WXN0UVp5RF9CNmtxM1FFdE9RaVM3bTZUa3FhX3FxeVV0VzR5aDZUTmdPVXBrN09FWkh4UEY5ZGtGbWIyWE9icHp6ZmxfckwtWnlxNkFnbzYtVDJFazduMkh4VUl1UXB4dzVueDZ4UVBhUERsbk5qQXh0cDIyOHMyR0lmZEZsWXZ2YUkzY2Vmbw?oc=5
+
+- OpenAI releases GPT-5.5 with advanced math, coding capabilities - SiliconANGLE
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxPLTBwYlZpeDJ0T2NnR01jN0FBOFZ6SG91eVh3MXo0djZyekJ2bmJCMVRSRzJMOVFlVXA4eWJXQ1NkVmlWRkIwVEVmaWtyU3gyQ3g3ZkFubVo5VmJJZlNicUg5VjhPT0Q2SkxTeUFER2x1OWl4RWdvZUpHYl9DUEdNYzgwQlpxX2pUdDBQS1NzMHZpOG1uTTFCR1p3?oc=5
+
+- Anthropic's Claude Code pricing pain is Sam Altman's pleasure - Business Insider
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGFTRTYxMlI2MlhYYXd3eHN0eWdzb0oyN2c3a2R1dGdfQWp5NlFEZXhZNHBrX1JSUEtCQnpyQ0M5alZ3REswSFp6Um5OaGVTOFZtRWlvbzQ3Sm5rM0dvd3N1eXpEcE0xOHctRE0xSHVTa2xSNlJCV3RuYVN6VllMdmc3d1FyMmtuR0JYZjN1ZHI?oc=5
+
+- How a shadow AI tool transfixed Washington - The Washington Post
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2tyWVdjTVREMFFvb3RTelA1QVI3ei1mMUJyZU0xUVZnUE40MmdIOUlnVURBZjBfTW5GOS0yLTJRTkdqZGNRRlZRMW1TeXpCZEs4QW5ESDM5RmN5SEJOTXQxejAzb0d1T19TT0U5QWdBdDFPNUY2c2d3TVU5U3dHa3loNEpZem8taHJYWmNPMnl5Z1E5Wm13U2Y1TzJKNDAwRTBYVmt3dFlVWVR3UkZDOA?oc=5
+
+- Anthropic has surged to a trillion-dollar valuation on secondary markets, overtaking OpenAI. - Business Insider
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXJFR0pxbmlKMnpKeTY1WldIWERxVmZsbDJxbnc0eUVXa21iZEZ6SG93a01CZWFlWFozVldMTUM0bjhPMlNlMDNSY1JmNHJub0M5ZWM5TmZKUEw0OE5WNk5xYlB4bFYzNUJndEpvZjhmdXpFNEVqb0xQcFMzZzBvS2c4ZTRSUmswd1h1bmhJdXdFR0FSV1RQWA?oc=5
+
+- Anthropic investigating possible breach of its Mythos AI model - CBS News
+  https://news.google.com/rss/articles/CBMieEFVX3lxTFBRNHQ5M3BReTJqMkRGMTlDZm5vYUlYSUlqZ3Z4UTdPZWxnbDdHcXBQNVJxMk1ickpMYkJ4MG8wSDBZV0VvWnVPbml1cTN0alB4dGl0NWdOdnMxem5tUkFUVy1DTmkxN2NJazZBeTJ5dzZHZzdoN1J6TdIBfkFVX3lxTFBDb1BkcHk5TnA4enhsVWtPYXA3UzhsN3gwNkhiYVRIcFQzci01c1h2a3R4VXdNLTh1UGNHemU0Nkp4U0Q5S3ZuakRQQ0xsQ0UxN2JvclFTV1NNcGxGT20ySk5MNmFBS3h5Nmw2Vk5PcDFyR3UtTGs4emRVYVZPQQ?oc=5
+
+- OpenAI launches GPT-5.5 as rivals race to build more autonomous AI assistants - Tech Xplore
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE1US1JJX3ZiOWIxMTNiTTVjcG54aU93alY1b3NHS25HdEdVWFJHejE4YkxBMFFBVkNEX0FfX1hnRWt0WDJJWDhEZVRTRDZKS2xnOFo4VmJTcmVfUHkwTlU2dnpOUFEtSG53dkJnRXUzN0wzaVZKa2hKNjZ4Vjc?oc=5
+
+- Scoop: NSA using Anthropic's Mythos despite Defense Department blacklist - Axios
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE5UUW9jYXVFV0RVZ2EzSk5IMjZ4b09JeHQ0THZRbnpLQ1FULUlENUk0YTkwSGhKRmkwaGdQaS11R29NSUszVDVZTlV3MUZ2cHI5U0lZNmlXT2UzWlRiSkUyZDJFSU9pRUtjTC1SaVdHTQ?oc=5
+
+- Video: The Potential Peril and Profit of Anthropic’s Mythos - Bloomberg.com
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3JCbXFhNDZXdGRDOUJSQ0hZQWtSSEtwUjVjS2VRVE9scW9BSUVCLThGd080TzF6R3JBdVY4VFhPM0tpb0hhem1tVGxPaURtVS0wYm8teU1ELWNvazhEV1FKQ1gwbWVZY1ZEN2Q2X0pNU09QRVV4Ui1JMUpCVGJRNldxSUZPaDlyOTRQa1hRLTBfZHV6VldORHdZcVEwb0R4V3JkR250c19IRnFudnc?oc=5
+
+- Speeding up agentic workflows with WebSockets in the Responses API - OpenAI
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE84RS1QX21mYm9qa0plY1BHV0xGZktSa2RBWjhtdHpuMHE5eTE1WWJmcmo4SDB3RGZEaWd4WElTNkVhSDlRM0dyWjVISU45eDIzUmVuMWZUSERmbVJTbWdSSzh1cVE3OGcya1ZjeU9pMjFQbHRhOG9HTEdobw?oc=5
+
+- Retail traders can now get long OpenAI as Robinhood's venture fund takes a stake - CNBC
+  https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFJzMDhINjlJYTJUTVhJSURqRFY4TDdXQlMzeW9NRmlKcWRZOFFUdmNlWF95R3o4c3R0QWFiWVJQTU1ia29Va292ZVh4S2NpT2N2MW5CUjJtUzd0SFNiV0xFR2VvRzNpcEJZYUYyc3ZmTmdtQ0dHdGd2R1lTb0Y1Y3BoVUlQOHZTOTluNnk2VldOX1o3Y0dIekZWU1pHd3VxUzJoWTl3YmU2dWQtVGVoVW1TUkc1aW_SAbwBQVVfeXFMTTNUelk5QU9ZeVVlV1BCQ1ZZdmV0bkFtemZqOU1yVEl3Tno4bnlkN0JwR0hjeWtlZ2xGMy1VUjMwZGhfX013MFNCLUtGcTBWbGVRenNPT0FiQnFybEk3MWhTTTZISGx2MTRGNEhmdHRldDBKaWREcHpPa2NlN0dBZmlwT01lZFZ1SHFSeHZUSGJqdHNOZGlRaHh2amw0M19jSEtobXlQalZLZ2lmbmdMMWFWc0EzSHlwVUNMN3g?oc=5
+
+- Introducing Claude Opus 4.7 - Anthropic
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5
+
+- OpenAI releases GPT-5.5, a more powerful engine for coding, science, and general work - Fast Company
+  https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd2g3dGpoT3dUVmtDUmw1TTVGaWRwWWZjM1hwdllCZ2hhMGRzUGJkUHNIVTIyU19rUHFBRkloNGlIVFRtZld6QVBSSXcxTjZhTEFQTmdOVWpLX1NPTnJDQzRDNGc3Mzl5aUFNWGMwdDZlYUdyOVJQRThSUThiUWZybE5hTjJTMzJudUx5ZnpzY0hwQWJIR3l6VzJLbUx0LXlkQl9FLW1VWC1ZS29uX0Flc0U3bmxjQ1FVZmlz?oc=5
+
+- Anthropic investigating claim of unauthorised access to Mythos AI tool - BBC
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2NzZaZlJ3Y21VbHdvNm43anJ4SU41WS10cjAxb3NaSWFFOFlDSWFIRDR0MUtfQ1NXVmJkUFhGWVlkYnlzUmtRbDBsQTktYzhWakRHVlFYSjBPQQ?oc=5
+
+- Project Glasswing: Securing critical software for the AI era - Anthropic
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5
+
+- Former national cyber director: Anthropic's 'Mythos' AI can hack nearly anything and we aren't ready - Fortune
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEZONnMySEFTOGFueUYtcWxQMTVtQnpZOEgtS3pRd29KeFQ4TVhRc1Nod3JCTTI3bzBmNlhVMTRGWHVJNnpFV3FUTHRDN2hxUWMyX2M4eTFKeDlmLUF6TGJLNi1HUHdERUsyeGpveGFzb2FZNGpCaFNodlJZVWQ2cHlaUXUwbnBCczZrWDRyc0hlLWt1SURJVmxBb3dkOHlVMEdWYg?oc=5
+
+- Anthropic’s Claude Is Pumping Out Vulnerable Code, Cyber Experts Warn - Forbes
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxOYm52d3hQV25lMzl4bXo4SGVhUG1xRjdZXzAzaElIMl9PazU1cTdRaWE0WVh1eVl4RDdqcEdHcThUYU8tdkx5UDJiWHRuSm1jNVdIb0xpQlVzMWJfXzdHanQ3TjlYWWEtRU5Ja3RSakJwWGJ1d3piUnBwcDJQbnZiTmtoQ3N0OXp6MHg5NVM4QmpFMXZhUlRzVnJTWHJ2M0ZOY1U3c3htN0wwclg2Z2V3ZHJndHoyeEZicjdyVA?oc=5
+
+- OpenAI faces criminal probe over role of ChatGPT in shooting - BBC
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQzhxOThXRDlYNWI4TFJ2TFlsQlNhdG5kVm5Ta0M1YkxzLTdyNWcyeHB4aHlsWkF5TkliRXY2eDVWZ2NaeTQteGhzaUFBVzNLN1NNYzE4Y2FwUQ?oc=5
+
+- I Am Officially 0.1% More Excited About the Future of ChatGPT - Gizmodo
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBhYnRndm9oX0N2S1AzTzBWYk53dmxvRzBhb3FkVGp6MEUtZFlaTkdJWEdVMF9CNkFzNE5WWHAyY3VJakxqamVCTWdfSXEwZXBjZ2E2SkUzX3RrV0NqeVU2VkU1VjBnSVk2a1RyOS1HOHJCNVo4eVVFMG5YZlJ1M3p0blh0WTFJcVdCZXhQM1JCWDRQakE?oc=5
+
+- Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal - CNBC
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdENHZTV6MTdDdGFScHBGUTJEandaV2pqb3ZJWWFVTHpJNUtsNWJJUVBWZFQyQ05MSWVYOFcwQ05Keks4R1FEWVNENkw4VTRHOEZjXzkwLUNIZ1pjd1ZRNUpfSmVFZTZWQ21HX09jQzdUSUJhS1lDTzZPWFg2QmpVeWhZdHlOZGRoVVRkOEdOZzNSNWFDRjFMSTZXdk1LX2ZjcFVJWmZ1YUQ3d9IBrwFBVV95cUxNVWN2VjU0RFV1OFl6R1cyVXlpQ2JKaTdfQndJQzBuZ0tuQVZlUUJJQ09WMDAwY2NYdk51UWdyZElSTGkwZHVXX1JPSVBTWE5rbzBURWRGaFhtZHR1OFN5WXJvRlA3RlMtX2Z5SjRnTGRZZjFkVDRtcTFtZmNobVk2MzRwNDdHUkZpdl92c21HUkF6eWZrSjFTUTRSWmdNajhpcW1MSm9OTmU1THpGRlJF?oc=5
+
+- Sam Altman May Control Our Future—Can He Be Trusted? - The New Yorker
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNZ21pbG9zZ0VPWlp4YV9WOGZBd0pGVXAwNE4tZjVXTVF5VDNXVFU1ODRWdWZaSjhiQ2owQXFkV29SQ3JXZzI4UmZOTGFsZTFKMmJ1NDktN1cxWEtHQ3JiaEtuVFhDTlRtWjZxZUFwZVdmRk5WN2ZSRmVZcG5sZm11ajlYNDBRM0ozRGVkZUlJei1peWIyRHZTUnhiREo4Zw?oc=5
+
+- Altman Versus Musk: How the Biggest Feud In Tech Landed in Court - Bloomberg.com
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdy1nOGxMNWNVSGsyMk5tS0ozd0dZYkJXYi1xcVRRVmRlOFJjWXg2UXN4a0UwTTBCUGxScnBha2VhelZ4RUNnWm82eTZEWEhKT2VKUkVEdl9iNmlzblVmSC1zaVE0VjU1ZGpIWXdOOHZzTUswRW82U1Zack9tMm1URnd5aVpEMXplUm1kc3p5bS1GclVHd3k3cDVCcE9OQUtLanUzRFlLTmxzM2toWHF6ai1oakNyQU1ZR3M2SGpwaW8?oc=5
+
+- Do you need to worry about Mythos, Anthropic's computer-hacking AI? - New Scientist
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTRRSV9BbDRCSXhERDFwSnVkVm53RTNTdTZwajZrbzVzVGVxRGVxWWprVVV2UkVqS3NaRkhqQm1tX3FJZHBMWkZidTdDTldURXRkblRlLXQ2OHJOOXRaNHJaeXd6MmgtYl8ybDBZaWY1M1Z2Qm1kNDR3eG9iQ2VYcHU0S3F4bkNBRmF3UloyS08tNFNiRDFxdHF5X2R6Nk9QLVZWZExBSWxCR0ZhcW5z?oc=5
+
+- A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley - The New York Times
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHc1MlpDR1NXUnllakdvN2RXTVhZRExDcDh3di1jQk9LaXRZeGNwNDhnVzZHeVh5NHk1Sk5pWkhlWEdzZzNaejFaYnRObHhTcHJFTl9BdVI4VG9BZ1p2T2FHWG9mSGFodHEyRnE2cnc4cWRMYnA5MnBnUjh0bmNVS2pWcw?oc=5
+
+- DeepSeek unveils new AI model, targets OpenAI and Anthropic - Seeking Alpha
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxNWEVmNkhTUjZ5VEF2dXc5ajk2LUNtVjZlWUs0aERyYmlyaXR5aDdya1ZHRDgtdkc5OTI2cXY1cnJsQzd5UjVXMFk0RG5IYklncDRuLXNxT01fSjJRUXN0SWQ1QkItdURBbGxwX2dRUkU3RjY4TElvNHJBTWk2emwxUTVwWkZaN3piN3hzaHl6SHZCbjNRV3JTVGJaVTI?oc=5
+
+- Rogue Group Gains Access to Anthropic’s Dangerous New Mythos AI - Futurism
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxOekZYWDkzMGd2QjQtNUZhcEtpTkJPNERxZEVNd0RCdkhfa2JCZTlmQWV1MUNMOUNTMHpUa213czhXaWdFUC1COEY1cHFEWkctYUVudS1CZWR4RFBDOEVDZHpOU3BvTFdNeDBuZDZ2VlNFRkM0UE1DOGhzbHZxbjFkamNMRzdCLTdqVHc?oc=5
+
+- OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more - VentureBeat
+  https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOEljRzV4TWtlZlVQb0VKVUg1Q1lDSGktVUNMR3J6QVUwekJWdFBrdjBjVjhIUXVlMWNqN1pTeGt5N1h2ZWFIaWZESXN6anJFNF9NN1dnaF9NTWljMjBGdDNkMmZob1RsZnhaNTRodlFUU2FwdnhmeXE3anlENkNWc0tTbDBmQ0JnTWtsN1d6Szd4MU56Tng2RjAzd1FfV0VQSTU0MnE2NnZTVzRpbHpNVzdYamEwV1ZQbEc4TG8ybEtvd2tXV3M4VF9Xb3lSMVJNaTdrU1AxMlcxY213MFp6SHM0MmVna0ZhUHVFZ2ZScC1OSFRFeHU0NE9n?oc=5
+
+- Anthropic tested removing Claude Code from the Pro plan - Ars Technica
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDZZMHBKbTdEZDVWTHpLNFduZnZHSHR0RnJNdE1PT0Y4RWpMMW00RjN0Z1EwSE9WRXFHNEhEZ1V3bUNxdHhGbk5jRWR6aTNCcF9PSzBvdlhXd2FNT0QwUkwwUFBfLWxGdC1YcEgtcWxMTEliQ1YxOGRxTVhENUM5UG96WUtnMXgydXhmaHBFSDZ4dGR4OEE?oc=5
+
+- Anthropic’s New Mythos A.I. Model Sets Off Global Alarms - The New York Times
+  https://news.google.com/rss/articles/CBMie0FVX3lxTFBGT25GZUdIUVB1NUxWd2RUaDJoY1F5QmljMG9JdE0xV1lmMVM5dmhVeDBNaWc5OTdrMFlOQ013NWh2bDhXdTl5VFhWWUd0bG8xdGtnN3RBWTBjcFhONmlKWHhfY3Y2M1NGZW9MdVhHaDhKeWYzTmxqdkhNVQ?oc=5
+
+- Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’ - TechCrunch
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxNb3Jjci1VUDZZWGdjWHF4d1Vwc0ItTUt0dmM2ODdBbG9FanFub0JVLVh0c0djaEZaeUNsZFJrWDhKQTJzRkhOdmFQQlkwZER5MmttR0U3Z0ZLbUIxQ3VSbzZkN3M2OU5UeUw0c2Z3NUJnRFVOeW9yR2xwMnFXQmNYbVhpZi03UkN1bDhJdXJRMmhhU2NOTktkSDM1NzJNbHcwV2xuSjd6dDY4aHBLWnFVRTVn?oc=5
+
+- Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox - WIRED
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2xvY1hSYy1WNlFNYkVUakZueEk1a0RaN3E2b2lxV1J2QV9OaC1ES1ozLU9tZWNmQXpaeWxDeTJ6dW9panFrRkw0NmEwOFdJdnUwWFFFcU1yMlpOc3gzQ0NOTUFGc0I1dmg3T0N2TUZad3NRR01lcG5VVFd1SFdKNDJwZzhvY1loNUZRSGlIc3c?oc=5
+
+- OpenAI Announces GPT‑5.5 - Thurrott.com
+  https://news.google.com/rss/articles/CBMie0FVX3lxTFBEdzJ0bEdRZEUtbFBURFNDdUxVaDBRLTNYdGZmYWlTNHZaNWk3NXlhT3hWVWNNVldhLTlvT1IzcDkxRG1HOGpVX3J0TXVTTW5tbEpucG9YRlZNMHc2cWY5Vmphc3NDVTlyaC04TVBNa2tjbnRRb2x6VGMwWQ?oc=5
+
+- Discord group says it accessed Claude Mythos by guessing location - Mashable
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE96d0U4YUNPU0ZUYTNnZWo2bndLT1BELTl5MU4yUk9oMk5Vdm1ac3o4aDh5WmJYODR2aVZxLUFUSE1lWHctXzJDaEFqU0xIM3hRMVFXT002cGtmMVNhTFQ0bnNzalpOWWZmTE1ObDZOUXdMUUxvY0gwWm5HQm4?oc=5
+
+- China's DeepSeek rolls out a long-anticipated update of its AI model - WRAL
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxPd29Gd0RlaFFoNW05NDMzUnctNUlBZ2FBSHZyZ1JvV2piblZYZnhZYXN4ZmVFcUI5OWZpM1VjNEI5RkhveURKZWgyNVFZWFVZUk4ya3V0QmJ2bmpkYjV1VEVUYS1rOUJ6UFVuMUNWVFJBYmlJTWo0eUlFV1l5emJRWDc1REQtSEJLMlpKZlA5YU9NV1JhOFNENGY5NU5nR1FHZWdwZWNn?oc=5
+
+- Nvidia's 10K staff got early access to OpenAI’s new AI model GPT-5.5 - Seeking Alpha
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzd0bkNvRjFSTkczVkpKd2RPOEN1V2R6VF9iY0l1bGhGbUVrcWQ4ZFNmbDFtSGVDXzhEUE9vdDEwVjlPMVk5RzkxRzNFV2NtV2wyb192YWlsZ0tjY0ZMWFotTnJ4Q3FfX0o2eU1CbG9pbVZzaURpUWRJdlltdVJNdUdjdDEwSW5aYWFKSEc1MFRDMDkzYVN5VTJrUXVCaFFhQ2NHTkNn?oc=5
+
+- OpenAI Unveils GPT-5.5 to Field Tasks With Limited Instructions - Bloomberg.com
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUJYRFJBMXViTWIyN0xUWUxuUFl0YWVQVHluWjFxVk9ZQzNBckp3M3owWE1WM3EtZmowNGJ5dXpoRkxhV2NJQXZWR2puT2E2R2s5UnZtYVE0YXhFU2xndFFwZTZDOUJyemlTdUNia0NFM2pEeFV0UDc2TUhseWNLb1BnU3hsYlBEMmprNGVwb1gzX2pndEhxbjJGUGR4WFVpX0VGNGNSYjFJb0dMcHhlWmd3MWs?oc=5
+
+- OpenAI releases GPT-5.5 as UK looks to Anthropic's Mythos for banks, business (OPENAI:Private) - Seeking Alpha
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0liTFh1R0ZoUWJ5dlgyM3AxNEVya2ZMT1hOdVBFcVBhS3QzVi11UnRkY0FPSWFJWlBrc0VfdFpzcnN2aU5nb055R2Rzbnd0bGNWU3VvZEk0d3EtcGk5bDRONUpOaUZCOS15cGVyZDhWb2RWOV8zb25uM3RrRmwxRzVUeHZJTUg0aVh3b1hQdnZUWWl2YVRXd29RZWQ2ekZicTFUZ1lPY3F5RkhtSnpHU2VR?oc=5
+
+- Unauthorized group has gained access to Anthropic's exclusive cyber tool Mythos, report claims - TechCrunch
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkh6ZEU3X3RybWZTVVJJYkVSRHJpMDJPOURqYVZKWEZGR0Q5b2xZc2l1X1Y5OWl5UldXdEVaR0JpOHZ1d0tud2d0cF9CYkt5UVRrcEtWallETkZVRDVCYkVhRk5jT3Rnd1pSV2ZpX1pMcGFIaVhrazZzTm5rckFLSW0wSEtiWjBaaTFETmMwMldLaVVLTXdvdmJFTkVCdFY5cmJmX3BDU2hJV3pTOVJicDFVcFpyZ3NRUFA5bEx3NHFINlJ3OUE?oc=5
+
+- SoftBank seeks $10 billion margin loan backed by OpenAI shares, Bloomberg News reports - Reuters
+  https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdG43TWZyUDQ0dGNPN05jemR1ekJ1ZWJtYjVNNTBxUUxLZVRGb1ExdTQ0Yi1naWVXLVlIR2h3MEZpUkJNMTBjYlRtR01HUG1uWmgwWUNBNmR2MDRobVFyeHg4ejVNZ1A1OXZlblU0My02ZGdtaWg2bVVLRDUwY2xvOFJQTy1qRTViMTk1MEhyd1JfZzZOckNma2p6amFMRk1aQ0ZIZzMtRDhCLUlEV3RSYkRyMDVBZ2Y5akQ0VTF1WWdGNkJRZ2FTZTRtT1NBVTRm?oc=5
+
+- Why This Buzzy Hollywood Writer Called the King of AI a Nazi - The Daily Beast
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHdoV2ZJS2tzTFlIVVNHQ3NtUm1PbDFtVWlrcDMwaWN3NkJUYzJYWXk0MU5rdlpNaWtZYmVtbThKRU9DVFJqV0h6R3VpVXV6cE9Wc254WXlxQjBodzN0R0ZYOHdEUDg1NEtnZ29aYVRGaWNUSV9jUGNvdFhxUENaWGZPY0tteGNFc1hZZFQxaExOV1NzVXZqTXU4UmRVNVdrbkM2aQ?oc=5
+
+- Microsoft and OpenAI tighten AI cybersecurity pact with Trusted Access deal | ETIH EdTech News - EdTech Innovation Hub
+  https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVg5a0NPT0RSeElzaVE3SEJwdmFDWUJtVXdJQThsMGNQMFRWendNbldYVmhieHUtZHljLVkwVjBVLTR6WFI1R2JfLUdESG03ei1wNXFUQ0lKQV90YXVnRnZRbktyNGJLOEpJMXpRaU9DMU5uLWkzVTVwUUdhLUFiWnRaYnpmN0pWaWxESGpxbnpTU0tfWk9CME9LSmY2Rzd5aVBQOTdORWdJeUpSamtXSHl2OTRhZmRYaDNPNFhzYW02Y0plTlJv?oc=5
+
+- OpenAI Treats Healthcare With New ChatGPT for Clinicians - PYMNTS.com
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlRCM3dsU3dhRi1BdHA0Q2ZYNkdWV1M1b214VW1HQkUwWUNuN0lEcm51a0RoT01MMTRheFdHRHhDQmVMQWdLSDUzWTl5UFNxQzVobEdHSUlxYjNrUUZEMnlNMjJRNlkyMmhaSkYzdVhsUDd2T1FXNFY2VUlyRnVRcUFyNkZjYUN0WFNWbXo1Y1hlaXJ0dWQ0ajJ3UVliUFI4NUQ1YWxTTXU4bGdlRmZuZw?oc=5
+
+- OpenAI introduces ChatGPT for Clinicians and HealthBench Professional - Digital Watch Observatory
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBqQTlhbml1SzAxT0NIa2ZrRXJjR2hrTFN6SGtGeGZxMEstc1RjUVJDcmt3RDBpcFB2Rm91SVVzMHZpR1JVRWRkcFRTRVR5dUJyMXdkdXIzR3M3VzBvNE9lMnRHa1dGLVBtLUE?oc=5
+
+- Unauthorised users hack Anthropic's 'too dangerous to release' AI - Euronews.com
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1lBRzB6ZTFpTERuYWtWVWpVaG5sdjRaek04RVJFSnlla1ZCQnNYZXhTRkxuekt2UTE1Y1dGU2UxcUh3MWtvUUlkdWlxXy1YVFk4UWE2Rlp6LUpZdmU3YnFWVmxqNDNRdjBpQXZveklmYW1VcWljY3RjdHFvQ3dfeDMzcFUzbFJudURnQldBbmdnODRSYXg3eEw2aEY1Rjg1SHNXTWZab1Fzd0NlblJtU0pwVGs?oc=5
+
+- OpenAI Launches GPT-5.5 as Its Most Advanced AI Model Yet - MLQ.ai
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnN0Tkl4UHpSdW5WMHpYN1hXbWlFTWdHOTBZbTd4R2M5bnNYQ2hHbkxweUlWVkRSbVFEeGpBeTFCN3Vocmd3Ujk4dW1BOU41Z3pndXRwcUZJcGpEcGFSWGFRdmxLWXlLQjNOeVhsOGdWdUt2aWNqZTItRElwRHU3dW1Jdw?oc=5
+
+
