@@ -26956,3 +26956,306 @@
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZXhOWkRpY080blQ2aDkzS1Fwb3FYWUhGM3FGUzNIbWNyYXY4cVZMaDYxMDVFejU1UGFkblVXMDdwMHJFQldvRXBUeXpJYUR5amgxelJtZ3dTU0U2dk1Taw?oc=5
 
 
+## 2026-05-16
+
+- Anthropic forms $200 million partnership with the Gates Foundation - Anthropic
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE1UT25PT2ZVemEyNW5mY0RnYjlHa0NhUGw4cVlZWUNaaDdySnRMMXZXZVJMcHRKN25kRzBsVzNINFhUSHhmTGI4MU5JUDEtUVFLcEktM1VvbUZCc1RKUkhwcTFWY3gyWEdQMGZN?oc=5
+
+- The 5 most unhinged revelations from Elon Musk’s lawsuit against OpenAI - vox.com
+  https://news.google.com/rss/articles/CBMieEFVX3lxTFB6TWZwM05leTUwNTFaZzU5YnRjT3ZhdVRLOHZmaUNWS2VUS3ppbzhGUE00S2ktT0FnS2EwaU8wckRrZ3JIemRBSWsyQ1RoSG52NEhod01yOHh0VEdpY3ZIeVZDMjdVVHBTZTdlejNYcDNjM0NCTVBtVw?oc=5
+
+- Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up - WIRED
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE5OX1BRenk3Q2ZSS1FDclA4aDh4Wmd0RzJINW5najZ0RHo2NUVDbFZsMUV3U0djcV9NLVdoR25XalB6WE5zVGxsemdId1hMOVN3X0ZzVXkwLTJuM2NleHBWNGNWUjhVOHJDUDlxUEhrQXo?oc=5
+
+- The Musk vs Altman trial: What happens next - Mashable
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBGWEhfTGt6UktyZEMxdF9hZ1EtS0xLUXR4XzRLR3pyb1JLMFdSMzdqN2dwb1JQZXAycG52X1FUVm1oNlFHdlVydk5aSWRIVDhxazR0WjNZSVVCd2FhcW53TXRFeVlKQ19nTU1RMDBmOXZpdw?oc=5
+
+- Anthropic Raising $30 Billion More as AI Labs Absorb Majority of VC Funding - WSJ
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlNqSXdPREVBelBpb29OVjZyaE5UZWNrYURNRnY0b1ZjOWc5Uk11ZGxvUUZnMW1lbXBFUEVBRlRfa0NBVTBfcFFSY3o0X3JPV2tMdGw0VU9ZN0FOSERoLTFWZnh4cmtPMUNqdHRRem1sS25WZ09oWkpHekFJeDMyQWdYcUVRMEM1Y2JGbTVZR05SeGQ1SXF4THpZN3lWaE1jamVEc19jUkpuM3lCNHd6dg?oc=5
+
+- OpenAI and Khan Academy Made a Chatbot. What Can We Learn? - The New York Times
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEZ1N2lTLXBXNlB2UVlRR2hLOFVnSVBTdkRlZHZsWkViX1JxMXQzTzBpZ3k0VDEtX19ucEdJYzFJY3RSX2NBWGFLZGJTQ3VtWVI2Vm4yUWFlNUgwb3NGRk13RWE0OWdtcEYtUVhnS3ZyeVV4N3laaHpSYW5KXzJFSHlzZ1pQYXhxaUNUeFZxRzZ1RTE2d2RFX0RvTQ?oc=5
+
+- OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence - OpenAI
+  https://news.google.com/rss/articles/CBMickFVX3lxTE95QnZPQkxzLW9WdHJLbUplMUo3dHgyY0JSNmJfdkRzdXlaU2ZUdGw2VEFyM3NXQ1VNYTBqR3Jnem5DQk9MV3NQZm5MM3NtbVo3d19xNlhsWnNkMFFaTGhkZDVrZmJOZTVObzBKOGZQbmd4Zw?oc=5
+
+- PwC and Anthropic expand alliance for enterprise agentic AI - PwC
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxQeldRcDk3WWpRMHo1a0Qwb3djcGNxOXVVbHAtYVNnT1dtbnZkdGsyc0FlZUNxNDZoaFlaZUhLWGRnMVRaemdvblp1MjVFQjFiajBFM3hZOThxS25zTG9HZFVCdGdRX1JnSVphWUpaTkdjTjFFdVh0eXdhYk1lLTVjb1hacm00OHFjRDhlOGwtRWFjUUFRaHJsRjlXM0d3d1RJVTJMUEZjOGtqYndhRlktRVV3?oc=5
+
+- Anthropic blames dystopian sci-fi for training AI models to act “evil” - Ars Technica
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0FKeFc2NUJVa1Z1SFYwLWhUd0lsSko1S0hkX2ZCd1lWcVVfVWFtdDRMT01GLVZOUXVILWZMMVVZMjlSLVVWN01leTVJVFlfNGpRbGtyNjZ0NFBXWVV5cWVqcEQxclNIUHBkZmMtLW9UT0VHc2tYRmxKbnNBRXdaTTZMbzc3eDlkU09VX3BIT0dteGhuVG9BZTNFd3c1Q0xaYld5dDdFTQ?oc=5
+
+- OpenAI, Plaid to Bring Tailored Financial Guidance to Masses - Bloomberg.com
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXI0ZzZBelBqV1J6d2hRYWZmVFFYNlM1a2NXdXU2RlRvNlhPelR1MzZJVzdkQUJNWlpLcFlfMzdmRlc5UGxaZnBFeHVGaTl1TUFIUmpKVHIycFFHS1I5TVhQU0c2NFlVZ3lJeHhSZC1ER2ZsdGh3b2poZ1ByeHdLSVRmM1ZmQWRKSVB1N0ltMWVqMWREOV93SkRJbDBtc1dHYVhjV1FDcnE5Nnh5ZjNlS2tKYw?oc=5
+
+- Sam Altman | Biography, OpenAI, Microsoft, & Facts - Britannica
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBONVdkamlZZGstd2NFTzNDVXZZWDdud0RJeURCbk0zUndKNWNRT2REQVEyeW4zT3UyN0VFNnYwdUticVBwZUVfTmFQbzZ4Qk9qREVrdmdB?oc=5
+
+- OpenAI backs creation of global AI governance body led by the U.S. that would include China as a member - Fox Business
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUFOd3NjZDlrT1E0WjVYcEJnV3ItWXJCaktOa1laYTRYRk9fVTh0NDlkckV6QXV5eEcyMXd0OFFEVldMVlNPSGxMTi1fMnloX181MlJ5ZFM3cEcyaWo0TFRGeld4TTI1bElGNUplSkFqZktrRHN1WnVFUlBkdTZVMlhUR0s0eGZ2Vi0xSzBBT2hrSW1TeElGTHBqQ1pxWjJOcVgzTGZGWUdDQnd6NXpfampSTC0yUV9fN0NGekx30gHDAUFVX3lxTFBXRXhsU2hwM3dxd1pHc3hSaUFmWlB1V0FYclRiYlNHektZNmlZNGpuMzZMQk11UkhuV2hpdkVrUW16aXoxd0d5OHV6MUlpRlItMXkyR1Y3YnVHWHRYQVpoNmlCWnhmZlotb3RvcUVfb1VfaFdNSnA0eUFxZkVoWVh2bVF5VXRDQkF2OGYzZFdRR2J6TXhEejZXMS1NMEVER1AxMnN3bG9ZWE5mSmF4RjNlYUNmV0hwT0pteGxONHBLZjJqOA?oc=5
+
+- Anthropic warns that unauthorized stock sales are void - qz.com
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE5hckhUN3pYTHltR092NFh5azdrdFFlVmFEZ0xQcWRSQ2dBM0IxTjVEbDFUNGJkdUtXTmw2VXJEQWhvdHRmdHdRc1QyZnZpMllNcDhyeGZPb1VrRGdIbVdKQjJfOV9LMUViSjA0bVQ1dkxRdnI4LUFJVA?oc=5
+
+- Verizon joins Anthropic’s Project Glasswing - Verizon
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHl3S3lxVHpLbWMtLU5KZzIyY1NVNDJBQVlmU0NuN1V5RjcyeGFTckZBX1ZZNURmbGZZczJtbEZCaFBvMTl6aGRMYjk2N2FpTXlPbzBBdndlSHNOWkFmSHJlWEg4YkpiNlZGdk9LU2dvR2ljUUEwS0ZNS3U2U2wyTTZidw?oc=5
+
+- 2028: Two scenarios for global AI leadership - Anthropic
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sT0RLX2s1V19uaTlfN0w3NkhVX21TSEo3ZVR4VS10cEoxSThUT3dBR0NZTEptU0VIcERGcXB5SFZ3T1lPN1VxX1dTVngxVU55MEI3NzNWNm9PdFI4V1ZpVUlITQ?oc=5
+
+- OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDh4dllxNlBxZHVoZ0sxdlpCZEZvWXhQOWRBTHEtWGFMR01EeUNxX3V5QjJ2NkU3M1JwRHJXaHJhMnJQclFuQk40UUdraVY2QjhrQ1YwQzRqc0VKT2swcWVnRlFFT3duaEJzTHNfb29GVEpZRW1YRmh6d2ZxdGNob1ZnUHNzT0Y4?oc=5
+
+- Introducing Claude for Small Business - Anthropic
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5
+
+- OpenAI Considers Legal Action Against Apple in Strained Relationship - The New York Times
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFM3YXZtNFBFa0hWSWhqUWlpRE5wTFNlaDl6NVJtOWcwVlcweVZYR0hUSlV5X0FsS3lkWVZBdHlCRTQtcDFKTHo0c2xpdVZTTEhxV2J5SHFZQnFrV1dfalhHZjdfdERrMXNiR2hkY1lLaU1MMlVPQjhvNkkxVzJNenhn?oc=5
+
+- PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients - Anthropic
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tSU1NdEJPY2ZHX2JYNjhBa01YeXFybGc1Q1F3VmxySlZueVduREMxZ2FkTU1PYy1BWlJFX2h1VWRTcXZBSWdMQXdUQmtLekk3QWd5Ynl2bV81dXB1b3BZekNEREFuQQ?oc=5
+
+- OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case - The New York Times
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxPeTViQTVUTXhIX1ZWeTBHbmExSEpEZ3hzY0RBYzBGUWdnMU44clg4cnIxMlRWVGZuYnhjcUtUdG1sVkpDOGxZZUNRdjB2dVJHWnVscXhNQTBJWVV2bkw1TmJFRzlRSWJzUTk3V1ZJVDA0M013bzUtb19acVNoODJha3pMVEJaQkxkN1ZyVw?oc=5
+
+- ‘Billionaires versus billionaires’: Inside the bizarre scenes of the OpenAI trial - NBC News
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUkl4RVBpQ2JvdHZxbjl4aG9abGkxU2lGWGw3eG9pb1VSWHRxdkZ4ZTEwSEpfMW9jNHNJTHVxMlVhU0I0elU0Q2JKRUJtNno3eWhET1ZKWkNQM1pkZlNablZMdEs4SlZhMlQybU5rMnhBWWh0RXF1YV9FRG1YaV9CY3NsVW1CU0xo?oc=5
+
+- OpenAI now wants ChatGPT to access your bank accounts - The Verge
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzF2ekdKT3hxelI4eG9RX3BFa1YtVTUxN2FDNmxmYmx3cUtCQlV6cDBoSXFBTjhJdm1BNHdGVXd5QmdIQi04NnBfcDZXcGpvVmotLXFsa1B2QWxEZUhqcUJyMzY4RktTN0RfZTRSUjdETzJoTTB0a1VpOUNRT3BSbVlvZEdCMG5qU3JHSW5iRlFGaDZGR0VUZ3hPeDktZ3N4UVRoSUZxNHJ5aW03b3c?oc=5
+
+- Inklings #011 📧 - spyglass.org
+  https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaEVKMTl4MEFaVnNYTmJ1U0pybHNmRjAtSmdPemRWWU9KeTBBU2tDVDdhcUs4ZmloNTVwV1d1OTh0YkxMUDU0VWMwN2VhbXBGOWgtcVd0WE9CX0phX1BOb2psTlJXY2Q3TWNWbW1OUXVPQS1NVllVUFFhQy1YWF9JNU10OGVCODZYY2xIQ1h1VkhNTXlKU3d1ZVY5dXBjMXZPaE9sMnMwa0VkeFc4Mk9RRHA1dE40SmFUSjlDcnUtQ2tmbDJmdUFIQmtraGdvY1VDOTE4M1VxU3RNVEs0YlAxSW83UkV5MXZu?oc=5
+
+- Anthropic tightens limits on Claude subscriptions - Axios
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE9yUjhHRjZOWWFNdmkyeHBLWm5qZDV3bHpLTk1sWm8ySnFMclM5WVB5UjdlS2dGdWdOdTVLU1BRZTBIeW52TEIzcmVEcXVfSFpFVlVhTk9KU2x6QTFBS05mcWw5cFc0ZDc1N3AtS3dRLUhJMjVaMUpSLQ?oc=5
+
+- Anthropic, Gates Foundation launch $200 million partnership for AI in health, education - Reuters
+  https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmFZS3BkVlpLam83ekJJNVQ2N0ZBVERuU2R3Y0R5VWZMZzgtdk0zaHZPdWoyc1hpVTNOZElZdGRma0lIeFZWWGpjaFIzUG5ORUtnWFVpUmFEazkyblRiVHNLVlpXTFdKaVZrS3Q5LXdGeEg4QW9ycDV4M0pNNEpCb2xVNjRVdV9XNDVnYXFram9QRWg1YTNGZ193bE44UzR2QUdPamV3Z0JSb285c0M0U09RN29ZdGR0TTdvcEZkcmNJeHFmOENrLXNkMjJzUHFBc2NaSA?oc=5
+
+- US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit - Reuters
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxOckQtRG1PRWF5M3ZYU2dGb043NXpaSmd3UWt3cmdyeFJKc0J1aWRCbGVPbXZuYV9HUm9LSlhZQ2pRNUNSRlItS21YVC1xcWVMSDFncTRXRmFVN1Bhb2wyLWZIVjgzZTRTaGFVMW5reEtWN2gzRXlCWlB2TG55dWtqaGxMdjRsZjMtWUZLSWNiRmtIWGVpTlFXeFc3T3U3ZjVnLUFfZDV1YUhNY1UwT0dBaHlOamhLRzcyQVJjbg?oc=5
+
+- In case against Altman, Musk could win even if he loses - San Francisco Examiner
+  https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV04zMF9MTTc3MlVFSkRfa3F4SmVIN2NHeGNDam1QVmFMUkhCdzNIRVRCSExDNjUzZFdNZ3NsQTdXV1U0eVBNWGk2VGYzNjdUMmwxVVRPSVhjQ2x1Sjcyd2RFbkp0Wl9WYUNjSDlhd0wyOWtrNWNfVG9xM0NSVkVQRnFYMjJxd2t1TzhmeFVXX1c2MFp0eExIYmxHMEdOQUEwbG52U1dmTXdTNFFNaVZmaE5BVFgxMHBSeUFNUXdhTk1HZHh6ZnNFc3JHMmYwMWtvUWt2ajBxTWRNeFZiSVowNWZBQQ?oc=5
+
+- OpenAI may sue Apple over ChatGPT integration - Mashable
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdqRHlFSW1IdU1SSEJYWnM1ZF9OWVNRTXZYeFU5QW8wdXZnemtwUXJWbktaWjZIYjdlZ2wzdnZvWl9zSnRxWWs1eWtyQnpzcXZEQkdmaDVvMTUyZDBYYWp5eElHR0ctX1Z3amNQVllZSXFvajNRcTJSLUlpamVqNWtqaG4waURNcUxlMFNZVE96bFFDcWc?oc=5
+
+- TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates - The Hacker News
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxNTUtFeDFUNDlVYmVZMTBjWTR0NHF0Z3JMUnJxSkdnZTdJRk90RUREcGV2a1pXVUE1YVJ2ZG5WazdMSkVfZFo4bHFEdHVwZkU4ZVpqeTNYdG1CMGxBZnBYQ05RNWcwdGVjdmc1cENFdnloT2g0azNzTUtnN0NfeW5XT0VR?oc=5
+
+- Why OpenAI Has Had a Bad Month: Trial, Investigations And Sora’s Demise - Forbes
+  https://news.google.com/rss/articles/CBMi4wFBVV95cUxNanQ4VE12ZDhqMkNWRzhEZDloZGQ0cmFNWFFqcU9oX2tTZVNFQWlzdFB6NTl3TFdSTmNwVVV4d3poVjcwbk5TZU9lWS1BNnFxaV9zRlpZTXFEQ3FhYkIwQ2tlTzNrdW0wX0RyQm9sVUVwYnJNbXpldXlSSFBKeFB6NG1EaUFQMVNxYTM2S3MwWk92QUhwRGtnWUlRT2xaWGJVNDBpXzhmcGRDX0J3ZXNGYnYyR05wdnR5cFMzbExDYkVXSm1SdTh6VXU3UWd6ZllVVkNKV0pEc25jS05GcmlRUGc0TQ?oc=5
+
+- Sam Altman’s on top in Silicon Valley. Former colleagues keep saying that he’s a liar. - The Washington Post
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0taeG9XaFdzX2tmNVJTemxBcXdTdnVZWGdqWFBiNV9TWUJxRE9GbFA1UGduMGIzcS12OV9kUlJIUTlsc21OSE5WbGRiejU4emZ5LW5oYy1zMmJoeDlTaHpzeUVfdnlIWFJfMFNVSV9pQVNNdnBudE9HZk44YWZ4THVMQ2ppb09UakNBUzBBTlNTZE1TWjNnQUhHOTA0N1VSTnZzMHcycHBacnBLOTZ2dXU0cjRseWpGT21OWEdKUnA?oc=5
+
+- Anthropic Was Behind. Now It’s the AI Boom’s Front-Runner. - WSJ
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxPY05hY2JkR0Q4QXlUaXA4ZWNxNkRIeDR5WDgtWDlqVDEydUlwM1pjSncxWThMTjFPYlAyU3Z1ZTAzRWRLdEF5dXdJWENqNV8zbDJ6LVBmVXRZazhuWnpGdENobWx3NkplVS0zOFNhWDFjdU8zMXVOeG9uMjVPMm8yenZuQ0V0N2ZLRGk0NGpqd1RqblhCY1E?oc=5
+
+- Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens - Business Insider
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFlhakVHb3U4M01md2JiYlctVzdxMmZhTUU2b3ZXV3ZZT2hzTnFFYUpFVnh3dDlYWlI1eUJOcDF4Z0NwR2FzZzcxQkZOUkE2LVk1Y2tXa25jc1N0MFFWTy1TcWRuQ2xJNTFsRzAydy1yclV3NjhvNjNjOTR5b2REdDREbENMMTJXMkt4a0pBNmlHeDZFWnc?oc=5
+
+- OpenAI explores legal options against Apple, source says - Reuters
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlZZbWlPQmhLZEJnNXM3Yy1rLTdsUkg2NE5KMVhOejMyUERySElSNlVaVTMyeGQ5bTRTWEt3M2lManU0U2p0a2tVaVZVdGQzSC0yV0ozY0E3REN0QWpRTzRPbVdndTlael9JVW0yaGVXOFo1RnJSbm0weHZBaHBIaTFlQXRfbGVHY2MyRW5RdGRJZF9nU1VXeC16V3Z5RXQ3QTFEMDFOd1l1V0NjdDlTbA?oc=5
+
+- Anthropic now has more business customers than OpenAI, according to Ramp data - TechCrunch
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHBGQS1vLUhlc05aNFZzT0szUW5aQWZkWi1TSk1CTDBYelkyUXdSUXY1RTdMbGZqNV9oeks0d25DT2YyNlZVYVNkX0MtcHBjMEJ1N3A3TFh2WWJXbUhvSEd3bURCRlQzMEdoS0pOMlNJbWV5ZnNvX0lvVWZoUFplcHVOaEJaSVd4ZVY0RDhyQUd6TXJUamt6M2o5WV95bjEzUFVXLTZCZWtoSG5JakNnYw?oc=5
+
+- Musk accused of 'selective amnesia,' Altman of lying as OpenAI trial nears end - Reuters
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHpHRUktaVF5Qko2dWZqVUhNaDIxQ01SRUZta1J3VmhyTEtsSWEwRjVoX1pQbFdNQm1LVnl4MXhmdThpcy1ycWEtNWo3UTJnTUZYWW9tLXdRcGwyZVBqeWNWUm10V01WdE1VdkdRdFlsMWUySFhiUlR1amNCaDJnQXhtMFZLV0tGQlZNUzBZRjk5Xy1qTFA0NWM4LUVNc0VpNFdFT3NDeGRTR3VYc3AzNExVdmFRSUg1U3JueDlSVm8?oc=5
+
+- OpenAI just lost its enterprise AI crown to Anthropic - Business Insider
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxON09uU3dJRUF4SWF4U21rUWtmSkI1Vzc4bTFuRW5weWtjZ1lrZ29BeTZHSVZEYTctYTY4MFRIUW9iUlVfWWxsNkpJblVqbGZHSGRqMGJQUWVCbU9JSTlUUTg3Z0YwOW1PTS00cUdCWXhZOXFaNUV1U05mTEJBeVF5a2V1bUFoWmllTEl3TjRNRTlkXzRrVV93?oc=5
+
+- OpenAI Brings Its Ass to Court - WIRED
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBwSzNWanlzMU14S252dEVqZnMyd2F0dW5rLUJNZGN0NjRKX3lrX1V5S3RlRkZJaU5VYUpKNFFibUJadjVmS3V0UU5BUWhBTkF1NEZObVducW1QRWRLV2drVWYyZW50cVZpR3hacHRadEVBbnBL?oc=5
+
+- Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic - Fortune
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEppbVdmOGZYMVh3V0ZPNGFiOXVETkZCblhQaU5xN0w3bnBnZlFPM0ZuWUtzN1VsZ1J3bmU1Y2lFLUdYaEdVc3NycUQ0cENWNWl2cVFMeUJXbUtPWVV4Si1PZndBVXBtSUhzaHJzNmZnQ0R0MG1fRkxoNmpLS3NYME85TjlEZ2VYRV81T0pHVW42aEZQSV9WSkRpYU4?oc=5
+
+- Anthropic closes in on $30 billion fundraising round - Yahoo Finance
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGlINmI0bW5KSENnZm5DbHlfR3dSSlJQYmdyQ0JDQUMxcnR0QU5uZmE4NVFDYTdFRkM0Vk80c0hWZ1U3ZlhEc0h4NGdtVWdEdEFHaUtrVkF0VHdJOXVmNkh5VjRUQkpnQjVFNEZuX2RoVkxCR0hVOHo3RjFVWGNDN0JEM3ZhTndhdUp2MDBPRGgxRFRNd0s5bHZoR25KdWRubzZnWDJna3Q5ejFZ?oc=5
+
+- OpenAI Merges ChatGPT And Codex, Taps Greg Brockman To Lead Product Strategy Ahead Of Potential IPO: Report - Benzinga
+  https://news.google.com/rss/articles/CBMi7wFBVV95cUxNalRObDEwOFc0NUNLU21vbDhmNzlYY0Z1WUw5aUdBV01qRjM5N2U2Mkg4M0FkaEVQTDRreDdDOEhGci1id2FlcHltRGxDQkJyWk5hUUQtbzRGR3pOZ2MwN1pQcHRuUmpCLUtiQzJScGZwZ0UwRi14RFA1eTB6VHVLNE5INU5IVUttUmxTQ1JWNFRacm5KaXdVNVBHM1JxYXp5TlhCaHZyZW1LVVR1M2ZJaG9CdTdnRWpDTF9FcVBLMmM5cFNCS2tTYUFHcVp5b2ZEcVpDdGMxOG5zczdsb3E5bWxibWFGZVQtQVlhLTJYSQ?oc=5
+
+- Apple-OpenAI Alliance Frays, Setting Up Possible Legal Fight - Bloomberg.com
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTFQQWIwbUlnN3hVWXlZYmpZVnl6aUZPTTU4MWNldVhKdjZ6M2t0ckpGTnEybFltYzJzY2FKa0RKVnBsLWxYaTlYTEZKb19oVkZpc2ZCTjBZaHYzU29jTWZ2OGtQbmczRHNxMm93SUlYX0NvQWZ5T1FTYTRKQkUxZkhOaUdwSlVtNkdpYS1Vd3IxSE4zd3FnVnNFNFJfVElCZXo3RWNPSVQwS1dxdTZ3TWxjbw?oc=5
+
+- Salesforce CEO Marc Benioff Goes All-In on 'Awesome' Anthropic With $300 Million Spend, Hails Coding Agen - Benzinga
+  https://news.google.com/rss/articles/CBMigAJBVV95cUxPS0FSdVlCRFc1ZFNFU0s2WUNGSHVwc0JwZTBGVHA2V1ZLVnIyVXlXcGRIdnA5cTFHZ0c1bU83VF9ILVdZTXB3MlVHRGNRdzR6RmpwMFJ0bTRWQmxFSmJRNmpiR0dyelI2czFZaW1yZGEzQ3ZrYXVwZnRGcERxY0lxaThoSUFjRHduVW9wMUNFbmFUeU1KTXVzU2o1UGprcm1zZXRRMzFQOUtRRmlzMER0aGMzeHhnMFV1Qk5Wc3NBTUpONVJfY2NnNmtKdi1DNm9YeUh5RWxvMG5XMm5CMlU2NzQtZkN3NXZMdnNKRU10RXZEc0dxZEZGRXhIM09nQTZP?oc=5
+
+- The OpenAI Jury Has to Decide: Do You Trust Elon Musk or Sam Altman? - New York Magazine
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXdHOUFYSmpFTURlRlRWT1BOcHI1a1VobDBCazJOc3ZrTVdDUTBFdE4yTm5mcEJkLUJyLUtfMmh1Sm81Vk1DTGVza25ON2JLMHRlZmJZTmVaWmNJd01NSlEwYmx0czZ3S254c0tJcFAtVUFyV3RfTEIyNURtWXB1ZVUyc25pbUZhRFZmVTdfam90YzhTV1JyS3dHbVJlNFBMQ3ZTU2N3?oc=5
+
+- Musk v Altman - 5 big moments in the tech bros' OpenAI trial - BBC
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYei1kOXNQdzBNZmxoSjZNbmJYSWh6dThtN3ZRbkZOMU5sdlROd293d1Utek5ORUNyekdKYTlha0NESjlGS2habkc1QVM0Umt0LWNKQ3RMcnR4Zw?oc=5
+
+- Closing arguments conclude in Musk v. Altman, jury to deliberate next week - CNBC
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWxQVkhQTExvc09UWVlZZzFhZWhWSVhlWnhDSDFsNHRQNXdzU3o5eWw4TW5mUV8wSW5BVDdpRW9DQ2RpYjZudWpfOU5tVVFmbWNfWVJKOGh6T3lrYXhhWGxvS1QwM3dxRWJudjd6b1NrUEN3SXlXc01iODZDcTBzbnd3X2HSAYoBQVVfeXFMTU1VYjhPT1JwdEZZNm15Rnd1bkRLR0FlcmpuLXFrLXpNWlJSNk1Pd25hLW92STFIOEdaWTBmMWt0VjJlWXlGZFNVa3JhT1ZLVUdkazFqcHdtWG5SRzRvdWUydTkwR3dxbnc5WFdWRHdNLXBfaXg5R0l5RlZhajN0NWNQSjRydnM3RlJR?oc=5
+
+- China Sought Access to Anthropic’s Newest A.I. The Answer Was No. - The New York Times
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3RGem51eC1qcHNVWVlDb1hxNDJOb2M4VGxqOFFtMWt4MGlQUHJWb3VqQ3NHSzZBWGdlM3FnaS1vQi1lcGs3elA1U0Z6STZLekxOMU81X1Z5cHhWNjdVdFFJMWw4VDBLdEU3S09JcTFNTzl4NC1fbU5fODQ3NGN1VUF5R0E0N3ZUV0VETVk3UWowcUp2SVZZ?oc=5
+
+- Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead - Venturebeat
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjR6UjJXQmp6ZGNlQjhHWUlwaXBYcHc2aFFkRmZLSEQ3eHYxVmNmZkFfY1JLQmJVUU4xaXRHejJib1hORUxjREh4eDNJRndSVVdxX3p2TWVZdHctbnB2VnB3RF9rSFF2MGhQSFZxNmpPbnhNNERmUG1xYUNiWU8zRnlnVWctWXhmZldBaUwwRDV1OGszOW9iVVBiVTVKYjVyWGE0OUk4NDZxVDZxY2l5bFNGTUtIRG9lamYzWFREQmI3QlFTYnc?oc=5
+
+- How ChatGPT adoption broadened in early 2026 - OpenAI
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KaU1rNjN4ekprc05Lblg5RFRJdy13X29NWU9pY1IwV0JVQ1BxNjN6dTVRQkJSV0x2RFJxYzVFZXdYTTBVTFJFY1ZSNG1IOEFRLWRSVkZ2OWV3d2pmZXVz?oc=5
+
+- xAI joins crowded coding agent race with Grok Build - CIO Dive
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE02ZE91NTBEQ3A1VktSSmMtWjBSa0c1c09uN0ZYdk55c25EeWJ6UGZQTHcxMms5dmtsS21BZC1DV2M3UFRiSzluQWFrNWYyel9nRlRHZExBdnBINDFyQVE1M01aaUlsT2xSYnZENDhZSGk3bmM?oc=5
+
+- Musk's China trip during OpenAI trial prompts apology from his lawyer for CEO's absence - CNBC
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0pmdVQzWl9zVWFhbkp0MHJyV0wzakktTWhnaVduSUdjYTVqYWpSS3VpT0I4d0dKSW9XbGIzMkM2RTlyX00zUEpnem9aYUpHa0NOOFFqcVdWVHFmWmNuSXdtbnFpajRmeHFXS2E1emRPOEZYQkZreUhsYzMyMTFtbTZNOG1KYmxQSnpad9IBkgFBVV95cUxPUU9aY19RcExSdzZPU1FNOWIyd2tlT0JmcG96Z3VpNkFtTVlmMnU3bnpCOVFiUHFNalpNQldJTjliQkUxYllPM29Qcm5HSUk1OHdzYVZWYXZWejd1WkRSV1pUdG9XWXNjaFppVFI0QWpfWGhJWndnNkFSSEY3T1ZsZ3duS1BXMmJYNUpjdHFDVDVCdw?oc=5
+
+- Tristan Thompson Invested In Anthropic Early After Attending NBA Dinners And He Brought In His 'Buddies To Make A Bigger Check' - afrotech.com
+  https://news.google.com/rss/articles/CBMic0FVX3lxTFBjRFl0M2dIR21QTF8yVUVlRG5FM0ZrNDVseWxJWmlNTHZYU1J6QXo3SU8zRmRaTWNySy1nOFB1WS02R29ZUTlfeDNza0FWZjZmT1VfeUZEZ1dHV0paUTREZjRvYU5KeUx0dXN5Q21SeUU3U28?oc=5
+
+- What’s at stake in the blockbuster Elon Musk, OpenAI trial? - KRON4
+  https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2ZlX0tSaXdadmNJd0tZcDc2WEJFeUJMTUY0SzVBcVRxNVRWS04yRHo5Q0ptRllZNEtwN3JHT1JsMk13RWNremRXdGYzOHdxUi0xXzJEWDdNOTNaWXY3cGg2TXFEa2lPbXFUZ25MdFVRYjVzX0kzMkJWR0JSenV0M3hiSjZZZTl2TlRIbkFzMVlhQ3VGNVczVW1lNkFucUnSAaQBQVVfeXFMT2UzQVVBbVFnUnoyRDVIRERLN2FRVkktOXFuUVhJLVZDUEV3TW9ZaC1uQ0hvRkFvSGl0YnlINWFUVHJ6NVdXdU01Qkxjd0JUNW4yQzhZaU94Z3NSTC1pcGlVamh3UGxLUnFYaVUzcy1LNG91LUpRZ1RUOWczTUZlZDY0STk2a3pvR2lxbnAtR2RCMFFEWmRwbW9nSjhJdG5wcHdsNE4?oc=5
+
+- Elon Musk’s Grok Is Losing Ground in AI Race - WSJ
+  https://news.google.com/rss/articles/CBMie0FVX3lxTFBBRDNiLUhRajZYcjRHY05vbWhxZm9uLXVHNXItanQyMzc4azZEdGhqTUk0dTNPV0J6d0ZXV2N0N2t6dUlIWmdscGpoVWJLX1hSMnFKZmR0VGc1a0FfNEpsMHVpbVAzZUhNRzVXbjFvNExDWDhkQlk2UEdBUQ?oc=5
+
+- OpenAI previews personal finance features in ChatGPT Pro - SiliconANGLE
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUt6MEc5MTU4NDF1UDBrNExUTUNEUzlJNW9XS2hXUWZOTzlJdHQwSWNWT0tpcXl6azY0Y0N5ZnhKbFJjajQxcVF4OHkwYjB3S0JrWmowamU0RVFUZXc3RnRWcUttUHk2NzhsRThkMlhkTVZhaGNZQm9KWlB6eTBlcGh0UWdVN2VTTlF3aVlQZHV0Qldf?oc=5
+
+- xAI Introduces Its Coding Agent Called Grok Build - Engadget
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE9hcnpRMDlqRHhHUWZjQWRSQ2NocmVYS0VDYnhGdll2X0d6dnAyUk56b2NrYW5DaDlPbkprS0lYcGVZNnhqR0Y4d0dMUHFIa0QtVC1udV84U1lFanRURWdDRFYtYTVPVWVMaFVBbUh3?oc=5
+
+- Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says - WIRED
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE5YVkh4ZzFLbTlydFdOdjlXVnE0MV9BZkNUdlhXR3lfS1FhTVJ2R3VMa3VabHpJcmtPWF9HekhWcnNJMjFybmNZdHN1SWRyT1RhamxWZGlqejlZeTFVc0o5ZF9lTVVudHp4YUZMYW9QZWViSWd4dWMxYQ?oc=5
+
+- OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows - Reuters
+  https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDUxQUx2TDdmSWNrbHFMd0pRQzJXZmd1RDJkNHFVWl9heHZLNE5ibVhYS3JhS0JkTjZHT2VEam9lWnprZkhLUEZiMnJLNjdyNDJxSHRvUzAwOWJvNTFFNEJWZTJhMERuNzFiSmpkaUk3M3BIVzlXMlhzYW1SSHZ0WEY2Nm5idnAwUlVVcV84NVR4RFJXanNaQV9qOVNkNUpOUWZhYzZXOE9FdEhSc1Q5YU1XZ21lVkdRT1NhSmJ0akQ5M0hGTHVsV0xB?oc=5
+
+- OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned - TechCrunch
+  https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd203TjJOelZBR1lpSDV1UEl2VEhxS2dPbGItOTlCaFVmWVlEbXRFSUpVY21oMzNjWENwZkFFX0RiTVRyaE9LQk1uV1lLeDFEaGxpLUJwSVZ4VkpqUVRtVWc5SGxuaGU3d1FFbFQwUHg4MGIwWVQ4MUxfWHNjaF9tano0RHZZZVhSVTdXNUJDNmtmOEVXR1pGckdOMkQzZHFIZkIyZWxCbHBvWm9XSUdnTWNfQkFQbzBfbUhYX29INlBSYTA3SzlEUTBaRzlPUjNMMHFhUUV3?oc=5
+
+- Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. - WSJ
+  https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZk5ObXgyc3dYYkNQMU9tWGwyZVAxdVdWa002T0dwaVRrZTY5OW5CVmwzcl9Qa2p0R25jTzEyMHQ0RTNKVXczSXhjMzdFT3pYbXplNWo0UExaTUhPYS1GMFVqMjg4Y0plaWlqTzliQnQ1aDVuLWVQZw?oc=5
+
+- I've seen Sam Altman in action plenty of times. Here's why I was surprised when I watched him on the stand. - Business Insider
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkJJeEZLdmMzdDF1WWJfU1dBZ0VHV0NRWWVGcFlxUVJiVktkWGswRmNJSXdEVktxX3lFbFE4SzF5eFpnbGF3R21XQmhNOHRmenFSdk8zamNIaGVQRU8wV2FsMkFQaVlOSGxUX2FEU3Y4dG5MR3BhZW9Nd1VjV2ZoYk9LSjNXTnlnNVNVaEpHMzlwbjda?oc=5
+
+- Anthropic's hunt to find the next Claude Code - Sources | Alex Heath
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE1GVXU3NFZYcWhWbWp0TmZTM19wUWJPbzFxSWV2V0RGRmZObkxqYVM0dXUtVDROdEhRSnRJN1Y5eUtOOXVPaFpiZnV6a2JGQUtaWmVOVTFoS254WjhsVkJxZmFPMHh3aEhBem1OeFdES1R5S0hCaDB6XzJPNmE?oc=5
+
+- Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury - BBC
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zd2w2OTRiTHE3YWVTejVVbC1LSUk4VkVsel81ZF9SNXIxb3BlWHJUdTJJZUxndUdGNjNtVW5aMnB4Q2txMnhKY3ZCZlJPU0VJUGNqWkNRVWYzdw?oc=5
+
+- Anthropic agrees terms of $30bn funding deal at $900bn valuation - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2FWVHNxN1hqbmpyRUhkc0pNUzBSVTFhbXJmZlN1Z2E1VzJNOVpobVdlZXBUTWFhdmhnUi1nTk1OU0pjekpYaWNTcmVBWjh1cGE1aHdnM3R0R0hfLWFmUjk3ZWxDOHRtZnhLOVBuTlV6V0FjbjVuSm9vTThtZWpkZ3dpM28?oc=5
+
+- Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval - Ars Technica
+  https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnpORkg2UjU4SUNieVdRNHoyVVZ0T250aXpxRzZOX0tTWGJ1RndXZHY5YkhOWnpPLV96eG90TXhWQVBIN2Q5bmhsX21QWERvWVJrU21sQ25WQW9qN0dfSzVfYVdpOUw4b3NRdm55TXZGTVBqaXhIOVc2LVR2QVNhdjBkT3ppa19vRXFsdkFrZTlQZUtkbTdQYTNabFFDZzdiNWRHd0VzaENJWFVWZG11OE5qdndBYWRkbWpj?oc=5
+
+- Building a safe, effective sandbox to enable Codex on Windows - OpenAI
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMlR1RTU1M3ZSMkpvdWtPY0t2R2hTVUJ3ZG5WcmlkSl9jdlZucE91TWdWRmViSDkwN2MtRkVjWFpQQlJFcktYTHJJc1dmLUROMU1yWnhaYjAyZDQtb0VDbmNlSHRYbW8?oc=5
+
+- OpenAI CFO Sarah Friar and Anthropic’s Krishna Rao Are Racing For Compute Power - observer.com
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBqdTVjbDZ4bkl3UDZtUEVsMFVXX2RDMHVyaHVjX1pkTGl1c3ZEWkx5QU5aWGdhM2NuV2k0WDVxOFBhWUJ1UWV2X0l3YnZqOG9RalpiTnI1VUl6cGVBQnlYZzBxdVZ3V1Y1VDhxa0xjZw?oc=5
+
+- Sam Altman Is Taking a Lot of Punches on the Witness Stand - Mother Jones
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzV4dDlSV2xyajZrU0lZby1UWkYyVnJKeUV0TmFXdlgyRlZiVk92VTRPQVMxNldwX0dpMURKSm94VlZweGFHNklmeFpzOEtLMkZHTFFqWElsMVY4N3VXMVliSk1KcGFUUEZmR1N1R1hhMjhjZDNiR3R3aktSaFNQaktrZjB5cWRMR0p4dm9QbUs1OVZFUWhkd0V6MA?oc=5
+
+- Why AI safety controls are not very effective - The Spokesman-Review
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVNXNFlocURMX2xjTVlhS2J1UFNGN2w5ZG5uWm95dEExTlplUjlNWkVtZS13MU5jbU02al9iWTU2Q211ZlNicDFKMGZ3QXBHWElvX2NoNGdmcjVmcXprc2owWFFBY2dTalo0ZGNpZFJ5Ym1COHpoSk40VXZoS2FQdnRzVTJuSU5OOXQ1QUNKWmh5d2hOd3E4?oc=5
+
+- Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future - AP News
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1g3eU5TWGVoR1RfRjh3UnNqamJMbjllbjlmM0dkTFpoTVlLdG0taHR0Wk9nTGRucXRJWC01aWhVZkFPVjl3dDJqX1lFTWFYWHBRU29hMmJDcmh3VF8zTWdzdFFRTXowVUUwSjlCUFh2dVVKWVBwYnZaSGZ4MDJPRnVhVmRsdFZrT05HUF9TM0h4eW14UzBfM29hc3pIY0JiYi1PbXRxR2N2UQ?oc=5
+
+- OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say - Ars Technica
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxQRl9iTnlSU1Nnc2lYTEFIMHEweEJ0dTl2WkNKVHBhTmRJdEJOamE5eEYxNm9SVU91VlROSUNHVGM0UGk1cmJ2RXRvQlRvWTFPWC12STRVNFBueEo3cE5odEtRZEJwSWR2Rm8xLW5rVFNCUV9CQ1RPU1JVVnpNWTU5VzJEOHB1S1FjaWtaTFBwN0dHWEk2NG1ZdXVycWl6WEZxTzA4Y0QyYjNTVFFYenpaZGtfOTg?oc=5
+
+- Sam Altman’s Business Dealings Under GOP Scrutiny Ahead of OpenAI’s IPO - WSJ
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEpEYXVxcEo1OG10TGhWcjhjV1U5cE00TUcya2hROGdKREdaNWQ2MVN5c2VYT2ZOd21xWXFFeHVqTGtLeWlURjBWTFl3NnlaaUE5VWRIbWxicnp4Rlo4LXo0RmNWQ2FoU2h1WklnMHFtWDJnRllEOVNvTmNJazFnZjdlcjd1Nl90YkY0QlkwNmYtTVhZRENKMFBmVTRHMFlSVGcxRl9UUjloZw?oc=5
+
+- Anthropic Warns US Risks Losing AI Edge to China Over Chips - BankInfoSecurity
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzJuU0swdFExQWR4S2RnTExNM1B3V0kzTEptNmoxZzRtNTR3ZUJaRVhRMzFtbkgzcE5odkJJVXFIRGhERjZ3ejdsZlJOLWQ4aDZkVXlYTy1aZll4LXphd2RIdTJpMGdyUEtOTXFrb3IybDI1UTNqcGdvTEJmY2VSaVZvZWR5SHFDXzBFa2MxbHZELS1GNzlLSHltcWdoU3J2Y3c?oc=5
+
+- Databricks brings GPT-5.5 to enterprise agent workflows - OpenAI
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oa01kT09iaklIZlZRMEFJZXNCdTM3azhlc1NuVloyVm9nR054SWJBaWxqdTg5aV9WNDRpeFp3REg5dTRseDlUSXhzd20?oc=5
+
+- Microsoft’s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk’s Lawyer Claims - The New York Times
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2Z5M01YdmVfUG1yRUxoSXdod29WY1RMLW1TOUxRZzZ2RkxnUThNTzJzUU5tMGN5RmxsRUVLSjNfX2lhM1NRSWswa3htUzktRjdCVHJPSlowb25iLXJLY0FFTUFxRkJVOE9WZm5UaFlzNHJWVmphWXNtVEpZRWhNYnhEbHhacWgxOVE?oc=5
+
+- OpenAI Accused of Handing Over Your Intimate Personal Information to Meta and Google - Futurism
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2xQVG5meVVGblZQYk5MR1EzdHM1NzhLbGVubC1PN19vQ3hwZlAxQmN6bmVJcWRCWnpYTVZXZXBMbWlJaTc1b0pJOUlScGZGaDJYRHFjbjRabk9SakswcEhycXF3ZnVCVUtsRUdoSl9WRU53RTFBU1JfMk1tVXVTNENhT1lBcUlZem5Lcw?oc=5
+
+- EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet - Reuters
+  https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5
+
+- Daybreak is OpenAI’s answer to the AI arms race in cybersecurity - CyberScoop
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxQcldaemtFd3ZPWVRmLVZYVUJIU2haRFc4UmdwUzV3aVBQQWlmbm55V1RwNF81OEk3eVpmZGx0eFRWY2lvMl81eTZ6Qm1rZEFySm1ETEFFdmdOdko0X295WUJ4SURPSkkyMjVuQjM0RVFxQWNEMGQwc3VvaG4wV2k1Z0lxUks?oc=5
+
+- OpenAI announces personal finance tools in ChatGPT for power users - Mashable
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3IzRnVIQ3dtX3BBTDhWTHN5OEdDbWdZLXhsYm1wWDVlQ3RkMWE3NUQxYXR6TE8teDVQVDJvSmZMLTdBN0dtb2xnOW4yOUEwWGx1WWZIbE9lLTZHbmJLVjE1dTlXcEl4dmJ6WFg3amx4d01MTEJPd0NMMFY5bTBBazRB?oc=5
+
+- Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. - MIT Technology Review
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE9sQkpHelE1QXdqbm85ejBObFZzU19qbjBodXNqMVcyQkZyblUxbzctZ3pMRElqR2R3alhzSzNMbEhnTTkzb0VJclhoUE02QkVTb21La041T1hXMmNlVUtkRHh1SUJvdURzbzFFMWhqeEdGMjRfbFJGbm5LR2xLZ9IBgwFBVV95cUxQcS1IZzBWQ0tjdm1nSmVCRnhvSTd5MjBIRHNsM2Jpd01kOGpqRGlGUUh0cFYxblhsM3VYS0dxUlBscjU1QVlySzJ5NVRCdFIxOTdKRXlzSXoyTEpiWF90b1ltcVFYUWhnWmF3VWhOM3dEUkMybFJESXMzYmVCblVadGx5aw?oc=5
+
+- Higher usage limits for Claude and a compute deal with SpaceX - Anthropic
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZXhOWkRpY080blQ2aDkzS1Fwb3FYWUhGM3FGUzNIbWNyYXY4cVZMaDYxMDVFejU1UGFkblVXMDdwMHJFQldvRXBUeXpJYUR5amgxelJtZ3dTU0U2dk1Taw?oc=5
+
+- Musk v. Altman — Day 12: Case heads to jury after lawyers clash over OpenAI’s mission - The Mendocino Voice
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxQT0NIZUFzTi12cFBqcmdhT1hRbV9oLUtqdUl6NlNudFNQM3lhZE1TNFhnZEZ6aFVzcXQwNkNnSDBqZE5YMWRpRklhR2tRaEh5NDgtbzdPMWFkckJ5NkRYOWI4ZW1IVVJrcjV2QnRSeGZEY2ZaWDBzaXY2cXRaTEl3ZkZaMWszR3lTeXNpeFBYd0FfekxDMnZ0VkFnLV9IMzBYOFZBTFR0bkZZLXpaUUJzRENR?oc=5
+
+- OpenAI says hackers stole some data after latest code security issue - TechCrunch
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXlHUC1IMnF5SEpSaV9zVFZ2dU9fODBfU3MxZmVWSzAwTmNmLTByR2VGMzdWYmtRS2lpbkN0eVZfRVhJVTRqSWlKOFNYWnV0R1RvaDQwaXBNemR1dlB6cWR6WXl1XzVCQmVzR1NReTFMNVlGek9EX3VZNnU0OG9ST2g3akFobDJYQmpoZ2Vlbl80V09wSDJXdTRIbDB5TEFheUoxRW9R?oc=5
+
+- OpenAI, Plaid to Bring Tailored Financial Guidance to Masses - AdvisorHub
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGcyZ2lEWE42bjMxMW9kQUdhMkNNbkwwWjc4aE5EZnRoYTBJWDk2cUMwUWFqVHlmRm03eFlKMXhmWXhreHRxMHJaQTN3OExEdTdKNmZCa0pueDFKdVYwbXZDOWJOSW9tQXJnb0h2STU0bWk1ZWotREdSNnQtUzZObFUySEZSQ0lEWkM1eDBGOEc?oc=5
+
+- High-stakes courtroom drama of Musk v OpenAI hears closing arguments - The Guardian
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHgyZGdZVUczbXlMQkpJUFcteHd5cmdiY0NZdmxDYjRvUWdrZU1KN1VnVjRzUjdCUGdmOThrYkJnY2E5MFNlYzkzLWRra00tNGZzQ29UVVJ6LVdmM3ZHaU5SLVZlcy1CYVJNU01nanFRaDZwNzdvWjg0WExnaVpVVjBDc3BRdVY5d0JWcU43VQ?oc=5
+
+- Leave Those Laptops at Home. OpenAI Adds Codex to ChatGPT Mobile App - CNET
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDYxdk11blFlN0JCc1R2Y0hRdUMyWUVhd056eWhIZzQtS05WbmJPMG5ydm9FdEtrOTFrSmNXTlQzZ2lRMW5WLTJjOXNsMjJfRG85bG0xZXNCemxfdmVoVWg4ZHQxQ2ZRWDNMX2Q2Si1ETVlLaDR4bEVybmRDemY1LU9xeGVjbHh2cHI3czF4VFZQYjhPMzFFbQ?oc=5
+
+- Agents for financial services - Anthropic
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5
+
+- OpenAI trial: What's at stake for those involved, the public - NBC Bay Area
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE5FdFd6M3RaN1J5OC1oNU9tZGN3U0N0bXN6ZzVGbzRXUmF5SGNaZzhSTGwyNTNwZThfbDA1RDR3RGtWaTB4a3ZXdUtaOVdieWZJWEF0TzVLWEFvZTA3WE9xUW9BcTh3a3o3VHIzTXpJamJvUGJyZVlqaHRhY9IBgwFBVV95cUxNTmF2bWxJOVM5OWdnamoxSVdvdExsV09jWFl3eGZWQ05FbFRCc3NXdmZDZTBRT20yX1A4QW8wUnlrMkNsZ3B0UDhUcnRDNEF4WnB2cllIc2RYeTZiWVBwME1naF81V0RBSi0zNTItUmxDdWtCMTZVV3ptYUVtRXZrY2tFWQ?oc=5
+
+- Anthropic's Mythos is already finding security flaws in Apple software - Mashable
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93dkg3Z2VRVFhDM1NiT3RRM040RHdLc1p6WU45Y2xMLVdWd3VFN0o3dkdNSl9PMUJsLVpJUlRTUTNCTG45RC11ZXRqa3Q3Rl8tc3lqQnJER3FxUTBCM2JOV0J2SjIxNzA?oc=5
+
+- New preliminary hearing date set for suspect in Sam Altman home attack - NBC Bay Area
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUZZU1Y5OWJqSTVhblFFd0ZCNTFCb1ZpZ3lyZVhnMEZjNDgxSTRILU0yMGNnTXM0MDRIcWxaOHE2Sk9ua1lFOE9KMW5JZXJqQS0wSy1oUS1qcUVPSzZ0MVp0MndMemV2SmkxVjZISDdXS2NtRVR2dVpPbGNoVzVwdzRPMFFCRGlnbXRoLUx1N1AycmdUejcwQ3BMMUNPVUtWeGYwT2V30gGuAUFVX3lxTFBlNnU4eHI2aDhEdjl4X3dRTm9mWGpOSmNJZUM5dmhqRTBvbjBILWpGdVpuWWRWbWFsMzV1MnVnZHU2dWJJd1gzcUZlQUd6azQ3UmVsbUdMNU1qTUZaTGRnUTdadXRUb2VaMnpZNmJjc2RWSEpja2E2Yl96YmpnTUhFREVHSEZ6YVBYRG95UTZzdEhia2xGZ2V3SHZZVzNjcFNpUmZoTHBaTEFCeWRrQQ?oc=5
+
+- OpenAI May Raise More Money as Compute Crunch Deepens, CFO Says - Bloomberg.com
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDF0dmJaZ1doTkxSVC00SVhSTmNTUDh1MWNUckdSb2NhNlhFbHJRUGdFekUwOG5QYk14RHZwODdkY2htbFlFVll0UzBkMWtlN0szc09mOWlxYXVZemI5QXhfcGNMTGhMb2Fic3lsZlJxZW5oakVPSUFPWVoxUW9VWlE0NXA0TnF4bkI4ajFkS0xJUGJJZW1BamZGdzV5LW8zek9ocjZSaUhibjZqZmVUd3FjRQ?oc=5
+
+- Court grants Musk’s bid to add Craig Federighi to Apple/OpenAI lawsuit, spares Cook - 9to5Mac
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2lrUFM5bG9mN3B1Y3RDekpDUjViVkFtWHBtYi1NUVd5b2JNVk8tOEtiMm9yZUZVdWZBbXZmNEdnR3VKSUNMUlVSdDdwWE9Jc0JJZDR2YUd2T19kLThSb0duY1RNR3RCMHhRSldOMjhIa0E5M0dtRE03MF94S041T1ZWWnlTZGRXbmxXSFJORGlDTVU1ZlJLdnJ2dk1IVndzWGEyMzZ1NmRyVUVVdVdlTFlzTQ?oc=5
+
+- Who Won the Elon Musk vs OpenAI Trial? - Gizmodo
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE43QThneXFKZXQwckVWZ0hXQnNPX3NROHdaODNxa0lpcDVTYkkzc3B3Z3NkZ2dXXzN4aGdPcjF1QlNuSTlTSGFNSGdSWWlHaGJPcUpuRGxEeTd1WS1lY1FsbGl6SlpveVZfcUR4bnliN3RKdjI1QXpv?oc=5
+
+- Teaching Claude why - Anthropic
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5
+
+- Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs - Anthropic
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE5ydjZELVEzZzQwTUhWQjdfMnZxV2pPN29pLVkxNUpSUWVoN0ozOFBBcm9iV0tkckJyaVdnRk1rT01UclJaQXZtSGdsem03dXNDWjhMT2toTTkwcHlxZGJfZVQxWUI5MzFOMTBjZEhn?oc=5
+
+- OpenAI to give EU access to new cyber model but Anthropic still holding out on Mythos - CNBC
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2dIWFVoOVJJTHJvVGpYZG1kNTNoaWE1a3VudWpGUHpYMDZENVB2eWdJdkg5dlhRa0p3Y2dCMHJ0bmJEY3N1QUlESGstbzRPeVRNSmNsU3lQaUQzTko4OXgwQUpxT29uZnE4Q1AxQ1VDMm9wVFN6LUZPUUI2a3ZpbzFTLW1aZ9IBiwFBVV95cUxOY3ZteGJsV2E2YVNJSG40Z1lwUFpBV2Rvdk9FSHZZRHpkRlk0azdUaVdrNFozMTNrZlZSUWg0ODU2V29nNXcwSE5jQ3pINFdQRHJHUnFtdjFSaWNod1EyWHZkSFd5c0lZZWJxd3BjUnUtQ1A3MmRKTVdMMG9OeS1CeXVwVk1qNE1tZV9N?oc=5
+
+- Anthropic really doesn’t want the US to help China with AI - Sherwood News
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxOVG9mM1pJNEVGbkJXNmZCNlppbGdfVU9iZlhyNE5pRWRya041U0lqY0lJaXpQa1VYV2ZBWmEycC1ZSWRZZ2R0QWRzTG13aHB4TExsWjJmVU00YzE5MkVfSFV3OW1Ya2xncF9DRUxuYzZ3N2ZycHNzQWdyTlRyWVpCRWJXT3BIQWZWUE9OdXpR?oc=5
+
+- What the jury will actually decide in the case of Elon Musk vs. Sam Altman - TechCrunch
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxPekpGZUtYUWdlVDJFLThLTm1Md2JxYnVkM2RTRmpQdGE3Z0ZsVDk5TFRUaFdLUFdGd0VwTTdSN1dXUjl0UGlZTW00dFY0cHJLaVpWUWxEWWlhRVhnWi1zeS1MME1ha1NHNGRQdUYxOWFCVXp2WUhWVW03MndfZmFMajczVEZ2SWNXTTVQcTFYeTU2eW5HQkw4bFA4TVVaeFprSi1kVmMydWxaOWY4?oc=5
+
+- OpenAI sued over alleged fatal ChatGPT drug advice - MobiHealthNews
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxPckdiZzRyOWR6Mjc1OFVMa3F4ajVWUS1MWUlZSkhTRGZYdjBSbnd2OTg3WXNVQjdvWG1xRXNoWmFOR2N0TTUyNUpiMkZRSkdyZDhndlRnVTBJUklhTlUzbG9zQjROTEF2b1pkSDRCV3UyQUFKZHA1N0t3OW1JdnFIaHBFQnV5LVBRSG81UlI0OA?oc=5
+
+- Brookfield Corp (BN) Invests in OpenAI Unit. Keep Your Eyes on the Stock - Yahoo Finance
+  https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0dXMlVtRDdqM0ZuWFY5NFZjTl9CQTd6eDNYcGpWYU1UU3Q5ZWZGQm9SSFlrVVQtdXMySklUblFvZV9QQ0wxNVJ2bHh0UWw0RWR5a0hTWTlwellnU1R4bVZBaW1oanh2c05GWGhmOHowNG9iVm94eXBVQXVNOHptUFhWUjE1U2YySGtIZDZYdUVZSktLMG9SdjdDMVFYN1U?oc=5
+
+
