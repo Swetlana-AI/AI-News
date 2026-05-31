@@ -30895,3 +30895,306 @@
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1oaWVkdmRQZVpJQjBjdENIUHhiQURxTGdiTFV3YUFzZjJnc3ZkVEpHZEFGTFdiUzdiUGk2MjRuMy1qYzM0cXJvb0ZOTlA4ZkppZnhfTjNWSHhVNkM3T1p1UVRrRjJVd21CNlIzX05PS20wX1cw?oc=5
 
 
+## 2026-05-31
+
+- Anthropic raises $65B in Series H funding at $965B post-money valuation - Anthropic
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FbzhQTWUzSGozVXNfbDYxWWUzTFBZZlpldmQyeDBnSExRdHVMSkJyVVV4OHdlNmx3LVBFcHVXTmJ0ck9TclZvVVlPRnpoZVhW?oc=5
+
+- Sky-High I.P.O. Pricing Isn’t Great for Real People - The New York Times
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcjZxSTJ3UHdVM1pzZWVfZ2ZoT05GY2d0cFJqcm52aUlTYUN1Ri1iS2x3STh4c2pyRjdQbEk1bEZUUjNrQjExTnBOODlrMkRqR09SZ2c5MW44akNDdXdNSzU2SXY0YTRNR2wzaEU3TFFkSUpnSUFxOUhwZWVVOWh2cXF1d3l4eGM5eWRv?oc=5
+
+- How Did Anthropic Become More Valuable Than OpenAI? Here’s the Answer, in Just 1 Word - inc.com
+  https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0l1am5tSGYyenBGMENzZzV3SmRvOHN2Sm9HV2swb08xdG4tOWM0OTIxSjl2bnBPQTE4V014M0FUNWJYSWZMaDkwUUgzZVlEQWRyVkJPc1ExWE42TUJ5QTZjS0hQVklfVEFQakJ3R3B4T2xBd195NHVPVzN2eWtTWXRVbUhXV2NUYkRiUzU2R1dPSGJxT0k2eDJYUXpIWmVBdl9QSHpNcDVhdjNqbWhVSzBXT09QVDQzZXQ3LVVCaE85TkU?oc=5
+
+- Strengthening societal resilience with Rosalind Biodefense - OpenAI
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVNLV2Y4Mm1Obk1QM1g1anpUQVBrcG94Vi0tUTZhTXotZERLdnM5NzRYMjZMTFN0ZkxGTGY0b213ZE93TXBQQlZ4c2d1MHNZRTE5NU8wNEpQMUVVTHU1Wlg5NWtKT3F0cF9SZlNPckFQVFFoMk4zYlpTdXh4M2ljb3d0RVJLY29fc0U4Sg?oc=5
+
+- Anthropic overtakes OpenAI as the most valuable AI startup - Axios
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1PUnJYZ1V2cDA4MFFqTlFlOVdfZUFIb1JUeWZKc0d4Tm1GWWhBRlJtTXZIN0hkb3BLYkIzRmxCZFJIUE5Yak9PZDdvNE00VFhoWU1UZVMxbkdtVXFBS05SQmV4TVdpOGxaaUd3V0p6WTRuQQ?oc=5
+
+- Anthropic’s Seven Cofounders Are Now Worth A Combined $116 Billion - Forbes
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUxscW1mTk16NDhWX21STmU0Y3hGVVpnS0I4dGx0bU96bUpkYmdKQmZmQlA1Wk5pSXgtZnpLcUc3QWJPTnBiUXpOV3hDRTJldVdlU0RseHJOUjMxcElJSFZDVWZ2QXRrVWJzMXc5OGlGMndDdlYxZTZSZ0F5TU83YTFkNng4TmRh?oc=5
+
+- Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round - CNBC
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE55NUFBcFNtS3B3SU9zTmxpZ3hkVlE5UXZqendEb1pIcTIzeXBuSFVLX2ZKSXF5cmljZThjVmFFcW9xVDAyUE5LRHB0WEdlMWtXdEp2ZERJME9PZEV5RkRSaHkxRzBqR2J2UHRTMUR5a0RlY0dVb3ZB0gF8QVVfeXFMTzVRMWxaakV4Z3J5WFA3aERDUm1EWXZDQ2pDS0NnVEFSd0VuelBOeXd3cHdPdWFNUXVIa0dVUm94X0MyTWFNNy00eEViS0hfZlNvOS1xT3dfNmh2MjNKYzk4WnJ2bDVwUER6NmljWFg1Zzk2aTlmYW43cklYUw?oc=5
+
+- Anthropic, AI and The “Numbers” Problem - On my Om
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBaZU1lODZrWDNqZlZjMXpqVmZfMUY3NFVXbE9HaXlVU2hCMzJCbUIzN0FXNkpCRmtfUWtzVDFYejgtTENxeW9UME1zUDJZbTJkQnRCUG96TXFscC1GWHhTMkNqejhaYmk5SGtKSjFyMA?oc=5
+
+- Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’ | AI (artificial intelligence) - The Guardian
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFBtQ1dPalp2Z1F6NlROVWxWVjB5Zk9WTnI3QnRCQUFHb1ZQSUpuczJMUE9oRVBYWlA1SlRWdlE4ckViR1hZQzBzTVdDWGZGcmJoaWNpdUFiTUFlOW5hN0hLWFM2bW1kZGNBM0Y2X2JJNUMtLTBWUEFkMnBpWDU?oc=5
+
+- Introducing Claude Opus 4.8 - Anthropic
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5
+
+- The $900 Billion Giant: How Anthropic Got So Big, So Fast - The New York Times
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkVMdnBMem1lN0JjcGN6XzZTSG9jQjljZnFRcS1US29WNXhGVUhWaG1zVHhmdU9ydWRmMTgxM3dlMlVUWGFTR1o3V1p0RHVEWEI4Y2JLeGQ3V3RURndJTGtKWEk3V1V1ajRoRVhhSzVYdkEtbWdEaTZmeERqN1VLQXlxOA?oc=5
+
+- Election information and safeguards in 2026 - OpenAI
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EcFhBV2ZaTkRfOVNLcjYzcE5GOF96QlQyUTVJbUdwSW9hY1BjMTdEVWV2RVRGZGN3TllUc3owU3l5b1k1dkZuaXFrMy1lc1F3TVA4V3dzT3h1bGpjMzNj?oc=5
+
+- Anthropic Is Now Worth More Than OpenAI—Exceeds $900 Billion Valuation - Forbes
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZWUnotR1JSc1hzdVRGeE1pSWFwYTc4SjFlX1dlNF9CN1hHdUhEV1pva0pRSWpqb1NTeGJhUWxRSUtEZF9iM1RidnM1bjIwTDZkdjRCdUVUdGI2S28wYXM1Ukd4bEdJTXlWQWpacFkyamdOeUxDTU5xZmhVX0NiR2tfaFZxd182d2hEc0ZjU1lWSkROYjlLdnEzSThqRWJLTThwRjNiNDdDWV9SaVlqV2lpbE9vZw?oc=5
+
+- OpenAI and Anthropic dig in against each other on AI jobs apocalypse - Axios
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE1kNmxnTW9Fc3lrMnV3RHN4WmtQV2VwRGVhdEdGd3RKX25hYXZVWVlNR0JKamFYVVFoMjhXQ1ZXME1hX0JYODUxb0dsSUpFdHBaY3BKZUJ6U0R3dllYRVRtN1R0LUlTWXgxNlo4U25NVQ?oc=5
+
+- Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas" - Anthropic
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFA1UGI4bzVyUmNNQURqVFpBZ0tkNjNyMy1GLWxwTXpBSGJzZEpKcTUycEFkVURaeDlkR3lodUpOY1pmN01YdE1wNkFSNTdTRG5keWZSb2tPTjd5SWpFVlFRdkZKTUFBcHAtZGpYdmVR?oc=5
+
+- Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up - The New York Times
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxPSi1XZmpReGJ1X3dWZ0JsQ1BHXzloYm93YjV2N09HX0VlRTFDa2huRE9jX3h6cWxQSDJDdVhnR1Awc01WZDRtVW13Zk50T3dINkJvSS13RkQ3WTM3d2NhRWpZWDV5VEhwV0FQMGRwNEJCdy1idFhIZXBqR3hUX0RHOHdEOU9lZU1GNXc?oc=5
+
+- Exclusive: OpenAI launches biodefense program - Axios
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB6MUtWMkc0cHp6eWNSUThSdEdGbzhFWGZZVlZqZXVDXzVEcjJ4aktBeVpPbDNXWWRfYXo5Y2JJeUdCbDVrWTU5WGhNRzhUTlVDQmNBaW5meWtzekFSRUJDbUhkX0tSUHU2Zmc?oc=5
+
+- OpenAI’s Frontier Governance Framework - OpenAI
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9VRm9LLWVFc0w2Uk1JcEtNaWE2S1R4RThlaDB0ZUV6cXB6NFFSd0htcGxacWtIZnhyNDZGVmZCZUdPRE1RZTZ0ellzbm55dWxDRk5qeEVYdFRsVkU0WXdraVp3dTlkYUVVeUJDeV91RQ?oc=5
+
+- Coding agents in the social sciences - Anthropic
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBZOVA5Z3pKZ1JzSHJXaFl0LWdSQlZfZWhGb3AtY1R3MExZRm9KS2dfRmNzTE1XR2VXdjlPMVh6U25SU2JmcXBZQjlnSWRreHM2SGZmTnpQVzRLQVFmVFQyOExiR2o5dFhSb3A2WVBmV2RzQQ?oc=5
+
+- Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening - Anthropic
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3ZSeUtaVl8zLUdiMHN4ZktEYXVkMFpkTU5icG1SRWR3NVViNVM4WFRSbk5yUzFYbmNTSldGLXNrRmM0dWMtZlh0V21OcGhRS0hvNGl2bEFneFotV1c4LTFLdGRqZi0yZ1oyRlRZUU1aVnlXRWpLM0JqMUhJSldONTc2SGhmTjJpZWpZ?oc=5
+
+- The Billionaire Coding Genius Making the Tough Decisions at OpenAI - WSJ
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSTNBQy1IOXBRZzBqNDZ1ODRGeEw4SjZnT3l0cDFPQktOTWFNQTFWX3ZEbHF4MkwtTzVwY2drYUdCTWlGLWRfMUFlTHUtNkZtVDUxRmVKb0NOak1ZTEQ5anFsbHRPNDRKY2dlSi1R?oc=5
+
+- Anthropic Is Now Worth More Than OpenAI - Gizmodo
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE56a2Mxc3p2aDVPYmJpdGRkVHVKYzV6ZjBIUVdKejk2OFdoYktIMkRnbGFaUDBLOWpiVm50NGV1eFBGQms2VXdBRGwyOHY1ZHlCY2xzMk5DWExiUWRReVNib0QtNXNlU3gyT0FCTGJfSV8yOGc4ZDhjaUF3?oc=5
+
+- Anthropic Walks a Fine Line Between Responsibility and Innovation - Bloomberg.com
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlpIeVNWeENyOXRPeHVUUUNkV3duNVVYa3J2d0hIX2MtOGdBUTROd0RJMW1FUU9qSVFTTzM1eTF1TEFhWFQwOU8tTEJGcHo4VW9wTHB3Q3RlMjI5YmtpUkpmZFRZcEt0bFBwUUhPV1VnVWNCbDdrSDJNdzJwODZ6M0V6bjYwR3FIRV9XZlJ3M3J5MUt6NHhTM1V6cFc5UHJ4OGU1a2VQMTdwRXNsQk1EZjl6M3RvbW80RjRiaw?oc=5
+
+- Anthropic Rockets to $965 Billion Valuation, Topping OpenAI in AI Showdown - WSJ
+  https://news.google.com/rss/articles/CBMicEFVX3lxTFB3a3JRY0JjY0VPalNrZTNGWFVXTmNodEVCLUZEaUFneS1Kalo5UlU0QzZJcjdYN3ZFX0tlUVlMalJ0NjNZRV82c0NjSnFVMzg5OTQyZ0JjaDk5Zk5LMjQ2NE94VnQxWnRpcWpvUlJpVVU?oc=5
+
+- OpenAI’s math breakthrough played to AI’s strengths - understandingai.org
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE14OXJPdXBtSDBFTGl4VHJMYzJRREpvM2dZN3k0Skt2QUdYdHBkTklVRGhWcTBEZ2w0QmZEazN6VkZvVXZkbmJOejBnS3VYOEpqd2l2c3ZYNC1yUVFWSmFuREYxckI0Y1hfYzRJZUpidE15R1JIUjlrZw?oc=5
+
+- Anthropic's valuation surges to $965 billion, surpassing OpenAI - Reuters
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpjZXd5MTl2S0ZtVWhmelZRdXBNaEM1UU1KQkppbVoxOG9hWkRlSEp1cjZGZV94TG1uVi1vTHhJXzdpYUZ5ZHlTcm1qWUgtd0RGRWl4WlFTVGUxU2k5WkFwaXp4ZkVFcWF6eWhvaFVVQkwzVHZTWlllRV9iSTMtTWRmSmt0RXBJenVtbjFQU0RqQ0h6a0V2eFhrQQ?oc=5
+
+- Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI - Yahoo Finance
+  https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eDhuTWVBSDFKZVZrTU01VUh6Q3N4bmZpX0w4dHp0bXFtOFRucWM2V1NMUDBCQXNXSG53cUprY2VsTEs5Qm45RE1aQlBnZG15aTA1WTlkVWMtcTZyMExoeEJGTVVack81?oc=5
+
+- SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners - Bloomberg.com
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxNMG5BeVlOWlJtNHdsSjhXcmxmVUcxQW5jV3FuNW9vUGl5RzZzalY2ZERLUXhKZ2FKU0xGZnpkN3lESDlkNjJMTUxtb3plWjdpNG51bThRT2RsandMcmtrOXVTNDJOS3FSRUpTMk1LWUxoazlCMjhSMDNEOEJqTEsyZ3phVzdOX3ZndDZOdkc2ekNzMzFRVEV5bEs5T2YwT1ZvX0gxM19uejhrWDZNQkR0QzBBYTE?oc=5
+
+- Apollo, Blackstone work on $36 billion debt deal for Anthropic, Bloomberg News reports - Reuters
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxObU1PN1dJSndWRkc3a1BGa19aX3kxUkNqUEJlbENSTElVSDBEMU1mTnBDQzVpVW92Z1VlREdXZEdNQUFQdnFwdVVpUTFfdWFldlNrbzE3N1hEdEhTV296QnAzdFNQd3VoZHQ0U2p3Ry1OOGJsNmo1czkwYVBCUHZHRTBJdjYwclVxbkthaTZFclJCbHQ0NFpwMUxjRUwzbDRTdnlUbi1qcWItTEVJWGpqTm5fY3JPUWVod242ekR3?oc=5
+
+- Anthropic Leapfrogs OpenAI In Valuation. But Here's One Thing To Know. - Investor's Business Daily
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzVtZGtuN3d3OVlxWFprajQ4YlUxamtlbUVXd3Q4dTltN25VMjY4V09hU3Z0N3FZYW1Fc2otOHEyTXZ3UEloOUJZWnpQQ25QYU85cWU2bnNFZU84VDRHMU84NmxSdDFQRHo4V05uVWhjNmlpcWhHWDFXUzRwb3dfQ1dGUUVKT1ZuTmp1VTdTRWFTU1dxLUNiUFhSemNLbVV1UEp3MnNUbzdqdw?oc=5
+
+- Sam Altman and Anthropic’s CEO Just Walked Back Their Dire AI Layoff Warnings - inc.com
+  https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1loVS1Obk50cXFFeDV6TUpVaVNNOHdjOEhnMFQ4d296aEFxLWtFd3lac2JudmVKTnItVGRzbzlhVFVRM3F1Yjc3OXFCNXlUN0dGMXZYdEthQkR5Y3ZrWDZKZXR1ZFF1aTVZdXpYYVdZTmNxa0hfaGZpS1k2SnNybHU2NFRrV3NiUllOUGFXUURJcnhVTGYxY0xxYlZaS2M1Sk9pdFNtbXR2QVA5UmJQR25aSlNlcm8tSUk0?oc=5
+
+- Anthropic soars to $965bn valuation, leapfrogging OpenAI - Al Jazeera
+  https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW83eW82VWlHMHU3UEI5ZHprcDh3aG5KSnJyVmhPVkhsaGNSR0Y2M0xHb2ZUbDhraE9NbGwwRkV0ajUzclFjWHRaZlVQTHdBUmJFX1NLY1pHRVNqNWhiOF90ME9TaDB5WElRUHJWOHdXMGVjeTRya1hLNmZVOV9WLTZ6VFhQNDhScXdkbUhYNC1MMGc3REZwZTJWaVhHSXfSAaQBQVVfeXFMT1lZU2N1Z3Z2T25MZE9hendkXzljelgtLVZES0F1aF9BdTMyeVdjUU1OaVg4djkyRjM4OU8yVXNBWXl0Z0liMjYyVVJON0MwbmNNVG9SLWdtYjBUWVVBVGl1Y2VQbm5tNFFUUGhBeDJUcTZKVXRZUHZURjJsVEZSeVZERFNiU3ViZ0Z1WHQ2QU96RGFtd0xOQ0laeFZidXB3bGU4eFc?oc=5
+
+- Anthropic raises $65bn, overtakes OpenAI to $965bn valuation - Data Center Dynamics
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjNNa1ZEZTFCM1Q0T0tXblpiX05WWHdaMXVDOV81VnU2RDF0SXZOd3J0SjJpVmpnTDhmQlIwR19PWjNMZnJaeXVlVWxSR3FRVlZIWU5lZ19NX1REWWZCX1pqbENRS3dsbFBVUndidkw3ejVKdGtCLTg2TDhMaFlCS3lMSW1Dbk5CUlBRd080bHkzQ1hMNW5LUzBZaEhKR0ljQk5R?oc=5
+
+- Grok Build 0.1 on API - xAI
+  https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kSk5FalFlVTdMeldXaWhMbDFBdkR5TUFFaWNNM2ZHUkJwTlZ6ZkUwWHZPSzk4RHA2bkNRRFhtNmJBbnhnbDV3?oc=5
+
+- Anthropic releases new model, Opus 4.8 - Axios
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBDWS04UW10TmJCWGpvY3QxVHY5YVFSSXg2OHpBVXFyX08tWjQxa19kN25Vc1ZNU2xfQldKM3J0MWJCUGF0TTFHdlRFalJ1S1lXRE4xMWhpNXF0aUNBUTFzLS1FLUhVRjBvdWpiYVBxZw?oc=5
+
+- Building self-improving tax agents with Codex - OpenAI
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE5YS1BCZ0YtN3NkWkJ6THVFTkNrMVlXUFUzVl8yS254MVVfN2dYSVh0R0x0NzZ6V1I5VVd6TG1fTUIxWk9JdnJqaGJqQjBobVB6TTZLUWdfdVNjWXpXY0VFcUdpQ19jck9oZ0IyNmh0VE95a2tHWUx0UlFGMA?oc=5
+
+- Anthropic’s Guarded Mythos Model Is Headed For Wider Release - Forbes
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUtDMmFiMmFTcWJoNG5WN3Bmc0x2X1RTNzVOUkVsSnVPS3R3TzktREZkUDAyWW1yTS1RSUtLUVBqbTdOTW5RQ051eWFldUFJeUhZejhhQ0k0S1lTZ3pMT1hCZ1dPcWlsekRxQTN3YkNiUHJSel9zcjVkMVZucFNMZ0ZwcmVyaFE1REhMQTdfbElSUXJJdHdqa3lXVzJjbElrekp2cUNxZXEzVFN2bHlhWExlZw?oc=5
+
+- Sam Altman Says AI ‘Jobs Apocalypse’ He Once Predicted Probably Won’t Happen. What Changed? - Time Magazine
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE5IX2FQdmVtVVdvVm9SSTQxcW9ib0VaTldyN3dnLVB6OUFCa2J3UmIzaTRXUVI4clluRm9aR0ktV0laTzRrakl2Rzk1VzA4LU1tM29Wb0todGt1YVVCTjJKZk1zVlcwM0p2S19BRUJReUxpWE9yT0k4NQ?oc=5
+
+- Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8 - Reuters
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFNzQ1NmSlNQcWFVamd2WW5yYWtldHRTN3VDakZPbjZCLXoxeF9URGpSbW1lUm55c0FtUmdlNzlyQmV2bTItcHFxREo2YjV6UVlpY3pFYmVBR2RyUmxtMEx4SlBIZU1iOGpTMVB3Zmp3di1rMWlUdVYzX0duaXRhWERFX0VhR0pDOU1yTEl1WGVlTmE2R2xycWxYMm5VUS1kWEJtX2hhSzRMMXc?oc=5
+
+- Anthropic Eclipses OpenAI With Valuation of $965 Billion - Bloomberg.com
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1h0UGx5bEhpRDl2aFRVWWNQX2xHQjFfX2hXQWp3MzFkYUJmbzlESzBvN2hhQzZJb2xjRFFOd2FBTnppejg4a3ZqS3FOSi1idEF1c2ExZm9UNnh6WFY2ZXZQcXV3aFUtNGJVM29NUWpJSG1sb3ZhNFF5MG5TZllCQ2pUZWYxeXRCWkNuUkMwajZiN0lETmpjMVY1SXZEck1QcUdyVm1xLWJsQ2UyLVE?oc=5
+
+- California State University Made a Huge Deal With OpenAI and It’s Been a Disaster - Futurism
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1NsdHdXY2pvUThNdnFOUUJ1d25jMHlWN2FwQWFpNENmOEFCR2pWdXVnT01QU2dkY0NKTnBySDFSMERSZC11TEU4enY2MHcwYV85NmlEOF9hWERhTE56M2tiZ25RZ2hXa25ZbG5MY3VSWVA1clI2X3VmWWxqdDg3c3NybEJPX2tSU2xSVjRWQktVNFN3OGJSUg?oc=5
+
+- The $3 Trillion Reckoning: Why SpaceX, OpenAI and Anthropic Could Redefine the AI Bull Market - Yahoo Finance
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxPcmIzZjFKdjliNGxUNFJRdW00SUxNc094TV85TWxBLTZ2cE1oNTF6ZHRKTk5WZXZ1TE9hSTlhdWllVzVBX1Vlb2w2R284SWY2bUkwSm5DNDh1SEgyUmJrbHhxTlRZNk9QYkNxbEhwMkdaUDFtVHB5Ujg0S3Q1eTR5SzVtN2wwSVdhdlVrTmo1SE95azB5MVdKejlUSGE?oc=5
+
+- Anthropic opens Milan office to support Italian enterprise, research, and developers - Anthropic
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Mb1dkTXE0WXgzR1BsWERKOVRjUm5feFJOUzJBSnFHTVJZaGQyMDN6ejVVYWluZW9WRmg0QUFhMy10d0lwaHczS2I5WjJpQ1IzMTNnZnZyTTZYVXJENTRaLQ?oc=5
+
+- Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies as they eye blockbuster IPOs - Fortune
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXZuWVZDcUVsS0FGVUx0cE9mN3o3YkdmRlh2QTZPdkV6Z25hNXZieFJ6LXZ3ekItMDBoZkxwdmYtV3VPYWVyTWZCTlFna1pDSGZBNDZnREJOU0stUnNhZTYxWDNUYmFtYTNiV25fUkV6MlhSUnVwQkFGVmtwbWxSVUo1LUlCTTM3ZHVwa09xWEtNamRuOHRyM1JDSTltY2tObmprRA?oc=5
+
+- Anthropic reaches valuation of $965bn, beating OpenAI to become world’s most valuable AI firm - The Guardian
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE8xNkRPNU1vRzBKaFNSZEcyeFRHdG1NODQ1SEhtZnhHRGgyMFk5enhqMkZOb3pObmF2TWg2MmZCMnNQMElPYzB2d3dMdlBCSy1vZWI2b3YxcXBJQy1GTE9QR3NXZTJRbjZTbzZkMGM5SnV0MnR3Y3FlYTZ2LWM1Zw?oc=5
+
+- Anthropic raises $65 billion, nears $1T valuation ahead of IPO - TechCrunch
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFJZbFFxa0ZvbjBzTzhhbm9jMnVPYTFJdW1JdjU4NE5qblhSVTJrQkxna0lneXo1T1IxZnE2UFd6dm82VDFpcW1HaWEwcVJDaUJtUGJHZWg4UDBUd0otWDNFbzVhbWFuQ3kzbm5odjNBeGw0YkFhMDhEcllVcDR4dXhnMmJ6MFhPZGt5YW1VNkZzWXNlbkJWcldn?oc=5
+
+- Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxQVV94ZC1aQUxYM0c2YUZzZEdwalgyNWpkZlNKRWsyaUxpQ0JmNHBHaHRJX2ZxbUtnSy1sN1NDQnVpS3JhcUsxR0ZJcjU5VzBnNzh6alVDbURUODFnU0Y0Vl9OYjFXckUxX0xSM0xDemNSOVh1NWRCUm1MNWJmTXJ1X096S20?oc=5
+
+- Warp’s big bet on building open source with GPT-5.5 - OpenAI
+  https://news.google.com/rss/articles/CBMiREFVX3lxTFA2RU1MeU9BaWxuRFc2TFJFSlB0WEVRM19qZ09iUkpKOC1pdk9DTFlBNVZRN3NpZE85QjB3akJzb1dWbU5S?oc=5
+
+- What It Takes to Get a Job at Anthropic - Bloomberg.com
+  https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSll3NFhTeXBDenF6VU1KOENkM29BWENOclg5ZjNablQ4R1pJZURDdWtEblFTMkpZc2FaZzZQRjNTb0pvRE5pbFBzWGhLMW9HM2FVeVpXZnRyNjhISVBfS3hMOXcxc1NfbzVjb0pOeVZBNm5yc21vS18waWp0d1JwRVFHeTBleGIwRnZGcHgyTlIyYlQzdTBvaG1YdWJwVDdua3pOYmI1TzBRWkl4Wk9JUlFIMy1aLU1h?oc=5
+
+- It’s Happening... Anthropic MYTHOS 1 Is Here! Manchester City - Brentford (VaiZZTHewf) - Mshale
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WSzB3bmg0ZTI5bmNvaU8tbUtxTzR0eWVxR2V2SzBxWnNKQmhfNHduZzVvM3hRR3FBV203MVdYTkxNVmdxQkxnQXVYS2hYYUNUSUdLdVdwZEZIWkU?oc=5
+
+- How Anthropic used AI ethics slop to play the pope and eclipse OpenAI - bloodinthemachine.com
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSkVkTkcydzZmQUhCUTV0c3l0NUREM1pBZlBaXzlibFI2NWJqZThmUWpETnNZUW0tVHpSeFpFQVp0TzNZTDNhbFJsSV9nQ3VuQm00NXhkS0U3WmcwNnpZbzBRS3dmeC02NGdoZUYyNTJVZEdhNlEwOTdGRQ?oc=5
+
+- Anthropic study finds men use AI coding agents more than twice as often as women in social science research - the-decoder.com
+  https://news.google.com/rss/articles/CBMizAFBVV95cUxObGhXNHh0azVRYm04SU5aOGJFZXY0VnZMWlRHTXpwTm5Od1RLT0NGTGxpb3VOUF9uUjIwS01BN3VZZkdzVDJpZXRWbk9tMGM0VjB1dmw1Q2JWZFJPTzY2endiX09tTFVGeHBlaUd0OUpVM0d3dzBJYmRuVkh5MlBKbDdOUS1wNlNEMTBQZU90RTJ0a0l2eXV4LU9la0RwZ2NNTTF0UTRLekwwOVA2ZTJqeTR2Y041M3hNMkhGQWVMX2VaaFhRNjlsdlQxRnc?oc=5
+
+- Anthropic Customers Creeped Out by Its Newest Models - Futurism
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWnRScUNvWlhzaGZNdDYxUUU2WjJZVmt5amhoV2hGTjdPeDY4WmlVZE1NZzlnMTBNYWxmTHFLVGpBQ0x4bTVoR0dfeW53cDRfSDEwQ1h5Q3p1VGFneUVMM3pWZXl5NzRrcDlSbFdtU1FlVVRVWVFqRXFROW9aRDU0N1dFQVlSM3FldjBJ?oc=5
+
+- Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges - AP News
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxNT211T2J6Mmlqb1UwbXVPQm1UamlXZlAzVHMyOEFXVWVoQ3UtYTExMHFuZ2JMX2dqcDl0N0xlOVFnZGlMbGUzaDRBVTJqVFdTc3pMUndmNDRYSDZGQkpDZVYwRk9xZXpEamFyQTBlRTdXTHlCR2ctUkhSYWpNa0pRU3gwREtuVWhwUVMyWUJEYnRCc0k3bFc4MjdZNVk?oc=5
+
+- OpenAI and Anthropic unveil multi-agent autonomous features for enterprise use - Crypto Briefing
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE03aE14YklPdWpWWndJd2s5aWpLRXl4LXdfb3UxOUZyS3pCNmcyV045ZHZ3VUF3a1V1QzYyMk1WaEloYTNXVWJDT0lCNW5JbnlLYXM2UGhVRkszREdHUmItbUF1Q3kzVWRaQ0Z0b2VEZUVJSi1KUUE?oc=5
+
+- Samsung, SK hynix Join Anthropic Funding Round, Raising Expectations for AI Chip Cooperation - thelec.net
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWWpkb2NLN1V6YTdnNTllZ3JadWhFRkZfQ0VnYVJEQi1wTWxwUlVzMTRmc0lEZXhnS3N1TWJTY002SEdXMndQc2Z2S2ZweFVfY0Itd1k2eDBodkpVR2VsZEdNVVR4MTQ?oc=5
+
+- Anthropic Just Fixed AI’s Biggest Problem: Claude Opus 4.8 Alex Pereira (VYhX1LjRIT) - Mshale
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVkJqWjFRUlgyX0RXMXRNTXlMY0g1Tkp0T3lVTV9GOHljNDRMVEZYdDhVQ2ZnMDN0eFUtcHN5SzcwS3IzZFBNXzhHdmtxUzVaREUyVXJmeEpFU0U?oc=5
+
+- Introducing Claude for Small Business - Anthropic
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5
+
+- Researchers let AI run a simulated society. Claude was the safest—Grok went extinct within days - Fortune
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXJvbDVxSVRGU1NuZ1FhNUotNVpFdDBQTGpyLVdHanlsREZGVGxRVHVoblVPMmdTRUdQZlZCeE9oNzY4ZDFqZE5KVkpWNzBTRmhQdmdZT3FCMDhpb2hMWDVEYkN3TzVaLWRfaU9UR3JnbllrV2JCWGtoM3ZCTU5Yam5tb1E?oc=5
+
+- The listing for this San Francisco house captures AI mania in one sentence - Business Insider
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVZIV3U4RlhNZjdoYnFreElHX3VqXy12ZlFPZVRzWkVJWXRXdmVkR19IVEVtWkZhbXZKeHItU0l2Y1FWeXNnT2kwaVVaT0RVVkVPa29uNHM5MlJVMmlIUzU3R3R0YXJPMkRsdzFuc3dFM3diTTJ6QlRtOHFCSmdTMHV4X2F6ZjlLX0hyc3RhMUkyZjdBR2J6cVhFYWg?oc=5
+
+- Anthropic Just Delivered Spectacular News For Amazon and Alphabet - The Motley Fool
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVF0d0NLTF9aNTBKT2VLMG5yd1EtOU9jOWlqZDg5b0hmYVZYMEZtOFo0UEw5QmxRaGcyalJkU25HYmx4MVkyQ1laa040LWlQZ3VsQVR0bzVGLWwtdFNPMF9oMVVOV2NtZk8tVEpUWV9oWEhUakRVTHdRdkVOaHU5RzlaMVh4SV9QYVdCR1JYRk1GZGZWWkVNaQ?oc=5
+
+- OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' - Reuters
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVNETTY1N294NHRGb08waFRWLWVJOG1VVkdUZkpLSXBuNlUxMUxRX3BfVmt3WFNEWThfM2VSYnJSblRTdUVHNU9JM0tjcjQtWjREYmR4RFJxalhQMTAyZ010QVYzZ0JTRjRBcjdhQ3RpcUxWeEFLS2JDN2tNdEZsazdvTmR4RE9yQXZmX25zQndHTmxOTU1IM1ZYSnFZcEVYQ1ExTVJqckZGZ2M?oc=5
+
+- Anthropic forms $200 million partnership with the Gates Foundation - Anthropic
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE1UT25PT2ZVemEyNW5mY0RnYjlHa0NhUGw4cVlZWUNaaDdySnRMMXZXZVJMcHRKN25kRzBsVzNINFhUSHhmTGI4MU5JUDEtUVFLcEktM1VvbUZCc1RKUkhwcTFWY3gyWEdQMGZN?oc=5
+
+- Why OpenAI and Anthropic are hiring forward deployed engineer teams - The New Stack
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ld2hRRkdJek56Q242SXZMTXlobHRTY3RWSjU2bnN3S2hiWVUxMzVHY1o3VEg0UDI0WUpVVTNpdW40U1hiUmJIZTNCTl96YVZsRjBwUE9qaTJvdG5KbW5IaUVKdw?oc=5
+
+- An OpenAI model has disproved a central conjecture in discrete geometry - OpenAI
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE9yX01zN3g1dUU2anpzWXA3d3RaQ3RaYWRPVkUtRzlyeElQN0lBZVFfNzQ1dTFleFB6aThGc0pweklXck9ZSXhMelJ0amRKaEY4ZDdoVkJqMEFXTkQ4OWp6OTlnNmZ2VUNlTVRDSHN5WVVUc0xndXU5T2t3?oc=5
+
+- San Francisco home accepts OpenAI, Anthropic stock as payment for $2.9M sale - Crypto Briefing
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFA1VDlqSnNfQm9vemRGNExlWGxkdkdmYkI1M1JCSy0wbGtYb3Z0VlMtVUhNbDMxS25mME5tR1ZiVlVFb2M2VUdIZl9JajlSbmtsSXA0QTZOYktBOHM4VTRvb0dGemg1ZmNxVXlFZjNiT1J1SWhn?oc=5
+
+- Teaching Claude why - Anthropic
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5
+
+- Project Glasswing: An initial update - Anthropic
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE8xYzlNUUlJNFFKOFg2VGJsdFNCVkdJaWJ0Qi1tZnh2bUxIUzIta0RfUHR1dnB4blV5NmpsUVZ2ZWJiSWlSUzhYQUVmdTNXMnZSWmNQVGRUbEMxa0kteTFzbFJJWklYdFpoZkgw?oc=5
+
+- Surprise Elon-Anthropic Team Up Reshapes AI Race Ufc 328 (HjwqtnkK5G) - Mshale
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zN3ExUmw5X0cxQ3pPZXRQR3EwRE80SndqUm5lZndiZU5kSElSVXJ4NmYxQ3Y0WmppSDlQWFEwdGtuM2pIRElLQjB3VnE3WVgwVnMwalAwZ2hNdXM?oc=5
+
+- How we contain Claude across products - Anthropic
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE16Q1A1LU9QUFNJNWgxdkI4ei1iaHEwN2gzTjNmT2s2MV9icExhR3hYWHRMWWFUVUpJUTBhcl9HV3doZnRlcVVZd0ZWV0NlWDVNcTRLeDNJMlpWRFhDd3BWcUpyektXUC10V29N?oc=5
+
+- Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up - Yahoo Finance
+  https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlF0QjN6M0xESHdNMGJKRXdBX1d2MmhESGcwbks4UFdicjZRWHdnWWhpcUZiZWZPc0tZNFpzLWFaYlJrY3dndFFOVHZsNXl1S05oMGVSb29hejRQVHhCa0h0ekI0SzJEald5X21YaWNuS2VWVUNReEJ2SXNxMzJ1cXlFM3BrLVF0U01FY3FIX1pVdkxnVUJIU0VXZHZvZWJ1MjJjYmdrVE1RTENtV0NCd1Jodk5sMlFxSFRXcFpybmk1cjVrcF84?oc=5
+
+- 2028: Two scenarios for global AI leadership - Anthropic
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sT0RLX2s1V19uaTlfN0w3NkhVX21TSEo3ZVR4VS10cEoxSThUT3dBR0NZTEptU0VIcERGcXB5SFZ3T1lPN1VxX1dTVngxVU55MEI3NzNWNm9PdFI4V1ZpVUlITQ?oc=5
+
+- Researchers Put AI Models in Charge of a Simulated Society. Grok Oversaw a Crime Spree - Gizmodo
+  https://news.google.com/rss/articles/CBMitwFBVV95cUxPemZVSTdFWGcwamNGRDB5VnZvdVdXeVJFODZLdk03bzFQNHFFOHdHTGVPeFQwY3d4NzdoSW9UekY1UklnVG9WWS1TVkNnRGtsc24tVjlNZE8xeDBURGxfOFQzUndMUWtiMFJQQWFwbXlUeDBEcDdvaWhMUFVhU1hvblFLNE9NSUR2WmFTNVZlaGFYSGhDbEYzNFRPbFg0bXctUGprZjdTa2I1bnRrMzVMV2tqT0hkcms?oc=5
+
+- GPT-5.4 DESTROYED Anthropic's Claude + 8 AI Updates You Missed Karuppu (oOCw7OOWLe) - Mshale
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIaUZhLUFEU2QwRkplVGFSc1JUdDU4VElZWWhfSExuM3RuT1RkTTBfU3FIZUx4YWRsQXE4amE0bmUwT0p0a3l0MDhORXJLWVZuTEZSRFRFcWhhcEk?oc=5
+
+- Elon Musk’s tweet undermines SpaceX’s claims about Anthropic data centre deal - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxOamh5UlBkRUxvSzUxYnBNY0dHV0RhSFdzUkJSTEhla3hDVU1hMG1mdjlvQVhBREJxSURpdlhyMk5UdWZKTE9FT1Z2T3pSNDB4SVVpZkF1a3JreUtYM21xdndaUnVBOWZsUnNBN0hzeWJoVU45aHQ3VF9JY1gzWFkteVg4MDY?oc=5
+
+- Citigroup’s OpenAI IPO Role And Asia Push Reshape Earnings Outlook - simplywall.st
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1g1V1JrY2g2bFFubW9hUEs5WXJaOTFvY2JYV0Z1RGVOWGJ2ZUJORVZHb09GdzY3RTdBUmVISmo3dkVBUm5ZTGFuTGs1QWhiM21kUTZGRGVPOFUyRDVrbVVIbF9NV1NBNk1HVUU4QklCVEJ6T050eUtFdXp3NzZES2NJOVpxS3pBX3dkNXA4enF1aE5PWU4zTC1nUVdlRlR3UUVmVTNqa1RvMTFuSmdVMlVsUGZhdFVsaXBXUtIBwgFBVV95cUxOd3Jod1pOU19GV2NlNjVGQmpfdVhVOURYY2tmRF9JWVJRcnFrN2F6cDhXRUZhNXMtUDYzYnZvRjlkZ2hHZDNaNXlLZGEtYXJnN2hlQ3RFdUFEQ0VaZ1Z4MDRFT2otRXZFMkwtU3VYeVU0dncyUTFGeW9PSC03cjB6V3Vud2Y5UFlGX3V0b2Z4TTE3UUpkTGxkaGdSX2swZjFmclF2Y1d5VEY5Tk04UDJCZFNsVEZNVGZWckVCaVNzaDVTZw?oc=5
+
+- OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence - OpenAI
+  https://news.google.com/rss/articles/CBMickFVX3lxTE95QnZPQkxzLW9WdHJLbUplMUo3dHgyY0JSNmJfdkRzdXlaU2ZUdGw2VEFyM3NXQ1VNYTBqR3Jnem5DQk9MV3NQZm5MM3NtbVo3d19xNlhsWnNkMFFaTGhkZDVrZmJOZTVObzBKOGZQbmd4Zw?oc=5
+
+- Anthropic Cofounder Travels to Vatican, Tells Pope They're Finding "Unsettling" Things Inside AI Models - Futurism
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlp2RVhMXzY5Tm9UdEsxMHFRaFMwWXBWT3I1b1JWTFAydi1pTVNMN0JBMUhfdWhsaTVVUkVieEhIaUF6aDlSZDZrUWp4OFlmTzZQaWtQTHVzNTd3alJkeGpjQk1kSFo4dTUtNm50R1U5MGtzd2lVVHpDWW1UMFdVdU5rR0hEeGhaMzBudGNQNkI3UQ?oc=5
+
+- How Braintrust turns customer requests into code with Codex - OpenAI
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE00SF9iN09WdFVPa2FMZUZlZ2g1QmZ2eUtwYkZtMGZSd2R0cGhyZHR2LUpNaW93dEhyYmRSM2hQNFEyMks5VXFHSUpEVVg?oc=5
+
+- OpenAI’s Revenue Chief Barnstorms for Business Customers - The Information
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmJGSjI5ZEctVHRLUGhFQW1qcVRJajVmMTZRcmdkRWR2OWdKOVFhMG9HVVQwTjk2bUZPNFlLanJ6TWFCUVhmSkJnYVhpamluLVVLNnh6NUJnSlc2MGc2WkhkeTliUHQzUHVkeDJ0YWoyYWRKMXZ0UXBWOTBpVGJIeUUxZldmSl8zYlZ5djlfVDhQbHRoWUE?oc=5
+
+- Anthropic upgrades Claude with new Opus 4.8 model, details here - 9to5Mac
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNV0doV1kwMjNqRXZpN2p3b2l4c29ZQWoxaldrR010dUg4eE0tZU8tYS1WTkxwd1Z0QzZja280eHdzeW5hRi1KZVBmTW5PallsM0pWUGVUWXlhczZ6Tkk5SXhzLW5SY29DSmRzRXhMWGhZZVI4VTlOZ1gzNWRYX2hBemNGdzNTU1VzZ2lTUS1EVU5Qa1QwVmFGSWVGZ1pnUQ?oc=5
+
+- Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’ - The New York Times
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxObkh0VnREeGFLVDhIWklvTEpkY0ROLTNmc0wyV3RxRWlIV3ZiNDU4TkJsS2FNbndPb1VORjhFdzhwd1c4cU5yMHFBbWc2eVBnWTlDZ3NpUmg5MTI3MzFnQjdzU2NQOUhHNGI0LXp6T2pBb3JfbEtmM1FPaFFJNlhJbENxTXk0Z2NnaWprTXJ1OTlhZw?oc=5
+
+- Anthropic’s Claude Says ServiceNow (NOW) Among The Best AI Stocks to Buy - Yahoo Finance
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2VCS3B2NWFIN0trS0xET2pYWlpOZnNpMjU3enM1MW5BVG5ES1lTNE04ZXRYRGJwRU5QSXhPck1SanhSX2w3SVA5YVBVTkdxdkNoNkE4NGJVUGhjc1JidE56TXp4WnZBRnVPSUZDNFdRYWRIblpDTGVqSjJ5TVh2ZFJmbUFDOWdEdnpYSURiRFhaSjhudVNyeThleG1GRXNmNjh3?oc=5
+
+- Different AI Models Ran Simulated Societies. The 1 With Grok in Charge Experienced an Apocalypse - inc.com
+  https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWm0tc0ZwOGxJb2JiZzc4cnVRZUNaTGFpSE4xQU5PZzhrR2tzWFBWcGVHcWdUZmRvNW9iQTd5b1JGNGhsTGxaQkRCRHViMmpCLTB0LWFYYTUta3BFaF9JTXd6YjljUjBhd3RiMUhVOUhPMXZCcGdvYzBBbDkzZTFIRzhOY1BlM2pjTWZBY3NiU0d1QnNyc19JbTBFUC1Bd1VZZ3Rsb3lna0M3Um9Yb3lCRjdadWdsUFFwYXpocTZ2WXZwejA5R2xsejlKNEFWVGF1d2dj?oc=5
+
+- SpaceX, OpenAI and Anthropic Are About to Test the Limits of the AI Bull Market - Yahoo Finance UK
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1BZNXp5UXN1QTczMUNZZllSN0pHbWxLN3ZSVzhvTGVxdFdmNVRVNk5Ia2psc3doN2V1RUd3ckYxM21CRy1rREFva1l6bVNDTmtfd2NOVThOMXlLU3V2MmJ2VmF4cldJUXRva3RRcGFnUS15ckN4akdZVTgzOEVWVE9YbkRfSXg0RnRKcQ?oc=5
+
+- Why Is Sam Altman Teaming Up With Jared Leto, a Creep With Extensive Sex Abuse Allegations? - Futurism
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0phVzhJM0dWLUlFVzl4QUlzYVJSVEM4cGRmVVdKNnNCbTl2RTRCbEpCRHJBVEF1X1Z2SE9ha3JHYWgxR0lOUXYtcjRxTTVKWHNDYklQLTQtek4wbnBXU3hWVmg5bXNrZlFvTWI0LUFXdUlfbjY5TndsUnJwdVlGV3UzazBSM1hZbzhmVkpsSC16QQ?oc=5
+
+- Higher usage limits for Claude and a compute deal with SpaceX - Anthropic
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZXhOWkRpY080blQ2aDkzS1Fwb3FYWUhGM3FGUzNIbWNyYXY4cVZMaDYxMDVFejU1UGFkblVXMDdwMHJFQldvRXBUeXpJYUR5amgxelJtZ3dTU0U2dk1Taw?oc=5
+
+- Advancing content provenance for a safer, more transparent AI ecosystem - OpenAI
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RaFg2Q3pCVU5icWEzMFd5bE05TnBGWjd1d1VRWnJvaEszWGhPWVZnSGR0Z0ZZZEVrVnYtb0lLQkRDUWk4WDVXbHpWamFsSFFHdUxFcTE0MzNXWXlfcDBjNXhMMlA?oc=5
+
+- Anthropic overtakes OpenAI to become world's most valuable AI company - Mashable
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHlVcWp1VmwwY0VOTDJqRm45Ymo0Qy1ZYzQweElNOUtTOTh1LWpJTVJVb2NBRFpMTXBjcTZXR01TRFAyNzJ2dHlCa0RDMld2aGJVaHR5ZWJ1TnVUUEJONGZyel9WZUdqWjZ5VjYwWkJ5eGpkM2JoYjk5WVFxQ0V4dGdDSU41M2RT?oc=5
+
+- Exclusive | Mind-Blowing Growth Is About to Propel Anthropic Into Its First Profitable Quarter - WSJ
+  https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2NoS2RrWHg1NUpwVkRrd3hyTzFHRGNSdWYtWElOS3JXV2czY19mYTltdkl5NW91OG5zZ3dndFVKZVoxMzc1dzVleEZyeVJDcTVwMlF2OXFiV0ZMcVU2NFFoTXVlUURwaW50ZmZybUNHYnM3bTVqci11cjM5U3Z5ejJ0ckgyUEU0ZmVVYXdoemx3c3Q0blEzSE44b1Qzc0ktZmVJQXRFUVc3YzVBSFBrUkJiOWFTdjAxTWtR?oc=5
+
+- The Vatican’s Man Inside Anthropic - WIRED
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBSUFlRNG1tR0JVOEZpOUVOWE5mZ09ka0lNTEw2TW9ULUoxR2dzUVZlWHYyQWdna1ZtbnduQUdINVM4Z3FDTFByRENSWG9rQ0c3X1ZKd1B1MnQ5STJyVUFlRWNKMXNCLTZtNWhRQV9NMA?oc=5
+
+- OpenAI and Malta partner to bring ChatGPT Plus to all citizens - OpenAI
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YVndPb3VQUlhvZ3F0SFl3dGxJX1BPUnFNZUpiMzFZaEVYQkp1elJMcHRYNWJUTVZYTzYtb0RBLVpLZ1dXek5aRmlGeERyZHE2bG5QQ3NRQ3FxM3FRTnN6SlFZS2tDYjg?oc=5
+
+- I set up Claude Code the way Anthropic showed at Code w/ Claude, and it'll change your workflow - XDA
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3pDSXU3b0lNeFpUdDNWZ0NqU0lORHlTTjNlX3VNdVo1WUVPTG83SGJDSzhPYU83MUVSeWdUcXRsQVgzWl9yd0pFNkxES2todW5BZXI0S3FhV3QzMkpzSFZRSTBPYkdtLWlaZWVTbTFteWF2Umo4UW0zVWk4RXhWVFdaeDVkSmZrRTctTkE5aW9XdjJ1b3dGbkpibUlUUWVLU2VtVTFPSUFVcDk0OEtwTzZ3WG5kSHhja2E1OWpadFlQdw?oc=5
+
+- SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners - MSN
+  https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTjN5RXJvaWRIVjVESUFpUGpfWE9qa1VLazQyMERiamNob0xPTWhtWWRfSVB1VXMzLXk2U3k0cDFGbXFqT01scHB2VnpONXlpLWZQdndqZnpGUnA5LXhxallZSnRZMjJFbUVTdGllOWd3MmhhLW1QeU5jSV9xamxYVUNvUkJ5VDFhazNlQnluQU9yU2JqM1h1c2YxS2xmaHp0S0hLdXFLbVVLVF9ZSjZDaDlSUFV5dlFHSVVUR19zOW5IcThJcEIzYWxJTnRoeVoxZUZacXphbjg?oc=5
+
+- Anthropic Nears $1T Valuation And Leapfrogs OpenAI On Unicorn Board With $65B Funding Round - Crunchbase News
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFBRMGFHSDY2TUFmZVdSVHFEWHpOYVd5a2xwNDQ3bm1uMXdZTGxXVkFHekFCcVAyRUw1WnduTXBPUFZiUG1xalMtU1ZoOFpsZ202ekNnem00T1ZYM3FJU3hMLVVqMXFob2l2QkJBa3FRNllUblU5Y3VsYTNZbjA?oc=5
+
+- Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool - TechCrunch
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2taMVlYMlJRZlBOc3dLU0trM1h4djVWRTFuSkkxckJTdTlVTWNDLUhwNlRWb19YclM5SHM0NU1JRi0zNlVqa3JQeElMT0xsMFV6Y2czVFpYTENFamxVbEpmSURMMHhyNGt4ZUdfUzhRLVRtYkVlWFo2bEtoY3p3Q2loTjBWaFo4dVEwZ0RIeE1GUnFNUjQxcQ?oc=5
+
+- Anthropic confirms Claude Mythos-class models will roll out to the public - BleepingComputer
+  https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFZzb3Iya2ZiRE1UQkZUVGFvbHFkaE5TcXJnUkpBN0lCVmh4dk53ckxISlMybkdLcXVQenFUVXpiekE3bWlqS2pxdDVleW9wNW5EZ2pOQnB2QVlGdXRicUVpWTdJQjdzb0hFQm5MZl9HOVkzOElhT1BWZmgwN2FmNXRBek42Y3ktQ1B6bzNGUjZuWVZ3NG9GaXZUTVNCWDVqX0NxdDVsaEhsbWFzZmdzWU51bUVPTm45anJZR2JkRmRXYkJkdUNYWVppNUhNNk1SY1HSAdcBQVVfeXFMUFRseExKbkdhaUg2WkNHUW5la3ZDeEdkRGI2em9KQ2dCTzJBZHk4ejFyamRyUXRES3NfTTNhZWFnSEIwaWpDVFlFZm9RWm5VVDZnbUpCWkcycHpiNUM4WVIwaEN5Ry1mUS1XS1dyejA2YUhfU0RCWWVrQU9UQndRWjRFdkVpbU5HMVgtTnVQQU1Qckd2RVRMejFSelJOc1RxMjJIV1B2Z3Bxc1BtdUlfOFFxalJLOEI5bVBrY0NQVllIUURvU2cxdl81ZXp0eEVUOGtVUF9pWHc?oc=5
+
+- The Pope and Anthropic agree: AI Companies cannot govern this alone - Fortune
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlJrNUp5MnZQNGo4UWhIbXNMb1p0ckh2NHhfZnJUa0libHA3T2JuRzVKWVZPTjI5R1RlVUl2TTZadGcxMkFFb1hUSFYtZ3JHMnhMcHVITXl4ajhZTldiWENtMHF3RE5JNlRNZ01YVjRrQmhpSmdTQlNSMjVPYTZaRDQ2TERhRjc2d1F5Z2lIZVUwUEJhcUZscTVB?oc=5
+
+- Anthropic's Valuation Jumped to Nearly $1 Trillion. Here's What That Means for the IPO Market - Investopedia
+  https://news.google.com/rss/articles/CBMizAFBVV95cUxOeVFlbjFndTNxZ0xQNkVIcmdBNWtrUnp3Y2pOQkxBdF9rYk5KQ3VTcUhnZTNpQlpsUE1xTUFRQVVfbnNhajQ3X3ZkdW0tSTVXaURHR0dDeXkzZGhKX2dRei00anBmVm5TMFRxdlhyY1hmY0NKZE5qdmx1S2lmNFl6OFVOZWtabHBEdWNxc3RnVUpYMXpTajdERV9jNVZtRTNWM1ZnWjB5dnNpb1VLVExSMms3al9nTlU5SmUxMTY3MHJZN3RKdjVDZVJQck4?oc=5
+
+- Anthropic secures $65B funding amid AI infrastructure boom - Crypto Briefing
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2ZQQjZNckdaZkE4S3pLa1FMZE8yb1hlX3l6b2JrcmNCbzlVc1FydlRZX1g5Y2l4bEpQc3NDeTgyVkk4djc2ek9yZXdDbmVmMWRqN2l6ZWxRVlU4V1c5dHo3dkdOeXdiMkgtcHEtUmpHTnJYaWUwTFN2RUJoT2pLdDdLTWdQREVvZGNGYlhR?oc=5
+
+
