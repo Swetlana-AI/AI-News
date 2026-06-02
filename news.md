@@ -31501,3 +31501,306 @@
   https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVNETTY1N294NHRGb08waFRWLWVJOG1VVkdUZkpLSXBuNlUxMUxRX3BfVmt3WFNEWThfM2VSYnJSblRTdUVHNU9JM0tjcjQtWjREYmR4RFJxalhQMTAyZ010QVYzZ0JTRjRBcjdhQ3RpcUxWeEFLS2JDN2tNdEZsazdvTmR4RE9yQXZmX25zQndHTmxOTU1IM1ZYSnFZcEVYQ1ExTVJqckZGZ2M?oc=5
 
 
+## 2026-06-02
+
+- AI giant Anthropic plans to sell shares in US as valuation nears $1tn - BBC
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aaHF3bV9sYmhXaTNvN0ZRRkI1clo3NnNCRUJLTVA0c2xWMVQ4RDlZR2ZlQUdSeXF3Z2prX0M1dU84S2I2enJJdV9uZzdGNWxuOTBqOE9Vai1RQQ?oc=5
+
+- Five things to know about Anthropic's stock market debut plans - Euronews.com
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTdfLWt0TVo0bW5yTWxVekdIZ3hJdjY3TWVsZzNRd1lpNFg4cTIwZ0Z1YXNuTzV0X3B0ZWhUakFwUXdFQmJua0dDWkROamRXOXBwQ3Jzem9oUXU3dzQ1bUhmbk10OTRkUEMzdEN6V1Q3VWoyYWhXRXRVdnhzakZDVWFEVmF5WFVyd1NUMW9KRWczNHRZcEgtOHlEcVg4ZTQyb1ZWOWFOUHVyYkNQU2o3c2FxYVJsVkFVREVRNUF3?oc=5
+
+- Florida sues OpenAI and Sam Altman over alleged safety lapses - NPR
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnl6aTZnS3U5R25vTDExcXNKX18ySTBlM1otaWtQeE52NVctM243a1pmRjFuVEpfTVozZVFhcmpfVU5aQnZLdklXaG92SXlZR2JpU2lOdGdmc1R2SzI3SURCTjRraHN1QUpzYjVka0RTM0ZEUDlvUEE5M2FCdTFQc0Q1SnZRMm51d3c?oc=5
+
+- Why It Matters if OpenAI or Anthropic Wins the IPO Race - WSJ
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE8wY0x4bjdLN01XZklMLTBaUTk4b3hvNF83ZHdtaGVNWmNPR0NCdkMwYUNBa2FlRlRvNU9uVXRzUmlrcmpFVEV6QXBkb0d2LXBNeE1fUU5ydnpCa3FIc2RNam5aeVBPREVNdFdVVThZVFYzeFgxUG4wZg?oc=5
+
+- OpenAI models and Codex on Amazon Bedrock are now generally available - Amazon Web Services (AWS)
+  https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFExLVhSRkhMRzhlREdBdzlFWkxMRkhPNk9uc1NTa1R3cTZIMldCSVJzN2Q1SmItV3hpN1lCbWFRWGdLQ1lTYTU3TFl2d2R0UllHdlU1MFJmMC15cjJQVGZRdThRM0RuQzItLUZ0TGpta1dlTGlqOEw4UzY4R0dqaXRKTlA2d2Zvc29hajQwNUd3UnphbjlLNDR3cGV0dGFiMmVkanFWcHNBbnBnMXByNFBwTmh6UGc?oc=5
+
+- AI giant Anthropic files for US IPO as investors bet big on AI future - Al Jazeera
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxORl9Sb2hudFE0eVNKWjVpSU5DR2dsbjlfa3g4WnBnc09ybWxEck0yR3lWTVowd0ctRzlsZ2lMU0FPWWNTNnlPdTVNWUxBandKaElRVW5LdUlVSTk0YVRiNnFydDNqSTZHdFZnWF9MOTcyTm5GcjhCY1ZXaG5iYk1fVFRQREJYOU1FZVBrRlpzWFhLSW9hdEIyM1JwSkx5Q1JlY1JDWldTNjFPSnV4cWlFUTZB0gG3AUFVX3lxTE5UenlFc3k2LWpFSk03WFB5bDEySFJqUVhla2E0eVVOQzZaaUxxd3F1Wk9wZVR1NEJpaGtfSGFyY2xvN1JQOHl4QTBRX251RmZIT1d3R3Z3R24zOU9jQXBtN0IwYXE5d0FhcllzYlhiQlVENGxueE5mQmV0OTVDZXA4dFFnZFphT1NyUElnMTlBaUFkYUNWeUxaU0ZwNVRORnlOQUFUaEFpS21hTnE2aVhUQ3JkZXFJYw?oc=5
+
+- Florida sues OpenAI and CEO Sam Altman, claiming company hid ChatGPT risks from users - PBS
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2pKbjJiV0xMSjV5dUplTXBsZTA2bzE0VHdJOG04RzJKa0xkTFVtLXdPdi1NSkNVTkRJU0VQU0gwRGtnbHF6WEhjcENjQUo5Q1JOUEtKcXFPZDc5MFdqU3FNR2d5Vk5oTDVqNHZKUXRkYnlCdmE4UTVTYmd5LTlGR2NEc1FLYjhKQk5qbUp6anB6TDFfQXNDeDZicmY3RUwtRGxEMXZGV0o2d2Zuam03Qmc5T1h6NHVIYl9sSw?oc=5
+
+- Can the stockmarket swallow Anthropic, SpaceX and OpenAI? - The Economist
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXV1V1dYOXpYcXRReFp1MWp5UHVvWE96T0luRlRIRWxielVHZ211OG1FR2lGa0NYV2JUSTFQV3NJYVJ4cEYzMGt2ZnlsZUhTZHhZNk9OTGd1THJHdmI3dTd0VWdvVFZzbmxsZTczT2VZNW5wejNLZmVCX3hzcThuTlBJRVFnVVJkM3VkSkdoTVBES0h4SHNBQ25GZHZ1UE1jbEtwVERWa0dHeWZtYnZNQXRIYmM?oc=5
+
+- Anthropic races toward a Wall Street debut with a confidential SEC filing - AP News
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXRNYVI2S29EYUotaTVFaVNkSEo1bmFabWQ4T1V6dDBFaG9tc1phWURJSFdtUzNwWmcxaTNuUU9hMnBRb2JCLW9BTVg3NU9YZ1VlaFVmMDlOTV9oWGFPS0NVZVc3N2owV1d0c0RFdVl6NXgtdTJHZmtHd1Nxc1RyVXZxTGdiQk83S1Br?oc=5
+
+- OpenAI frontier models and Codex are now available on AWS - OpenAI
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmhkdlNPYTFmbHBacG9ja1ZFU2F2YUsxTFd6cFdCdy1PVzh5NmdUdGtTSDhNV3I0WXMzc0NlR1Y2YWlyVjZEeFB3ZU1WSU5KZ0FxUjFuOFNzZVVxSzJFa2VkdmtfQ3ZXajhnUlZkSHV5VnR5dTN4ZTZEMzZyRXVTZlJHZ3IzVzFnYWRB?oc=5
+
+- Anthropic Files to Go Public, Setting Stage for Huge I.P.O. - The New York Times
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBtS2E3dFVudU1ONHh4UFlOZG1reXp3WXhXZlNNZnpUOTd0YzRRaVVMUk9xMUNyekFrOGh5Yjh1Zi0xZlJNQTF2bGVfQ2lTQkJucmZWRG5tRDVYUldpZWRXeFNrR3hxLTRfLWQ3WjNZU3hKdw?oc=5
+
+- Anthropic confidentially files its S-1 first—but the IPO race with OpenAI is just beginning - Fortune
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NMEhLVDZVMy1vdkNCR1NHdGZUbGtOSnR6NkdmQ0ZFVWc3ZS1qQ1V0N3ZYUEFFSUF2ekNrbmdDam5NSlhQVkRFZXJGdDZwaWJQQlFSUWpVckMwTU5QeXk4NFV0ZG5VclNj?oc=5
+
+- Exclusive: Office workers embrace OpenAI's Codex - Axios
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE9sQ3ZCN0lkcTNIY21leENMb0RRZi1VX0xYZDc4RzgwVTR2M01ISUJ4MDZTczl5OHMxWjItVjVrLVIyRzQybFRLMVlHSVNObGVyWWRmTmlxb3NkZ1ZJUHdqbGFrOUl3TXV3Ql9GT0UzTE8?oc=5
+
+- Florida sues OpenAI and Sam Altman over AI risks - Politico
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT1ViQml3dG5wdEtPRTlqdWVURG90OHZmekdnc1JmekRpUUlYMmVjSWNjWFppNTROQm1nLWpmOFlZN0cxeFpxTzNlOHFSRTB0R1RzVm1mU0RQYjRIaTdTdWsyUTJ2ME84VzJRbUpLZUczOFVNaUtzcFk3d2J1RVpldFFJbFFqcHlD?oc=5
+
+- Anthropic beats OpenAI to blockbuster IPO filing - Mashable
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE9PcmdOei1fUUN3YmpSaHhZY3NkTHluRXgyOXJrYmpXSXF1NXVoY2lOeXVXd3JJbjYzaUFTajFFVmx0RnFzMXZlOTlsSk53OWd5LUc1OUctWllWOWVad21KMHVVWjd3c3pLc1MweUIxLWtoci11MUVr?oc=5
+
+- AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork - NPR
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSjA1OERrenh2U2ZHdDRlZUZxRkxDVXFQYkpaODU2WmxDaTB0bklTdW1CTk5uc3dIUXVJQVoyVm93cndTMGVFNElRaVdVbzlTLU12NU4xTWdtWFExR3FjTG9xU0JFOU1JRnFCNVE4Wm5uSllzUXV6d0JsQXFLbDA?oc=5
+
+- Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock - Amazon Web Services (AWS)
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5
+
+- OpenAI Sued by Florida’s Attorney General Over AI Harms - WSJ
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkVMZVNDTFdMZDJBNmd6R2xEakI2XzF6WnZCN0FhaE9odTVlaHYzR0NkeG5meGROOVNTbkljWU9BYlRMXzNiLW1GdE02NTBkcno2MUlBT3pVMkhKRGxlbDEyTzJTZnltejRqYm1idlpKNklhSWpBMUJBN3lxMktYWEhjQkFqc2hLaEVGZl9HVEdUSWowZXc?oc=5
+
+- SpaceX is a massive money loser. Soon you’ll be forced to buy it anyway - Fortune
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUXd1SGpPTF8yNHNULW1TNlYzdXAyMHlBeTNDXzlaZktvb2l6LXM2Sl95am1TS01PTW9INmFaZmxLX2otQ0hDN0REYWZSLXZLWVlPZjhyQ00zSUx4OHktemNQRUhyenRTdjVzM1ZqRjV2b3NDRDRR?oc=5
+
+- Florida Sues OpenAI Over Chatbot Safety Concerns - The New York Times
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUZOYlJLUVZMbFBZckp5YXRlTjg3eEp1QnB6ZUFRUUJOVkxjTjZtSnpSRm83ZzR2WVM3SlNEWFBBalZMNnJNakI4SmJBUHZDcE9JN1gwaWNJbjZ4VTJ1Z3FMb19oa01PeGdtS241N1YtVjFoem5JdlI1blZTTUxQdGVkYW1PQW9GdTdDYll3?oc=5
+
+- Anthropic files to go public - TechCrunch
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE5uTlVpVnVmaGV5RkVMUElXX3d1eHR2cHA1YjBlT00tclVZd3N4elVsd2N2R1dERXdUQ18xSUNVSmFLeGlIcmdUMU5vdENIY3JKbFNpQm1EV1g5UHZxbW5uX0plYkhDYUdhNTUzRmw1aE0?oc=5
+
+- Anthropic Confidentially Files for What Could Be the Largest IPO Ever - WIRED
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE42Z1ZmVm41b0JTcW95eGRoYUVzS1JERGxjUm1zS3p0b1Z0NzYwckRUTkpUS1Y5aHBEaHl2YldnSFlsdF9EWlc0T3hEdm1EVlNFWHVHZGw4VHp0aGVWeVlaeHZ4eFBVQQ?oc=5
+
+- Anthropic files to go public in a potentially trillion-dollar debut - CNN
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSeXpGc002YTVXcUkwaklMWjhyMUFadUpidDBJTjMtWEkyMHMxTkVJNFZGbVg1RzJPYXVfMUpRQTBvcjlpX0RDLXVVMHczWl9SajdWd29kVjJkTU9LMVhHdXpFWThpMEU?oc=5
+
+- Florida AG sues OpenAI, seeks to hold CEO Altman personally liable for alleged harms - CNBC
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE5Hc0hORnBNMmo2NGdJWUQ1eDV4Tk4taTczdEwzRHZEbHF3SE43QlpkUkRpLWI0YURYSFdqYk43ZjRYYVJDQV8taE9PZGRRWWMySURnN1ZaWUlaLWVjRG1RTXc2bUtOSklIUEppaWRVS01tczZZYXNRNjN30gF_QVVfeXFMUGw0czhVbWhUOTZmUnpHWkR0bVVBVU1ZWUV3N3kzVkpXQW42WTR0ejExN0gtV1hGd2o2b2RjR0V1bmJINFBGMXZGRnVMenA3VVFRSDA1Q1FZV2VmejNPcXhKdmk3OVpteF9OeV9xbExYb3c2NzlNM2MxOHNya2dkRQ?oc=5
+
+- Anthropic Confidentially Files To Go Public - Forbes
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxPWHpNX2diVUF2VnZHWHl1cDBpcXRJc1p6LXdsM2RhT1RPOFlrbHRsc2hSaXZ1dzBSa0kzdmxSNGVXdlk0VzIxY3FRMWk4a0EyMENCdlpHSUctZnJSY0ZzVDlILTR0Wkx1WmRoaWtBckM5SGlSM1RUV0hubEo2a01jY2dpRnd3d2dFaC1fZDlzc3l1cjluSVdCTk1pTkc1UEdER2U3SnpqWWRfSi1veDdCN256UQ?oc=5
+
+- Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public - NBC News
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkcyb3ptMkVkTVREMWdpLWR5YlJTOHlJbHUxYkRVNzQ5VEhGU3FOZmFuX2YzN3lIVkcxelhMV3RjM2ctb2pVYTdERHZaRjVOV0hOM0p1Zks5Nm03QmJ1WDM3d0d4aVQ5Z00wZGVqRWRQMTVnUzNFcGhHc2VuRXdyTUJuU0c2aGdaMDZJ?oc=5
+
+- Anthropic faces AI spending backlash before IPO - Yahoo Finance
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXdfUUtmSXIzS2VhRFo0XzlOempISlRaQkZaMFJZR0xkWW1aLVplTjg5VDBULU5RVlBXVjROM1V6S3RLYlU1YUd3Y0REUl9oM0xmMTBlRzlRYU5obnVnWjFQWWpubkhQSEZCOVZ6YlRwLWhqSFNwcmhtSzRwVHE2NFJGczAxRFZMWGEwU1g5amdYaFhpcVNaS2R2T0taa0ZjOGZn?oc=5
+
+- Introducing Claude Opus 4.8 - Anthropic
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5
+
+- Florida sues OpenAI, alleging it’s unsafe for children - CNN
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzk1bDNiNTl5MGVuR1ZyVTRZWFJ4cnlQeEhMbGxLRFEzOWttU0pnWXNWX1p2bkZzZW9zVmZYQ2dYeS0wbE5pVUxDdVBQYTN0UWhHS0pHOGRZajFxU2gzdU5VU1J2RndDVDNkUWVsRndvR2FhbThLanJUNDlnaFJOSldDRGU?oc=5
+
+- Anthropic Files for IPO, Jumping Ahead of Rival OpenAI - Barron's
+  https://news.google.com/rss/articles/CBMid0FVX3lxTFBaVjhLV2w2Vk5LLXhjWmxLUVNnSWlqRlliblROZUlSa0NYelFCc1pZb1RweDM4YW1FM1JjcjdZTTBIMldyaWZiY1huVVY4c2o4NVQyNV9ZSy1qSHZqbGh2TnFSYThZdkQtcTQzN0Y5MV9FcjNCWmdR?oc=5
+
+- Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal - CNBC
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBxQTZJNkYtaEJXdG55ZE82bUI0RzQwY19pWXdmUjhnQ2hUN2ExczY5X09JM2RwaXRYSVYzQVVZMVpndm9fN2JKbFlleTk5TnVKaWp2M01QRjRib08zcWliLWw3T2txTU5qS3JLa0Y1TGRaQdIBd0FVX3lxTE1mODdtYV9uNHVENzgxNVJhcnFjNGxraEpNNW5wMTkwdXVLZWQ0ZU5RUTFRYnBjREhrQUU2M2gwdjMzeVd0UkVGMFZQaDVURXF2S1pjcWRyYWlmTDd2R0FmSXpCRDBkSG5tTTBHbWlSM1Mwd2lobTkw?oc=5
+
+- Sam Altman weighs in on the AI IPO race after Anthropic files to go public - Business Insider
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUZoYjN3aHVRYnNUWFhsMUpxXzdjcWhTaGtNazZFSmVaT2RQdTVVRUpiUURzQ1oxYWVKai0yaG1vV2pnVi1DV3JNQ2h2ajdvTWV0aEJWNEJUV29wQ0RDeW9Sb0tiV2RFbzJ3T0lITFA0eWw4c0dKd2EyRVNVYm5KVEh2Y2M4cXFqQXpfVQ?oc=5
+
+- The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO - The Washington Post
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxONEhKM2VqMGUweGdtYjBzWHJVUVNBTUo0QWV0eEpPVmtDNkZHN0twdVNVenlWVElxVWtSUEc0eTNzWFlUV1hjWm9sc2k5U0t4cWM5QkpSMS1sVEJIR3pjY3VfRGtuRkN6QW1FVmFneXZNMndFUFYxMi00NjlUNFdudXBUVVVVTUFWSGlRRXRxMW5IZFpyTTFEb3dfV0xjRmo1Yl8xWG5uTTM1aTVW?oc=5
+
+- Claude maker Anthropic files for IPO, setting up public-market test of AI boom - CBS News
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE9SRlJxcGlMbnh0bHBoOXNUN2RVR3RqVW1EYkNOZXdfWTBqYVJ1QjQzZHRobC0wQlZTT3dobm43VXZLMTEyNkp6eVJpeEhwOGJwNTBPOEVIR3M5Rk1feHVzUUQtSUdJdnYtUHFSYXZjZEVvSjdsbFRMTFNMcklWdw?oc=5
+
+- OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims - BBC
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IUFN4T3VUZFhlSnZ4eVVWaEJqVE1mUFNJaC1vU01jcmU5VFplNE81WkhKYnRKclUyV0Vtb2J5Ykh6LXVJcHJySUZ0UWQteC1OSkg4NmJEeWxjQQ?oc=5
+
+- Anthropic files for its IPO - Axios
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE84a0VFQWJNSmk2eFlPWjZtLW9NNGJXNnBrNHduNGFKc2V2RVNLSTZpWW1HSk02NUlub0tFS3VjX3NIdUhDUVlLUEVBZ2xESVZlZGNtVXk0VmpnZGVJaEFnM25Ydw?oc=5
+
+- Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT - AP News
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGlob3lFNDdEa0xBaXlBQWh4U1JBWmVuZy1XTVU0a0xqUUpnWnRlckRMbEVNM3k3S01DVE8teUQxX0lJOWVvQXZMc3pFWmpfNFVVcUNUbDBqNnZpN1kyNHJ6NVBhZHIwMGxNMWtjaWtFTFhuN2V2QkJpSTk5aXBsTl9iT2paUnNSYVNTZURqdlNFMzhWVzZFcw?oc=5
+
+- Florida is now OpenAI's biggest problem in red America - Politico
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWlIUTdIWUxHZ3Vmd3lFeVVRWVlfQkl4Mi1heHJPUDhieFluMk1JdUZVYUJNLXhkMy1ZZHRxa2ZSc205VlYyODZoSFQtak5EaFBkUWV1LTNHbl9fTktUUmZ0Rkcybk5xd1QybF9mY3ZNZExMSXIyV3g2MF8tN2hDNXZjTTNTanVnY0lUcA?oc=5
+
+- Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk - The Guardian
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNb1Y5V0J4Rkg5WDZVbWRLQl9hZzBlZGFKZEczcXRsRkxQVV9sYU82LWFxcVBTMGhwVTdwYzBYUEZTZ3M1b09XcVYyZ1VFb0ZZRGw0YnU1all4ZjRCOGZ0cnV5M2tLMS1zbmpEUnJJMTBlSGNnc3oyRGFuNnVCdnEwZmgta3VLaXFteVhsRg?oc=5
+
+- Florida becomes first state to sue OpenAI over child safety risks - Reuters
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1RxMnp2ak1OekQtTWRjdXR1QjBsX1poVlRjVklwSWotT3FfUDNsdUFIdVhYa1A0ZlFHS3NSSlZrOWt4bEU2MzFEaENuWG1CZFkyNkZ5al9HU1o0VmQtRDJhUzIwOVBRQThldTNUdmZUeVdvN0dmdFVLa2NDZHFxb0ZIWVRxcHpyTk9GOVUweUV4bXdvYkNtamotMm5oYW5LRnQxZ1c2S1QwWEhldnhTMnhuVG5kUQ?oc=5
+
+- ‘People are getting hurt’: OpenAI sued by Florida over alleged safety risks - Los Angeles Times
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWpmUnNrTlgxSU1ad0pPSWhlajhqRXFUamN3RUZNTHJMZm0yem5MbGxWUlVNQ1BkWnRtRmptZjNsb1dtazZhSEdhTi1WeUZhd01rdXI0aFo3YTVod1lzQlpNczlNN2t5bnVLWjdhZXhZdVZZS3F1RE9KU3pNVVMydUtZMmhaMDlmRlZnOEp4N1dnU21KYm9oMGRLUHpVX0ozVlZkcFNpVThmMnYyTl9CSVZxWWo3UQ?oc=5
+
+- Anthropic Files Confidentially for IPO in Race With OpenAI - Bloomberg.com
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxQblpKamV6MlZMdXJ1ODFGb3lyb24tSml4ODEwdTlJSTM4Y3p1aEx5RUN3NkkzNkRLZ3FucjZRckNkTzZycS1EVnF4UXc5V2JfaE5YTU40U29CR2tiQ2J0VmRtQ05hbzk5dENZbGJOd01OZzdVMnJ3RDBqZVQ0WEtKZmVVemYzOF9pLTFib2ZQVHNvX3l2OU1Sa0kxWmd3S0RRTVRuODlmZlI0RWhJa1JXamlhYw?oc=5
+
+- Anthropic to offer EU access to its advanced Mythos model - CNBC
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUnFkT0lxMGcySk1WZ1pPZ20zTDFSbG9QUktOUS1DQmg5MXI0TXMzUVhVamIxRVZIQWhuYWtCc1ZzYzVUelV0SkVMREEyU2NkQ05qekRZRllrRUxOeE9ETzBjcFhrUVlvZ0JINzVoTTJOSmFScGloYjFxU0JWQ05DVDlyNExHWEVy0gGOAUFVX3lxTE9wamJfVG1mMkNEVEdXRzlENU1kZ1FSZG0yLWQ0Zmh0RE9pYVRWeVpLcFFiU09JX3pxaDMzZUx5RXFDTUNuQnFQbDNEMTRjNkNNUzl1RWlnaGd1XzNtQkR6cm5VS1ZPOWx5NXJVLVNTdk9KdVh5WFFwOU01dUM3UlpfVUI2OFBScmxxbW5ZTHc?oc=5
+
+- Our views on AI policy and political advocacy - OpenAI
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE5CVkxPeE5NV2JMTzFLN191djZSMXFCSVlUcXFVekFHWkVDd0RGdDdPTjBaYnpocGtlSTZqUnlHT0xCSWsxT1hxbzljZkhtWk14bjFEc3ZNVldINjBaYzlGV2tBV0Njc1ZLeFFkaGpzZk0yaV83eXNoam5kNA?oc=5
+
+- Anthropic moves toward IPO, stepping up race with OpenAI - Reuters
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5
+
+- ‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety - The Conversation
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGdwSWplR3R4SDE0OWVyVm1lcDRNbllQQklGbVJ2ZkhnNkw0ZjNueUhTZmhvRXRiY2RXczhQQV93WkhCdkU5VHBZcVZnQmdZY2J6R0VrOVhZRTJ5dFJrOXBfX3Z5MEUzS3lnbG9CV3UwcTRaaGF6dlhVQU91QTNKTUtOSXllcE9DS0hTQmNWSTlXVDdkd2FNT2lOZUVFMWhGeE1JUWFZVUlUcXM2Rkd2ODVXbnQwTWtTSzE5WmFPZlV2TkQ5NEE?oc=5
+
+- Anthropic confidentially files for initial public offering on US stock market | Technology - The Guardian
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9NVkNVVm55dkFIT1hvbEZSbW1aS3E3LXp4NjQ4LW1zQTRJa1cyY0VScGRrWDFQQnRDTU9nWlliS1g0ekhXSDctSlJ4ajVoalRkZ1IwWVpxem04Y09zdzVHY2ZxLVBfSC1VdmpMWnlOVWtaZC1RMEE?oc=5
+
+- Florida sues OpenAI and CEO Sam Altman, accusing them of putting profit over safety - NBC News
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnJ5c3Zzd0pzOUJiMFJUSGVCaW1abFN0T1d5WUpKMWctM1hadW1PZ1Rqb3lyQ1RXSFgyS2NybjRYd3V3cXBDMnhUa19SLXE0dlJfUUdqUy1RNU02VzdaaHhBRlp3aDc4YkJlLUJWOHVCZ0dVdWZxX0VuZ09naGpSb1h0ZWNGcU5tS2xKRFhzQnBYM2Z3SVpsR252Vm1vQjI1UUtTZWoxdWM?oc=5
+
+- Strengthening societal resilience with Rosalind Biodefense - OpenAI
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVNLV2Y4Mm1Obk1QM1g1anpUQVBrcG94Vi0tUTZhTXotZERLdnM5NzRYMjZMTFN0ZkxGTGY0b213ZE93TXBQQlZ4c2d1MHNZRTE5NU8wNEpQMUVVTHU1Wlg5NWtKT3F0cF9SZlNPckFQVFFoMk4zYlpTdXh4M2ljb3d0RVJLY29fc0U4Sg?oc=5
+
+- Codex is becoming a productivity tool for everyone - OpenAI
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE05YUVmVmFoLXExLTNQNk1GS19Gdi1vWTNFc1hSdUVZQkRtY19saGZLMmVVanVFMl9rRmI1YUNWYVFNN3NMSjE5NFBLZUU3QlZIeDlnQUJEVC1Jb3JfOVE?oc=5
+
+- Anthropic's Claude hit by major global outage due to 'unexpected capacity constraints' - The National
+  https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmFjQ2N6V1F5SHJVT05mMEZkZ3poQWZiaktmTzBmTzNiVWhQUmxtWTBCSnBSVngwX18yZWhVZjB1Y3NpN3dORkQxSnF4dnJwOVIyTWhCeTBXWG1ic2RrZzJoRk9odGZuR1A5RFBuRjF4S2NXdDRmQzdDc0pDaWZSRXZrUkNZeWFiSHpWM2FzeWJLTWVJSUpfZWRVaUhaWWY1My03NkZLdmlEZUxEc2FLSjZoZ2V5cnBjVllJZDBuVXBrY1VENzBJdHJXdVpEVE95UmdWV0VDemo3RDRpSFE?oc=5
+
+- An OpenAI model solved a famous math problem that stumped humans for 80 years - Ars Technica
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxORTJ1S1lPZ3hXZjlnZHhBWXgyZGJyVDQ3ZmxRYkdmSVo0RmVaeXp1TVZ1eldVajZ4ejcyUWxnTFF4NUExbHNpT3JLSkxraXpLRkVZYzFOV09KdVZjLWVzdzFUZ25mMk1GX2txeF83RHhQV0xpcmlsbFp3ZG1vNTFkeTNNN2tpaWxlVnpsN1ZR?oc=5
+
+- OpenAI and Anthropic are racing to Wall Street. Going public first might not be an advantage. - Business Insider
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxONTlFeVctNWo3d1BLY3loZkl1R0lZOXlvWDBUZ0U0SDY0ZEJka19JaWR2XzhQZ3JJcnN6RHhvMzNvdWR5dUlGMlRDWlJ3cEZLSk5tWGVxQm1kVzEtZFY4U1FrY0tVMmNmVG9jV01pZ2QxWDZSRzM5Q1NPQl9qcWxrUVNMSXVhS1k?oc=5
+
+- UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI - BBC
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRVNWN0FydXRyOXV4dER3bzcxTDRxdkZhaHU1S0VDaGRIaUFDeEN0OUpuSElxVHpjbDN6eHp2NHVoY2kyUGtzOUFkcFJ3UENpZG1XeDlNd3dFUQ?oc=5
+
+- Anthropic files for blockbuster initial public offering - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjdOWjlYZlA1bUhXOXVWX2tGSXZJa1dHOEI2WHU1YUNCdWlubWgycVdkNF9Vb2M0cGtsZHFWNV9oVnowMzhyZjh2QmJacG5yblE5ZXhaQWt4Mi1MbmFHNkt6aFZtckk0dXVMNF9MV1dTaXFvUW9aZGtrM1d3cGYwSmYySFQ?oc=5
+
+- Anthropic’s CFO Krishna Rao is steering one of the most anticipated IPOs ever - Fortune
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW55MEZDaVJkeFJWSUIybDhSTG1LUHcwcVpRdUVwZUtxM2IyYnFzNFk4V0VQVnd6dnhaM1hBakg1RU0xaXJVZHpFYXJRcElOa1FqNV96MnJCT3lQZUsxYng5U1g1Y2NySFM1MG9YRkRjdTVfRzlRcWxWV1hFMTNjdUpOekRBeVM4OW16TDZKWlFkaDZZTWc?oc=5
+
+- Tesla Stock Drops. OpenAI Is Coming for One Line of Its Business. - Barron's
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBaOS1FUFI3eTNadGlNWWppcGpFU3dtbXRYVUdxMTRfdXJWT3dLV3B1UXFoSFRrMTZQRndhUkVDRXZJQlkxZUZtS3F5aGUyUThvMHBuT1d3R0lWSWNiMWVTM3BBU3d6YjRER05pLVR6dWRSaTlFcHc?oc=5
+
+- What Smart People Are Saying About Anthropic's IPO - Business Insider
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1hVcU5WNTdXdjNheXhmN0VTMzBJaURlbWRzaVdrODA2cUNWVkhCc1dtYkJBNnRlcFdVUGpBbldqYmdUdW9keG95MmlMaVFYWUo5UEl0WWhjLTh0VkdRRUZROXBpOUFUSWN5dXhmRXdOQ2FERlBOYXdDNkRES01Sbk9ZY2hGOEI5aXJRYWFtb0xEUEtoUk9UTWJCaXRXelZuYmc?oc=5
+
+- Anthropic Confidentially Files for Proposed IPO - GovCon Wire
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFNVakEwR1VrWFZSRERjaHVPZWdqczhRbVRCWENCNmdfR1laWnFyb0tJWmRfRHFqOXN6enZSc2NpQUp3LVNRdXJ4T0lmTGR4QWI4NS1TRDJkYmtPYjN3X1N5UjF4bHhRV1lId0J5Zy13TDJ1N3lFYkNBUG5qZElPSlNlTzZ5RXZZd2s0TV9n?oc=5
+
+- Stock Markets Signal They’re Ready to Absorb Google and Anthropic Capital Raises - Barron's
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTFFUMUVCZHBHZjRfdjZXNU83M29ZVVpoS19EQUZ0OHp1VTB4X0N4b2ctMTBna2NCNHRWYUVmVGotWGtCdW5tQlFtRWtzdW1VUGMwYXlpUENERG5uVEd1ZFpHcjZ3QmtzOUpULXhhakpqRkpQRlBqU2pDZmRTVzBQODNPOEV5aE94SzQ4?oc=5
+
+- Watch CNBC's full interview with OpenAI CEO Sam Altman - CNBC
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnZzRkVfQS1UZ0pobDRyLTVNV283Yk5DTGJjR0pyN2toUXl2TTdlemNpWllISEJNQ0R4ZlVEQnFJLUt6ZkZIcHNGT2J6MFRDWkJXVm9CWDdyNmxtLUxCU1MySVo4U3U1UE1hVHpiUlBhVUVmOVppc3ltWTl1aW52eXlRUWNkZVl3ZzQ0aWtJSnAwcXAtbzhmdUFweUU?oc=5
+
+- How Anthropic’s Claude Code is Changing Enterprise Workflows - AI Magazine
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmt1U3htYmJxN3JmdkFMR0VURTYzM09NSXNqMzkzOW83SXZiWG5Wc21mSTA0V2ltamtwOU13a0hIZE5jaEUtMkRqLVE1cGtXRHF3QzlEaVBiUzgyYWgxN09kWU1TQUQwWE1XX3dybkphdzhBLURmLXdfZ1ppdm1TRXVZcm5fcm9NVGZV?oc=5
+
+- OpenAI CEO Sam Altman makes a lot of predictions. Here’s how they’ve fared so far - Fast Company
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGY5R0xMUVVWaFFwQm45eEd6NHg2UHhiekpTb3UxRlBDWTM5aEZqQUIxWGh6eFRTclBxNGNOYndJWGpneGlnSjd6MThudkNqSzVoSXVNaGctZjBMblVyZ1hUN01tM0Ewd05HZ0pMQ0FKbS00VnBCQy05ZGJtOVNLOFZJSndXbEx6Z2lQc0ZjVFlGSnQ0UWRaT1RLWnhiV29vMzNoWXljR3I5UUF5MnBDZUZna2lwUQ?oc=5
+
+- Anthropic’s IPO march began with a Claude Code breakthrough - Fast Company
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWRROVU3aVJtelZRLXlzdWpJYUVzRG1HNVBJSXhxTUxqS09wQk9hWU9ESE9FZHdubFRfRUNRTVpHV3BJVExkTWFDUGZMY2pUek1TS1cyOGhLRUhrZXYxM3FBVEl4UTF5THUzMy01VVdoTUl1Uk5XSzRuRWY1cWNjeEFHQURiV0IzRTE4am4teVpzUVcybmFMN3F6dw?oc=5
+
+- Standard Chartered CIO sees market challenges from the Anthropic, OpenAI and SpaceX IPOs - CNBC
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVdvNTJqX0xXcjY4LTZnQjJwTEdJMkFhQ2Z2Nk9DMThPb3VBVGdHRTh2UXV0a3RCWlloSUdxTzR3UDdvUFBha0REWHVsdU1sYnZxQWxHNV9VRjRHWFZEajhSZWQwSjBMMnZPckJwVjBYbTNmVnhVdDhva1ZwczJETC1hVGJGYmQ4OWN4MU5qSUlpY0JaMHVLTGJwSmZlaUFTbUZzNUZlTQ?oc=5
+
+- OpenAI Distances Itself From Cofounder Brockman's Political Donations - Business Insider
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxPWDM0Q2FKWUFaa2xpQWNtdUVISHFubDN5b2xwVy15bkxJRHBNYXJzdER1d3RRMGdQeVhXM28yYkVQNmMxT21rU2NlUEtJM1lsRHRpcTZOY0VweEh2cWxvMmNyYzU2VlJJUTZtMVdqeUtKV3dycVR2ZThvcFREN3oyd284VW1CTTRWTDVDSldKdlRBYlhpX3BkYU00VzM3RXpub3BLc29qaTh4OW50UjJ0Y0FmMzE?oc=5
+
+- AI startup Anthropic files for IPO after reaching $965 billion valuation - Business - France 24
+  https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0ZQZDk3OFpEbW8zSWVabmxlSV9xcG1wVWRJSmR1MjdNZnFpSkdadlhvblV4WjhPVTNzRVlJT2daV2dqOHExRUV6b09DTGxQY28zTlZ5X3lGaDBmWlFJb2tXT2ZOMHhpbk1Wak9wSUZRS2hhdjIzNVhnWlRFOUpWNGdhZU9CaHVBRm5PbGlBc21scHlwTnlDa1htdkp2SkQyOFg2VXR1YkhZZDFIdDlVWExWS1E2d3BuVUlUa245dkNJc2g0?oc=5
+
+- OpenAI brings frontier AI to existing AWS environments - Help Net Security
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWHI0SWxSWDJiQVBxMzZKcEFQTTdsNTUwT0hhRHItTFMtaWhoVDdVLTMyX2t2cjhpT3BsTG4zSVVWcmdxM2JaSFF4bkx0ZnBmekZQZVVNUXAxSlVBNTNrN0FJQnN4akR6M0w5UWRSMWk5UHM5SzNyWkJyeTFUWGM?oc=5
+
+- Salesforce Investment in Anthropic Is Valued at About $5 Billion - Bloomberg.com
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1JuaUlCLTNic2ZGYl9tbzNJRTFMRXdBb2NEQ0YxMElmQjY3RXFzMUFlSGRtV282Y2ZCSy1Ra3oxS1hxakszNjNOX1dfN2pxVWRWTThVallVSkd3YzBOZ1lRWi10UGxYSmZZSW9hLThyQ3lyOUx4LTE0Z0l0R3Zsd29BeVFuSzFhMmM4TzJUODF4cDdUWWhxcFlpNGhyQ2VBZXpuU1ItbzB4NG85dVZERWxtazc?oc=5
+
+- Anthropic Pulls Ahead of OpenAI in High-Stakes Race for IPO Riches - Bloomberg.com
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUVETktsVXM4Xzc5R0h2d2IwWmlCd3FkWV9SSDJUZkhvZEE0SlEya0t0cnZPM0hjeHgwU3VxTUREMVFQT25hTENMc0hWNl95Y2I2YjJYVDNfQjFyT1MzVEJQU2lpeXJ0emxZTkliZXJxZmlWcFVNWm5QV2J0eTlwbFBnNnAtcmNBUkY1YWJ4c09ZdnphTXJDNGh0X1FoM01oNlRHaEx1d2F1UEVtZnVuSXJicw?oc=5
+
+- Elon Musk’s Grok destroyed the world after just four days in an AI simulation - The Independent
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxQR0ppRXlTcy1vdXljUktNeWR3d1FhWXduWjJrOUo2YVJmVjIyVWJINjNSUTZQV2lKTDlZZjRtcE5nRWxlbDZhLU43U2dfWko0c1dVTjNpNlM0MUNSNTREMWdvSEgzOFMtRXZsQWVOMjk3NDJEeTFfWmtCc0hyMDJBVXBsTEdNNVczaHlMTTJhVHRFeGR3akE?oc=5
+
+- Anthropic IPO and Alphabet stock offering reminiscent of dot.com bubble – expert - Yahoo Finance UK
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1UwNGkyNEtUaW43XzBHenlVVl9JaFBrYUhQWS0tWnFXUno5cmpqdWVsWndGSE9VaVBlckFBaEhlU1pkLXFubmJWTW43UWhaQno2S1hhQlBxSy1DUUVMX3pyMU4zbDFINUhHYUxWbnZHdlQ1S2EyQXd5ZkdEaG5CQU1uLVFlRkZhMDhhTDVzQQ?oc=5
+
+- Anthropic’s IPO is no longer just a rumor - Fortune
+  https://news.google.com/rss/articles/CBMid0FVX3lxTFB1dDdZUVZnVHlFMVRyTnpvOHhKemlhSmFneWl0TVNmNExDSVVqRjVLSy1NT1lJRUQ4Q2k4TlNHRFJ1NTVncjhqSzlrcnoxemZmNjVta0F2d05rd0JzYUd4dXJIcmc3OTRiS24wY2Z3Y1RQdFBmd25j?oc=5
+
+- AI Giants’ Fundraising Race Heats Up With Alphabet, Anthropic Moves - Bloomberg.com
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUFlbUtTeXNUZ0RnRjN0Tzl3aXNjZGNxck0xc29JVmdDcFVidGNKZEdyOGtLSmNmeW8td25KSXl5RzNUZWNzVFd2b0tKcXlTT1hzVmxHRGN3YXJFSGpsbVJBUGI3a2VtbHREVHh3dVhIWEN6bTRJR1BFRnZpY292SlRTTzQzSm40dlEzaGd5aC04NnFoMWxmUm1jTXpVWkd5U0ZzUlV1T2k1aDVtYkdvR0p4TEo2OFNYZ0hBVmR3?oc=5
+
+- Anthropic files confidential IPO paperwork ahead of OpenAI - Yahoo Finance
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVlaNmlWY0lLTjdPZTJCX3pGUGRDT205NXRXZ1FnZXZzNDl1R0cyRDN4bGRSMjR5NXdFZFBIdGxmOXhHR05oUTN5STFpV2xHYkVuWjlremxkN283SlVJQUlJa3hwR3VnR2NGczQ3bGxENnp2a1NWYmxtUkt1QVVGY0hXcFloZmM1M1JJYUhrNW9tbFdxUzNjOEtjNUltd3Z0STRtUXJYdk9BSjZLZDJYQ25fZEZaZw?oc=5
+
+- Anthropic’s confidential S-1 signals summer AI IPO race could heat up fast - Fortune
+  https://news.google.com/rss/articles/CBMiekFVX3lxTFBkNFRpODk5RnJ4cm9Tcm5mRTlHbGJxOEpBdExvTkVQMHVVbnlDLVVHZFFhR1dsZ2wwZ25KaS1UMnB1cWkza0U2ajM2Q01sR2hESXJGbGF6R0RwbFlqZTItalU5b0QwOE9EWWlQcUhFRndwRm9tbllJMFVR?oc=5
+
+- Sam Altman Addresses 'the Most Fair Criticism' of AI - Business Insider
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxPY2g0V1ppM0loeFpBSnFYX0ZvN2MyRnpJZWNLY01BLVR1SGVONDd3Y1Y3cWl5ckpqYmhwQmx4LWREdHhJTFhtLXhTN1JXNWpQdlU1VVFyc0pFMTloTVJHbE5iN0wwckNILVlpUzJXRXdtQnZONTBQY2xfVzJZLThPRGZXY1RqNklHLWt4MmgxSQ?oc=5
+
+- Opinion | Why Does OpenAI Pretend to Be a Nonprofit? - WSJ
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzZGN3lYYUo0ZTF6RkJpMWJiNlNZUjVQZlVlNHFybTJCTDNlVXVreFAzM1FhU25EUHl3WVdDLVVPTEJhMG1IeXBWYXFkWnNjZUF2VlRoVVlIZTNEX0ItbUcway1GU1FJY1Vid09tRG5PR3gwT2VwT1k0U1ZHZldBQjNWV08?oc=5
+
+- Anthropic overtakes OpenAI as the most valuable AI startup - Axios
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1PUnJYZ1V2cDA4MFFqTlFlOVdfZUFIb1JUeWZKc0d4Tm1GWWhBRlJtTXZIN0hkb3BLYkIzRmxCZFJIUE5Yak9PZDdvNE00VFhoWU1UZVMxbkdtVXFBS05SQmV4TVdpOGxaaUd3V0p6WTRuQQ?oc=5
+
+- Anthropic confidentially files for IPO - Mobile World Live
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXBzdFlBdE1jTUJTaTdtMWdqRmdkY2F5cUJWUkwzVnAyUWJWMDJ0Ykl1NzV0SjFZZ21XWEh0MXJTYU9wVWZQUThWcXZSSVZ5WkdBcEJUY2VEajNKWFVSbWtnMVNwZWhDM2lNS05yMGVmbmhhVXU5VzB0ZE01cUNoQWhfalJ2SjA?oc=5
+
+- Florida sues OpenAI and CEO Sam Altman over ChatGPT - Axios
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFY5RUl2cThBUmxXVXI0S0RZZW9RNjdWVnpmRThIeUp3Y3dNbklGaDBmbTN3bjFJT1BNckdJS3dXUDN0aHg5SmZ0UXF1TFptSTREVEhPMDJZc3RjUXQ2MU5hMkVSV2pDNGJwWmJ1OUhYSm9uWGRwaEVUUElkWU8yZmo2YzFtU3Vnd3ZIZThHaw?oc=5
+
+- OpenAI’s Frontier Governance Framework - OpenAI
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9VRm9LLWVFc0w2Uk1JcEtNaWE2S1R4RThlaDB0ZUV6cXB6NFFSd0htcGxacWtIZnhyNDZGVmZCZUdPRE1RZTZ0ellzbm55dWxDRk5qeEVYdFRsVkU0WXdraVp3dTlkYUVVeUJDeV91RQ?oc=5
+
+- Florida sues OpenAI over child safety risks, citing internal warnings - Fox Business
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LUmI2RVZGU04zZkNaMnk3OGhBMkIyb1pEWUxJbjlucGFpb1dtWE52emg4NlJLZnVTLV9oSHNlSFdaNGZBVUtZSTBCcjltaG9hcXRvOUZ6MnFieGs?oc=5
+
+- VIEW Anthropic IPO filing ratifies Wall Street's AI obsession - Reuters
+  https://news.google.com/rss/articles/CBMitwFBVV95cUxQeS1fQTZyQ1IxeTJQN1lJeG1PY0tHckVfeE9qTFRJYUNacHdIUG8xdzlGMjI3eUpSUUUtTFZYamdkZTdJb1JFTHl2aUNkZVFHUmxWSmZZMXpzbHRaZGswWllPSEhHMkJ5VkVRWXZOdGF2QUtHb18wZFNTYWRBTDFGNEJQaG01Zm5Gekl0Y1UyeE1Da2tESTNDMWRGVDNWNlpaM3VsRW1aRUZFVXlTelBLZVFOQUExLVU?oc=5
+
+- Attack targeting OpenAI Codex users exposes AI software supply chain risks - csoonline.com
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXBNaVNQRjhlRFFmNE9TdXd5NzZFMnFsMnk0czRGU056SDd5d19KS2xCQzZZXy1WMk1EcjJWeUJmbm5QSTdNX1JZMmhpY1k0MHpWTk1EcEQ3dDdCMEdIdDBPLVUzUThHMHRsM1VaMXJwNllxLWFjQkJHdkwwOUVTVU1sZ2dzY3RNOFZjMFV2cGphODRDVzd4UjluczBDUFlVUGtHTUU1WUxIbHR6LURFX051Wm13cDN6dW5MbnFn?oc=5
+
+- Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents - TechCrunch
+  https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0hyNGRfbjMybWROU1RXc2dTX2wyQzJHekNyUi1qYTRWMnBGR2xxQ1NBTVM2eFJYZnJPZ2V0Yk80N2dnX1VWQ2ZEdG9aaURQZlk3aHhfcnhodlE2MUR1X1g4R3ZOV0hPbWR4ZjQ4amEtV1lNel9raUkycXFJOUp4OV9yYks3NndIRjR6T0NUMjJla2ZpWVJFcF9wQzJyN0lqMHVLRjJheW5RcG0wUVBSYUJiUDE1VE5J?oc=5
+
+- Coding agents in the social sciences - Anthropic
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBZOVA5Z3pKZ1JzSHJXaFl0LWdSQlZfZWhGb3AtY1R3MExZRm9KS2dfRmNzTE1XR2VXdjlPMVh6U25SU2JmcXBZQjlnSWRreHM2SGZmTnpQVzRLQVFmVFQyOExiR2o5dFhSb3A2WVBmV2RzQQ?oc=5
+
+- Interested in a Healdsburg vacation home? This one can be purchased with Anthropic stock - The Press Democrat
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2ZGSnd0Z2FQNnRUMnRXa0lZTXFCaUhDdUtLcC1ic2dIaS1GQlRsb01abjhjcDlfQkkzTDJXQXJtSXQzQjRjVXJ1aFlINTB0VXRaelB2UkRzd0hFZTZKcjRGbnNXdVZNUmxYZVllaW9keHc5eDVNRTlaenM3S0QzQnBEeDJyejY0T0RTTXJ4WGp2Vm51OWNvWEtEMm5QVWxMQXhzVVpOVm0xdlVN?oc=5
+
+- Florida sues OpenAI, alleging company could have minimized harms caused by ChatGPT - CBS News
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE94Ykh1QU1md1ZBald5NTJ4eUhWNWh6X2t2NVV3NDBsZTNaRmlWN2VXeDR0QUsyOXVmMHgzeExDR3NBMHA1WExFVmFiRjZ5R0dOa0V6N2JaNFdVbjV3RnhnOFh4b1BkU2tDaDFFbmF2a0Jwc3dxYTNjQTlYbw?oc=5
+
+- Florida Sues OpenAI, Sam Altman Over ChatGPT Safety Claims - Decrypt
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ya1djZ2RCMlpRZWlYclM2R3pyb0FDd0NVTWxGQkR5d1o5aGg4Yy1PR1ByUkE4eUNjN2hBb2luNXpmUUhteTRCNFNpVG5sd0Nxc09vN3RxUm9sb3NGWWZDX1pjSE9leDFOSE1qZ201ejFvVS1qVUJ3eEFua2xodzA?oc=5
+
+- San Francisco AI giant Anthropic files for IPO after $965 billion valuation - San Francisco Chronicle
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2U2ZkxwVVZZZE1YbTQ5bDRrQ0xuek5JaTkwY1BhTkFGbWtRVi00cmJWejhrbFJXRTB0V1VVd3F3WFJVM0phQkdfaFFsVFhldEFrSkIyYXRuZGxEcG5makswbjJIbGVabm9SRnFCMnYxRlNGVmdYMW9MZFdxeFV6WkZtS3V5RFl5WU54RHhxdFI?oc=5
+
+- Anthropic files confidential draft IPO paperwork as SEC review begins - EdTech Innovation Hub
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxQckk4dVpaWklwYnVQS0x2SG5JTG9aWlU4VkZ6MDZBR2JRNVd4WERfR2MxQVg3RDRmcG5qYTJxZFBZaFN4VkVJRi1rSE5pTGUxX1B0dmcyTnBHNkZGSmRndGdtUEpzXzdFekd6Q0o5NHUyQWFTVjZTY3JLNTNicmdRckJ6bzFSZW5xRk1odDNvSE01Rm5aNXJpWE5vRllUQUY0dWhKbjNrWGhYeWFBS3cw?oc=5
+
+- Anthropic confidentially files for IPO with the US SEC - Data Center Dynamics
+  https://news.google.com/rss/articles/CBMinwFBVV95cUxNbDJYZktTaWk3ZVhLcDBTZTRTcU5QTzhsZHVUdk9sXzFZb3RrUkVPNWs4cnhvSUFjcmpQbG5sVjIwMHYzci15bFFISlg0bzdfSWw3dXBUVmUyOEh0aHpobUpSSWhwNU5SSFQ0M2Y0VUNzUzcwOWVjSUNNX1ozU1VuenZsVnpKaGtqZnRyNV9jdW84bEdnTHBaeVVVcU85bG8?oc=5
+
+- Anthropic confidentially files for IPO – days after $65B raise pushed AI firm’s valuation to $965B - Music Business Worldwide
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXZSNlBsUUNwNTc0RTQ4RThNYThlNkxKVG1DZElsbUZWbGVkTlN2OVlDWXMyWFNyRFBLUjVmeEpwekVZdUg1MmV6TDllV3p3alByUjJEMzFtRFhzalUyX2NYVFJ5Wl9IT1RSUFdpcWpUdDRMeGRMa3VWRHBSTVJkeEZYcTRjb1BPbkFTNHFjY25LeGNTS1Y0VVhEX05WYjFacUVpS2xMWlZJbE1jWW12dkpGUGo4cjhuc19rQURVNmdVZw?oc=5
+
+- Anthropic Rockets to $965 Billion Valuation, Topping OpenAI in AI Showdown - WSJ
+  https://news.google.com/rss/articles/CBMicEFVX3lxTFB3a3JRY0JjY0VPalNrZTNGWFVXTmNodEVCLUZEaUFneS1Kalo5UlU0QzZJcjdYN3ZFX0tlUVlMalJ0NjNZRV82c0NjSnFVMzg5OTQyZ0JjaDk5Zk5LMjQ2NE94VnQxWnRpcWpvUlJpVVU?oc=5
+
+- The $900 Billion Giant: How Anthropic Got So Big, So Fast - The New York Times
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkVMdnBMem1lN0JjcGN6XzZTSG9jQjljZnFRcS1US29WNXhGVUhWaG1zVHhmdU9ydWRmMTgxM3dlMlVUWGFTR1o3V1p0RHVEWEI4Y2JLeGQ3V3RURndJTGtKWEk3V1V1ajRoRVhhSzVYdkEtbWdEaTZmeERqN1VLQXlxOA?oc=5
+
+- Sam Altman and Dario Amodei's conveniently timed doomer-to-boomer pivot - Business Insider
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGhSMTZRNlMxLTM4RTZ3VTU1M19aTUduVDJING1SWk4zWm11bzc3RlduQTI2MFlDcm1YZkc0MVhFSmtPemhKQ3IzX3BJNUp3SFFFS2d4aUZZNzMxVnlpaVBLb2hzR25PbTlUQ0JWYXpJNGlXdjdrM1E0SWVqQ1NnSElDemlNa0NZY3VN?oc=5
+
+- OpenAI offers UK banks cyber tool access as Anthropic limits Mythos – report - Retail Banker International
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNjdiY3IzcGJIbGdtODBDTHJJYl92MmpLMzFZVHltRGFIREFhWlF1T0lkX0FjeDZDUXd1aTBqUnhVeGc0RUt1QmZHcWE0MjRXVHB6Y284UXJWUHRnODN5TVJJbzRjeEhORGR0OURCZDdSMzRKVFNfVE1EcnA0ZXB0aUhQMVdxZWI2?oc=5
+
+- Florida sues OpenAI, Sam Altman over ChatGPT concerns - WPLG Local 10
+  https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUFJV0UxQy16aGhSdU94cS1td0tJTldUMTFPSGVrVGtUMEJRNHRxcEt4NzFnRFJISXIwTHctVVhlN1MybWlBcmdyWnhnajUyaDgyQlNHcVQ3Ym5RdzNXOG51dmltaTFtSFY2ZnQ3d3hocTBOWUtvUlpaTHhmbHRScXdocENzZ2RtaFpNSjdlSmxpWjc1WjRaM21CSFFBOFB5?oc=5
+
+- Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round - CNBC
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE55NUFBcFNtS3B3SU9zTmxpZ3hkVlE5UXZqendEb1pIcTIzeXBuSFVLX2ZKSXF5cmljZThjVmFFcW9xVDAyUE5LRHB0WEdlMWtXdEp2ZERJME9PZEV5RkRSaHkxRzBqR2J2UHRTMUR5a0RlY0dVb3ZB0gF8QVVfeXFMTzVRMWxaakV4Z3J5WFA3aERDUm1EWXZDQ2pDS0NnVEFSd0VuelBOeXd3cHdPdWFNUXVIa0dVUm94X0MyTWFNNy00eEViS0hfZlNvOS1xT3dfNmh2MjNKYzk4WnJ2bDVwUER6NmljWFg1Zzk2aTlmYW43cklYUw?oc=5
+
+
