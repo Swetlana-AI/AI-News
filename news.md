@@ -33016,3 +33016,306 @@
   https://news.google.com/rss/articles/CBMisAFBVV95cUxPT09Ub2pJX1Zial8zaWJrYUpPQUJqbEw0RTNuSkJwZHZwZmUwQ0lUU2pQQ1IxRUI4bDI4TnFzUXBlWDR6ekM5cVREeVhNOEEtTzUzQXUyazU5ZXBIQmF3ZjNfcm5VX2xFSGRVSlhJR3ltQzJDakJERFh6bW5ISDhqUUFudEF3dnNvZ0lvRkVsVTA0Tl9RX1JrMS01YVBVWU5RUnJKTFdlZHlIVy03OVRFaA?oc=5
 
 
+## 2026-06-07
+
+- OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports - Reuters
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5
+
+- OpenAI plots biggest ChatGPT overhaul since launch - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGJ0WEREdmV6SGUyOG5rbWU2ZFA5Z2Z4Wjg5MTZiQ0V5SGk5RFVHYnZuSXJ3QjZpQXpvRXNwN2s3bXNBZlNkRThwc2hxTG1oQnBkakxnOHBuOUE0NGN3Y0h0R084ZXRKeTBOM1BUaTg1TXRHX1BOU3M4TWFnOHR2bW1ER1Y?oc=5
+
+- No need to panic about Anthropic’s new blog, and some more good news - Marcus on AI | Substack
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9CZzZ3di1XOTFhX2F2eFhrSWhfdU5WUUZUdXlLSE0wUWdUbmdNNHNEVDR3MjRJVXB1cFh0MVZFN1ZmYndLcFcteHNXeXVlNERqUWgwY1pKSDVuaDdicnpNWWZxMVBVdWl5cTU2YVEtVGFoSDN6VkE?oc=5
+
+- Dreaming: Better memory for a more helpful ChatGPT - OpenAI
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOd2FyMkVXZ01LRFZHMHZ2Wk1HeTlSOEMtNGd0azhKMi1tT0JZWkZVaHR3UUdFS0NMUzZpNEtIcExsaVo3Y1BON3ExVWR6a3F3bkp6Y1FvV2s0bGZCWFE?oc=5
+
+- Expanding Project Glasswing - Anthropic
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRWF6VVZqQWo3VEJKQ2NDOTRXT1dQaUNzcURtbkdocEg1bnY1WEFFWF8zRGxwd0R0d1NxZFZVQ3dBeXdGU1hpNEZMd2JFcHFzU0UxLTdUVnNKXzM3dTZSanU4b2ZGM1lwUnc?oc=5
+
+- This realtor is betting big on the AI IPO boom, but OpenAI and Anthropic have to approve first - Fortune
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGpRQUxGVGhvYnpzc2RtT0VKT1d0SnFzQk55cXFtOGhNSjRDZHEyV1ZPeWFhRnVqemI3ZmlEeEJjUW82U2hrNDJzc1Atb3FIaDJPVGZnRVRtVUdROE1HZW9vQzljSDQ0ckNTblVFUnJHTmh3QXBiRlMzRC1Nb2Rxb1E4bTR6d0FjcXFtNHZOWkR5d01ETnVsNU1rbDRPSGlRckFSS3Nvb2ExbnRmdmc?oc=5
+
+- The Trump administration might take an equity stake in OpenAI - TechCrunch
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0lKU0xtZGp0ck13LTExMUlxS1ZpQVE5TnVTdkk2aEJ6UzczWjlvX3BTa21IcktQNEhzOFRHc0FJNXJ3WmEyYjk0QXlvUXFnUGVqX2xZQzRaTEtMbDRtTkpLUHRYRUpzRmluSFR2c0FOWnpGcDVod3QyWHNpakFhMVlsU2dZM0w5RnhHNjh6UUpqTWVQT1dVNThHNjA?oc=5
+
+- Anthropic warns AI may soon begin recursive self-improvement - Scientific American
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDBjNWRscG40YjNuQzBiN2ZMcE5jU1pkNU1KY2FKaHdxZC1sa1pRQjhSNFBZWlQwaXVXTV95bjBNaFJoMkhmUlFTbkNZNWJlZFc0dDg1eUl2UFIxeXlRd1dTdVJ1cUtHR05qUUhjOW5rVmgyU3Z6SjZNTUdaejFJOTBlUzdkd3hyY0hnRTVTTHVUcmtQTXdYY3gtVDhqUkoyeVNjYXh0WQ?oc=5
+
+- Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk - WSJ
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkZCalRnRjNtN09pZ25OckdJNUhjeVBVWlZnZVNVc0lxQm1NNjcwcjBkTENibi1DS05wQlR5WElPaXE2dTFpc19pUTIxckFXU2tLTjRZTmE4WHdTMGxBX3VjWmRrUGpEZkRNNUVKOVBkQzRqWHk2Mm9RdkFjWGNZTXVxM3NrVFc0UmZnQ1VXMmRKMnpGUUhhYU0ybGZLVS1ST3NIRl94Y1lOTVVTX2RnRA?oc=5
+
+- Anthropic’s Call for A.I. Nonproliferation - The New York Times
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmVfbFd6bmRJWXBuc2VSTTdnUVBXQ3lwQ3czMWw5a1V6YjRUa3pacWNZNVczb0V6SHh1Y1p5aUJ0Y3pVajlFVmNyWjlFSVJxS3hUQU5ybDJ3aTc0SkY0YXA4SFZIbGdzRDd5MmtxQUJWUm5qZEFxak5KNUt1T0ZEVWw5a0djUnlkTExWb0hGMkQ?oc=5
+
+- Trump administration, OpenAI discussing possible government stake in the AI startup - CNBC
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5
+
+- The Anthropic IPO Could Make These 5 AI Stocks Unexpected Winners - The Motley Fool
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHBTLWF0cldSdFZyN0pZbVdzVjE4UFhXaG9pTGxTLUQweW9BdVFFYk5jbFIwTTU2SFEzeFRDYzVvRWZSTGJKWktSREhMTXVPOFJ6VGczTWR2TXZYMEpqNkRrMk9iSFZoVkR5cUxzSXdjQTJ4SUJjSGFfdVhrOW9kZG5BRkh4ZG5xQ2M1NGlJUXZzRE9oQUlJ?oc=5
+
+- SpaceX, Anthropic, and OpenAI Won't Be Added to the S&P 500 in 2026. Here's What Investors Can Do About It. - Yahoo Finance
+  https://news.google.com/rss/articles/CBMioAFBVV95cUxQMk1rNWdpb2g2MTF6ZE5zOE9ibkVlRk40LUpXcFVCZUlmVFJPdHJiX29PRW5lR2lHcFFlajBZczh2NWExUGdYeGQ2bFY3Y0ZCT1diOG5DamZOcEhoU3FlSkd4UXJIM2FmTkVnRnNLUGdMNXo3d1VrUzNMSVlzNlRIWk9NdE9rajF2VDRROXcyLUlZclFQS1pNODVWNVdQdjcx?oc=5
+
+- Anthropic warns AI could soon help build its own successors - Axios
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE5rZmxSdFJrejlfQjg1YXZ3U29fZGdWMnVWRFFJaGRIc09aUDZtd0hmc3FHeXUzemxHRmtJN1RSYlMtV2o5aTZ2VzVWdl84QjRTOVlKTGlBSW50eUQweVE2UGJQZ3dnTFplMkNqV1pSTHVicWpOWWs0?oc=5
+
+- Anthropic urges industry coordination to allow for a ‘pause’ in AI development if risks grow - AP News
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3J3bngwa1U4LVVvNDhaWlc3cVRJanNHMlNteWFPZnlOdEFXb2o1RW1uMlVNbVdYVnBIWDhtMElNSDQyZXF6MWZ3TVl5YXFhSFJxT0hEakNDSzBPLWJYUDBnTEI4bEs1NVlpdHVNWGNfeXE0cTg4NXN5VFNjTFU5Y1VTcUVZcERQeW9JMlNDOGFKbVVsRV9rckEtcFU?oc=5
+
+- Hegseth doubles down on Anthropic's security risk designation - Politico
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNT3U4QV84NjlESFlKcjBJNkJWeEwyZ3BURV9Yc0R2VGY1NzdManhGbUkySmFpR0RQTE5OMDVQZU43dDI0VGVralJ1N0w4UkkzMFBad2daN1dSbXN5bm9NTXJqd0lCY3RuY1kyZnVKMDVwbzhFajZ2cmdSblVOelRUaVprSmxpVUJ1ZC14c2luMW9wVWNaTzRZUE5hRDJnUQ?oc=5
+
+- Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say - Reuters
+  https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzBTUlhlNzdLejQ4LTZzMlJpZXBQalFXanV0NThyYnNTVEI2SWRHRUpqN2ZxVHc2MTBuYVJUN1RLc25xY3QxN0szY1BhWDFDLTZrQjhjOWpTR0xRN0NnYmJWLVBWSTFvXzUyTmZISFpMMFpTWkVOUFhDRnZobWpRWFJWa3RNdTRaaEE1ODRpdkd4RXZxRTd2UnlPT3lCX0paNmlzZnZLRE14R2U0TlR4dlBXMjJyX1FSbjJOWkFfejcxMXJ3VmZiOVNiNGtGNUhYZVJYN0RWdnZZVFE?oc=5
+
+- When good money goes bad: the question SpaceX and OpenAI investors aren’t asking - Fortune
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZDaWhUM2JSdi1qZWwzdk9wOEZoNFN1LXNHOS1DQ29rNTVfOGNQVnNvUFNXbDBTZEVlWFU2Z2ZMMnprT3ZJbEtjaG9TQkxTVHZqcnVxd1VvTkdzRHl1YkpUMUlPUEpGblJBZmJDWFRfQ1ZqY2RnOFlBU3dkMjFqM29SalBZR3d1clpES1VBUUwtVXNyWDMw?oc=5
+
+- Anthropic's Valuation Just Hit $965 Billion. These 2 Magnificent AI Stocks Are the Real Winners - Yahoo Finance
+  https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVJZZUZlV25tOTBia0duZ0VNbm1QNHBTbEIzbE5Ha1FELWY1ck9KVTdqamRzSzF1QUhNeTJqZElBbHVDZENMTTJNTHEya2hEQUF2TDNJdDVnRE5FaEVhcExrUXc2NFp2V2pKTl81WW54UjRGLWQtcEN4OGZTN2pfX3FXMUJSRGZzVDhlQXI3a3kyR3pQdnNqNlNHV0gyOUU?oc=5
+
+- The short seller’s argument nobody on the coming mega IPO roadshow wants you to make - Fortune
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxPTE1sRFhPa3N2cWJrOTBzZXg3VjcxREtpMEI1Q0hOMll1azR1Zl83X3EwaVpSd0JmVHc2OGlrY1ZpN2tnT0dSNjhKR1BxdVc0XzVVa1A3RnMxRkM4U196TnFESE1lNlRwZ0tReFlseXVTVHN4T0NyTldSZWxlMV9xMjJuYVJjeGgyTWlOdlJjQXZFUndwVEE?oc=5
+
+- Making Claude a chemist - Anthropic
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5
+
+- Anthropic Declares That The Next Big Step For Humans And AI Is AI That Builds Itself Via Recursive Self-Improvement - Forbes
+  https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR0lsZEhyZlpLTzdvai1RTFVubFBMVEF1RlhFYWNnQTlVdVdVeHowU19nYmo0dk9BT2dhcnFfa0lVWUdIOU91eW9QVUIwZTJSQ0hya0paOFhsWENrUURBRURHVFpPQnVWWXVERmxrZHNNWjlHREJJWk1oeEZxWktnMXZlVERxRFVpSU5wb0JDZUExb0NJeFZheEhZS0QtcVBxLVdyQlF6ZXJVNG1KS3RDRmlrcjhzNUdjVXNoSlJMeldmUDVRZUlkc29EeTNMeFRIMDFVa0FTQlJ6dHhVYktBbWs1eGFYMTNaZWx4NkZKSFZVb2RVQnVIY1QtVQ?oc=5
+
+- Should you go in on the SpaceX, Open AI, and Anthropic IPOs? - marketplace.org
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjdUWFlpdkRtSy1CRHljVlU3WGhhTThLLTRNc0JsRmJCVFA4d3hDcnptLWtRNmdiUWJBNEQwTWx5YWZSQ0NZQkJsRkthNFMzcmtoeEJmd3NkSl9kc0VyTF9kRy1xM1ljVXMyVmNWbDFFaE9HWmRiRFFPYWZncU92NFRVWVNBbXNDMm55LWluTmVWVG1KR1RTRVd0QXp1UGJTT2c?oc=5
+
+- Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic - CNBC
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09LX2p4QkFZQ1FSTHc5c1hoQmlEcDQxVXpoTzhRQUVDMDNxMmc0cWo0bHZmeGtUM3ZFby1SZk5XWlBqZkRIdFotUDhHc0xhTmROM2Rrb1JTMnBqc3d1WG83LWxfVkYzUmZob0p3eUVCeFhoYWpkZ2FZYl80T3I0Y3gzM0FFaDFCYnhkUXJsU1c0WGRPOXlqcld30gGfAUFVX3lxTE5CRC1RQkRvRGlUc1VadzdQeHdKSFU5Ykl3MXZFel9yR0pBQ0lmWTl6VTFzaWZtOUlhNjk4RzhibnkwYjEtZnUyaURQSEFCLXZGUmxyX2J0WFVnMFhlalBMM3BiSVE1dnRXX1Z3QXQ5YmxhWExfaTRQNXgxcll5WXdpRHZ3WWxFMGIzLUNFOFFhUWJsTFJxMlhEQWZxX0xCUQ?oc=5
+
+- Anthropic (Claude) May Be the Only $1 Trillion IPO Worth Buying - Yahoo Finance
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1E4ckFnTWRWeWx2azdBN3U3V09sRjVhaUE5OGtNNUtBYUs1V05GM1VEVUpsVzhqSkpTSmxHU1psNEtkdUFhcmRfMUxVbW5weGNLWnhORlg5VTdILV8zMmZCdGxMOTkyYTNNSXRMQ3BONXN5ZkNyMHdCeC13bmtNSFlUSlEtZ0xVdTBoZzNlVW9QTjhrUXhF?oc=5
+
+- Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development - Fortune
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2ljWWNYcTRCOUpaRmlRRHByaG9EclRLLVU0dWx6T1QtU28wU2xEQVZVanMxZll5WHBzVldqdUNLT2UwRnkxM0VoSHRtMzkyNmJvMkswUXVDZi0zdWU4N0tyOUphaS1iWEl3QkRKY2UyejMxTkdGZ0x5bldZTU8zS2xQRWUzODhwMkJfaFdLd3JETnc?oc=5
+
+- Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnZFb29NY1U5VVNOTnFxQ2x1LWRMNzBZX3BMck9pY0FmRTdaTDNYeksxQmRaS2JvWHBLa0p6TndvSnBDaGJlTHU3cDA1bGhkUGt5VE5WYWx5Qi1MVjJTdExybGpNVFdDUkhTOHpIV1R0Nk5sWWNSZG5YSUdtQklZam9NRHJJZkxaTDhEMVJEc3F0UjFaY0Y3Yzc3UHBCUDFEWUpKVm1tSjRPZXlO0gGyAUFVX3lxTFBQWG5kREVYWUliZ0tUX29LLTV4RnpDVzBiWjNxRjdUbXpjRDJSNnVmSWc0bTVqendjblFtajVCOEFpd29MSjY4WlBWdWxRN0RHMEM3REc5Sl9zdXNTZzljdHRXRHZsUlBIYlpMY0xqeHRZWVk4TnF2dDBIZ2g3NjExLW02dmdWclo0LW9HN3BTa2NqRDJHdGpEUU5HUGVhSVozbXZpdlhCVU5SaHI3XzJsQUE?oc=5
+
+- Anthropic Bulks Up Its Enterprise Partner Program Amid IPO Plans - WSJ
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd1p2MW5OV3U4TnpVTTVlNkV1ZWFsaE9vbjEzZ1BuRzZqamY2MDdmMnVUNjcxT3JRcmxvOWk0LUN5ZlgzdGlQUERUWm5LZlNVZi11WkFHbm16eDlMX3Y0ZGxQTXhWeWtyeWhVLVcwQmNXRUJGTHJmUkVYM0wwLVF6eXNfOGtDTXYwYmNNTHRSU3dkTlF5R3c2LTlDdHRoM3BldEo1SXhDQUg?oc=5
+
+- Anthropic warns that AI will soon be able to improve itself without human intervention - CNN
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBDVjExV0hRLU93YmtWdzFiYWlCNjdpVTVDUURScUNPd3FrTzNaV3h0QkRJUU1FMXA5STVFcE5ZTjFEVHZSXzJFeEtaUDNJZ2xpaXQySnU2RjBodEhYYkdvWFJXMEZGdVE1MzNBMFFFaEp3cU1ocmozeGRqa05mRTg?oc=5
+
+- ChatGPT is no longer OpenAI's most important product. Here's why. - Business Insider
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxPX21QYm0yWjl1amxITHloYlBDYUQxQU01Vjk1ZVVVUFFaNzlzOXNaUDNKZGJndEtoODI0cnlTbjhneWJ0MWRaX0R6YzJpUnNqaGJfY28wNEVPWVNTekNnSVdac3ROeDZIemN5bHFybkF3VTctdGw0cjBkUEZVaFlPV0FZUXcxcXBKOUNkYmFB?oc=5
+
+- OpenAI Announces Unnerving New ChatGPT Feature Named ‘Lockdown Mode’ - Gizmodo
+  https://news.google.com/rss/articles/CBMingFBVV95cUxOR3lRQXh5MXR3UTU1ZjZVN2M5eGZBcmNUYVY4WGplbGMwRzFDTkZMUDdnMWdvZ1RxZU9JNU5FWlhCMTFaajJLb3E4R2xFNU9VQ0xHbXpDN2QwWUFjeFRMUlp5ejVHYUZya3BMZVl3RUxQcGhrV1hLSHZyRVpfbHZIdmtwT3FxNmdHQkJONTdLOWw3d0xEdTFQbVpBSkdSZw?oc=5
+
+- OpenAI diverges from White House on AI safety rules - Politico
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVQyNmxRbjBOSFE4SjM3U1dra2d5NDVkWmZqaHdPQm9vTkJucEx3SkdsY0NtRktpbUZQbXRHU3RUR1BPVFNqN2QwdmhaVHdNcTh2dkZ4Z2F3U3A2cEt2TG5JdTl0Q202Vm5ocU1mZkhvYXhlWjlqc041bEdfOFU5bzZtVmM2RGxuZ0pEOA?oc=5
+
+- Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns - TechCrunch
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlBKWG9od29YLWVBZ0JUVkxKVVZOZ0N4dXpFSHU4RDZ3Y3VXUmYtVFNWUnJqODRKbkZkY1dwa2tYMzJIV2tvaVFZb19TWjNoUEthSi1LSzdzeDhrSk40X2JQVzNzQTUxX2hxWnlORGQxSXFLNEFZNWVjRWw4dWx6YjhCZHI5T01SdXZLM1BiWVByenJfY2ZTTVlLSTViSG1JOXZzNUxlNWQ0QTFnTU1IQTFhMA?oc=5
+
+- My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property. - Business Insider
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkpHektOZ2NyRXdPYm9pdHc3Sjg1ZlBINWpmeE00M2tNdU0wUjRmdVdpbHowQ1NnWUNGN1RvdUZJS2hfWTVsWXg3OXQzUExyRWdjMUVMZGRUbW9aMmVWbVBDelpfU3BkdUNYLS0wdHlBSkNSTVZSOWZWb2FVMzZoXzVSTmZud1FTUklGTjRyWjZYdW9FLWZqTWFUeFhQZUY0NFZCelNSTXdRNElh?oc=5
+
+- Anthropic urges AI labs to pause development, warns humans risk losing control - Reuters
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGoxa3dtZXpiZGo2TmpRNTJoeHY5TXV2U2VQN3Z3M0l0TDB1Mm5SSkZMOElLNlR0TGFRWDZzTXZKNU0wS3N5dEZaaUFQenE5OXYtc0RycnUwOE8wMm82TXJqTFlUdi1zV0ZrQzlPaUY4eHQ1MWEwYllGdmVhczZlb0JXeHFVLU1BU2tZdThBd2ZDNi1pUjlNclJLSlRQXzNHWFRjM1VBU2FpZGVpNmxEaVVsZ3NQY1BNU2doTQ?oc=5
+
+- What smart people are saying about Anthropic suggesting a global AI pause - Business Insider
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxNekwyb2VzLU1Wb0YtRU0wT0JUWTZTQUJ5OVotZVdnRDFxcXlMQmR3UWZiMDlvZ0h6STlRczhBbm9mQzBLTFRIdERCcXlYNjJfeWEzeEhyYWRpdm9OQ1pBWEkya0lRaHFCRm5YR09iRVEwRWY1Y1VBX0hjTEdiWTZDTjR3?oc=5
+
+- Anthropic Scared, Calls for Global Freeze on AI Advances - Futurism
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ2JGWWFyRFhaRmVNZzljbmtkQ1RDYy1XWTItbkJ3TlcyNjFyaXpCN2VYRlA3emc1R1R5MjQwSS1FaGpuMlZKMTVBLTg1ZXBNS21lTExHT1dQNEpNRkpXTUxTV0NyeHlxUC1CMTNoUU5VUGQzcER6SU4zSzQzY0JTeDZMdkxWc3NvbGpKXw?oc=5
+
+- Anthropic calls for pause of global AI development - Yahoo
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2h6dGJrQU15R1BSZmVYZWFmNUVEaVdPV2hiS0dqZHNXa2toamlvaDZGQ1NSUDh6aVI5aHRnTUM0YVhZZlh0WkIxVENYT1czQktTbWdzZ1pVek50Rm01cnFGVkc2UWxDOS1wUVZkbUhHalVCUFhqUnpqcEtyRkdYMXVZREt0Z3JXR2RSRGVaSm4yM2tk?oc=5
+
+- Codex is becoming a productivity tool for everyone - OpenAI
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJbzdPX3duRDNSb3Z4bHJ1SlcwRzlmT3UyMkl5Ny12QmNoVDZCNjZZeVBwTVFrUk1iVmhXY181dXB1VmJ0SlcyalE4WWtEZVlRbHVaVDN4a0dqb3RYYm9z?oc=5
+
+- OpenAI CEO Sam Altman meets with lawmakers, Trump officials in DC - CNBC
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE1obTRFLVM2eHJ3QXpLNVZlQUxJOWkzSzM1SUdmeDlFOWp5RjhhZGhleUNUS2V4NW05LUlDOUp1UU1oU3Y4ZEZkV0Z6amVYbzVESFVpSjlXRmc1aU9keEFYdUJvemQ3SFBnREhLNnA2QlZiWmhISWJ5etIBfkFVX3lxTE5NakJGN0RBWVJzUjN3c0g5M25RX1JjdE8td25jTWFrdjMxTzBSQ2pIQVZzWHF5WjVOb1Z5R2xab0JWMUNTZV83V0xYOXdYV0lsR3p6VnRFODhuMEpnQmpoNHd6R3NwelllR0h3azBXLVUxdmdkNERtRHNiMTlYUQ?oc=5
+
+- Sam Altman dishes on OpenAI's top token user - Axios
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdkFmMFVqT3FBQ0ZRZGR1eDFKWFhrZXhFQ3plMjB2TDJDNTNwVXV4T1pBQTl5OTYzNkU5VHB2bG91cU9OTkxQZUd4Mm9GcXNjNzg2Rjl1aTU3STJYWnh3RjFZdDVtVi1NWmJtekd3?oc=5
+
+- OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks - TechCrunch
+  https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHplVzM0WUNMY0dxQWRvYlVnU19KNFhRNDdjZURGanVhYTV5dHliOHluVm91SnQ5aklXYjBTbEFUUklzUnZ0RDVnNTRDQ0hsLWhvV2RVN2t6bGFwS3dscGRJaGRFLWd2OUdqbnBXUVpVU0ViQU1UUmFBNmR3RHEwY0pvRm15T0RTcmdIeXNVY2Q3MFhSTWhtandWcUR1djQtdDU1bkJvM2hvUkZUdlpneDFHak1PSXB5TlNr?oc=5
+
+- OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons - WIRED
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1vTDZrcUlKWDFEeVBkTDNUQ096SHhvVVVQTmRvTjI0X0lqMFhJcHhTYlh5YU9oWktjOTVqVjBfMFY0TkxPV05mZFkyT0REY1RuUHVpN0JGZnpZUWZuVmhMdGhhdE5hTnkwZ3YwZXI3M0Z4b3NFdDBLbzZiQmh1ZkU?oc=5
+
+- Anthropic raises $65B in Series H funding at $965B post-money valuation - Anthropic
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FbzhQTWUzSGozVXNfbDYxWWUzTFBZZlpldmQyeDBnSExRdHVMSkJyVVV4OHdlNmx3LVBFcHVXTmJ0ck9TclZvVVlPRnpoZVhW?oc=5
+
+- Our views on AI policy and political advocacy - OpenAI
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE5CVkxPeE5NV2JMTzFLN191djZSMXFCSVlUcXFVekFHWkVDd0RGdDdPTjBaYnpocGtlSTZqUnlHT0xCSWsxT1hxbzljZkhtWk14bjFEc3ZNVldINjBaYzlGV2tBV0Njc1ZLeFFkaGpzZk0yaV83eXNoam5kNA?oc=5
+
+- Anthropic Says World Needs System to Decide on AI Work Pause - Bloomberg.com
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxONnUyZ2lGVGotZ2M3Mmh5SWJWbkZ6bGxmWDA4UG8tMlBpRmNHNlVsUjBoUGZNN0sySWxjSnY4MU9SSC1Xa2pTYmF2TkZqZUhOYlRQaE9wN3JpZHdaZl9EeUM1SkJUSG1CUzVvajVYRFZMS0JkUW1vZ0dlU1A3SlVTR01kd3U5UDFLM2xVRDhjV1JIUWtGV3JZWGZYMnB3YThneVhBcjk5RGIxWnkxUFZlbQ?oc=5
+
+- Anthropic eases tensions with White House ahead of trillion-dollar IPO plans - Crypto Briefing
+  https://news.google.com/rss/articles/CBMid0FVX3lxTFBzM1BfNXhEaUQtM1ZSRmptNEh6dmctM21OLWRuck01NVRGQmlRejNSb2dveExOdVRGOGFzRVUzMUN1OGlHUXVzNFBhWDdGR0MtVmJJa0x5cUV0bWlvbWsyTzZiUzdSb3RKeDB3ZllIeVlBWE5HcWJZ?oc=5
+
+- Anthropic co-founder Jack Clark warns AI needs a 'brake pedal' - BBC
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2ck1nRjJGSG9uanJYN3VlWWt5YmJDSUp1aFlqVVhXQmFxdGp3UE44UmE2cGpwa1luLVNGbzFrZUx3OGV6MG9KenQtbDFqc0hEdThmMG85azl3dw?oc=5
+
+- OpenAI Sued by Florida’s Attorney General Over AI Harms - WSJ
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkVMZVNDTFdMZDJBNmd6R2xEakI2XzF6WnZCN0FhaE9odTVlaHYzR0NkeG5meGROOVNTbkljWU9BYlRMXzNiLW1GdE02NTBkcno2MUlBT3pVMkhKRGxlbDEyTzJTZnltejRqYm1idlpKNklhSWpBMUJBN3lxMktYWEhjQkFqc2hLaEVGZl9HVEdUSWowZXc?oc=5
+
+- S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic - Ars Technica
+  https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGFDb3M2ejdac21uTFBYTGNfaFJzemNtU01NaHJiRlFHV2gzV3RhczJYUkJaOGhldUxORkU5c1BCMFNZNGlvaWN2dDBaUUFWZ1pxcXZ4Y05oc1VjX1hVUUtXdW1FUjFYeE5oQ19teWJTcXo4aUNtdnJ3NGFTc2ROaUEzdmd1OGh0QmRPRDF3Q3ZqcVBpQm9abXB2UFNMT0NQMUN6R0dDdEhsSk5zQWc4aUh0N0pBc1U5amc?oc=5
+
+- Introducing new capabilities to GPT-Rosalind - OpenAI
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE5aaG00WThPOVR1NGNqZUVQMlBGdExXbnEzN3p2NjBkU3JrLWJlNWlIQ2dLcGpMU1JLQy1iZ1ZxbEpkVjg5TDh2cHRzX1ZZOTg4N194eVhkdzU3UWNURmhOTG5OWTNDRTg3M1JhbTJ6WTNZRnFGSm9JZ0NB?oc=5
+
+- OpenAI frontier models and Codex are now available on AWS - OpenAI
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmhkdlNPYTFmbHBacG9ja1ZFU2F2YUsxTFd6cFdCdy1PVzh5NmdUdGtTSDhNV3I0WXMzc0NlR1Y2YWlyVjZEeFB3ZU1WSU5KZ0FxUjFuOFNzZVVxSzJFa2VkdmtfQ3ZXajhnUlZkSHV5VnR5dTN4ZTZEMzZyRXVTZlJHZ3IzVzFnYWRB?oc=5
+
+- OpenAI Readies ‘Superapp’ Pivot Ahead of Planned IPO, FT Reports - Bloomberg.com
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjQ1cXdWdVJPc1ZCN3ltR2p5elBQcWZ4akxwenNTUmh2Y1dMZjNScFc3Ry1uVU5FdW5SaDNqdlVIemo5Y0tSSG1zNzdTNUk3d1hSbTdCU1ZXeFN1QnEzTVpWVjFwUVRkREJVTGZxcG5sREcyczlocmt5cnZRNzNIcnRHUW5GUzRzcDVRaTN5bldRS3p3anZjYUU4Y2RMWXAwUFhxLVJkRHBpNC05N2NR?oc=5
+
+- Grok Imagine 1.5 Preview - xAI
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpbjlmaWhTd0p5TVRaQkNZenRMaF9qTGYxS1l6ejY1SUZPVlQzUWRiZHRpcndhajBoaTlqbWJKSGEzMmU5RXZ3RGZB?oc=5
+
+- Anthropic And OpenAI Are So Desperate For Compute They Let Broadcom Finance Their Own Chips For Them - Yahoo Finance
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnE4T2tmX0F2RDcwVXh5WU9vMjRqNHlmMjdRUXYxNUhHOGtOeXJjd0hWZTd5aGhnSEtFblpPTUZhQ1hvRXo4V1RYNVNuRkxLa2N2dVVsXzJUYlhnQWFuVU0yNlUyc2ZXR0YzYnRFSk9fT1pnOUh0SDFUcVVmMW1RTlkxUDdiV25NVzhXcEtHdS1ITk91WDdmSVZ3VHhxaERYUG1KUjFCdmRVM1E?oc=5
+
+- Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up - VentureBeat
+  https://news.google.com/rss/articles/CBMi0wFBVV95cUxObEFXWkZzSVF2anBCYjVKVTBhSVlaZ0RxRlBDQVpxRFhrZHNGWUhzLUg3TUktZ0RJV2dQNlhpTDJ0Vy1zRDlTNzViU2djbWNRSno1Z0Iwal9LOGVkZTVvWmwxbUdqaHI4R0lleXJ4Yk1sMmtSQ2pseEVndUJoYkE4RVk2OW5nRjhMT2ppeW5oSU5uMDRGR05IZm1CQ1RrMWN0U092QVBLTTVST3RhYnF5VGxtMmZxNzM3VXVUWGRFcFo1VHFUNXAzUC1kbXlaanFrclV3?oc=5
+
+- Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI - Santa Fe New Mexican
+  https://news.google.com/rss/articles/CBMikAJBVV95cUxOT2sxS3hOckRla3hNa1MzS2NNeTRxZzdnRFVvaGltSGZKbXFKbGdNem5aeE1uUFdjLWpHUmF4RW5NT0NlaEVITUVuNGdtT1VYczZzUDRVbGRDRWYwUTZTbXBJQjBaajFXaXk4R3N3ekdzd1lrVVY5bVBwMWx5eGYxY0I2QXZxNHh0UzlYakd6VWVtNnpGLVNaU3RHSjVDMnllTklGZ25QNlRDaklqbkF2cTJId3Voakk5RmJMaUh1OFpvaF9vdzV5bWhvRWYtOWlqbk5WS1pDbGhEbjQzVUw5TXVMaXNOVk1KNDJ1bF9qSjdFNEE0UHFpQ0xIMkZLOF9URFZMSURUYUt3bkJsOTNEeg?oc=5
+
+- Introducing Claude Opus 4.8 - Anthropic
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5
+
+- Anthropic files to go public in a potentially trillion-dollar debut - CNN
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSeXpGc002YTVXcUkwaklMWjhyMUFadUpidDBJTjMtWEkyMHMxTkVJNFZGbVg1RzJPYXVfMUpRQTBvcjlpX0RDLXVVMHczWl9SajdWd29kVjJkTU9LMVhHdXpFWThpMEU?oc=5
+
+- Why It Matters if OpenAI or Anthropic Wins the IPO Race - WSJ
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE8wY0x4bjdLN01XZklMLTBaUTk4b3hvNF83ZHdtaGVNWmNPR0NCdkMwYUNBa2FlRlRvNU9uVXRzUmlrcmpFVEV6QXBkb0d2LXBNeE1fUU5ydnpCa3FIc2RNam5aeVBPREVNdFdVVThZVFYzeFgxUG4wZg?oc=5
+
+- OpenAI's Next Big Bet Before IPO? ChatGPT May Never Look Same Again - Benzinga
+  https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDZlaEpOSDgxb2JCWmtLcUxqcWpuQlVzLURpY21yaWpmOWs5MWFqYUtVTEt0OVItWGJxOEpSQmU5dmZ0c19iaFNfWU1adzVoRGNsX1ZuT1M4bC1aUDBFbmpHUUtWT29VWlhEQ3VnSDZ1YWtpS2RLZlUtNDI0bjZMeloxYkI3ZlZ2LVYzVHNOcEFKeUFvdXloNUxoeERvYng5aVA1bE1qckpsSkJENEZmZHhLT3ptNjR3Z2c?oc=5
+
+- When Will SpaceX, Anthropic, and OpenAI Join the S&P 500 Index? - The Motley Fool
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxQckxielVwQUxSc0ZmWm1yWkFCTzVtVU5uX3FoVHd4TjhnbWtZd2EwM1ZDTmVhT0tPRjZGR3dPRzdnR2ZqcWRpcDN4cElWTnlRZGx3NVVtdFlZZkVESnI4WnZ0ZzlPQ1hLY0xXS0VEVm11aEd2cnlmdWk4MnptdF9aZnJZZ2UzNFByNVZBRjRnSWs1MmZFZmc?oc=5
+
+- AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork - NPR
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSjA1OERrenh2U2ZHdDRlZUZxRkxDVXFQYkpaODU2WmxDaTB0bklTdW1CTk5uc3dIUXVJQVoyVm93cndTMGVFNElRaVdVbzlTLU12NU4xTWdtWFExR3FjTG9xU0JFOU1JRnFCNVE4Wm5uSllzUXV6d0JsQXFLbDA?oc=5
+
+- NSA said to be readying Anthropic’s Mythos for use in cyber operations - TechCrunch
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0RGbUJfanBVN0JVbTZmVVF3UGkyVndZYjZ2NWdTeVZtS05ST0JsSUFKQUo2dV9lNjNrTlpXQnUtYkdwd0dQVHN3OVdJR1QxeUhsVFEwYzU0RGU1MEN5VzdScTFxNWd0NC1aTjc4SmRyemNUOWdRN0dTSjRmY3JWWFVTemc5QTFBcGF3U0piRUlaLVBIU19DNUFHbTFVeXpXemtYRmJxWQ?oc=5
+
+- ZoomInfo (GTM) Launches Native App Inside OpenAI Codex for Work - Yahoo Finance
+  https://news.google.com/rss/articles/CBMingFBVV95cUxPMTV1MnBxd2dqcmVvM19KbVA0VHhZdGxPX0U1Xy1IVDlZX2Q4WXVlRm1vc2QzZWRSTW5iWnJXeDhyYTE3ajY2cWRtQzQ3dXlrc2ZKUWJ0WnRyWW5tSWhQbE5aY2t4MW8zN3hMUzJScVJuZk9aczRjSDUxTzJHbHpValJuZGVOTTVHeEx4aTlOUXFHbEIzZ1QxYkRxNFFpZw?oc=5
+
+- OpenAI says it will comply with Trump's order requiring AI model reviews before release - CNBC
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUjF5VUpfMHBpcmtsU29sWWVNT3JCbkdzdTl0OW1hUmEzelBDUXpGWVdUWVh1ZG9uR2xuLU55TlFnQzgwdkVGenFPcHpJRXY4Y2tIVkh2STFFNUpQcjNseVVYNjE2dDVfTFBXTTdsWDF4RkVpTXJjdmhmUdIBgAFBVV95cUxQTVhpZVBBTWhDcHc5TThGak5LSEtRSDhUM2U0NjBVWlBJS3RwWkx2S1REWHNHU2h2cFRYLUE0YWJpY0dpUFpUaUNnYzE1M2ZoQVp0al9rWDZvZk9aemo3ZlZ1dTNKeDVNdVU0TExYQ2tGOGg4WU1oT0tXQ3p1TzVKTQ?oc=5
+
+- Anthropic files confidential IPO paperwork ahead of OpenAI - Yahoo Finance
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVlaNmlWY0lLTjdPZTJCX3pGUGRDT205NXRXZ1FnZXZzNDl1R0cyRDN4bGRSMjR5NXdFZFBIdGxmOXhHR05oUTN5STFpV2xHYkVuWjlremxkN283SlVJQUlJa3hwR3VnR2NGczQ3bGxENnp2a1NWYmxtUkt1QVVGY0hXcFloZmM1M1JJYUhrNW9tbFdxUzNjOEtjNUltd3Z0STRtUXJYdk9BSjZLZDJYQ25fZEZaZw?oc=5
+
+- Anthropic Files to Go Public, Setting Stage for Huge I.P.O. - The New York Times
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBtS2E3dFVudU1ONHh4UFlOZG1reXp3WXhXZlNNZnpUOTd0YzRRaVVMUk9xMUNyekFrOGh5Yjh1Zi0xZlJNQTF2bGVfQ2lTQkJucmZWRG5tRDVYUldpZWRXeFNrR3hxLTRfLWQ3WjNZU3hKdw?oc=5
+
+- Anthropic Proposes A Global Slowdown Of AI Development - Engadget
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmxRRzRfS0s2YWJxR2piTkw5SDRjN2l2WFB5cTZpN09SOGhJaGtfSks4enROMEJVR3MzOVI3Z2dIT0h1aW1KYXdOQV92RV9BeTh4azl6MlpZN2FlMDR0V3c5VWJ0N1lBRlB3LVpJVXNaUWZoZ2xzTzZQd3VUalBOZ3RlX2JxX1o3V1FB?oc=5
+
+- Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs - the-decoder.com
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDZTT0E1Y1FabFVsZUVyQzl2Mlh2bl9ZdENmUTF4WGc2NlZuaVNXX2tKTTNPbFN2QXBpTTlTWVNjeXpNMlFxYWVmQUp4TGhTai1oSWNDNThEVFpuR0RranZEd0RFRzRqY2FIeWVsWHpFYjBBbDRSS1lwU2o2MGlkZDR5ajR6OXFoeDQ2dE1hRUM4U2FLOHZ2SURCR2tsdW5qc0ZESmV3NE9ONWlMUG05WA?oc=5
+
+- Florida sues OpenAI and Sam Altman over alleged safety lapses - NPR
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnl6aTZnS3U5R25vTDExcXNKX18ySTBlM1otaWtQeE52NVctM243a1pmRjFuVEpfTVozZVFhcmpfVU5aQnZLdklXaG92SXlZR2JpU2lOdGdmc1R2SzI3SURCTjRraHN1QUpzYjVka0RTM0ZEUDlvUEE5M2FCdTFQc0Q1SnZRMm51d3c?oc=5
+
+- Sam Altman Says He Wants Money Out Of Politics, Pushes Back On OpenAI Lobbying Criticism: 'Love To See The Rules Across The Board Change' - Yahoo Finance
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGZrd2NIbnJrLTlnS09IZUpVZ3U1bHhzakpxMzlNd2xOVktlbTNPczJUU2JUQXp6ZVZxWTJUSlJZY3JwVGl2Z0NwSDF2Wlc2WWI1QlhlS0k1UWRneEtfbnJpMXlVc0plam5TeXBLalgzQU8wNUo1UDZCOUY1YzhhcS1LOXREVW96R1lKQ0ttLWh5Z1ktT2Mw?oc=5
+
+- Anthropic’s relentless race to the top - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjFfTFFGc3FTc2xFOUpGT2NSSUNPVmVsOFY3TlJxSTBiQnFBSEZWZzBjTEUtLUVJLXZpVHdRY0daaTNKZzhWWmFPMTViek5IaTJzTkJEemYzNEVmRzAxRElZTE9RazZCS3B4blNNYWpnbmhOeWxFQ2NSSjZvcVlwYVk5elo?oc=5
+
+- Anthropic says the world should have option to ‘pause’ on AI - The Guardian
+  https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXVJQXhlVjIxN1JhSGsxOVhGcUJ5cWRZd2FyLTBuNjNvVjhUcTc1SG9pTXc2U2pEcE1rajBMZU01T3ZUanBScHF5NXVQTERPLXl5VXJHbFI1c0RDMU1id3dtT1I5N0ZRSjF3RnJKZ0UxTnd2VW1ZLXhMdDRSVjZNbEJyY3A1bGlnNUY5Vm9QMmZSY3JjdXgwSlczT2FUaFgyNUYyLTdURU1yYWVjczNyRVRNVjVxMkJl?oc=5
+
+- Can the stockmarket swallow SpaceX, Anthropic and OpenAI? - The Economist
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGpCbVp4LVl3OF9nV29vQTFpbjVPbmVHanFvWHZXdl9CVmoxTVpfOGMxQVRfMnl5ejVBb3AtWlAyR3VXTDlEeDc1anZhYUhmbjBDa3ZkUFJzbnZ6ZHNRZl8wWW0xeG1tak1YY1hLNWRpbXJXVW9oWWczUEI3cWRCWHdmQjBtTERBelNoSEtXcl9DWnpkM1VXam5XS1lkLXZyOWlFWXJyUHNxcVE5ZmtaZGJYVjY?oc=5
+
+- Senior U.S. Officials Eye Government Shares in AI Giants - News of the United States - NOTUS
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE02eE9fdWt6VUhKYWhDV2Z3dDJIZnJoSUIzZTF6bHZSM1lTNXdBRkRieEVveUlPaDcxN3I0RDQzaTBUUE54ME54cUgtbTQ0ZmhSRFlWU2tFOFhYb1dmMy1UX3F6SFk?oc=5
+
+- Anthropic Pulls Ahead of OpenAI in High-Stakes Race for IPO Riches - Bloomberg.com
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUVETktsVXM4Xzc5R0h2d2IwWmlCd3FkWV9SSDJUZkhvZEE0SlEya0t0cnZPM0hjeHgwU3VxTUREMVFQT25hTENMc0hWNl95Y2I2YjJYVDNfQjFyT1MzVEJQU2lpeXJ0emxZTkliZXJxZmlWcFVNWm5QV2J0eTlwbFBnNnAtcmNBUkY1YWJ4c09ZdnphTXJDNGh0X1FoM01oNlRHaEx1d2F1UEVtZnVuSXJicw?oc=5
+
+- OpenAI Plans Biggest ChatGPT Overhaul Before IPO - BeInCrypto
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFBSdGFhQ3lSNERncGVSWWNoempOSHoxN3JfY2ZmaHhKNlZJTEZ0X19zUWtrQnNLYWtFUEtYLUFJQjlRR3hlTEJBQ3p0akRHa3BVUzVsSVBhX1hWTmE5eVVnMC1vajdDTHNGUkhpdWJR?oc=5
+
+- Anthropic, AI and The “Numbers” Problem - On my Om
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBaZU1lODZrWDNqZlZjMXpqVmZfMUY3NFVXbE9HaXlVU2hCMzJCbUIzN0FXNkpCRmtfUWtzVDFYejgtTENxeW9UME1zUDJZbTJkQnRCUG96TXFscC1GWHhTMkNqejhaYmk5SGtKSjFyMA?oc=5
+
+- Anthropic Files to Go Public in Blockbuster Year for IPOs - WSJ
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE12a09ueHB6ZlRtS3kxdFpfYzRFM1ZoT1JObWllcHlDWnV3RW5CMFRlY09JUXVDRVBMbmZnQ21UT0lSdlRkRkxUQTV2Qm9Uai1wcHZqYU1DOU5UcUdCak9EaHgwNmFHSXEy?oc=5
+
+- AI: Google & Anthropic help paint Elon's SpaceX/xAI IPO fence. AI-RTZ #1110 - AI: Reset to Zero
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE9BODkyeGx1NnFTdE5RVlFrSmxaMnFzOGJ0ekJnV3dxNWdXMnBlUjRpNGlwSUY4cmM0cnQxaThMU2hVYTFkYTU3UXNaMXd3T3h5ZnZMZU5tZFNuUmdfUzhJWUxyYlBTQlp3ejFfeEpGV1JEU0M2T3BXYVVQMA?oc=5
+
+- OpenAI and the White House have competing visions for regulating artificial intelligence - Mashable
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3otTjBXbGlsQXJBNkQ4ejBLVllkakR3S2NPcExBWmwyUk9iNjBrQVFncXFWd3Q0bnB4SEVqZGJ3Z0R5a0lYUDNvQ05DdGRiWGhMVHhZc3lYTXNMNVl2S0FoRDY2eXBSMGVSQmx5UnJtMlRIZ2ktNVAwV0NNZG5BRg?oc=5
+
+- AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons - Fortune
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDdLYTJTa05SMzlRTFlZR0hJdldabVl0Wm5teU0yd3ZGWTRJVVlWQm1SUm1yWjVsQVhnSFFTUENMZUU4YlZOeXlGV19weUdRdkprdkdpZnJzRnZaQVJQNmtCaXFsNl9hNkVlaUx6NHNQVEhQX01jWHY3b3dVZjlFcXhjeXR0MmlESS1NcU5rZTlqM1JYVDFPYw?oc=5
+
+- Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI - AP News
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxQak1pb1pkVTR1VGhJSXZKMjU1d0gwYVU3NnlsRFJvQnNOdXJhTDFjQzVCbFBkbWJPRGV3d0N5RFUybHJ0c0s1NGdkMl9rNE1yMmVrX3VBRmV6VUNvRzdOOHZ3VTVMSU1Pc2JaYlhhQTROYjlGVnllbGNDWWdwMVUzbWo4YlVLSkQ5WUl2eWFjOXlqTUFwenBTMkZoM2Z6RElubWF2YUdZblNZalVVX3Zfbw?oc=5
+
+- Biodefense in the Intelligence Age - OpenAI
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFB6dWw2T1VkRXUtVmtGVTBHdG03cEpEUlFoRlVGdjdnQnVqU0hyUWlIZ3FkNHpnOHR3ZFluRElJQ3V1WEhIbkFJaEQ2YmJJVmx5T2xCd3BFNTJiXzZJYUpUVkllNEhsWlNLWFFMNQ?oc=5
+
+- Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development — 'recursive self improvement' increases risk humans lose control of AI - Tom's Hardware
+  https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWDVDVWFBWVNrMkJDUFVHUHlXZHhqTmUzZTRtS19VRzBBX2VUS3ZNc29SWlFoT3Y4anBhbUZLMFF3b25DdDN0aXF2SzJYYXVtSnJ4aGlzZFlrNWVUZlZlVVNUMS16WDA4U3pXTUo3X25uMWdoVkR3Z3BCdktLTHV6ZFF2M204UUV1dmp1SUIxY2N4dFhEYTV5TnEycUJyQ0F6Y0I4OUJSaHRPNm5aTTQyQ0hwMzFxTWgxbEV2SXVVWXRfWW5oY05td1VhUktFR3JNR2NiLTN3?oc=5
+
+- OpenAI's Altman to urge US lawmakers not to require AI model approvals - Reuters
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnd1b0RYcWdFY0pNdzRoM0w5eXkxYTNIZTNMOGxCVWx0ZUlVcmFuMXBMRnRjbl9FdVN0Mm1KeGFMTUpNM3o4YVF2WGZkeUhVWkdmNnRBNEc5YmQ5N2FXNEZhbFFsUUYtLU1NS2cxaEJ0U0hHSmxWZHEza3FvbmExd1NBUnBfUFdWLUcwT2I1T09GYXNDNjVGU1k5ekw2U1NMczJDaHp5UHhyU29M?oc=5
+
+- The Anthropic IPO Could Make These 5 AI Stocks Unexpected Winners - The Globe and Mail
+  https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLTZMUGxrQVNqbmFpQTJVRXQwNzJrcUhaMHB2azhjZWpTTk9HaFVkNWtRUmROTkVyZkR1azBieF9sS2o3elpCX3VBTHBEUXM4WVVIQ1AyOE1mbDYxS2xzWlJZM1B4RzhCYmN2YmpkNHZxNFlxaEREdTFoSUhVWVBUdFV3Zm9HVXVMWlZabXVTOTM0dXBHRUZUTU5hdXBxdmJRY2dpUHRmWWNrcFROSmF3cllzbk4xR3Y2ZENzdEpZOGZndGoxQjN2OFo4Q2dSaGkyRnN4OElZc1Vud2ta?oc=5
+
+- US National Security Agency using Anthropic’s Mythos for cyber attacks - Financial Times
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3ROZzJOWUFlbV9NU1ZuUzlEV3BicXZXSWtvYTQ2WkIxQmhXVGdUS1NoRVNPdVFxUnpGdkZ1OElXZmNveHVtUzZuUkIybWw2ZnRnTTMwQ2RqaERCQjYtRnlZTHVVUHRxY3AzRjlEZzR1V1lWMHpSQTFzZVBmcTVUeXB4SWc?oc=5
+
+- Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas" - Anthropic
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFA1UGI4bzVyUmNNQURqVFpBZ0tkNjNyMy1GLWxwTXpBSGJzZEpKcTUycEFkVURaeDlkR3lodUpOY1pmN01YdE1wNkFSNTdTRG5keWZSb2tPTjd5SWpFVlFRdkZKTUFBcHAtZGpYdmVR?oc=5
+
+- An OpenAI model solved a famous math problem that stumped humans for 80 years - Ars Technica
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxORTJ1S1lPZ3hXZjlnZHhBWXgyZGJyVDQ3ZmxRYkdmSVo0RmVaeXp1TVZ1eldVajZ4ejcyUWxnTFF4NUExbHNpT3JLSkxraXpLRkVZYzFOV09KdVZjLWVzdzFUZ25mMk1GX2txeF83RHhQV0xpcmlsbFp3ZG1vNTFkeTNNN2tpaWxlVnpsN1ZR?oc=5
+
+- Florida sues OpenAI and Sam Altman over AI risks - Politico
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT1ViQml3dG5wdEtPRTlqdWVURG90OHZmekdnc1JmekRpUUlYMmVjSWNjWFppNTROQm1nLWpmOFlZN0cxeFpxTzNlOHFSRTB0R1RzVm1mU0RQYjRIaTdTdWsyUTJ2ME84VzJRbUpLZUczOFVNaUtzcFk3d2J1RVpldFFJbFFqcHlD?oc=5
+
+- Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal - CNBC
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBxQTZJNkYtaEJXdG55ZE82bUI0RzQwY19pWXdmUjhnQ2hUN2ExczY5X09JM2RwaXRYSVYzQVVZMVpndm9fN2JKbFlleTk5TnVKaWp2M01QRjRib08zcWliLWw3T2txTU5qS3JLa0Y1TGRaQdIBd0FVX3lxTE1mODdtYV9uNHVENzgxNVJhcnFjNGxraEpNNW5wMTkwdXVLZWQ0ZU5RUTFRYnBjREhrQUU2M2gwdjMzeVd0UkVGMFZQaDVURXF2S1pjcWRyYWlmTDd2R0FmSXpCRDBkSG5tTTBHbWlSM1Mwd2lobTkw?oc=5
+
+- An OpenAI model has disproved a central conjecture in discrete geometry - OpenAI
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE9yX01zN3g1dUU2anpzWXA3d3RaQ3RaYWRPVkUtRzlyeElQN0lBZVFfNzQ1dTFleFB6aThGc0pweklXck9ZSXhMelJ0amRKaEY4ZDdoVkJqMEFXTkQ4OWp6OTlnNmZ2VUNlTVRDSHN5WVVUc0xndXU5T2t3?oc=5
+
+- Florida sues OpenAI and CEO Sam Altman, accusing them of putting profit over safety - NBC News
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnJ5c3Zzd0pzOUJiMFJUSGVCaW1abFN0T1d5WUpKMWctM1hadW1PZ1Rqb3lyQ1RXSFgyS2NybjRYd3V3cXBDMnhUa19SLXE0dlJfUUdqUy1RNU02VzdaaHhBRlp3aDc4YkJlLUJWOHVCZ0dVdWZxX0VuZ09naGpSb1h0ZWNGcU5tS2xKRFhzQnBYM2Z3SVpsR252Vm1vQjI1UUtTZWoxdWM?oc=5
+
+- OpenAI plans ChatGPT ’superapp’ overhaul ahead of listing, FT reports By Reuters - Investing.com
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWFyYkszUTEydE1lX2FNdTUxb1BZUnhDdXlSd3VQXy1ya3VtQkJXOF9vRDNjU3FIYkctMmRFQ291NS1ud0RlaUpZejRGMTJVQ01CWFNhZ0tROVJUQnBVX3hvbS10X2s2dlRoZ1RFWDdHblVhaVhBclBTQldBLUNwRW5kVGtHRDdER2xsQzVfYUt1cEw3NjMtU2tTWjVlN0dUajMxZ2pJdzc0RVdJMW0yMTVRR3Z5YjRiSS1BZnBaRFk?oc=5
+
+- SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO - Reuters
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmJaWjFuRkZ4dWpWN2RkYnU4S3FpZ1FEOHFNa09HVnZ0ODdrTzBFMm0wcjQ4SWhTb1l4ZHBlVmNobGNhVG56LWRQQVdJc3poTjBMN2RxeFBVY0xDSXdNRkRJaFpaMHJzZHdqZnFDMmRCbTZPTkQ1bVlYdWpWNmk1X0QxM3BKczRQcjRfVUVhLWYyVU5FLUZmTjVB?oc=5
+
+- The Trump Administration Is Reportedly In Talks About Taking A Stake In OpenAI - Engadget
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXB5RDFzZXFCTUMyXzY0SHlTbzROOXNGUjFnRFZUVU9ZeFhnMTFmUS04YXV2UUk3cXR3SHk5bTRQTVRSMnlCTF9mU3FhUlBfYjk1c2dJT2lEdGVtekJTRDg2WnVuRkZRaG00QkpDbGFGTFo3cXliZ3RacmRpUlZzYW9iWUxaanNZcklzV0hfNjB5MGg3RnkwV1ctcUhqUjh2Y1RrWXZCX0JtSE5HTVVBS2Zn?oc=5
+
+- My guide to the IPOs of SpaceX, OpenAI and Anthropic — including the one I really want to buy - CNBC
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1NLN3hPS0JaNjlkWXlQQUpMY1JveVRxTDRnQk5CdG9MS2Qyc0dKUjNkNjRJaE1ST3dSeEJxcFZ1clE5UGxuOEl2TFNNLUFpd29QcGVOaDNFOXNXWUw0NkltaEo4cEZEM3U1T093WldEelJTVGRsOHpnNFAzQzduOGdXT0E1eHdzREt1YXNhYzJiX3BWMjhvR3Z1MzVuem1ROWNMT3ZiQl81Yk5vbWtoeVViTGxKTGhzbUhuSTlqamZtanVKYlE?oc=5
+
+- Will Cloudflare’s (NET) Anthropic Alliance and VoidZero Deal Redefine Its Edge-AI Investment Narrative? - Yahoo Finance
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2JfSlZMcVVnQmpKVzNUYVJJc1NoUGRLM0JGZy1ZS2tiZDgxQURTWm5PVVVucGRoOVZoN3pYcGZ3V21kOUR1em1FZVpIMDhyRmJPeml2cUVrRHNCZENtcWVra1VjbkJ0ZDJGZWFPanVWbHFoUHBsLXNCak8xWFJDaGpRRGpySlRYMmxIanRmRHZfRm05Q1BWYVhZYnRFOGN6RXI4QWdFenFZY1E?oc=5
+
+
