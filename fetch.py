@@ -18,6 +18,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 NEWS_DIR = "news"
 README_PATH = "README.md"
 STYLE_PATH = "prompts/style.md"
+DATA_PATH = "docs/data.json"
 
 RESPONSE_SCHEMA = {
     "type": "OBJECT",
@@ -185,12 +186,31 @@ def update_readme(day, stories):
         f.write(content)
 
 
+def update_data_json(day, stories):
+    if os.path.exists(DATA_PATH):
+        with open(DATA_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+    else:
+        data = {"months": {}}
+
+    month = data["months"].setdefault(day.strftime("%Y-%m"), {})
+    month[day.isoformat()] = [
+        {"title": s["title"], "link": s["link"], "commentary": s["commentary"]} for s in stories
+    ]
+
+    os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
+    with open(DATA_PATH, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+
 def main():
     today = date.today()
     headlines = fetch_headlines()
     stories = select_top_stories(headlines, today)
     append_to_month_file(today, stories)
     update_readme(today, stories)
+    update_data_json(today, stories)
 
 
 if __name__ == "__main__":
