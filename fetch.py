@@ -11,12 +11,13 @@ RSS_URL = (
     '"Sam+Altman"+OR+"Dario+Amodei"+OR+"OpenAI"+OR+"Anthropic"+OR+"Andrej+Karpathy"+OR+"Grok"'
     '&hl=en-US&gl=US&ceid=US:en'
 )
-MAX_STORIES = 5
+MAX_STORIES = 8
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 NEWS_DIR = "news"
 README_PATH = "README.md"
+STYLE_PATH = "prompts/style.md"
 
 RESPONSE_SCHEMA = {
     "type": "OBJECT",
@@ -30,14 +31,19 @@ RESPONSE_SCHEMA = {
                         "type": "INTEGER",
                         "description": "index of the source headline this pick is based on",
                     },
-                    "summary": {"type": "STRING"},
+                    "commentary": {"type": "STRING"},
                 },
-                "required": ["index", "summary"],
+                "required": ["index", "commentary"],
             },
         }
     },
     "required": ["stories"],
 }
+
+
+def load_style_guide():
+    with open(STYLE_PATH, encoding="utf-8") as f:
+        return f.read()
 
 
 def fetch_headlines():
@@ -67,9 +73,11 @@ def select_top_stories(headlines, day):
         "the same event from different outlets.\n\n"
         f"Pick at most {MAX_STORIES} of the most significant, distinct AI-related stories. "
         "Merge duplicate/near-duplicate coverage of the same event into a single pick. Skip "
-        "opinion pieces, listicles, and minor/low-impact items. For each pick, write one "
-        "concise, neutral sentence summarizing what actually happened (don't just restate the "
-        "headline).\n\n"
+        "opinion pieces, listicles, and minor/low-impact items.\n\n"
+        "For each pick, don't just summarize it neutrally. Write 2-4 sentences of actual "
+        "commentary reacting to it in your voice: what's the real story underneath the "
+        "headline, what's the surprising or overlooked angle, what does it reveal, why should "
+        "the reader care. Follow the style guide below exactly.\n\n"
         f"Headlines:\n{numbered}\n"
     )
 
@@ -78,6 +86,7 @@ def select_top_stories(headlines, day):
         f"?key={GEMINI_API_KEY}"
     )
     body = {
+        "systemInstruction": {"parts": [{"text": load_style_guide()}]},
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "responseMimeType": "application/json",
@@ -101,7 +110,7 @@ def select_top_stories(headlines, day):
             {
                 "title": headlines[idx]["title"],
                 "link": headlines[idx]["link"],
-                "summary": item.get("summary", "").strip(),
+                "commentary": item.get("commentary", "").strip(),
             }
         )
     return stories
@@ -115,7 +124,7 @@ def format_day_section(day, stories):
     lines = [f"## {day.isoformat()}\n\n"]
     if stories:
         for s in stories:
-            lines.append(f"- **{s['title']}**\n  {s['summary']}\n  [Read more]({s['link']})\n\n")
+            lines.append(f"- **{s['title']}**\n  {s['commentary']}\n  [Read more]({s['link']})\n\n")
     else:
         lines.append("_No notable AI news found today._\n\n")
     return "".join(lines)
@@ -167,7 +176,7 @@ def update_readme(day, stories):
     content = header + f"## Latest — {day.isoformat()}\n\n"
     if stories:
         for s in stories:
-            content += f"- **{s['title']}**\n  {s['summary']}\n  [Read more]({s['link']})\n\n"
+            content += f"- **{s['title']}**\n  {s['commentary']}\n  [Read more]({s['link']})\n\n"
     else:
         content += "_No notable AI news found today._\n\n"
     content += format_archive_section()
