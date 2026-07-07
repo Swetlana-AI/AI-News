@@ -15,6 +15,7 @@
     --border: #e6e1d9;
     --accent: #a1421f;
     --accent-soft: #f3e4dc;
+    --cheese: #eab308;
     --serif: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif;
     --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   }
@@ -27,6 +28,7 @@
       --border: #322d26;
       --accent: #e08a63;
       --accent-soft: #2b211b;
+      --cheese: #ffd23f;
     }
   }
 
@@ -62,8 +64,17 @@
     letter-spacing: -0.01em;
     margin: 0;
   }
+  .site-byline {
+    margin: 0.3rem 0 0;
+    font-size: 0.88rem;
+    color: var(--muted);
+  }
+  .site-byline a {
+    color: var(--cheese);
+    font-weight: 700;
+  }
   .site-tagline {
-    margin: 0.2rem 0 0;
+    margin: 0.3rem 0 0;
     color: var(--muted);
     font-size: 0.92rem;
   }
@@ -176,6 +187,7 @@
 <header class="site">
   <div class="site-inner">
     <p class="site-title">AI News</p>
+    <p class="site-byline">by <a href="https://swetlanaai.com" target="_blank" rel="noopener">Swetlana AI</a> 🧀</p>
     <p class="site-tagline">The important stuff, picked and annotated daily. No fluff, no duplicate headlines.</p>
   </div>
   <nav class="months" id="month-nav"></nav>
