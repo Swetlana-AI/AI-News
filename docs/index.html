@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI News</title>
+<meta name="description" content="A daily digest of AI news, curated and annotated automatically.">
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #faf8f5;
+    --bg-card: #ffffff;
+    --text: #1c1a17;
+    --muted: #6b6560;
+    --border: #e6e1d9;
+    --accent: #a1421f;
+    --accent-soft: #f3e4dc;
+    --serif: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16140f;
+      --bg-card: #1f1c17;
+      --text: #ece7de;
+      --muted: #97918a;
+      --border: #322d26;
+      --accent: #e08a63;
+      --accent-soft: #2b211b;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  header.site {
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+  }
+  .site-inner {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 1.25rem 1.5rem;
+  }
+  .site-title {
+    font-family: var(--serif);
+    font-size: 1.6rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+  .site-tagline {
+    margin: 0.2rem 0 0;
+    color: var(--muted);
+    font-size: 0.92rem;
+  }
+
+  nav.months {
+    display: flex;
+    gap: 0.4rem;
+    overflow-x: auto;
+    padding: 0 1.5rem 1rem;
+    max-width: 720px;
+    margin: 0 auto;
+    scrollbar-width: thin;
+  }
+  nav.months a {
+    flex: 0 0 auto;
+    font-size: 0.82rem;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.3rem 0.75rem;
+    white-space: nowrap;
+  }
+  nav.months a:hover, nav.months a.current {
+    color: var(--accent);
+    border-color: var(--accent);
+    text-decoration: none;
+  }
+
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 5rem;
+  }
+
+  .latest-badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: var(--accent-soft);
+    border-radius: 4px;
+    padding: 0.15rem 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  h2.month-heading {
+    font-family: var(--serif);
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--muted);
+    margin: 2.5rem 0 1rem;
+    padding-top: 0.5rem;
+  }
+  h2.month-heading:first-of-type { margin-top: 0; }
+
+  .day {
+    margin-bottom: 1.75rem;
+  }
+  .day-date {
+    font-family: var(--serif);
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 0 0 0.75rem;
+  }
+
+  .story {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.15rem;
+    margin-bottom: 0.75rem;
+  }
+  .story h3 {
+    font-family: var(--serif);
+    font-size: 1.05rem;
+    line-height: 1.35;
+    margin: 0 0 0.4rem;
+  }
+  .story h3 a { color: var(--text); }
+  .story p {
+    margin: 0 0 0.5rem;
+    color: var(--text);
+    font-size: 0.95rem;
+  }
+  .story .source {
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+
+  .empty, .loading {
+    color: var(--muted);
+    font-style: italic;
+    padding: 2rem 0;
+  }
+
+  footer {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 1.5rem 1.5rem 3rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="site-inner">
+    <p class="site-title">AI News</p>
+    <p class="site-tagline">The important stuff, picked and annotated daily. No fluff, no duplicate headlines.</p>
+  </div>
+  <nav class="months" id="month-nav"></nav>
+</header>
+
+<main id="app">
+  <p class="loading">Loading…</p>
+</main>
+
+<footer>
+  Fetched from Google News and curated automatically each day.
+  <a href="https://github.com/Swetlana-AI/AI-News">Source on GitHub</a>.
+</footer>
+
+<script>
+async function main() {
+  const app = document.getElementById('app');
+  const nav = document.getElementById('month-nav');
+
+  let data;
+  try {
+    const res = await fetch('data.json', { cache: 'no-store' });
+    data = await res.json();
+  } catch (err) {
+    app.innerHTML = '<p class="empty">Could not load news data.</p>';
+    return;
+  }
+
+  const monthKeys = Object.keys(data.months || {}).sort().reverse();
+
+  if (monthKeys.length === 0) {
+    app.innerHTML = '<p class="empty">No news yet. Check back after the next daily run.</p>';
+    return;
+  }
+
+  const escapeHtml = (str) =>
+    String(str).replace(/[&<>"']/g, (c) => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+    }[c]));
+
+  const monthLabel = (key) => {
+    const [y, m] = key.split('-').map(Number);
+    return new Date(y, m - 1, 1).toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+  };
+  const dayLabel = (iso) => {
+    const [y, m, d] = iso.split('-').map(Number);
+    return new Date(y, m - 1, d).toLocaleDateString('en-US', {
+      weekday: 'long', month: 'long', day: 'numeric', year: 'numeric',
+    });
+  };
+  const splitTitle = (title) => {
+    const idx = title.lastIndexOf(' - ');
+    return idx === -1
+      ? { headline: title, source: '' }
+      : { headline: title.slice(0, idx), source: title.slice(idx + 3) };
+  };
+
+  nav.innerHTML = monthKeys
+    .map((key, i) => `<a href="#${key}"${i === 0 ? ' class="current"' : ''}>${monthLabel(key)}</a>`)
+    .join('');
+
+  let html = '';
+  let isFirstDay = true;
+
+  for (const monthKey of monthKeys) {
+    html += `<h2 class="month-heading" id="${monthKey}">${monthLabel(monthKey)}</h2>`;
+    const days = data.months[monthKey];
+    const dayKeys = Object.keys(days).sort().reverse();
+
+    for (const dayKey of dayKeys) {
+      const stories = days[dayKey];
+      html += '<section class="day">';
+      html += isFirstDay ? '<span class="latest-badge">Latest</span><br>' : '';
+      html += `<h3 class="day-date">${dayLabel(dayKey)}</h3>`;
+
+      if (!stories || stories.length === 0) {
+        html += '<p class="empty">No notable AI news that day.</p>';
+      } else {
+        for (const story of stories) {
+          const { headline, source } = splitTitle(story.title);
+          const link = escapeHtml(story.link || '#');
+          html += `
+            <article class="story">
+              <h3><a href="${link}" target="_blank" rel="noopener">${escapeHtml(headline)}</a></h3>
+              <p>${escapeHtml(story.commentary)}</p>
+              ${source ? `<div class="source">${escapeHtml(source)}</div>` : ''}
+            </article>`;
+        }
+      }
+      html += '</section>';
+      isFirstDay = false;
+    }
+  }
+
+  app.innerHTML = html;
+
+  window.addEventListener('scroll', () => {
+    let current = monthKeys[0];
+    for (const key of monthKeys) {
+      const el = document.getElementById(key);
+      if (el && el.getBoundingClientRect().top < 100) current = key;
+    }
+    nav.querySelectorAll('a').forEach((a) => {
+      a.classList.toggle('current', a.getAttribute('href') === `#${current}`);
+    });
+  });
+}
+
+main();
+</script>
+
+</body>
+</html>

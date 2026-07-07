@@ -16,14 +16,17 @@ jobs:
         with:
           python-version: '3.x'
 
-      - run: pip install feedparser
+      - run: pip install -r requirements.txt
 
-      - run: python fetch.py
+      - name: Fetch and curate news
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python fetch.py
 
       - name: Commit changes
         run: |
           git config user.name "news-bot"
           git config user.email "bot@github.com"
-          git add news.md
+          git add news/ README.md docs/
           git commit -m "Daily AI news update" || exit 0
           git push
