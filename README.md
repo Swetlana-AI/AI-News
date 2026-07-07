@@ -1,0 +1,42 @@
+# AI News
+
+A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
+
+## Latest — 2026-07-07
+
+- **Anthropic says Claude has carved out its own space to ponder - Axios**
+  Anthropic announcing Claude's internal "workspace" is always intriguing when a black box reveals a bit of its machinery. Calling it a "global workspace" sounds like anthropomorphism, but if it mirrors how humans process information, perhaps it's less a romantic notion and more a cold, hard fact about effective problem-solving, no matter the substrate. This suggests complex, multi-step thought isn't just a byproduct of scale but an emergent functional requirement.
+  [Read more](https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5)
+
+- **TeraWulf Soars On Signing $19 Billion AI Lease With Anthropic - Investor's Business Daily**
+  Nineteen billion dollars for a data center lease. That number should settle any remaining debates about the tangible cost of "AI energy." We talk about models and algorithms, but the skeleton beneath it all is steel, concrete, and colossal power consumption. A former bitcoin miner becoming an AI landlord perfectly illustrates the relentless, infrastructure-hungry nature of this current technological wave.
+  [Read more](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTFsM3FzSmJnVmp4bEtybTExX3BxUGlqOGxoOWVjYXZ6cWFXTDBTNGMyVjQxWFRIOGtnRGF0RUswSlVEdTB4YVFOTjFOSXBySGtUN1Y1cV9ZVWxYanc2ZVBOdFQ3bl83cmI2dmtnVXpQVUhPX3l2b1k4aGJnaUJCSlJWZDFmdzFYZm9aLVJpcVNjMWM4S1hoSEppcw?oc=5)
+
+- **China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation - CNBC**
+  The "distillation attack" accusation against Anthropic from Alibaba, leading to a company-wide ban, is a fascinating escalation. This isn't just IP theft speculation. It suggests an active, state-backed effort to extract or mimic rival models, then possibly weaponize that knowledge. Beijing's strategic move to block external AI use underscores the inherent distrust and the real, practical implications of a fractured digital world, where even algorithms become vectors for geopolitical leverage.
+  [Read more](https://news.google.com/rss/articles/CBMif0FVX3lxTE53Ykl5M1J5SW5wclpRaERtUUllclU0clBCaTlPYVJ5WWVGQkpIUTRYaXJJcS1XcmVYa2lVUkZhQnpWQ0NvY3h1alBReENVT1RZa2tJMWQ3SHdMU1F2cVJuWjM0bktmZElSbGE4WVk5VWd2VnRaa2FpRm5PM2cySU3SAYQBQVVfeXFMUC13eFAwV0ZDbm02SURnMjhrd3JvUEUzeHcxdEFkNFQzbFZwUnkyMDU0MnhqYzRzaHpLZjR3MHRSQ2VycnRuaXRVd3YyNzE5UUxMN2NKQU1DamFKYV9qLVNsN0NpS1VabzVnQjluZ05odnViTUZFM2txRUpkZHhRS3hGYUhs?oc=5)
+
+- **EXCLUSIVE: US cyber agency is using Anthropic's Mythos to audit government code, sources say - Reuters**
+  The US cyber agency adopting Anthropic's Mythos to audit government code is a quiet endorsement. It shows a federal agency trusting an external AI to find flaws in its own critical systems. This move is less about grand AI promises and more about practical application, a reflection of where the rubber meets the road for national security infrastructure.
+  [Read more](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVIxWEljZjRkR21jakVuQVZZblN5T1RTVENtMTNpRDU0d0ZLWWk1RkpKVkpjVUNGbkY0ckVwTmpvaXBwSnV3ZWdjNGNzU29sVnpJeUJzQUU3dkhKa2pPWW44ck5kNEpsbjZfZ1JlSTdkdFhKS05CdzhCZEZKWDAwTkpDWE01U3JZQU9TeExfYkpGQ3hHdU1nMnFJaFhyRWM3N3FBUFBPUW5LVHlQS0xMcFZJUHRqZWktNEE?oc=5)
+
+- **OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report - CNBC**
+  OpenAI's offer of a 5% equity stake to the US government, ostensibly for every American family, is a curious play. It's framed as generosity or a public benefit, but the actual math suggests a different calculus. This is less about distributing wealth and more about binding the government to OpenAI's success, creating a direct, vested interest. Such a move signals the company's urgent need to navigate regulatory pressures and secure its perceived national champion status.
+  [Read more](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmlORndTRDBueEJHV25lbTl2ejNISG9xT09Vbk01NzNCNnoxNmpIdVZJeUdHV19qWU9IUWdncnQ3Q1BYRjZ3SFJCaE53REFzYVN2em1TbldqYi03eklMaFRJVk9NVm9XM2F3My1xN2k1czcxQU9uOG9fSWFHa1oxRUVzRFk4QmI2Smd4cG9wZTN0OURZTkZOQ2dsOHdzWW8wYTFEQ0V6Q3lKR1NSYS1YcWVaMFJYQdIBuwFBVV95cUxPWEdwWkRiR25HQmRfNTB5VG10bElQUDYzb3lQQ3UxNHU5dmd2UTRDdmxfeHdoMkZza21yTEhOWWI3NGxxVlJXOHp0T25fT2FDYXhfX0RzM2l6c1ppZXpkLVNFMHlfVVBDWTJvVW5EQndfcUpIWDZVdDlVR3gwTjFxTXl0LUktRUl1RmtGaFBuN1FJQnRSMDY3X0dMLW9GQmJPemdBUE1US29ELTdFcFBrM2diMmV3RjZpQzM0?oc=5)
+
+- **AI company Anthropic announces it will begin developing drugs of its own - STAT**
+  Anthropic moving into drug development is a significant pivot. The company is no longer just selling foundational models but is actively using them to create new intellectual property, stepping directly into a multi-trillion dollar industry. This shift highlights a common trajectory for successful platform companies: from providing tools to owning the value chain end-to-end.
+  [Read more](https://news.google.com/rss/articles/CBMidEFVX3lxTE45WVhQaWJkX2FqRi04MW9UaW50dWhzMXNVNGFtVkplOVc0MzhkdFlid2lGblNudDRFRFk0cl9sRmpyU2pvNHdvb3RmNmFlbjNaWlJDUnFuVEk4eFJ0aWlEWXhLN3EzbVQ1bWJrTi1YYXRnUnFR?oc=5)
+
+- **Anthropic is discussing a new custom chip with Samsung - TechCrunch**
+  Anthropic's discussions with Samsung for custom AI chips reflect a growing realization. Relying solely on off-the-shelf silicon from a few suppliers creates bottlenecks and limits competitive advantage. This move towards vertical integration, designing their own silicon, is a signal that leading AI labs are not just software companies. They are becoming hardware powerhouses, too, chasing efficiency and control at the fundamental layer of their operations.
+  [Read more](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEZIQk56bmVISXlQbVVSX0d0Uk1jZFM3MkR5Rkl6R2RtMmZXdk5mZXpFeFNqejN2TE84RlVDQTNTUEdEZnRMSjlOWG9fOFIwTnNGeENSUTZKdHU4WEk5eS03UG5tTjlRa3Vxc2JFbTJvYzJrNU9iLXFldWthLUJ2Q2NYa0V3UHFyTmh1eTZTVmNrc1U?oc=5)
+
+- **AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share - WSJ**
+  The "free compute" offered by OpenAI and Anthropic to startups is not altruism. It is a strategic land grab, an effort to build ecosystems around their platforms. They're cultivating loyalty and dependency in the next generation of AI applications, ensuring that when those startups eventually scale, they're already entrenched customers.
+  [Read more](https://news.google.com/rss/articles/CBMiswFBVV95cUxNek1pRE45bkJuOXNxLUlQcHNITkVDMXZNNUFCaERxdjFqU3VwcTh2ZndleC1IYXZRUDBBMlVoellRT3NTT2tUR1hscVNCZjYwWmh5R2dEdE1jZG5nQjk5Y3ViMnlYcjE5NmU3cnZ5U0YwY3ZRa3NCTFNDclBFR184UDVHbGlET0JBbFVqTjFNd2daZjU5Z0tmVVpFaWN4eVV0T0g5eTJFUVNDa2Q2QW1HVmxCcw?oc=5)
+
+## Archive
+
+- [July 2026](news/2026-07.md)
+
