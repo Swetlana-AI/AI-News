@@ -1,10 +1,14 @@
 import json
 import os
 import re
+import time
 from datetime import date, datetime
 
 import feedparser
 import requests
+
+RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
+MAX_ATTEMPTS = 4
 
 RSS_URL = (
     'https://news.google.com/rss/search?q='
@@ -95,7 +99,12 @@ def select_top_stories(headlines, day):
         },
     }
 
-    resp = requests.post(url, json=body, timeout=60)
+    resp = None
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        resp = requests.post(url, json=body, timeout=60)
+        if resp.status_code not in RETRYABLE_STATUS_CODES or attempt == MAX_ATTEMPTS:
+            break
+        time.sleep(2 ** attempt)  # 2s, 4s, 8s
     resp.raise_for_status()
     text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
     parsed = json.loads(text)
