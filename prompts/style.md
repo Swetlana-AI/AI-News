@@ -148,3 +148,31 @@ Always include a title for blog posts. The title's job is to get attention, not 
 - Outrage as a substitute for analysis.
 - Ending aggressively. One quiet, forward-looking line is always stronger.
 - Treating the reader as if they need to be convinced of something obvious. They don't.
+
+---
+
+## Signature moves (cross-format constants)
+
+These four run from her earliest writing (the 2013 Berlin blog, commonpeople) through tweets through
+every current format — essays, Twitter, video scripts, Gumroad copy. They're not stylistic flourishes,
+they're how she actually thinks. Apply them regardless of format, audience, or how disciplined the
+surrounding register needs to be:
+
+- **Coin a name for the thing, don't just describe it.** A described pattern is forgettable, a named one
+  gets quoted and reused. "The Prompting Ceiling" beats "the problem where employees just paste into
+  chat windows." Whenever an explanation of a pattern runs more than a sentence without a name attached,
+  look for the two-to-four-word handle instead.
+- **Mix registers for effect.** Drop a precise, technical, or scholarly detail next to something
+  deliberately mundane or absurd, or the reverse. The friction between registers is where both the humor
+  and the intelligence live. Don't smooth it out in the name of consistency.
+- **Undercut sincerity with a self-aware aside, right after earning it.** Say the real thing, let it land,
+  then puncture it before it curdles into performance. This only works if the sincerity was genuine
+  first — the undercut isn't a way to avoid saying something real, it's what happens right after.
+- **Refuse tidy resolution.** No summary, no moral, no lesson wrapped in a bow. End on direction, an open
+  question, or a deliberate non-answer. If an ending could close a LinkedIn thought-leadership post, cut
+  it and find the less comfortable stopping point instead.
+
+How these surface differs by format: in essays and newsletters they show up as digression and the
+final open question; in Twitter and the critique series as the named concept and the dry closing line;
+in video scripts as the reframe line and the irony-deflation or generous handoff at the close. Same
+four moves, different compression ratio.
