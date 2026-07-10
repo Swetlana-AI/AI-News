@@ -2,39 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-07-09
+## Latest — 2026-07-10
 
-- **SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’ - TechCrunch**
-  SpaceXAI's Grok 4.5 arrives, billed by Musk as "Opus-class," a direct shot at Anthropic's top model. The real story is the price: half that of rivals for similar claimed capabilities. This isn't just a technical release, it's a strategic move to undercut the market, attempting to flood the lower end with "good enough" AI. Value, it seems, is the new benchmark for disruption.
-  [Read more](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGxfOGQ0djFhVXRtcVoxUENRUnJhZlMyWmctdE9ETl9WZ29lT3o0YlpDVk5uWC1TR3k2WVVGekhTbDhPZWJmU2tGTURONWxMRi1YZHQtVU1xTEt5Q0xFZVlJOHZUQmwtNHowRDlMYjFFbE1hWnJxcFAxUjNyZS1PUExPLUhSWFl0eGE0VGhsNTRjYndtc283ZGhQbWlqcGFWMWxZaS0tUlo?oc=5)
+- **ChatGPT is now a partner for your most ambitious work - OpenAI**
+  OpenAI unveils GPT-5.6, touted as its most capable model yet, alongside "ChatGPT Work," an agent designed to manage multi-step tasks. The real move here isn't just a better chatbot, it's the shift towards an autonomous digital assistant, attempting to become the invisible layer in office workflows. This is the enterprise play, a bid for deeply embedded utility beyond simple query-response.
+  [Read more](https://news.google.com/rss/articles/CBMib0FVX3lxTFBRV1RrNVpYNC1zaXV0RjE5dS1ESDhLc0IyT2g2bzlZM2l0cTdUdkFHUXhfTm5VeHhOWUFCczkxRnIxaWp2S3NJbmhmSlZXZEdaVUJfTkthOXAzbTVnbnhtVkFtdktGMGhUbkxEdUw1WQ?oc=5)
 
-- **Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6 - Axios**
-  OpenAI's GPT-5.6 finally sees daylight, reportedly after a green light from the Trump administration. This isn't just a new model, it's a reminder of the unseen regulatory hand now guiding AI development. Governments are no longer just observing; they are actively gatekeeping model releases, shaping which capabilities reach the public and when.
-  [Read more](https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1FRRGcyemJMc1RsLWZmcGlSZTBuakxJU09mS0k0dW5pLUthb1YzZ01uZURoQTdGR3RUVzhMRDN4Q1JwaWQtVVBkbWt6Ykx3bkpOM3hJMlozLWRFQS13Q3Jrakk3S0FuQThlUg?oc=5)
+- **New York Times and Other Publishers Ask Court to Penalize OpenAI - The New York Times**
+  The New York Times and a consortium of publishers are now requesting court sanctions against OpenAI in their ongoing copyright dispute. This isn't just another legal volley; it's a pointed accusation about how OpenAI handles litigation itself. The content industry is done with playing nice, showing that the core tension between data acquisition and intellectual property is moving beyond abstract arguments into tactical legal warfare.
+  [Read more](https://news.google.com/rss/articles/CBMifEFVX3lxTE9OTml2eXZ6QXlTUUpBaW81VmtxcmJaa2h4blBYMVJZeTdISU4xYjA5N3VrLS01eEZlMk5hUmxoaHZVam1lN0xiSmJsWUtISUVrQzVqLTVhRFdaTG9MbEZJaHl3aUdhVGJfUUxKNWxWaTUxT05NRmRkWnhMcEs?oc=5)
 
-- **GPT-Live, OpenAI's New Voice Model, Wants You to Talk Over It - Business Insider**
-  OpenAI unveils GPT-Live, designed for simultaneous, natural voice interaction. The goal is to let humans interrupt and talk over the AI, moving past the turn-taking dance of current chatbots. This shift suggests AI is now expected to inhabit our conversations as a participant, not merely a tool awaiting instruction. It signals a move deeper into the fluid, often messy, flow of human dialogue.
-  [Read more](https://news.google.com/rss/articles/CBMiekFVX3lxTE1lRkRhclhnUW1INHhpQWczZTcwYXREMkwyY0tJMDktdTRQSDFMNThpelptaE5NQzFSTmN0Z01mTmVGalh5Nk84S0o1WHc4N2k3c3Q4Tl9Qb1g5a3JDM2VfY2t3SWtLOEdlOHZvcjQxaEphdE1YUkRNcjhB?oc=5)
+- **Exclusive | OpenAI’s No. 2 Executive to Step Down in Latest Leadership Shake-Up - WSJ**
+  OpenAI's No. 2 executive, Fidji Simo, is stepping down due to chronic illness, transitioning to an advisory role. This marks another high-profile departure from the company's senior ranks, a reminder that even the most ambitious ventures operate on human limits. The constant executive shuffling at OpenAI suggests structural strain, even as its public face remains focused on forward momentum.
+  [Read more](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGRjYk9NdENUVFo3MFdZYmNXM3dPMmFwZE43V1VQdkEzTXBlUmRzVG5sTDJiNUxnUXE0X0tWTHY5YUFNb3RkSnpTOGwxYXMwd3NtNDNrYUxJbWlzbnY0N1JxV1lvQnlYT1hISWZwdXMtcnp2VTlnUDZSbTJhUUxOMG84MVE?oc=5)
 
-- **China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code - WSJ**
-  China claims to have found security vulnerabilities, potentially a "backdoor," in Anthropic's Claude Code. This isn't just a technical critique; it's a geopolitical maneuver, a public declaration of distrust in Western AI. It implies that for critical infrastructure, national security will always trump perceived technological superiority. The digital iron curtain is getting thicker, laced with AI.
-  [Read more](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnhuNTk2eXJ6MFM2WmREY0pSNFN1REdpZXRFVU5FNElsTl9ZNFJ1YjFXQ084M19hN3FXWTFlY2ZDRnFLLWFXZGRybkhSa2hFbUtKRDJJUDR0QlNQcUZVZTVfOWRUUHRGenNleHFfcy1oS0NYVmN6QThLMjFBWF9qMDlwZ1hnNTE0cVAzNm1nNl9sOEVnM1Q0Vkg1WUNDQTlwUGVvWWsxRlVLVFNxS1ctVw?oc=5)
+- **SpaceXAI’s Grok 4.5 Undercuts Anthropic and OpenAI on Coding Agent Pricing - DevOps.com**
+  SpaceXAI just launched Grok 4.5, claiming "Opus-class" performance while notably undercutting Anthropic and OpenAI on pricing for coding agents. This isn't just another model release; it's a stark pricing gambit. Elon Musk's companies often aim for market disruption by aggressive cost structures, and this move suggests a new front in the AI arms race: the price war.
+  [Read more](https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2ROV2lrT2xTdXFCRkNmcWhYaExiRGVObDJTS1NVaXE2c01MaEt1VWU3WmIxV2ViTFF4Q21QeTgzdEdwYnlHRi1SS3A2M2J5M0tTZnBueksyNkFicFo0U1MtMUNWdUlFcXBmYXc5OXpnWnRoODRaMVNMUmlEaGRiUktBQmxoVUltek9FU3ktRzFVTkMtYjB6Vg?oc=5)
 
-- **Microsoft is reportedly ditching OpenAI's and Anthropic's AI models in favor of its own to cut costs - SiliconANGLE**
-  Microsoft is reportedly phasing out OpenAI and Anthropic models in some internal applications, opting for its own AI. The reason is starkly pragmatic: cost. This highlights the industry's quiet shift towards vertical integration, where the allure of third-party innovation meets the hard reality of operating expenses. The ecosystem's flow is changing, the roads diverging.
-  [Read more](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnFtZlpHSlF3bm0zbWR1S3B5amdoYXVoNG04TndpYmc1SGctSzRJOW5lUzJCbkgzalZZSzhFM3h1T0hoMld0S3NaM0xoOThSVGgtVHlRMzgtbWJyb2tjbzB4OV81TW40dUtvRHQ5bUJRNlpPQ1ZyN2ZiV2dLVzdFOVM5SHVsTGlUSTBGaUJmYW1SSTJjRzB5YWcwbnRkU0NkSjZlbTZvZkZpWkNQYjdfLQ?oc=5)
+- **OpenAI, Google supplied AI models to Pentagon-blacklisted Chinese firms: FT - Investing.com**
+  A Financial Times report alleges OpenAI and Google provided AI models to Chinese companies on the Pentagon's blacklist, via Singaporean subsidiaries. This isn't just a compliance failure; it exposes the structural problem of global tech. Despite clear geopolitical lines drawn in Washington, the reality of tech flow operates with a different kind of permeability, making "blacklists" more a wish than a reality.
+  [Read more](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ3ZtZmhtZjdyak93cFZZYWlzeF9CQmpRWEduQTdEaEdrUm14UjRxZzZEd0tFcjJRVExlTUxFbnlzdHo1eFM3RjNJeGJucDZ5bXNXd2tOckpLaVVuTUhvMWpMazhHS1NFWDhRVVJKRGVDOF9ySDhGdTFwQlU4bng4SXhCODJBbVFIcmMyNWkzU0VvaTN2VjhjeGxkdERkMzF2UHh5RTIxQ05yVlltbjBpajUxSTBtLU9jT1FXWHAwMkN2VkVMX2VyZg?oc=5)
 
-- **Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself - Ars Technica**
-  A lawsuit alleges Grok was used to generate thousands of illegal images, culminating in a tragic suicide. This moves the conversation beyond abstract "safety guidelines" to the immediate, visceral consequences of misuse. It shows the real-world tank of ethical failure can overflow, no matter how many guardrails are hypothetically in place. The cost of unchecked capability is sometimes measured in lives.
-  [Read more](https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2pOeEZ1SjJSZDZVUDFJbG9yNzhRcnFrLUZHVDkyXzZYWHJpd01zUFVNRzJCa01kWkhIOW9fNnFVWjFnbUdkWmNJR2hFdHlHaEFQZk9OVDJJTlhoal90NlV4N0lmQ2Q4Q0JwZm5KT1JtVWFISUtHbUxaa291MVFnN0dGVmVGQ1NNRUk2d3hvMU9BUHQ2OEpEX25SNmtZZ09RMjQ1anZ3TC1tZFZvc05SZHpTQlpCRi14WnJHODdCd05RLTRS?oc=5)
+- **Anthropic appoints former Fed Chair Ben Bernanke to its independent trust - CNBC**
+  Anthropic announced the appointment of former Federal Reserve Chair Ben Bernanke to its independent trust, an obvious bid for gravitas and institutional credibility. Bringing in such a figure signals an attempt to calm the governance waters, an acknowledgment that public trust now requires more than just internal assurances. The cynical observer might wonder if this is more about perception management than actual oversight.
+  [Read more](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV0QybzJ5YnlPRFFEaFA3S3FFSkJiMXJEM1NoQkhCM28xOTlJMVVfaWFLbng0S25BTC1sODNhMFd3bVJtNmxORmNJUGFuTHRPazVpNWFQTjN5VUU1SG5zVU9EUzU4WDAyM3h1NkdZZkhISFVVeG9LaG94SUxJSmRYNDBwMGV6dS1XelRN0gGQAUFVX3lxTE5sTTd1OF9aX296R0VWb21mZGItcWRhbnlCS0ZnNUlKVFVqd3RBT1RoaVVFV0dnUXZjNW56bWZucmFRQjA5NkNpd3ktY0M5UEY2S0gyd0E4ZHZoZndvdXpLbzh0ZDkwYTRWOFJHaXVfcEI2dE5UQWctUkNfMXczaU9kQ3p2azIwUmhZM0Vldi1JSg?oc=5)
 
-- **SPCX Stock Records 3-Day Slide: Elon Musk Admits Anthropic’s Fable Is 'Definitely Better' Than Grok 4.5 - Stocktwits**
-  Just days after touting Grok 4.5, Elon Musk admitted Anthropic's Fable is "definitely better." This honest, if jarring, assessment reveals the relentless pace of AI development. It also offers a rare moment of humility from a figure known for grand pronouncements. The AI arms race offers few permanent victories, only temporary leads.
-  [Read more](https://news.google.com/rss/articles/CBMisAFBVV95cUxPb19yVHJtU2R5a0l6QzJaMWVIRFlXdFNPNTFBRGxNLTl5MEVINWR6MFBjYUhVTHREVWdubktTUFlzc2hqMjVUaVljRkN3dzgwdEVBY2djR3pLa05xMUpIeDBTazlNMnplTFJjcDVJYkVLU2Y2QjNJYXBEajR1QjlXR2QzYVRmT0pTNHlRY2x6eThsRnpWM09rTDFqTUd5c2hqT1NReEtWSlB3a1pQVElLRw?oc=5)
+- **China warns about AI risks with Anthropic's Claude Code - CNBC**
+  China's government issued warnings about security vulnerabilities allegedly found in Anthropic's Claude Code, a claim Anthropic promptly rejected. This isn't just a technical dispute; it's a strategic maneuver in the global AI race. Beijing is clearly laying groundwork to scrutinize foreign models, a convenient justification for pushing local AI solutions and maintaining a tighter grip on digital infrastructure.
+  [Read more](https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5)
 
-- **Our approach to government and national security partnerships - OpenAI**
-  OpenAI published its approach to government and national security partnerships. This isn't just corporate policy; it reflects the deep, often uncomfortable, entanglement of AI with state power. The lines blur between commercial innovation and strategic national interest, framing AI as a critical infrastructure. It acknowledges AI is no longer just about optimizing ads, but about shaping global influence.
-  [Read more](https://news.google.com/rss/articles/CBMidkFVX3lxTE45RzBJcm9pMTJaYS05MkJnVkh6NmRvamJYUkY4NFlqa3U5SnVYekFSc2ZJWWJrdVhpSXZtRE5ka0RYZ2RiYVNMVzlMSnZ4Mm4tMFJuZUY2V0FfLS14S1JHeWNRTFBabTNycTdkLVJmdHBJTU5RekE?oc=5)
+- **Introducing Claude Sonnet 5 - Anthropic**
+  Anthropic has launched Claude Sonnet 5, their latest model, which appears to build on its claimed advancements in "reflection" and complex reasoning. The move maintains pace in the frontier model race, but it’s the continued emphasis on internal conceptual processing, on how models might "ponder," that sets their narrative apart. It suggests a pursuit of architectural depth, not just scale.
+  [Read more](https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5)
 
 ## Archive
 
