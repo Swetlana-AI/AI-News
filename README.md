@@ -2,39 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-07-13
+## Latest — 2026-07-14
 
-- **Apple Sues OpenAI, Accusing It of Stealing Company Secrets - The New York Times**
-  Apple is suing OpenAI for trade secret theft, but it is less about specific lines of code and more about a fundamental clash over the Data Commons. The public spat between Musk and Altman, a predictable diversion, just underlines the underlying competitive ferocity. Everyone claims victimhood when their walled garden starts to show cracks.
-  [Read more](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5)
+- **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets - Ars Technica**
+  The Apple lawsuit against OpenAI isn't about some pilfered lines of code. It’s about who controls the next compute layer, the one that lives in your hand. Apple’s never tolerated rivals on its turf, so alleging trade secret theft by former employees is a convenient mechanism to assert dominance. This isn't innovation, it's a land grab.
+  [Read more](https://news.google.com/rss/articles/CBMivwFBVV95cUxPelRWR3pFV1hDWTJiOUdWbUtoNncxcWh5ZEhVSU5SUzROc0VzSHNvaFd3dkJ6eUZYZldoT2d1MG8tNU85V1E0a2hOQUpLY3U4UTY1dXFnNUM4RDJqeEg3SjFpUXVydHJwWVV6OEhNSUhQMG0xbTd5R3VtclZTVUZ1bVBLcDV6OXprZmFmNkZ2bExKUHZVV29KZjJEUkdoTVNKMTFEWEp0MEVJQXF4RTE5SVhQUUtzdy1aa19VVE93bw?oc=5)
 
 - **GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI**
-  OpenAI rolls out GPT-5.6, touted as frontier intelligence that scales with ambition. This familiar drumbeat of bigger, faster models ignores the quieter story: they are shutting down their Atlas browser. The company wants to be your operating system, not just your chatbot, a shift from exploratory product to pervasive infrastructure. It is a classic move, shedding experiments for strategic depth.
+  OpenAI rolled out GPT-5.6, touted as 'frontier intelligence' ready for 'ambition'. Translation: it’s faster and more efficient. The real value isn't the marketing fluff, but the continuous, incremental capability shift beneath. This sets a new floor, not just a new ceiling, for what's expected from foundation models.
   [Read more](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5)
 
-- **Exclusive | OpenAI’s No. 2 Executive to Step Down in Latest Leadership Shake-Up - WSJ**
-  OpenAI's leadership carousel continues, with its No. 2 executive stepping down from a safety-adjacent role. When the people tasked with ensuring long-term safety keep leaving, or their divisions get reorganized, it suggests a misalignment of priorities. The company’s trajectory is clear, regardless of who is steering the safety wheel.
-  [Read more](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGRjYk9NdENUVFo3MFdZYmNXM3dPMmFwZE43V1VQdkEzTXBlUmRzVG5sTDJiNUxnUXE0X0tWTHY5YUFNb3RkSnpTOGwxYXMwd3NtNDNrYUxJbWlzbnY0N1JxV1lvQnlYT1hISWZwdXMtcnp2VTlnUDZSbTJhUUxOMG84MVE?oc=5)
+- **How Claude's values vary by model and language - Anthropic**
+  Anthropic admits Claude's 'values' vary by model and language. This is less about philosophical nuance and more about the practical impossibility of universal alignment. Meanwhile, localized pricing for India, a major growth market, shows they understand market fit beats abstract ethical purity. Different places, different values, different price tags, apparently.
+  [Read more](https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5)
 
-- **Elon Musk Admits He Was 'Clearly Wrong' About Anthropic— and Promises Not to Weaponize SpaceXAI's Compute Access Against the Claude Maker: 'Not My Style' - Yahoo Finance**
-  Elon Musk admits he was 'clearly wrong' about Anthropic's AI, a rare and telling concession. His simultaneous launch of Grok 4.5 and directive for Tesla staff to use it, even if 'worse', paints a clear picture. It is not about best-in-class; it is about owning the entire stack, a familiar play for a certain kind of empire builder.
-  [Read more](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzdjaWhlRlIxazNzdWppcUVBbjNnLTkzd1ItS1plN2h6QTYwUE9kRWRxbEl3eW9VcENST2pxdGhlRjlNd1BqQnU1UHFvVFUwVW9wb0NNdUNHTEdwNC04YmdIN2RiRkJfRFNkWU5YLU0zNWJreW5Rd2JxV3dvWmREVnRaMl8yTDFLdFV2eGtKbHFmRV9hYS10WHZ3?oc=5)
+- **Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads - The Hacker News**
+  Grok Build is reportedly uploading entire Git repositories, not just the files it's told to read, to xAI storage. This is either a catastrophic oversight in data handling or a ruthlessly efficient, if ethically questionable, approach to ingestion. Either way, it highlights the 'move fast and break things' approach now involves entire codebases.
+  [Read more](https://news.google.com/rss/articles/CBMid0FVX3lxTE40SURBWHFMUExOU2NtS3c1TkJJeTlDV0Nad2xIZ1VVUVJTZmtxOWFDOExSYkpaM3lhYlNRT2Y2em9WeW1qOVprOGR3SDFtazRLdzhxV2lPZkM1bVkwdUxwSUxJd2E0R1UwVnBPdVBLbVRPbm5MUC1N?oc=5)
+
+- **OpenAI’s Head of Safety Is Leaving the Company - WIRED**
+  OpenAI's Head of Safety is out, another departure from a critical, thankless role in a major AI lab. This isn't an isolated incident. When the people tasked with braking keep stepping off the bus, it tells you something about the direction and speed of the journey. Or maybe the brakes just aren't really connected.
+  [Read more](https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5)
+
+- **OpenAI unveils long-awaited "super app" as rivalry with Anthropic intensifies - Reuters**
+  OpenAI is reportedly launching its 'super app', aiming to consolidate various AI functions into a single platform. This isn't just a new product, it's a bid to become an ecosystem. The goal is to move past discrete interactions and into a continuous, embedded presence in daily digital life, much like the original 'app store' vision but for intelligence.
+  [Read more](https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5)
+
+- **Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause - Decrypt**
+  Hundreds marched on OpenAI, Anthropic, and Google DeepMind, demanding a pause in AI development. This public demonstration isn't just noise; it's the physical expression of abstract anxiety. It tells us that the 'future of AI' isn't just a technical problem to be solved by engineers. It's a social and political one too.
+  [Read more](https://news.google.com/rss/articles/CBMif0FVX3lxTE14UHVHSm1mUWhRYUs5V3dybU9xdWx6a19tbzhMQ2FIdzNSYUFqVkd3VEFhMDd4bGIxb180b1gxNHhLejFWV012OTNNMHFHckVRY0ZWUEt1UlN6X2dFNUw5dy1CcWR5YUgtUmVGdjJIbjk5Z1JtZTdfVjNoY1NWa1HSAYcBQVVfeXFMT2lmRk4yUlV2SDlXNGVXZGNGcS1DQWxSWE9TOTlfRXdMdjV2VW1KcDI0SU9wWmZPQkk0dWRPYV9nazNCSDhfbFQtYkppWVNsNHoyMzFBQUFtZ2Q1WV90azduYS1YMVJZQXdiYUVHNE5fOHJKcV9ERVlTVXB6eWUtN0lPVkVuY2d3?oc=5)
 
 - **Anthropic found a hidden space where Claude puzzles over concepts - MIT Technology Review**
-  Anthropic researchers found 'hidden spaces' where Claude puzzles over concepts, a quiet revelation amidst the usual model upgrade announcements. This kind of deep, emergent property research hints at genuine breakthroughs, rather than just brute-force scaling. It is a reminder that intelligence might not always look like what we expect, or where we initially trained it.
+  Anthropic's researchers found a 'hidden space' where Claude apparently 'puzzles over concepts'. This isn't about finding consciousness. It’s a glimpse into how these models form internal representations, moving beyond simple input-output mapping. Understanding this internal architecture is crucial for anyone who wants to build, or even just influence, what comes next.
   [Read more](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBLbm9aTGI4dlBYeGpyT2N4c3Zja214TUt2QllUQmswUzJTeXR4aWlsU25ibnJCaVlaZVFuMUtBbjBSQ0JEcjZfMnA1UE94cDBBdlBfbnZFY3RLR1Y0MjJrbVJNNjB6OUwyUTJRWXlYT1gtYTI2eGRDaDd1WThvZFYxaERDOEVYeS1UbU5iS0VjSmhUTExhajBDelFQSjUwdjFJd2ZoOEhkRmRBazZaYnRidzRlLUFEOHfSAb8BQVVfeXFMUFhtUFdVa1lqQk8zdFU3NE5QLTdrY0lFdERFRnRGNmtWMjNSdFhNSTF0M29qQnUweWc0Qm9HVEh3aWtGZUNuLVZHN3FmckxCZDJMYmY2ZC1OR0N0R1ZMcG5RU2tFdFlXYms3aEVyTjN2emh2YUVGUlRQRjh1MzBiMi1SUjlEOGVBUTlhaENnbS1lZXBHS3FvMS15YnFtdFZBa2xjQ3RqeWNCUHpOandrQnI1RjZSd2ZzN0RLXzZodm8?oc=5)
-
-- **Washington Is Looking to Keep China From Training Its AI on US Models - Bloomberg.com**
-  Washington aims to prevent China from training its AI on US models, a predictable escalation in the AI Cold War. The idea that intellectual property, especially in the rapidly evolving AI space, can be contained by national borders is naive. The current situation is less about a firewall and more about an academic paper with a slightly too-public bibliography.
-  [Read more](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWVhRldnTDlKa3JYTVp3N0JxVnFSMlVjYlVyYzFSeklUeWZBLTNfX3ZIeDI0VXFpQWEtRTZuUjB4Z1lPX1hFMlZ4VjJybmN6WTdUYkF5eTVRZGtScWJKQnc3dlFGUExLTVV0TWNfTkZNTTBNZTFiVXpZdzI2cWY3VVdYVlIyWGNfR24zSXFYWFB5QjMyMmlkUW1fVnU2OHhzY2tCdFBVNkRIWmJ4dHc?oc=5)
-
-- **Palantir CEO has a blunt verdict on OpenAI and Anthropic - thestreet.com**
-  Palantir's CEO offers a blunt verdict on OpenAI and Anthropic, essentially pointing to the inevitable commoditization of tokens. The market is already shifting from raw capability to cost efficiency, a race to the bottom that was always on the horizon. This isn't just about price cuts; it is about how the entire economic structure of AI will redefine itself.
-  [Read more](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDE0d3ZXbXRpWTJDdVYzU0cwSThkTmlRbTIzMjNxU3RMaVRaQVFyRkRYSm9kSDBZYVBvMXZmZE5vOXFkVkhJX0tjUjJab2VGTG8ybUk0MnMxaWJkN2QwZl9aYzNtc0ZhaVhGaUFsZEwwMG1sMDVDdXI3NlZsSFcwckFZUzRvWkttODlhTHNUcTNyMkFjb1JCOA?oc=5)
-
-- **Photos: Hundreds protest at Open AI, Anthropic offices in San Francisco - Mission Local**
-  Hundreds protested at OpenAI and Anthropic offices in San Francisco, bringing the abstract anxieties of AI into the physical world. While the headlines do not detail their specific grievances, the sheer presence marks a threshold. The digital noise has finally spilled onto the streets, making it harder for the industry to ignore.
-  [Read more](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTN6VzVIY0NldnZ2dW1WLVZCM2FaeUJVbW9IRXIwNVBkcGJZWTNZYjRfLXhFdTcyaVVNb04zclNHMnROVE1FYy1CWVBVM2xBd09XaVBlRERLd1g4RWRxak1hZDRYODRWOFlHMHpiM1RxcERrbVRza3Bya2JZTXpsVWdKdjlZVlM2NFE?oc=5)
 
 ## Archive
 
