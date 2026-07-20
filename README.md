@@ -2,39 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-07-19
+## Latest — 2026-07-20
 
 - **Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal - The New York Times**
-  Anthropic is in talks with Meta for a $10 billion compute lease, simultaneously lining up for a mega-IPO. The cost of ambition, it seems, is measured in infrastructure and investor appetite. This isn't just about better models, it's about who can brute-force their way to the top of the 'compute race'.
+  Meta and Anthropic are reportedly deep in talks for a $10 billion compute lease. This isn't just a transaction, it's the "compute cartel" forming right before our eyes. When foundational models can only be built with state-level resources, access to the silicon becomes the actual currency. The infrastructure game defines the market now.
   [Read more](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5)
 
-- **Apple targets dozens of OpenAI employees with legal letters - Financial Times**
-  Apple is sending legal letters to former employees who joined OpenAI. The 'AI talent drain' has quickly become a legal drain, with companies fighting over intellectual property and human capital. This reveals where real value is perceived in the market, not just where the most enthusiastic PR originates.
-  [Read more](https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHVfTTYtWDJJeUZrUkxVX2I5WmtILTZKOGJTbGtrdkhxdS15Z1JPVnExQng2U1ZvVHdiZWJWMGF0dHJBcEVQVVpLbkRuR3Vib1ZocXU2azlzSFNXQW5qSTd6d1l4YTFsRTNQU0R2dUg5czFRQmEtT0E2ZnpRUG45VTBYbnM?oc=5)
+- **Nobody is asking why Apple filed its OpenAI trade secrets suit now, weeks before a rumoured public listing — and the answer sits inside a screenless device shaped by the more than 400 ex-Apple hires OpenAI has quietly made - Silicon Canals**
+  Apple suing OpenAI for trade secret theft, specifically tied to their rumored "screenless device," is too precisely timed to be coincidental. This isn't a legal dispute; it's a preemptive strike for ecosystem control. The real question is why now, and the answer is likely Apple asserting ownership over the physical AI interface.
+  [Read more](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNakJFenFpTlNyODI3Q2RDUVpSMkE5Z1pWSEtOSWZyMmFNX29rQUp3T2d5UkRFWkdxWWtWMG0yejBVT2NrbHIySGZGMzg0Mlg3WHNYb0xma1ZwdFVmYk55NmVWalprYXkyUldLWGs2MzR0Z3FEQmxsemItRDhVa0hiMXdIbW41LXNNRVcybzN6TTB6VWNxNV9sYXJwZm9tZzkwRThDNV8teVFuaWREMDlFdWpaWEJEN0pqMV9WLWwzV1MtZGx0V1ZVb0RQNS1VeGNhNng5R2F0M25WX2s4REZzRXQ3cnFUbk1lbDN2Z1Nld2E1NTVObWVzVUh2QU5yZ0xPb3J0Z0ttX0dWZ3ZjNmQyRFJZNUoyWC1ZRS1UZlNCVFNuUVBfQXdERGVUZFk5SlliY21Jeno1LXc3MU0?oc=5)
 
-- **Musk's xAI sues Grok user over sexualized 'deepfakes' - Reuters**
-  xAI open-sourced Grok Build, then almost immediately sued a user for generating child sexual abuse material. This is the predictable irony of the 'Open Problem Loop' in action. Freedom of access, it turns out, comes with immediate, ugly liabilities for the platform owner.
-  [Read more](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0huVDEzQnBsMXdtRjJnbk04WkhGdTdBdVZSWDNLVDhxLWs0U05hT042MUlfNFUzbkJtVG5naE1RNVVQdndPZ1RQNkVUUzMyZXRhRWJFYTJvVVlnNjJGSUJFc2E3VzdBNmhnU2tROVpacGNpNjNLVjA2TXpLTy1DZnJyUld2Smxxek0tNGJvZ09qVUZQanQzNWQ1VE9YRWwwek1tWlpn?oc=5)
+- **xAI Open-Sources Grok Build Coding Agent After Cloud Upload Exposes SSH Keys, Repos - DevOps.com**
+  xAI open-sourcing Grok Build only to immediately expose SSH keys and repositories is a predictable outcome for a company that often confuses "fast" with "competent." The "Grok Build blunder" shows the gap between grand proclamations and the tedious reality of secure software development. Some transparency isn't always intentional.
+  [Read more](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZENGNnJldXdubzZDNUVmSFZPTVpUVkVVRDlDTEo3cldQbUJISFZjQjV0cVhrS0VFNkEwbVF0TFIzUmhvM2ludEMwZG1rYnFJemZtME5CVWhsV1VNeGNfMVZJRk4xVkltMG52ajZuTjNsaGNHWWMtRzQxYjIwUkhtczBXNlN3MXB4Rl9kOHA4VWxmNXJjYXJEcEFhZW83WGNEa2FtbQ?oc=5)
 
-- **Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer - MIT Technology Review**
-  OpenAI introduced GPT-Red, an LLM super-hacker designed to secure its own models, while also reportedly preparing a screenless, movable speaker. The 'Security Paradox' is clear: you need advanced AI to secure advanced AI. The consumer hardware push, meanwhile, hints at a platform play that might be a distraction or a desperate hedge.
-  [Read more](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEZNa3ZZZUpGMGRLajIyY2pLTjduZmhTVHp1Q0VkNEl0X0lGVUs3aXRfb1lrRjlWSS1IckF0MV80X0Rxb2o0MU1VbU8zVVlNMElnOWhjdGp4Zlp3ZkRuOGlodnpwZmhJOWpvYnB6WVd0OXhnR2J1MHlFWUZ0ZlJ1cUpWTjFkMU1qV0JzZFBDZUVMRTFoVzhSZWNRWXZVTFdxRk1HMFhUYlpRQkRNdnZGNWFiS0h5VVFCNlNzMlRrdV_SAcYBQVVfeXFMTWtlMlUwMFM4STZCMTRXVlg5VngxWU04cVRndWRmdlRhWTM3aV9ZUHB1TFNSa0hpTmpQUFltTTc4ZGhFMFhNNTVYdGRHLTRFbUo3Qm9JaE8xZGktVTh2LUhGMU55QWQ0WWRmY1NSdm45a0JWbXptZ0NBYWgzTV9UQ0N0ZzBveUVoQ2VRZnc4V3VCYTMyUlVhSk9sMG1xR1hYMnZLUmUzbmZZOFllQ1dET1FTTHRCMGpIQWhtQXRqSmtYZWdBS2R3?oc=5)
+- **Alibaba Says New AI Model Is Just Second to Anthropic’s Fable 5 - WSJ**
+  Alibaba's Qwen3.8, reportedly just shy of Anthropic’s Fable 5, signals China’s rapidly closing lead in frontier AI. This isn't about bragging rights over a few percentage points on a benchmark. It's about the "AI parity shift," a fundamental rebalancing of global technological power. The US lead is no longer a given.
+  [Read more](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzB1S012cHg4eEkzckQ5QndPdG14Q0FPcUpyLUdGWUZGUldBTnhYWGltdnQ5bUdLOEluV05iYkd2cm44SEYyZEtqMlctbE9PNGMtUzI3MzhDdFVwRTM4MENFalE5aUx5cklkamVvX3dsWG1SSnZYakcxeEMyWWUyVFJCaks1Y0RDR2trUldGcG5JbHFwX3lkbGh1NV9WOFA4?oc=5)
 
-- **Chinese AI has leveled up, and brought renewed focus on the open weight model shift - CNBC**
-  Chinese AI firms like Moonshot are launching models with capabilities rivaling OpenAI and Anthropic. The narrative of Western AI dominance is losing its foundation; this is 'Parallel Evolution' in full effect. China isn't just catching up, it's developing on its own terms, often with different data and regulatory constraints.
-  [Read more](https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5)
+- **Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled' - CNBC**
+  Microsoft CEO Nadella's critique of Anthropic’s Fable for being "editorially controlled" is a clear rhetorical maneuver in the AI wars. He's framing Anthropic’s safety-first approach as a weakness, a deliberate jab at their "Constitutional AI" brand. It's a neat example of ethics being weaponized as a competitive disadvantage.
+  [Read more](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5)
 
-- **Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’ - The Verge**
-  Author Dave Eggers told OpenAI staff that ChatGPT was 'silencing an entire generation.' It is easy to dismiss such critiques, but he articulates a fundamental problem of 'Creative Compression'. When everyone pulls from a statistical average, genuine novelty becomes a rare commodity. The irony of telling this to the engineers is rich.
-  [Read more](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDZLZURmSHJ3MmxUang2enVIeEdaT1pKRHNUUUNPYi16ZHR4YWdhMGFWcmZDVjdCc3M0TnZ1bGFTU0o2U0ZBTW94a2lhZmhUdUFCT001Q1FLYXNBb2NQd2M1N2JYYWpQcXF5Y2RkTW56aHYxeVp1dWE1SDBFMjBpa0xhZV9VQjljUlpSbjdtZmZhSXhFMVlYSURkcEE2MHkzVUczNGp6MUN2MmVWaG0zcW9Ea0lOaWc?oc=5)
+- **GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI**
+  OpenAI's rollout of GPT-5.6 and the appointment of Uday Ruddaraju as Compute CTO highlights their single-minded focus. They're accelerating model capabilities and shoring up the necessary infrastructure to handle it. The strategy is simple: out-compute, out-innovate, and let the market follow.
+  [Read more](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5)
 
-- **Family of Trafford woman sues OpenAI, alleges ChatGPT contributed to her death on Alabama interstate - wvtm**
-  A family is suing OpenAI, alleging ChatGPT contributed to a woman's death. This is the liability question moving from theoretical to terrifyingly real. The legal system will now try to draw a causal line from algorithm to human action, tracing the 'Algorithm's Shadow'. It will reshape how AI models are deployed, and disclaimed.
-  [Read more](https://news.google.com/rss/articles/CBMiywFBVV95cUxQemNXRWFpTzZRVGhWd0FYUGVManFrdEUxVkRxOWRYOEJUbm1TSUJmb0ZhajhYU29VZmxEOFBoR19nQ0VES0pUMGtRQXk3UjFPLXFMYm94Z1JMSEoxWC1abW9CN3hvLUF4UzNjbW5YenhraVJJVEpZTHI5LVJDRzhZM29YTGtPaWlFR3VHeHo2SEhhRVFzWXJ2d19NdXBfX0VzUUJjeGE5MDZQVG9WcjB5cWt1YTVDMGs4M2dSbjdVR0tIRTlCX2MwcWlZTQ?oc=5)
+- **Top Pentagon official blasts OpenAI's Dean Ball - Axios**
+  A top Pentagon official openly blasting OpenAI's Dean Ball over AI regulation demonstrates a clear "government-tech friction." This isn't a polite disagreement; it's the national security apparatus drawing a hard line on AI's future. The implications extend far beyond a specific law, touching on who defines acceptable AI development.
+  [Read more](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tXzZCOW5WWXdHNU1fdVRvUUdaZTNsWlcxTTA0bU1GbDJ0TUxzVnpjVFRJTjlmTEFSYl8xWXJBZHY4TGRoNi1Yb0FoUEROVGpDWk41VUpWekZYYVA5X3ZNWnpUWXRvQjlVa3UtcmRtaHU1dkNrRVE?oc=5)
 
-- **Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic - TechCrunch**
-  Microsoft is reportedly training salespeople to 'talk down' OpenAI and Anthropic, with Nadella already criticizing Fable. The gloves are off. This isn't just competition; it's a full-spectrum market attack, the 'Collateral Damage Strategy'. Rival models' perceived flaws will become sales talking points. It is business, not science.
-  [Read more](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjdzTC1XUGdXQkxVckRTM2JKX1RoaFI3ekgwWmYzQllnQl8wTEtBX3BISU9yWTRIMGk5bWNOMm9KRGpDU0NxS3E1bjR4bkczcXFweHhRZlJpandqbEVBa3I3VFFZdVNINUVVUXZTMExUZm5XeXhsYW1ld3JtRFM2QUtTSHBZcnJZTnE5Q1NLXzAyZmpPNjJrT1NMSnhtOGgzLVEzQURqV1dvbzUybWowLURacw?oc=5)
+- **Family says ChatGPT led Alabama woman to her death in new lawsuit - WBMA**
+  The lawsuit alleging ChatGPT caused an Alabama woman's death pushes AI liability into uncharted, grim territory. This isn't a hypothetical discussion anymore, it's a real-world tragedy. The "algorithmic agency crisis" is upon us, forcing legal systems to confront the concrete consequences of AI's often-unpredictable outputs.
+  [Read more](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHhxeDRFSG9nZ3p2enNSR3hkYmF4RDFSeHA5VTltNVlERG9WWUZQdUY0RzVlUE91STNGSXJFNk0wQV9ybUpCZ252OEJwZ2c4aXl1SjlYNXdZaF9vdlZMaTJZbFU5SjBjbC1nbktJVEJsb0doM1A5cFhUTFpycGtNX2FPVUh2bm1YLTFFeS1oQXVVT0VsbHFOZklqbXNZS0prNHJ0SDdhZVN5eE5MOVZlWkhxYw?oc=5)
 
 ## Archive
 
