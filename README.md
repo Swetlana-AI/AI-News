@@ -2,39 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-08-12
+## Latest — 2026-08-13
 
-- **OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause - The Hacker News**
-  The "Astra Pause" is a perfect snapshot of the current AI safety conundrum. OpenAI released GPT-5.6-Cyber, a tool meant for advanced cyber defense, then immediately halted a more potent follow-up, Astra, over "security concerns." It’s an urgent race to arm the good guys while simultaneously realizing the weapons might be too volatile for anyone. We’re building the road while driving ninety.
-  [Read more](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUk1TmNlQ3lxLVljTnlXM1BSYWpNZTNpRjFBRXVNYkJ4M1VqMmREeW5xUnNyUU9pa0JRWHhoZ1lJb0k3OUJ2MW9OdGI3aG1tMmh6ZkRfMzM2YU01U1BoWjdjSlhTNlB6ck1vYUZTYVozSTRCei1CVzBrblpEQW1lbzc0ZjY?oc=5)
+- **Anthropic Said in Talks to Buy Startup Decart for $6 Billion - Bloomberg.com**
+  Anthropic is reportedly offering $6 billion for Decart, an Israeli AI startup. This isn't simply a shopping spree for features. It's an expensive wager on compute efficiency and perhaps a specific optimization technique, signaling the intense infrastructure race underlying all these LLM advancements. That price tag reveals more about the market’s underlying anxieties than it does about Decart itself.
+  [Read more](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5)
 
-- **Anthropic plans to add an invisible mark to AI text—as the industry scrambles to police AI slop - Fortune**
-  Anthropic plans invisible watermarks for its AI-generated text and images. This is the industry’s ongoing, slightly desperate effort to combat "AI slop," the deluge of synthetic content that threatens to drown public discourse. The real test is not whether these marks survive a simple copy-paste, but if they endure the casual indifference of everyday use. Most people don't check the fine print, after all.
-  [Read more](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnlwczRuRk1oblktUkRXOWtibFRMTFpvZjZPVmp1akFxUG9YalhLVEM4SHpqWVZkNVlacDZwZUw2MlVnUlNQb0pzLXc3ZnczR3lHSm5FTGZFeDRSNjhWam5YczlhQW9KZWdOVlprWHZUSTMwamxnWERiLUxtYXlEcGIybEFTX1po?oc=5)
+- **Anthropic Strikes $9 Billion Computing Deal With Riot Platforms - Bloomberg.com**
+  Anthropic signed a $9 billion deal for computing power with Riot Platforms, a former Bitcoin mining operation. This is peak "Compute Repurposing." The massive, energy-hungry infrastructure built for digital gold now fuels digital intelligence, a perfectly amoral market reallocation of capital and electrons. It suggests a growing scarcity of specialized compute, pushing these AI labs to unusual partners.
+  [Read more](https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUh6enBVWEI2ZTNVakNYcVRtd2gzREpSb3VvbGlyZ3pWZVYzcndna1dTWC1wV0sxcTNsWmRKQzA5ME1hTGdYSmFMUFlCdmZ4YkdHWTgzV0ozNnBiMXFVWm1ob09ZbUx6LVZ4VGR0Rlh1ekNzeVpISS1FOE4wRXRiYUlVOGpXcVppWEFLWndtSDFCYzQtSDJmVTU2dnhBSTNTOUtGcjZVX1hwWUxRRHFDcTB6Uk4?oc=5)
 
-- **Brad Lightcap, a Top OpenAI Executive, Steps Down - The New York Times**
-  Brad Lightcap, a key OpenAI executive, is stepping down. This departure follows a pattern of senior talent shifts, hinting at the high-stakes, high-pressure environment within frontier AI labs. "Starting something new" is the official line, which always means something more complicated in these circles. The core structure might be solid, but the individual pieces are still in flux.
-  [Read more](https://news.google.com/rss/articles/CBMie0FVX3lxTE1DUGxJazdMc09lbm9YMHMxMktYU0NYWGtoX0cwSVczNW9udHFsWEZTMWVVUG41WTF3Tnl5czN5TTdaVlozczkwVlNVZjNZR2ZkS3RSY2Z2OC12V1NOcWdzb0tkeUpzcHdOeXc1Y0h0UjFibXRIeld0Y2tHZw?oc=5)
+- **Introducing Grok 4.6 - X.ai**
+  X.ai introduced Grok 4.6, with Elon Musk declaring it "objectively #1" and promoting new agent-like capabilities, Grok Bot. The marketing blitz includes a promise to train Grok on all SpaceX data, essentially an enterprise-scale thought-assimilation project. One wonders if "inheriting your thoughts" is meant as a feature or a veiled threat.
+  [Read more](https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5)
 
-- **Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure - CNBC**
-  Anthropic just locked down a $9.1 billion deal with Riot Platforms, turning former bitcoin miners into dedicated AI compute providers. This is the new "silicon gold rush," where securing massive GPU capacity trumps almost everything else. The irony of energy-intensive crypto mining facilities pivoting to another energy-intensive computational arms race isn't lost on anyone with a power bill.
-  [Read more](https://news.google.com/rss/articles/CBMirwFBVV95cUxObWxYNUZ5WjBMLVUyVlNrYVl5dlpWeTdjZldZY1JJVnhVa2VxdHVORTlja3NHdG5DTU5XWS1JMWM0a2VRUjY2dWc3SGhWdmp6amNTbkw1VTVHa2NJYVdLekhUQWR6bm9jNTVnbUpCbWxEcXFxSFZybUotWGxMbjVKWEJ4RmZFck5RV3VTUFBTMTdxdHU1SVA2UkpOVFJobVZsLXFOMjNRODFsVW5LdFFz0gG0AUFVX3lxTE5UcEFfSUNIOW9FRDd1ZkFvX20xMjRlRVoxMy10blZRVnJHWnpwNy0xX2FpNlpyNVQ2a0QzTnlxNFRZcnB3clI2aDUtM0xBQ05tM1RPajAzT2JGQ25hZHFCUTlpV3F5RktVMGhmTE1VbE5USlBkd0o0VnI5eHFUUWtiOGZuUFJaNnMydm1tZ2hUeEVqVU5WOE41dHg1YUluN3gyVEYwZ2EweUZPZThhOExLX0tWdA?oc=5)
+- **Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes - TechCrunch**
+  Anthropic is rolling out imperceptible watermarks for text generated by Claude models. While pitched as a way to "fight misinformation," users are already voicing frustration about workplace and academic detection. This is less about truth and more about managing the "Authenticity Anxiety" now endemic to a generative world, a rearguard action against inevitable digital noise.
+  [Read more](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEVNMnZGYXhTZUZwOUdOOEsxUGpaVnJNa1RGdkZ3SE9ldzRoaUF1cVFXcWJ5bzRvaXV1N2txOFAtTkt1andTTWdiZVY4UU92UTBqRHVQbXBYQzlaMVFCZ2dMamhoc05jckdPdnpycmE0SHQ4Snp2LTFMOTRqT3Q2cE5XNDUwREhzMEZBalpEaUhabzJzRFd3X20tQmlGLVlmYVJhb1k5cHpmbEd3dWNZQjhPTC03OVpMM0FhSDAxY1lLZkJMX0w4a3JMR0pBVDJySHVNMg?oc=5)
 
-- **OpenAI wraps $7 billion share sale ahead of potential IPO - CNBC**
-  OpenAI completed a $7 billion share sale, allowing early investors and employees to cash out some equity. This is the pre-IPO liquidity event, a common maneuver to reward those who stuck through the wild years. It's less about new money entering the company and more about existing money finding the door, a necessary step before any public offering.
-  [Read more](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTks4emg2RHNjcWNnN3VfdzZWbU14cXdMT2VzbnlnX0VLNEVCUEM1R2FkV1p5R3cwZ1ZTRGZmSUFkYTNVS1JoYVNxdWlNRmlVQnRSRlA1dnNCSmh5UU5IampSbFV6VU1wY0tTbjVqeU5XTXk3ZW9CTlhOelk1TmFsLUVRZm9pY09sLWNFRG5FN0QwTUQ1NXl1eEpn0gGfAUFVX3lxTFBQSlFVcGFVMkEzOExGdzJGLWxNZS1Mcmd3YWJLdkhrWUd1V0tLM2NrdWtKcTVOOC1aRllzQTBybDcySGJXcW9hV1lUU3Z6dE95NnpJRW0xTGVnMGRuMWExRWo4SFp4WVlYbE9EbHF1SmQzNnl4aWVRcXo1dnEwM3VXc0p5NER5SVVtRUJ1TFgxSUtNdk5OTDBQakhuNEJHaw?oc=5)
+- **Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues - CNBC**
+  Brad Lightcap, a longtime OpenAI executive, and the head of ethics have both departed, reportedly to "start something new." The "Ethics Exodus" is becoming a recurring subplot in the frontier AI narrative. When ambition is measured in trillions, principles often find themselves looking for a quieter, less conflicted room.
+  [Read more](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxTLVQ0OVpzRXRkdXllLThWdkRoSFRZWnE1RG9TdV9YSlBiVC1GV0VrcE1CQzBHVW54Tk1MVmxBWWFMejNoRUc1czU3UG9BUks5elZybm4yWHA1WkNaVUMzeTRnbE5iTmE0YlZBUDZBNW5rbHFQOUlkWUllRm8xWmhiUzh6M0VPMmkyQThDMkY0eWM4eXlQNEw3a21odEFOcEFxTTdrb0VFQXVxTWxXV09fRl_SAboBQVVfeXFMTzBwcHlraU5EQVV2WmcwWGtpUmhYVG13Z3ZZMnFUWjJSMHFEcnlzVFdNTVVVRzhlc0RmTDNnLVJsQjBpaEgza2gwTkd4Um9IS0J3c0l1TEZMMDRnSlB4SHJJY0lVakJidnB1SmlDaHNubUV2VndxLWxuWEJhNHhXbVFpUkVjbGMzZGMwZWNlZy1jOVBMblhwQ18zd2c2ZEZPaGdDLXp1VjQ3T0sxT1FxU1l1cmV4WVlHUXJB?oc=5)
 
-- **Introducing Grok Bot - X.ai**
-  X.ai introduced Grok Bot, their entry into the AI agent race, promising a team of "persistent digital coworkers" for $120 a month. The immediate push to turn complex agentic AI into a subscription service reveals the true endgame here: not just assistance, but integration into every digital workflow. This is where the rubber meets the road for agent adoption, or perhaps, where it hits the wall.
-  [Read more](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc?oc=5)
+- **OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development - The Hacker News**
+  OpenAI launched its GPT-5.6-Cyber model, available with "reduced safeguards" for exploit development, and its Daybreak models on AWS. This marks the formal entry into the "Offensive Readiness Paradox." Providing powerful tools to defenders inherently risks their misuse, a classic double-edged sword that cuts both ways, usually more deeply than intended.
+  [Read more](https://news.google.com/rss/articles/CBMifEFVX3lxTE9JMy1VR3BSZzQwb2Fmak5IdldCX2swa0paVHRVYlQ3M0N5X0R2bXM5TXV0ZG5GRnJEVmNvbU5oX3I2TnJwSHJwWVRtc3R1RUJWamV6U2pTYWhJU3FQank4NjZRNjN0RjFCSWVhcl9sRG1kdWM3NXhWazlubDU?oc=5)
 
 - **An unreleased Anthropic model made progress on one of math’s biggest unsolved problems - TechCrunch**
-  Anthropic claims an unreleased model made progress on a major unsolved mathematical problem. This isn't just about better calculators; it's about AI models showing glimpses of true, novel reasoning. The real question is how much of this is a clever application of existing methods and how much is a genuine "eureka" moment, a term we usually reserve for humans.
+  An unreleased Anthropic model reportedly made progress on one of mathematics' unsolved problems. This isn't about rote calculation, it's about abstract reasoning and generating novel insights, the kind of intellectual heavy lifting that usually requires decades of human genius. It shifts the conversation from merely "doing tasks" to "discovering new knowledge."
   [Read more](https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU9WU2lITXVsNkVXSV9xSldxQWdnUWwyMWN6bzFMY1J3OUY4RWtBSVpTaG9od3pzYy1BWkdwVHhNcllRNlN2MTJBU3d5aEJXQ2JCQ1F1SEVoMWl1bUFLd3V0OXZUb01sZVhERHg4RnlON3ZvYmprcWU3eEJVbGJtNW13dTBwZjJOUkloV0l0TzJnOEFfeUpYQlZfdVRFQWVRNkM1LXZlNVYyRmRGM0QxRmlKdmRPeURqazI1RQ?oc=5)
 
-- **OpenAI’s head of ethics leaves start-up less than a year after joining - ft.com**
-  OpenAI's head of ethics left less than a year into the role, amidst growing congressional concerns about "rogue AI agents." It's a clear signal that the internal and external pressures around AI safety are diverging, or perhaps converging into an unmanageable mess. The ethics role, in this climate, often becomes the "chief punching bag" position.
-  [Read more](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEFhZjNhRUJPR09QWTQ1SldGR3Y5WTI4TExvUElSdHdBWl94SWRHeXAzeUwxRlFkSGpoX2o4ekFaTkJMZXNBMFFFVFRSX0c3S3dUV0pMR3ZPc09Jeld1QzNaMUNEdmgtZmVNN2dOWDJxdGN5REplU1NjNmh1eU53bDdMa2U?oc=5)
+- **DOJ Secures Civil Rights Settlement with OpenAI for Discrimination - The Presidential Prayer Team**
+  The DOJ secured a civil rights settlement with OpenAI for discrimination, though details remain sparse. This isn't a future dystopia scenario, this is "Algorithmic Justice" in action today. It confirms that the ghost in the machine carries human prejudices, and regulators are already tracing those biases back to their corporate hosts.
+  [Read more](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTN3RnhRSk1ESzJSdzllWFFkWmR1cVFfOHdBbjBhVjV3S0k2SG91cGpmMHR3Rzlfd0dWbnFYZVJ2NmtCTVhMVmNEWUw0TmRfMzVLWHBsMzF2ay1RQXV6MjZsc3dsQ0d4Z09YNW5ZblV1UzN5aS1nMWltdFFsWWtvWmg2dW0wSGNIODlZVE5xaklLbnl1dFhpT1J3VDBaQ2JLeE5VNTN2MUk5cWR2RWVpMUJrU2dpWWJk?oc=5)
 
 ## Archive
 
