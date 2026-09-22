@@ -2,39 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-09-21
+## Latest — 2026-09-22
 
-- **Anthropic Shifts Planned IPO to November - WSJ**
-  Anthropic's IPO is now slated for November, a month later than planned, which means nothing. What's more telling is the simultaneous talk of launching a new model, right after its CEO’s public plea to slow down. The market doesn't care about your carefully crafted safety statements, only the next product cycle and revenue projections pushing toward $100 billion. Call it the "Safety Sprint Paradox."
-  [Read more](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbk5sMkZNUldpZHpHcUVHRnlEODktVGI3al93TzY0RXA3MGJaZjBydDJCZlI1TlRiRVFmZXd4N2w1b1NUZlFPLTVDRnhra1hpZWFyR180SHdIbnY2Ti0xZk5mSE84bUxhV0JMUkhURTBpeW9CNkdqczAyUjFXdWJZa2twZw?oc=5)
+- **OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC**
+  The same companies advocating loudest for AI safety standards and pacing are now facing a lawsuit for alleged collusion to slow AI development. It seems the 'Pacing Paradox' is in full effect. One wonders if their appeals for international oversight are genuine, or just a clever shield for market maneuvering.
+  [Read more](https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaTRGOTJzeUlkUEZIcVdRUGgxS1JHMnBReFE1aWpiajIzQTNSRFJobGt5Z2pVckNKOENlRS1lWEM3V3J2WE5COTlOUnQ4Wlo3SXVTQmpXQklsUklVZmNETHlWeGpFU1dwLWfSAW9BVV95cUxNOWFKNlkxSnZDRVdiX2xHSFZjSUFGdnlISTVtX0dveWJKZUF4WGpDUkQtQ1FPMVB2SUtqMFNUd0x2ODNuOUFNeTBsQlBjRWxqLVVTMVdxTENrN1FFRml2SndWZkxReG5xUzBrdFBXMzg?oc=5)
 
-- **OpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit - Bloomberg Law News**
-  Well, here it is. The antitrust lawsuit against OpenAI, Anthropic, Google, and SpaceXAI for allegedly colluding to "pace" AI development. It seems some see the public calls for a slowdown as less about caution and more about establishing a cartel. This is the predictable next stage: when an industry's rhetoric collides with its commercial reality, lawyers start looking for patterns.
-  [Read more](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVJTdzFUYU9PYk1qZ295Q1dZUjgxalJZbS1NSmY1WjNPUV8xWjFBTllaaDhoaHV6aDE3c0EyM2l6VHJhTy10WTVFTU51XzV5R1lfTURCeXpzOXhud1B6ZTRua25jNjNBX0pkVHpaTzBLd0l3UVp3aXdHNzBWY0NlSDg4aU55TnVNbnUzTXpHYUxyU0htOVlMNGtlREwzdVN1emc?oc=5)
+- **Anthropic Moves Ahead With I.P.O. Plans Amid A.I. Safety Debate - The New York Times**
+  Anthropic is finally making moves on its IPO, though the timing shifts more than a desert dune. Investors are already debating if a $2 trillion valuation is 'not far-fetched,' even as others warn about revenue sustainability. Funny how the 'AI safety' company finds its most pressing existential threat in quarterly earnings.
+  [Read more](https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNk1Xck9GUE41UTZPc1p6elBuenQyZnA3bEg0WFEyeHNLNXBfNXZmZUNIOUtodnVSaWFXRGtueDFzenhuMS1xYVBvSjIwM0RQM25fSWtoVUszVmJCZEg5Q2RFb1llLVNlOEN4VjR1eDg0dWJyc09tN0QxNnZQeWc?oc=5)
 
-- **OpenAI expects to burn $280bn by 2030 - Financial Times**
-  OpenAI projects a staggering $280 billion cash burn by 2030. Meanwhile, SoftBank is raising $11 billion in junk bonds to back its OpenAI investment. This isn't just growth; it's a financial black hole fueled by cheap debt, a bet that the future returns justify an almost unimaginable present expenditure. The frontier labs are less about science and more about a high-stakes poker game with everyone else's money.
-  [Read more](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFJUYnM1WGQ5aHhEU0FMdHRPbjkzSWI4UnNHTkRESlJ6OURsTlNzN25fWWsyTHhHcGpSM0xQZXVuU1FtRW1WNFZ6T3BJcXRNTWFoRlhZcktaVE1IUmZ4Ykkwc253em1Jai10dGxUbFk0d0t5VEUyemwtajF2MURaQnFKTW8?oc=5)
+- **Canadian Province Sues OpenAI And Sam Altman Over School Shooting That Killed 8 - Forbes**
+  A Canadian province is suing OpenAI and Sam Altman directly, alleging ChatGPT played a role in a mass school shooting. This isn't just a liability claim, it's a direct challenge to the idea of a 'harmless' information model. We're about to see how legal systems grapple with algorithmic responsibility, a fun ride, I'm sure.
+  [Read more](https://news.google.com/rss/articles/CBMizgFBVV95cUxQa2VZQjJhT3hDd2F4blRJMHFmRGRSV3VKYzNhcTVwYnVSVXg4SVRQbkQ3RkdqR0VGZE5vbjd0WUZ4dXJKMGpKaXFZS1pxMkIzcGsteUJ1aVF2Vk41d2NSVEVGQklWNDItZ3JqSlBaby1iUFotTUdmQWV6UVItUmdSN05CQWFLOWllNk92Y2diX0xpNXBIMDkySnBLOUJfUG1Nc2dTZWp6WEN1MlNnQ0F2UXlVRkNlMll2X25ScEhjV2RyUkpsd0pWN0xRelJPZw?oc=5)
 
-- **Anthropic, Accenture Commit $2B To Embedded AI Safety Effort - CU Today**
-  Anthropic and Accenture are pouring $2 billion into an "embedded AI safety effort." This comes as reports surface that OpenAI and Anthropic nearly sealed a deal for mutual stress-testing. On one hand, it's good to see actual money and processes flowing into safety. On the other, the choice of a Big Four consulting firm for "independent" evaluation raises an eyebrow. It's a pragmatic move for compliance, if not necessarily for groundbreaking critique.
-  [Read more](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSU5MWkpmVHdhS3h2VmI0VnJOVG9FaXJqcUlUeWpkZHFMVEUzMU1NbjBXb29GejlEa0dBSG8tRkJUUS1aNXdQdW9pd0hxQjFWaXZuUVpTYV91aWFBVDF5YXJHX1V4Q1NXeHZ5UnRfOWNld3RPUmRXbjM5YXdxRlRobXNVMEpVcGpPM2tGUnVySnNUNVNabHVQSC1UTQ?oc=5)
+- **Researchers used Claude to hack OpenAI - Malwarebytes**
+  In a rather delicious turn of events, researchers used Anthropic's Claude to 'ethically hack' OpenAI, gaining access to staff accounts and source code. This isn't just a security vulnerability, it's a cosmic joke. The 'safety-first' model turned out to be the perfect key to unlock its rival, proving that inter-AI relations are already more complicated than human ones.
+  [Read more](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmk0SzgzcFVHS3I2Z0pnUGZORUF2alJxUms2RFJzQ3Joc0E4dnhtQnBsWWt3aTQwOF9VMm5IMlFmeXE3ZWNLbG93Wk9UNWdCT0ZtaC1SWTFXZTgyYWNDT3NIRXBaXzhTQWhyRzY5bWcxMml5V19HZFFab1dPQ1JtNHczZTJWaXE4QVlUS1hR?oc=5)
 
-- **Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws - The Hacker News**
-  In a delicious twist of fate, researchers leveraged Anthropic's own Claude Opus 5 to exploit chained flaws and gain access to OpenAI staff accounts. This isn't just a security breach; it's a perfect encapsulation of the industry's interdependencies and its internal paradoxes. The very tools meant to advance capability are now demonstrating new vectors for compromise, even from their competitors. It's a digital ouroboros.
-  [Read more](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHlQSE9YZXIydDR0eWZqOTRrZk4zbkJBUklNV2lqRW9PLVhxY2dtR01XUTJTOVFCT1ZCbHhtSDNScmUzMV9jdzBaZ1VTcDZMMVJkUHloS1BONndkQTRQa0xhMEJiYTI3ZDhlMHV2M2dNaHZFMXpyQnhyOWdDLUZGY3hn?oc=5)
+- **OpenAI forms math advisory group as its AI resolves more than 100 open problems - TechCrunch**
+  OpenAI boasts its AI has resolved over 100 open math problems, including a Millennium Prize problem. Yet, Scientific American quickly chimed in, suggesting they might have solved the wrong Navier-Stokes variant. This is the classic tale: impressive claims, followed by quiet, crucial caveats. Humanity learned something, but perhaps not what OpenAI intended.
+  [Read more](https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2Z0dXVEUmlxTTRyQVBvdlYtVlVyMkNlOUQyWDJGRWxjcXBoU0lsaHpfTGNNVEQtMnVfMkd1bnRDRk1BdGFoMjZXeWxtVGMxMS1KWWw5NXpMSS11bTQtSEhkMWZzaFdoMU5Gc0lEOW9ySTV0ZXhaM09kcWNLb0RneXU0RXp5eXZ0Tm9IYWNNOEthR1MxT2tIS2NOblVpR1FmRTNFcUhmTDR2NVNXb3BnQmtHWGk?oc=5)
 
-- **EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters**
-  Anthropic has quietly established a biology lab, significantly ramping up its AI drug discovery program. This signals a clear shift from abstract language models to tangible, physical world applications. It's a potent reminder that the real value of these systems will eventually be measured not in chat quality, but in their ability to accelerate fundamental scientific processes. The future isn't just digital; it's molecular.
-  [Read more](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5)
+- **Anthropic is setting up a biology lab where Claude guides robots through drug experiments - the-decoder.com**
+  Anthropic is quietly setting up a biology lab, putting Claude to work guiding robots through drug experiments. While everyone talks about abstract AI risks, the concrete work of applying these models to hard science continues. It's a reminder that even existential safety proponents also want to find the next blockbuster drug.
+  [Read more](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGhyNUZCVHdOWWR5aHU4b3Atd2FlcHF2T2plQ3dTTUZxb1FPeWVNVjBaTlJKVGdmaXJPbVYyYVJzbUdLUGZWQjFlTk1EMHlqRHloTExrQVdrM05KSUlVWDB5RnB0dWVKRTVWQjkwamtObGE5ZFdYVGZiTWc1WC1XUXVYTlZqeVdsY295dTUxUV9feWhwT2NfY0VNZUFuTkVCS1hSUTdzZXl2WlYwQVU5cWZfY1Q?oc=5)
 
-- **Anthropic and Microsoft Dominate Nscale’s $103 Billion in Data Center Contracts - bloomberg.com**
-  Anthropic and Microsoft are reportedly dominating Nscale’s $103 billion in data center contracts, fueling the relentless race for AI capacity. While everyone obsesses over model parameters and safety debates, the true scale of the AI arms race happens quietly, deep within server farms. It's less about the software, more about the concrete and silicon that power it all. The infrastructure buildout is the actual signal of conviction here.
-  [Read more](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDR1ZzBnN3IwblJpX2RXNWtCdVIxNi0xcm1NSklQcm93anRDd0p1cVlXME1Ua1QySExvYWExYWhHdzBTeFdMeENBZ1Fqb0U2NXIybDZxT1Qxc2R3WmpwYUFraktNV21CWnZPZ185cTNQTUFYbUJGcHhGYkdUc3pVODhrNDRpUHN6S0ZiMzY2eldkTWp0QzNpd2l6U0VhMlFTRWpjallBcHRWdTBBd3dxUUpySlg0RThY?oc=5)
+- **Introducing Grok 4.7 - xAI**
+  xAI rolls out Grok 4.7, with talk of Grok 5 already, touting 'long-horizon processing' and 'safety upgrades.' Meanwhile, the Pentagon is reportedly integrating Grok and ChatGPT for three million troops. Forget polite conversation; AI is moving from the chat window straight to military deployment, proving some 'safety upgrades' are more about utility than ethics.
+  [Read more](https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5)
 
-- **Microsoft’s Nadella to Join OpenAI, Nvidia CEOs at Trump-Xi Meal - bloomberg.com**
-  Microsoft's Nadella, OpenAI's Altman, and Nvidia's Jensen Huang are slated to join a Trump-Xi meal, with Altman also briefing the UN Security Council soon after. This moves AI discussions from congressional hearings to global statecraft. The companies shaping these tools are now directly engaging the world's power brokers, a clear admission that the technology's implications are no longer confined to boardrooms or academic papers. The power dynamic is shifting fast.
-  [Read more](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXFCTVF2Y1VVYUVuQV82WU8wV3pObWVJMkhGVUF0YTQzQ3RXTUd5REdYX0hfSnh6SUdHUkg1b3QtRThaYUtkXy1aOU5OVVU0RDFNYTd3TWtfdmpDYU0tWF9uQWItdnVzXzlEazJWZW5Zc3NHX2xsbWs4UDhZcXgzOVAxZ2xPSXFVek5rNTNxTGtDTlRfMjFjVThkdU1JWU9oZGpxa0hQSWg1cnk5TzU3aEp1dGs?oc=5)
+- **Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity - CNBC**
+  Beneath the grand pronouncements of AI advancement, both OpenAI and Anthropic are scrambling for smaller data center deals. The reality is that massive gigawatt-scale projects are lagging. It seems even the smartest AIs are still waiting for the physical world to catch up, a classic infrastructure problem dressed in silicon.
+  [Read more](https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWVDWHVZSXRaSnJENExMeU1PSjI3dXFEMUY3NWdsT1VOTU53NzJ6MXRZRl9Od3FQRFNpSllldGxYenM4RmdhVlp5MjJ1YmVvV01KTTI1Xy1BSTJrNmRuS24tME9DckN1ejRxQno5elpteEV6RlRGNFRaNkUzb1EtN0Q3SnExQlnSAYwBQVVfeXFMTlVtampvZjJYUEo4WERsUnYxd3AxdG9MWTdFY0pUcXNQYWp6Q2tsS1lfZTNESEdBaHV1T0VfcVpIVVNjSDRkV09wMDROWWZtaXlTQ1Jrd3NGVXBCdXMtWE1GWVlzSk9aekpRek00U3NwMXdWa2ttZFZlU3UtZmsxS2F6bHh6a25STXI0dHI?oc=5)
 
 ## Archive
 
