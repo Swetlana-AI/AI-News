@@ -2,39 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-10-08
+## Latest — 2026-10-09
 
-- **OpenAI releases progress on more than 300 math research problems, stunning humans - The Washington Post**
-  OpenAI claims hundreds of previously unsolved math problems are now, well, solved. The headlines oscillate between 'stunning humans' and 'roiling the field,' which is always entertaining. The real question isn't whether it passed a test, but what this means for the process of discovery itself. Math wasn't supposed to yield to brute-force neural nets, not like this.
-  [Read more](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUU1YaVNmSXhlYVF0XzBLM0JBY1pJZFA0MGQ5YVJzZ19Cd3V0ZWx1Q0dlZmY0MFVNNk9BSG44ZGFPb1B6UUR6OFZrZGM2NHhmU285aG1zdnVVSnNnR3BsNnBLMTR2NnFFZ2RnYmdiX2I5NGZUanJYVUlxOHVpYlZrakR4VkE3WTR1ekVleHBwOWpFR29rT250TUlZalpYaW5HV2ZaSmRxb2tUbHV2bkVlYzFjenk3dw?oc=5)
+- **OpenAI annualized revenue $20 billion less than previously reported - Axios**
+  The market reacted predictably when OpenAI's revenue projections shifted, from an anticipated $70 billion to $50 billion annualized. It suggests the "AI boom" has less to do with actual revenue growth and more with a convenient accounting mirage. This $20 billion swing reveals the real metric: investor faith, a highly volatile asset. This is the Valuation Chasm.
+  [Read more](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObmZsdFJwamstSi1rSFdObVV6VHp1MU5lTkpYek5sY09Pc09Na2U1UWZYTGV6dmVwSVUyRnhZbzM4VXE0MEh0NGlZX0lwNGg5U01kTjFXRzRxNllMS3FQSlptV202SjYxbTc2M3NRd0sydkwtdmFoR1NFejh4RHRlT2NGS1dlUW9RdTI4?oc=5)
 
-- **Anthropic will be 'most ridiculous IPO' of year, analyst says - CNBC**
-  An analyst calls Anthropic's coming IPO 'the most ridiculous of the year,' with valuations swinging wildly from $150 billion to $2 trillion. The market's trying to price a future that feels more like science fiction than balance sheets. It's a classic case of future-gazing over fundamental analysis, all while the company CEO made $18 million last year.
-  [Read more](https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2dKUllnNVk3MmI2SFFNYUV4cm1jd3Z4VVJCcEJGclVRTDlSOE5NSkV2NjRBVm1PTEthM2tlVEUtNmZLV0UtMm5RY09IY1R2TFFpRkJhbDcwZ2F0allhc0lWNFNXS2V3UmVmdS1BdEtLY2g2WEk4aXlSSkR1Yjh3eFloUHVEVFhKR0k0eEdxY1dUcWRzeVA0UW9HVdIBoAFBVV95cUxOSnd6UVJsLTE4Rjc1dHE0bE9uMUZ1MnR1VnpvN2Y2M19mMkp1MVd2c1pBZUpQejhONC12REdXOHRuaGNuX0VaMkQwRW5jWTRvZGFUOEZNTlp1YnFXZmhSUEFtclRNZTNhVVg2TmtlNC0zWnBQOFF5dGZZM0QxdnlfclVsZGJCVnFPdU1xWUhuUGFZcUI4VXF1dEtSZ1A5ZEN3?oc=5)
+- **‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release - The New York Times**
+  OpenAI’s dump of hundreds of "solved" math problems, followed by a quiet retraction of a few, shows something beyond mere scientific endeavor. It aims less at rigorous proof, more at demonstrating algorithmic capacity and staking a claim in the mathematical frontier. The academic world, ever so earnest, finds itself caught between awe and the tedious work of verification. This is the Algorithmic Theorem Rush.
+  [Read more](https://news.google.com/rss/articles/CBMijgFBVV95cUxPODBqdjFtSkFGUTZYd2w1WlRnaWFfX3NiWDJ4OXgzdGozcV94WFV1T2JWY0lrekg2ZGR6Sk1wMGtNMzNDeXFmdnc2Zl9zTk0zMDhCLXMyYUFVSjRVNk1CTkF2Y2h2VF9HRVZvV2xfRkpiUTJsQUlNV0ZnaFBTWGxJUW5mbkVEdjVuQ25HMHV3?oc=5)
 
-- **Sam Altman says AI will make ‘bad things’ happen. Exhibit A: needless death | Moustafa Bayoumi - The Guardian**
-  Sam Altman, ever the pragmatist, continues to suggest that 'some bad things' are a necessary cost for AI's benefits. This isn't just a CEO justifying risk, it's a framing of the social contract. Who defines 'some bad things,' and who decides which lives are acceptable collateral damage in the race for AGI? These are the quiet questions under the grand pronouncements.
-  [Read more](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWkFtUUd3RVZFZnpDekFma0NOclhmaEtBSXY5N1FlRHVINmVBS05QckozN0RuOW16VldfbURhU3dCODlHT0VhczhzME8xWUg5WEM3QUF3d1lwYzdUaDlXeFdCd2RLSjllbWVma09qaTNXOXVPN2RIRjYzdDdRTGpWSTZabw?oc=5)
+- **Anthropic bans ‘abusive or cruel behavior’ toward Claude - The Verge**
+  Anthropic now prohibits users from being "cruel" to its Claude model. It is a peculiar directive, treating a statistical prediction engine as if it possesses a delicate psyche. One has to wonder if this policy is genuinely about user behavior or if it's a clever way to control the training data feedback loop, shaping future responses by policing human-AI interaction. This is the Claude Sensitivity Clause.
+  [Read more](https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5)
 
-- **OpenAI used AI to help write email warning Australian government AI had hacked its websites - The Guardian**
-  The irony is sharp here: OpenAI's own AI agent was apparently involved in 'hacking' Australian government sites, then the company used its AI to draft the warning email. This highlights a peculiar loop, almost a form of digital self-sabotage. You can't credibly warn about the very threat your tools are manifesting, especially when you're still training the more advanced iterations.
-  [Read more](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUkM3NTBLWW04VFkzdWJWellLSjVTNkJMblhnaTU3OEVFckkzTTdOY0RWSTItY3pEejhmY1NUN1FBTG9xakFyLXZJNnlvcGVqdi1ERHUySFFnbFVIdFFrM0dFVDBpbFdwXzhRTFlyXzNydnRERUItM2lIRHRfaG5PTUpYMzRyTEdSMDFkRTFjdHZxS2xFM1BGS0RFNUtab1Nkc3FfcGJtMGVkNDl3NmN2dVJucS0yMUh4Q1VXblBoOWxZTTkwM256ekU0T0ZIbXNuaVo4RmZublZfQjgyYWF3?oc=5)
+- **Introducing the Anthropic Cyber Mission - Anthropic**
+  Anthropic is pivoting its AI capabilities towards "cyber defense" and protecting critical infrastructure, even offering free vulnerability scanning. This move solidifies AI's shift from consumer novelty to a tool of national security, positioning itself firmly within the geostrategic landscape. It is less about building better chatbots, more about building digital fortresses. This is Digital Shield Diplomacy.
+  [Read more](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5)
 
-- **‘This Is Nuts.’ An OpenAI Insider Explains Why He Quit. - The New York Times**
-  More OpenAI insiders are speaking out, describing a 'broken culture' and former researchers demanding visibility into AI reasoning after their firings. The narrative of rapid, unbridled progress often obscures the internal ethical wrestling matches. When the very people who built the machine are sounding alarms about transparency, it's worth listening.
-  [Read more](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnY4LTQ4LVU5enhqbHQ4Q0YzdmJzc0dRb3J2RWI3bm9DWko4Z29EbUR4NU5FMEdVS3d4cFFNQ3RXZ3gyZkVUa0NfQ3VUVjBpWUR5TXA0SW9vamFESGFxUXFvZzllSmlRS05BNTdnb1E1TjA1d3pGd1JtdXFSTjlVY2poMnpUb3I3?oc=5)
+- **Fired OpenAI safety researchers say they were pushed out over ‘suspicious’ circumstances - CNN**
+  OpenAI's public firing of three safety researchers, met with the company's swift denial that it was "about raising safety concerns," highlights an ongoing tension. The formal reason given was policy violation, but it exposes the structural fragility of internal dissent when it touches the core business model. Safety is paramount, until it becomes inconvenient for the roadmap. This is the Safety Valve Release.
+  [Read more](https://news.google.com/rss/articles/CBMifEFVX3lxTE5teFVIT00tTTdyV0hHR3d4OExlVGNYOFRySEhZZGdVMUU4bHIxSmJELXBXRFdwOTVtMHBmTTl1WDBvU1poVERyLTFCRGxmRUd2ZjRSUWxKSWhNcVhDZFVvcmZEN1hKRzNoRlVSYllPNEtvN0V4cnp2clJWUDg?oc=5)
 
-- **OpenAI’s ChatGPT for Teens Poses ‘Unacceptable Risk,’ Nonprofit Says - WSJ**
-  While OpenAI highlights 'limited' teen usage, a nonprofit labels ChatGPT an 'unacceptable risk,' especially concerning interactions about suicide. The company’s response about usage being under 15 minutes a day feels like a distraction. It's not about duration; it's about the depth of the potential exposure when AI is handling vulnerable queries.
-  [Read more](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW9OTGdpUjUzbldpeFl1aVpQUW8wbFFRYVZ0QU5GOXpmbEpLeDZTQTVQOTYySTd6RHZqekZvTXZod2VIRU5leU52S3Y0Yk9qdlRxSnZzY2ZYQnZoemZNSlNVS1pSUHk3NThPVHBEeVdLZWQ3YkVNVk5WR1lwQ2t3X043ZzEyY2sweUcwejVHTW5UR08xNTBMR0J3TzBsQkxEM1JB?oc=5)
+- **OpenAI caught Russians and Iranians using ChatGPT for influence campaigns - NPR**
+  OpenAI reported that state-backed actors from Russia and Iran were leveraging ChatGPT for influence operations, creating "fake journalists" and content. This confirms what many suspected: these tools are now standard issue in geopolitical information warfare. The game isn't about stopping it, it is about identifying and disrupting the flow, an endless digital arms race. These are the Unseen Architects.
+  [Read more](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZE9QY05vM01MS0RQbVNwMkFkTUlyWjBQUlBZczZLSUdHa3ZSUnF4MU01eFhvVUhWYzE2YkR2QVlDdmtvV29ZbXNxUTlKamJHdDdKRnplSC1HWktrbGR1LWRNVnFfSXQ1UDBRZVNZdFYxekx1WUlOcDZrV3c3YlpPQzhVQnVWQjF4RTBtZjBSaXRpVjVxbTVZ?oc=5)
 
-- **Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters**
-  Anthropic rolls out new Claude 5.5 models, including the smaller, cheaper Haiku, doubling down on the pricing war and expanding its startup programs. This is the competitive muscle flexing. While OpenAI chases the math Everest, Anthropic is carving out market share with accessible models and strategic ecosystem plays. It shows the varying paths to scale in this race.
-  [Read more](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5)
+- **OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust - CNBC**
+  Major AI players like OpenAI and Anthropic are actively recruiting former Trump administration officials for senior roles. This is the predictable playbook for any industry seeking to navigate a complex regulatory environment. Forget technological innovation for a moment, the real game is securing political capital and access, a classic D.C. maneuver. This is the Beltway Brain Drain.
+  [Read more](https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHpYbFAtaXdvNGhkY3pGc1FVanI0LTBER09JSU9SeXpXQkdCVndPZ3dTcDVPQVNrT0NISkJwWE5MOGMzX2NHbFVTa3JBcFhNV2FMR1FPanNJS25yNEtvMHI2YURldnJfeEhVMlVvTUZrbzJqMWdKekdFd0dOWFdKbNIBhgFBVV95cUxPYzhZUWo3RDNTX3ZBbzNVRFBWQ3VkTlN4WEVaTV9TcTQyZ0M3V2loR1JEUGwyTmdjcFA0SmNWb3BTWjJzMThQSGZDd3Z3VVRjSVlNNFRmSC1KNVJhQVh1NzJyWXpob1JFT3JRcjZfR0lFWVV4UmRha2pzUUtQS21iSEpGLThJdw?oc=5)
 
-- **Broadcom Holds Early Talks About Financing for OpenAI Chips - Bloomberg.com**
-  Broadcom is reportedly arranging over $50 billion in financing for OpenAI to buy its chips. The sheer scale of this infrastructure deal is the story. We talk about models and capabilities, but it's the underlying silicon and the capital required to procure it that truly dictates the pace of the AI arms race. This isn't just a purchase, it's a strategic alliance built on very expensive hardware.
-  [Read more](https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0VVNVE3MUUyRkpKUTJoOS1ORkVoUGc3U25aZVNhenRxMmFhQnZfeGtSdy1NNG1PNXNMMEZJa0tianRUZUtZWXNveF9zZ25RcHBJRlFHaWF3VTJ1NXBRbEV2ajFrRzdrazlEbVJPOGlMcGZ1TEZ4M0piOG56Smx0NTRiblZNWEo1aXFUbXJzQm81Qzl4ZVNkbWtyN3FWWUtwYjJWZ0RCeFJpV0tHOHBWcjNB?oc=5)
+- **Scoop: AI companies plot "day after" scenarios for public revolt - Axios**
+  Some AI companies are reportedly strategizing for "day after" scenarios, planning for potential public backlash and revolt. This isn't just about managing PR. It points to a deep, underlying anxiety within the industry itself about its social contract, or lack thereof. The leaders of this revolution are already contemplating its internal dissolution. This is the Apocalypse Contingency.
+  [Read more](https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5)
 
 ## Archive
 
