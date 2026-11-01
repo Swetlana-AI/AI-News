@@ -2,42 +2,43 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-10-31
+## Latest — 2026-11-01
 
-- **Anthropic's path to the Nasdaq just got a lot bumpier - CNBC**
-  The Anthropic S-1 dropped, and the immediate takeaway isn't exactly a roaring endorsement. Sure, revenue is up, and those 85% gross margins look great, but the warnings about future contraction and the whisper of a 'junk' rating from credit agencies are the actual story. It's a classic case of chasing growth without a clear path to sustainable profit beyond the initial surge, a reminder that capital markets are not always swayed by pure hype. The market sees a high-wire act, not a solid foundation.
-  [Read more](https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5)
+- **OpenAI pares fundraising goal, now seeking up to $20 billion in latest round - CNBC**
+  OpenAI's latest fundraising round reportedly targets a significantly lower valuation. This isn't just a number adjustment. It suggests the broader market isn't quite buying the 'trillion AI' vision at face value. The hype cycle, it seems, has its own gravitational limits.
+  [Read more](https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2hwU1RZMjNaMVpkcW13aDRGb3M0UGlMb21CRTI4dDU5STc4eEJkZHNMc2VPQjVnYm80MEEzWm80RDFZdElReXNmbG1sS0xBYjNnNWNOZVJsSUhySmhIUTJfV0tEZjJncTFLSHJFbDVqU2FrdmlSVW1hNzdxZG8tbktn0gGHAUFVX3lxTFBEd2ZuVFNJR09vWjBBWUtDMF80c1luQkFnVWRkN2RWMG1DWmZJd3Z4clZwcjNIeEcwaExPcjc5MWt2MkZ1SW9KUHdZODhtV3NGanVTSVkzdFl0aTQtUmxZa1V6dHpDUkxacTNhTk1PWXFDbnVIR3NraVRJODh3MjFGdUhBNl9rTQ?oc=5)
 
-- **OpenAI slashes funding target by $10 billion amid tech rout, FT reports - Reuters**
-  OpenAI just cut its funding target by $10 billion, down to $20 billion from $30 billion. This isn't just a number. It's the market's temperature check on 'peak AI hype.' Investors are getting a bit more discerning. Money isn't flowing quite as freely, which means the free-spending days might be tapering off, forcing a focus on actual revenue.
-  [Read more](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5)
+- **Anthropic’s $2T IPO could create millionaires—but it’s asking candidates what they’d do if stock hit zero - Fortune**
+  Anthropic's IPO filing presents a fascinating tension: a multi-trillion-dollar valuation juxtaposed with substantial losses and explicit warnings about 'existential risks.' This is the 'Safety Premium' paradox, where a company can simultaneously promise salvation and doom, expecting the market to value both. It's a high-stakes gamble on regulatory fear and technological promise.
+  [Read more](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSlBiVFRIMmt2WEVQTjRoQ21LTElPODlaUVNwWTJyUWxrNUw0amktMS12NDhEUGNYT2Q0bEE4S1lCd3ZNbFAzWEY1dDMyNjhObmJzRG51bndoNEt6ck80U1h5b0JHSF84MTAtMmJpR0dCSzRORWpLZU1EbUEyVzdiM2haTVFkelhTYXlKNU9ndEpmWXhkQS1kMXBRLUp6RDJ4LVpjVTJZYUdVY1NZd3NIYkFWN2M1RXZ5M09TY3JaRXlObURIY0VXV1lmNGJCWmFpeHdmOW52Y1d5c0ZIQ2VDY0l5Sng?oc=5)
 
-- **Anthropic VS code extension on Cursor backdoored for nearly 12 hours - Ars Technica**
-  Anthropic users, specifically developers using the Claude VS Code extension, had their machines compromised by a supply chain attack. A trojanized extension delivered a persistent SSH backdoor. The irony of a leading AI safety company being vulnerable to such a basic, albeit sophisticated, vector is stark. It demonstrates that even with frontier models, the mundane security practices often determine the real risk surface.
-  [Read more](https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1lMUGhmc3dMOElMYW41ZG1LLXdnbGZFZ3BNV2F5by1rNWpkSUpoMXhMUGVhUVBCVDZmaVVqbklrT0FFVjlieERXeDdsMVp1Ql9IX0FVOVM3T1ZBeUVBdXRiSmtKd1RzSll1N0Zsd0VJTEUwNHVhcGpGdEx2VE9JUHlxNkNpUThOSExsVVhGYUVTN1lCd0FtclUxZ3F5UDFRYWtBN0VQSlhKOW1BQVRv?oc=5)
+- **‘Quite terrible’: Sam Altman says the RAM in your PC is a waste. OpenAI could soak up as much as 40% of supply - Yahoo Finance**
+  Sam Altman's pronouncements on personal RAM, dismissing it as 'quite terrible' for users, reveal a core philosophy. He's not just talking efficiency; he's outlining the future of computing as an exclusively centralized utility. This is the 'Computing Feudalism' doctrine, where the infrastructure, and thus the control, belongs to a very few.
+  [Read more](https://news.google.com/rss/articles/CBMimgFBVV95cUxObmczM2QxUWFDbUJ3WEF1OV8tb1RMSmU3LV9fcW5mWWQ1R2p2RUZuM0FYS003WEY4VkZlZmFRZ01QblI0LTBhTjhoSElDZkFWaGRILWhVRDFLa2dCRTRLYVdQa0tMY3hwZzU0VGFqOXdad2ZfVjBjZERiREJkU214RUpYTjN5N1lsZWg0UmRIY3pRSmxNQkZGbnR3?oc=5)
 
-- **Sam Altman: All the RAM Should Belong to Me, So I Can Charge People to Use It - Gizmodo**
-  Sam Altman made a point about 'terrible' RAM utilization in home PCs, suggesting it belongs in data centers. It sounds like a technical efficiency argument, but what he's actually articulating is a vision of compute centralization. He's not just talking about silicon; he's talking about control, creating a future where access to powerful AI is mediated entirely through the cloud. It is a bold move to suggest individuals are inefficient for owning personal compute.
-  [Read more](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFpBdkg3eElodU52Zmp3QV9DcGlzelJFWURmMnEzX0Y1T29fMHBsWVBobVlja3BwR1Y4MHVJMGxDbGFZSW16THYtR2tkUGZEZnBhNlo5b3ZOSTU1MUpyZEpRc3RCOTEwQlFqaHNRUUFqel9iU0YwMmp2cUNsTEhEX0lEWC1McHZiSWNtT2pjd0p4X0ZKV0NSTGhGU0NiQWVJcXZvN25temRVUQ?oc=5)
+- **Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide - DoublePulsar**
+  The Anthropic supply chain attack, funneling trojans through developer extensions, underlines the pervasive 'Dependency Vortex' of modern software. It demonstrates that a single compromised component, several layers deep, can unravel the security of even the most sophisticated operations. Trust, it seems, is a distributed liability.
+  [Read more](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlhhemJJUy1zRzV1V3BYQnZVOEsxR3JDbzF5eUVTNzg3Q180OWxaTFV5alZVNUpHWGdvVWVabEE5OTVmV1dyTjJSTnI1cGctc2VCcldCYzRaMFhfMlpWSE1fTzN5WXh6STNaNDl0TXV1RS1KaW9LTDJaenNfSHo1WG1TLUY4WEJDUmhMRE5OTUR6Z2QwTmMtZTBvYkJHZkpkakRHQThIamxlcDRWQ0U1R3l3TnNvYlJlaktTeWRHVXYwUQ?oc=5)
 
-- **Anthropic accounts for over a third of SpaceX revenue in Q3, Bloomberg reports - Yahoo Finance**
-  Anthropic's deep reliance on SpaceX for compute infrastructure, reportedly accounting for over a third of SpaceX's Q3 revenue, reveals the 'hidden layer' cost of frontier AI development. It's not just about models; it is about physical infrastructure and the relationships that secure it. This kind of single-source dependence is a significant risk, making Anthropic's growth trajectory less about their own software and more about someone else's hardware pipeline.
-  [Read more](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3o2ZGpFM2Z0LXhaVWVoYUMyWnRqZEluVFF0LS0zS2ZoZEgza0RWSDNOLXVRS2k4Qm9CXzZyUEg3aWZxYUtIdUxGX01SbkJOR2tPbmdOU1BUYlZiUmJoSVBZaGpCeUk0UGNNQTZGeVJiQXA4cGpEMHRZS2tyaVg0SGZGSUl2QnNYY1dHUjNMci15SWVVTHk4RXJpQnNKSXFiNVE?oc=5)
+- **DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic - South China Morning Post**
+  DeepSeek's new 'super agent' for coding throws another competitor into an already intense arena. This isn't just about iterating faster, it's about automating the foundational layer of software creation itself. The 'Code Crucible' is heating up, and competitive pressure will likely force new levels of efficiency, or perhaps, recklessness.
+  [Read more](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFU5NlZJMVBaQ0txUnotazkwaWdmQzJwb3JvWUY4dTFHd2VERGZtdVJiMmxaTG9vR0pjZjFLOXZoZVRfRlFFZzM3dV81VVM3RDZLckQxZ01nc2ZFWGVvQlVoalk3X21iWDdBa29WcWNvblY1YVpGc3hPbDJCVVA3a2d2YVJDbFlZRUdkZ0NXTHplVTlEUGJ6RVBXTXZ1bWQ5eVRNNtIBpAFBVV95cUxQY3o3SXYteGFPRF9kQ3psaFZaTDJHMzhibnhoVE5LdjhGVUxkN2VBNnVuNHd2XzhodEpYLTRyMzhRcXNpWjY4SjBhMmdzek1oN0ZGRnh6RU5aWm12QUxYdDVvaktJUUU2UE1QVVdXUzhvdHFPZ0FrOHpOODJNQUlHYm5DSlI3aW8wS0dpMHFDWTNfNGpQeS0wYnU1TkIxbmtxVGRfSw?oc=5)
 
-- **Making it easier for websites to express AI training preferences - OpenAI**
-  OpenAI, Google, Microsoft, and Anthropic are finally backing a unified standard for websites to opt out of AI model training. This is a practical step, addressing the 'data exhaust' problem that has fueled much of current AI development. It shifts the burden slightly, at least conceptually, onto model developers to respect content creators, even if the underlying legal battles are far from over.
-  [Read more](https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcXc5N3BLX3dyMm5VMW1ZUy1nanQzUGk1ajB1dU5CWnBuX05ndXpvX1MySVVoRFRmU3pVZjNlTjZVRERBcTloTUNjaXl5b3JSc1M5Tm55V2d2b3JMd0NNdm52TUpLWE9BaGtHSWs1R1VxUWVTMVFTMElPVnBDQWM?oc=5)
+- **OpenAI and ServiceNow expand partnership across enterprise workflows - OpenAI**
+  OpenAI's deepening partnerships with enterprise giants like ServiceNow and Oracle, along with specialized firms, highlight the true frontier of AI adoption. These aren't consumer splash plays, but grinding integrations into existing, complex workflows. The 'Integration Tax' will ultimately determine who truly dominates the enterprise space, not just who makes the flashiest models.
+  [Read more](https://news.google.com/rss/articles/CBMic0FVX3lxTFBXdEZ3OGhkclFyelppYjhRXzd3dW1mY05Va3hJQWZqWDBXeEJlOURCM2llMG5wV240bEo2bzJPdnNKbDh0a2dBQkRsU2ZCdG9MWHF0dC1YblduV0RKN1ZzY2pEQzdZZFhJdU91R0JUUXFKOUE?oc=5)
 
-- **Introducing GPT-6.1 Terra - OpenAI**
-  OpenAI released GPT-6.1 Terra, pushing the envelope on model capabilities again. More importantly, Microsoft just reported $10 billion in revenue from OpenAI, which is a concrete validation of AI's commercial traction. This isn't potential; it is actual money moving, proving that these massive models are beginning to deliver tangible value in enterprise settings, irrespective of investor jitters.
-  [Read more](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5)
+- **Anthropic AI model finds Linux kernel bug that leads to remote root access - CSO Online**
+  An Anthropic AI discovering a remote root access vulnerability in the Linux kernel is more than just a bug report. It signals the emergence of the 'Automated Auditor,' a profound shift in the cybersecurity landscape. Imagine machines finding and potentially exploiting critical flaws long before human security teams even wake up. The implications for critical infrastructure are stark.
+  [Read more](https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0I1UVQxSWpUXzlZWGNaZ19IZEEweHYzQUdhNUhBdENhUWRsNGdBcmI3NlFGbmI0N2hEU2toOU50ZEZ0aTBwN1hvdEdqX3F1dFFJbTJZUUFDRzBESjBwamJ2SzZQVDVrZUt6SXRXSjZqZUJvRUc4c1lzamFTQXVIdTQxbGlRWWozLUVFMjVPM2dBYW9URC1kbTdGYjBLSDRrMENTV3NuQkZCNUxWSTFhdDRoQlRVRzZmOGZodTFn?oc=5)
 
-- **Anthropic orders AI tool Claude to stop remaking video games - Game Developer**
-  Anthropic has explicitly prohibited Claude from remaking video games or engaging in reverse-engineering tasks. This signals a growing trend of model providers asserting control over specific use cases. It's a preventative move, likely driven by copyright fears and intellectual property concerns, but it also shows the uncomfortable line between empowering creation and enabling infringement. It limits the creative freedom of developers, whether the use is legitimate or not.
-  [Read more](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5)
+- **House Democrats Demand Trump Preserve Grok AI Chats After TIME Report - Time Magazine**
+  House Democrats demanding the preservation of Trump's Grok AI chats introduces the 'Digital Transcript Doctrine' into political accountability. This raises immediate, uncomfortable questions about the evidentiary status of AI-generated content, its susceptibility to manipulation, and what constitutes a verifiable 'record' in an increasingly fluid digital world. The legal system, as always, will now attempt to catch up.
+  [Read more](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSDk0WlhDZEZBREUxYWRiVGJtYXFqZHRtUnJGYkw4cXA1MFZDWDlBdnJTRjNSSTlPQWhHTHFaMnpOZzlOV01wVmxYVWY1eDd5eGZaNkpvYVVUOGFvUWlrdUdQc0w0c3loYV83a1UtMjA1QVRnRXAySFU2WF9jVHhST1pSTQ?oc=5)
 
 ## Archive
 
+- [November 2026](news/2026-11.md)
 - [October 2026](news/2026-10.md)
 - [September 2026](news/2026-09.md)
 - [August 2026](news/2026-08.md)
