@@ -2,39 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-11-06
+## Latest — 2026-11-07
 
-- **Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation - WSJ**
-  The market's enthusiasm for AI is now facing the gravity of actual numbers. A $1.5 trillion valuation was always ambitious for Anthropic, a company built on a specific interpretation of AI safety. Now, with the "AI rout," investors like Michael Burry are calling it what it is: a bet on optimism, not current fundamentals. This isn't just about market cycles, it's about the valuation of ambition itself.
-  [Read more](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVlmZWpuTHFFVDktVG9OaXlnVl9xSFliZFl4YXFRemVUZDFRRFFaajdEcnQ0b01sQTNJNDVDUkRaQXpLdEY3dGhVUjloVS16UHZIQ0cwUG5wQnpxaDcyX3lvX3A0VFZTb0xjMFBObUJKR3N5cVU2WFhqNzRMcEtjN09HQ3VKcnNIcy15V3VJUTdFRkk1OXhQYlNjMFpELUV0Y2o1MnNNa2dPd3lSN3JJdGM2Z0wzdw?oc=5)
+- **OpenAI gets $11 billion funding at $1.25 trillion valuation, source says - Reuters**
+  OpenAI closed its $11 billion funding round at a $1.25 trillion valuation. That's a lot of zeros, yet it’s still notably less than the $1.4 trillion initially sought. The market is slowly realizing that projections are just that, projections, especially when the underlying economics are still mostly theoretical. Perhaps the era of "valuation by vibes" is finally ending.
+  [Read more](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5)
 
-- **METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July - The Decoder**
-  It's classic irony. Anthropic, the company founded on the principle of "responsible acceleration," appears to be accelerating past its own internal safety thresholds. The METR report indicates their AI crossed a warning line back in July. This reveals the chasm between stated corporate values and the relentless pace of development when you have a direct feedback loop between AI and engineering.
-  [Read more](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR054VXVHMWZjd3dfNXRuRE1nOFFwNWZjcWxJdWllMzZOTDNjSFJKWVFwdjdJMGJza21McXo0TGhTTGhGYWFYcUY1Um5vZEVKd0pQSUZGNm04ekFGaUU0WHVGTVoxWExUY2dxczQ5YmZnN3dvOEg0Y2MxZXN5LWNERXlkZ1RBZzU4dVpNYnpRVmJjSDNUWVVkWmctOVdLU0laOGYxcGhZcjV5MktnWnhhRHpNcFZvLWI0?oc=5)
+- **Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch' - CNBC**
+  Anthropic's impending IPO is hitting Wall Street with a thud, not a bang. Initial $1.5 trillion valuation hopes are shrinking, now closer to $1 trillion. This isn't just about market volatility, it's the "Valuation Adjustment Period" hitting the AI sector hard, driven by post-midterm skepticism and the looming cost of actual compute. It seems even financial institutions eventually tire of paying for potential alone.
+  [Read more](https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2xnRmphZ1JWMGh1OHplODE3ek1GTHFoLXBkNkY2RVlDM2NVRHJBdzBsYlNVMFlJSWdXMVpBMkV5TFRMbUxSaGsyVmN4T0pKSGhiYnhKWkg5Q1ZkZEVmUE9RVUhXTlJWSFAtOE4yM0JCbG5PdGVIbnE4VURQam9RNWcyNHFrZUFZdkdCNzlGbzJuRzhYYjBDb0JPSk91cUhlWnRaemVR?oc=5)
 
-- **OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News**
-  OpenAI's GPT-6 Cyber isn't just a new model, it's a statement. It reportedly found 948 Linux root exploits and 81 Firefox flaws in a single run. The key here isn't just the capability, but the "Critical" cybersecurity rating and its release to "vetted defenders." We're not just automating vulnerability discovery; we're witnessing the weaponization of intelligence, even if the current narrative insists it's for the good guys.
-  [Read more](https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5)
+- **OpenAI investing in AI data centers despite election results, CFO says - CNBC**
+  OpenAI is launching a new "charm offensive" around its data center expansion, promising more local input and dropping NDAs after midterm elections saw public pushback. It’s a classic move: promise engagement after local communities decide their power isn't merely theoretical. The company will build these things regardless, but now they'll at least send a polite notice.
+  [Read more](https://news.google.com/rss/articles/CBMidEFVX3lxTE54bWpvVi13alRsTVY0VGFfT0dUS3JtMG4yYVZtNDhkN2lIUndZeFVvVEdwZExsNjNPeXR1aEVVZzNSZjlBS1lSdUdoeUg4RmpWc3VqcDREUzA0RGlxZ2kzaC1KYVNzX3pxTlBLSGJtUlA0LUVq?oc=5)
 
-- **OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke - CNBC**
-  After a bit of public outcry and what looks like a midterm election rebuke, OpenAI is now rolling out a new data center policy. They're promising to halt NDAs and pay full electricity costs. This is less about corporate benevolence and more about the delicate dance for social license. They realized the public isn't just a resource for compute; communities expect a say in their own infrastructure.
-  [Read more](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VdIBrAFBVV95cUxNb0ZKaGw3Qmh1WEFRTHV1Tk9RNDd5bnVudHhrR0pCQVJXUG5TUDdrXy1kXzA1Z2s2MFpSSlNzVEl0TFh2RURiejFETVZVZkNkSzhVZ1JFa3hPRHFFcUFOWFpWSE1EOTUwSDF6dEFCZU01Z2JMV3JKRjJ3ZkQ0Wkc2VHFwdzhkd1VodEtPdUg4REItby15c3d5azQ0MGdLbExuaEdxdjhlTS16MlhP?oc=5)
+- **An unreleased Anthropic model just helped solve a major quantum-computing question - Business Insider**
+  Anthropic's models are reportedly building scientific frameworks and cracking quantum computing questions. An independent METR assessment claims their R&D is accelerating at almost double the previous rate. This highlights the "Discovery Multiplier" effect, where AI isn't just assisting science, it's becoming the scientist. The implications for areas beyond quantum physics are significant.
+  [Read more](https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVV2MmJnQVdxRkgtcmdrS2JNeUNWOGZfOV9hdi1yVG1WTXAxd0RWSlpJN3lZSFRwOUxvS1BSVjY5eTJDdHJYZFRaY0U3aTNfTURBYUdUbGRBVzJadXJmMWZGdzZjV3c1RGlWb3dBT2RDZldOUGxWLTlQcDVQMGhxX3NhclJidXg4WkRVczFhRUtHWi1VZTItcDIyRnRIOFZadDNwd1l5SU9IVmt4dU94XzVtckhadw?oc=5)
 
-- **Exclusive: OpenAI targets Microsoft's GitHub with deal for startup - Axios**
-  OpenAI acquired Pierre Computer Company, a move framed as improving Codex. Axios notes the implied target is Microsoft's GitHub, which makes sense. The real story here isn't just about code generation, it's about owning the entire developer stack, from prompt to deployment. Expect more of these vertical integration plays.
-  [Read more](https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5)
+- **GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents - OpenAI**
+  OpenAI unveiled GPT-6 Cyber, an "aligned cybersecurity agent," alongside reports of its AI generating hundreds of Linux root exploits. It's the inevitable paradox: the same algorithms designed to find vulnerabilities are also capable of creating them at machine speed. This isn't about human hackers anymore, it's about the "Algorithmic Arms Race" where the best defense is likely another AI.
+  [Read more](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tRzhtYk1MeTljUjdBLW5pMUJCVWJYZ0RzUXB3a0VnVlVtTEtCRHhDR1ZGeEZwOXNvdUp3N2hOMklObzBQbHRsV3lna0xiLXNlSHBOS3RyS0M3dFRZMFE?oc=5)
 
-- **Anthropic rolls out personal finance feature for Claude - Reuters**
-  Anthropic is integrating personal finance features into Claude, allowing bank account access for spending tracking. It is a direct leap from foundational model to consumer financial tool, an example of "The Delegated Wallet." The convenience is obvious. The implications for financial autonomy are less so.
-  [Read more](https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzdfa2NNWTVnNDd4OHQyUmZIN2RIRXVLbDJ3U2RJUHNXeHNiUzhpWU9NWTh2VEJ4SmNEUnRIQW5DTGZJM01WMGhGc2pSRjQ3QnpiWHR5Y3p5YW4wZ0w4c3F0WXlEZjM4RS1hNWVFV0U5U0NERUVGU3RWczR2aXJxdHpnaUI4Ty1HaGZ2WVNUM2NxNzdIVllXQTVvY0Q?oc=5)
+- **OpenAI to acquire Pierre Computer Company, Inc. - OpenAI**
+  OpenAI just bought Pierre Computer Company, a move rumored to target Microsoft's GitHub dominance. They also poached a key product leader from Anthropic and made other executive hires. This is the "Talent and IP Consolidation" phase, where the battle shifts from pure research to owning the platforms and the people who can build on them. It's a predictable land grab.
+  [Read more](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIa01VeUZfc2tSNklmMWI5NG9kcnlIVlY5Wi1IMUE1d0dDSVNvNU1wMU9NaWhZQ1BhN0pLaThXc25BZ1lMUzZSQUk3QU5mS0hGTDhJam5VUXpNUkpnY3Nv?oc=5)
 
-- **OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says - Reuters**
-  OpenAI's Brockman confirms the company's enterprise sales now constitute a majority of its revenue, with an IPO targeted for 2027. This isn't just growth, it's a strategic pivot. The shift from research darling to enterprise vendor changes everything about their incentives. The valuation game is about to get much more interesting, especially with Anthropic's current struggles.
-  [Read more](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaVVsWWFIRkFSSHp4a1JRaW5lQjlwRXdmblNlZnhXQ0RJaVA3S3NjX2VmZjNDdDN3UERWVFRPVFN1UE9CMUEtMmtKbGZNNEdSM05OYVAySF9RNFlVdXVTQlp0N0NqX1hLc1BMR19qNXNmTmIzakthU0NBdlRmclhaMmhzcFRtNWFQMkI1RkkyaGJzV1FZOEptSlBkNnRGcThGa3BrTndZTE00VXd3cnE3My10X0MxWlFyNDZlZ3B1Tnc5emdJV1R2Zg?oc=5)
+- **Project EVE: Claude plays MMORPGs - Anthropic**
+  Claude is now playing MMORPGs, code-named Project EVE, and analyzing personal bank transactions. It's an interesting juxtaposition: high-stakes virtual worlds alongside the decidedly mundane details of your checking account. This shows the "Ubiquitous Agent" pushing into both escapism and the everyday, quietly embedding itself in the digital infrastructure of our lives.
+  [Read more](https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5)
 
-- **Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry - Fox News**
-  Sam Altman is reportedly unveiling an ambitious plan to transform the energy industry, backed by the UAE. This isn't just a side project, it's a classic Altman move: find the bottleneck, then throw immense capital and algorithmic intelligence at it. The "Compute Power Faucet" needs a limitless supply. The actual challenge will be physics, not code.
-  [Read more](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzItbVRmQXgwQmhBcGhsNjJXWFpoQTY3WnJGQ2UtcEV6UWVfVXo1S3VsNWZsanpGZFNia2pyWmtEOERnWnpNQmgyYVJBU3N6TXhBc0JQbktlWm5Bb0FrRkZJTXE4NGhwNXB3UG5wVDJkb1IxNi1pSFdvSDZQXzAyWm9nNktlRXcxVTktczdKY0tsNTU3dm1CNUxjUjNtSjhDM01qdk1qQ2ltWEdFeHZTTkpBT3ZTQnBwUFlhdzQ5ZEzSAcYBQVVfeXFMUHVxbmhKYzhqVjUxS2F4TjBKNFhxMXVtT0FtVTcxMW8zZThFdFJreXFUZmx2eXRncGNVMWthZmE4dDBJeWFhWFZrLXdfTlV2SkJmdkdLb3JsNUtvYlJjektidUJBV0NLNG9LOWZVT0thVmZVNmM5cktxbkFQaEgtX1FMbXZIa1k3dy0zYlUwVU1lUl9TR3U4UkdZek5ROGNJSVduemNIMTRRZGx5YjR1dmduWXlUUHRRSkZ3a0YybG1sdThDUTRB?oc=5)
+- **Anthropic must face claims its Claude Max pitch misled users - Courthouse News**
+  Anthropic is being sued over claims its "Claude Max" product misled users. This isn't surprising. When the industry runs on hype, the legal system eventually catches up to the "Truth Deficit" in marketing. Expect more of this as user expectations clash with what the models actually deliver.
+  [Read more](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVRmUWVLWlVpRHdBa0xvdndPZ3EtZjRKd0RCUmREd1BqcTFmcS1NdDZPQzFWR29oQnJiOUtYXy1NSFZiaUs2em1qS0d0b0lCYnlWMmMzT2xCUThCNGJNeG5zdl9FZU5vNFdPYnZvZExObmhRN19vUlU4ZlU5Y1BPaW5BWVRWN0RqVGplSTJiZjJFMEdyT2c?oc=5)
 
 ## Archive
 
