@@ -2,39 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-11-14
+## Latest — 2026-11-15
 
-- **Anthropic's IPO is about six times oversubscribed, Bloomberg News reports - Reuters**
-  The 'underpromise and overdeliver' mantra from Dario Amodei, paired with a six-times oversubscribed IPO, is a classic Wall Street play. What everyone's missing is the core 'Compute Chasm' Amodei keeps naming: natural gas, not chips, is the real bottleneck. We're celebrating the ship's launch while ignoring the engine's fuel problem.
-  [Read more](https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0pUQzVjV3ltd2hkZ29PSjdjWElOb3dmUlNPSG5HMC01V1EzSnlQdUl0Tm9WNnhJdktOamVLa1JWOTF5SGJZYTFrNWpBbElkc1lGUklCUUNVLXhHNWM1M0JmaHZTTmVaODlldER3Ulc3Q19zVGtOUDl1NzdCQWNuYkR5LWRVcXFUOGFTQXFDUDlTb2VLVzE3Z1M2dnlfeFFwSVV0MEpNNzExRHNxTlpsZGcyTlE1bE5LbEdLNGVtczd3M2hra1E?oc=5)
+- **Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot - CNBC**
+  Anthropic's IPO is the week's main event, a $64 billion valuation on paper. The market's appetite for 'AI' remains ravenous, yet the undercurrents show deep skepticism. Everyone is watching to see if this offering can stabilize what some call the 'AI trade,' which feels less like a trade and more like a collective prayer.
+  [Read more](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5)
 
-- **Introducing ChatGPT Wallet - OpenAI**
-  OpenAI's ChatGPT Wallet introduces the 'Agent's Purse Problem'. Giving AI agents the ability to make purchases, even with safeguards, opens a whole new category of digital risk and trust issues. We've moved from AI generating text to AI generating transactions, which is a subtle, but profound, shift.
-  [Read more](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ab0pjcFNKdWdXUVFfbEMyNnBKUm56eDlpLXRjWktkSWtKNFBpQml6US05eHBPWnhCajF4V1lnZUhrZHY5U0dJb29BYldsRjlhWUxjVkFPdlhibmRYNkFMb1dn?oc=5)
+- **Building strong safety evaluations - Anthropic**
+  Anthropic released a piece on 'building strong safety evaluations,' days after reports surfaced about a key AI safety alarm being triggered internally. The irony is palpable. It feels like explaining how to build a fire alarm while the smoke detector is already beeping. This reveals the chasm between stated intentions and operational reality.
+  [Read more](https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5)
+
+- **Introducing GPT-6 Sol and Luna - OpenAI**
+  OpenAI introduced GPT-6 Sol and Luna. This is the real signal amidst the noise. New models mean new capabilities, pushing the frontier further. The naming convention suggests a celestial, almost mythological progression, which for a foundational model is not entirely unwarranted, even if it is a bit much.
+  [Read more](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5)
 
 - **Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots - Fortune**
-  OpenAI letting go of its specialized robotics division confirms the 'General Robotics Fallacy'. The notion that specific hardware needs bespoke AI is being challenged, suggesting large language models are becoming capable enough to abstract away physical control. It's a bet on software's universality, not on hardware's particularity.
+  OpenAI disbanded its dedicated robotics team, moving researchers into core model groups. This is a telling strategic pivot. It implies that the path to embodied AI isn't through specialized hardware engineering, but by making generalized models smart enough to operate any physical system. They're betting on the brain, not the body.
   [Read more](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5)
 
-- **OpenAI board member makes a terrifying prediction: You will probably die from an AI accident - Fast Company**
-  The 'Apocalypse Alarm' from an OpenAI board member, while intriguing, feels like a calculated move. It's an interesting contradiction, to sit on the board of a company accelerating AI development while also predicting its catastrophic failure. This isn't just about safety; it's about control, and the narrative around who gets to wield it.
-  [Read more](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2U2RzhQSGw0WGd3anc2WlBObXd2U2dSTXRTMEJzSmtmR09lZk5SQWdBZFR6RjQxYzVJUldUWllPTksxQWhQMWJlSFAzX2tXLXhqeWNTM2E0eEIyUnJYZEs4M0M4X0JReFo5M2J2T1FESk1JNF9feU9KREFhWkVlb2dRZW95Z015TndBdGNlNnI3U2xSeXVKd3Zhd2FfQ2EzbHJqZmhIdTJHbWFlaTFkOHBVREFjZkk?oc=5)
+- **Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents - Reuters**
+  OpenAI, Anthropic, and Google face multiple lawsuits, citing patent infringement and calling for a halt to frontier AI development. This is the inevitable friction when innovation moves too fast for existing legal and ethical frameworks. The rush to build hits the wall of intellectual property and public concern, a predictable outcome.
+  [Read more](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5)
 
-- **Introducing Claude Fable 5.2 and Claude Mythos 5.2 - Anthropic**
-  Anthropic's Claude Fable 5.2 and Mythos 5.2, especially with claims of generating electronic prototypes and self-patching flaws, move beyond conversational parlor tricks. This is the 'Proto-Engineer Pivot'. It signals a shift from AI as a mere assistant to AI as a co-creator in complex, structured domains, which few expected to happen this quickly.
-  [Read more](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5)
+- **Introducing ChatGPT Wallet - OpenAI**
+  OpenAI launched ChatGPT Wallet, allowing its AI agents to make purchases for users. This is more than just a convenience feature; it's the 'Economic Agency Protocol' for AI. When models can initiate transactions, they gain a new layer of functional autonomy. Think about what happens when your AI can pay its own way.
+  [Read more](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ab0pjcFNKdWdXUVFfbEMyNnBKUm56eDlpLXRjWktkSWtKNFBpQml6US05eHBPWnhCajF4V1lnZUhrZHY5U0dJb29BYldsRjlhWUxjVkFPdlhibmRYNkFMb1dn?oc=5)
 
-- **OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters**
-  The 'Legal Dragnet' is tightening around frontier AI. These lawsuits, particularly those aiming to halt development, reveal the deep discomfort of legacy industries and inventors facing disruptive technologies. It's an attempt to pull the emergency brake, which almost always results in a crash, not a stop.
-  [Read more](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5)
+- **OpenAI board member worries an AI "takeover" of society could be months away - Ars Technica**
+  An OpenAI board member warned that an AI 'takeover' could be months away, citing 'AI accident' as a probable cause of death. These are strong claims, delivered from an insider position. It brings the 'Alignment Catastrophe' theory from the academic sphere directly into mainstream discourse, forcing a confrontation with extreme possibilities, however remote.
+  [Read more](https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2JKcnBjeEdYVWVPMUxxbGphdkJZNWZPRE9SNWxBNDdDMjkwSm1DQURGUjVTZmUxVXQwMGkzemJOTl9oN3c5TzdvaWhWeUdtRldIODM1Q1ZfUzI0SE9LcTNNV1FsOF82SUVKTmx3ZmdYN3RTNjg0MXNZTlRDNWxCYkNpd09hemdzdjR1Z2d0bVJkU0U3ZG9BZlBVVVlnWmVzU2c?oc=5)
 
-- **Elon Musk’s AI Group Guts Grok Video Generation Team - The Information**
-  Elon Musk's AI group gutting its Grok video generation team and refocusing on coding tools is a classic 'Grok Pivot'. It signals the difficulty of delivering on multi-modal promises at speed, and where the immediate, tangible value for an enterprise actually lies. Video might be flashy, but code generates revenue.
-  [Read more](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHVlMmkxWGNtSXFvTWktZzFWV1BfTUo3ZnVTck54QmtjOWRTaVNpQjJKLWF4TmZJN1ZpRjhDNUphTUcydHBJQ29ZWWxvN2dfV1R6eXR0d0NTTWdvNmhwWG1hQThURWcydDVkdURKLWd5bk13d0VNQnMyN2o0OUlldDBKR2JSZ2l6NTAzcmJNQ0k3dDdlaXc?oc=5)
-
-- **Huang's exit, Anthropic's entrance - Reuters**
-  Jensen Huang's exit from Nvidia and TSMC's direct investment in AI companies reveal the 'Hardware Handshake'. It's a realignment of power in the chip supply chain, showing the deep interdependence between AI developers and the fabs. The industry recognizes that without the foundational compute, all the software visions remain just that: visions.
-  [Read more](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbi0xME1PaWtsZm1QMk1qak5iWnlBOHU0eWRSSVBMN2xmZU1jMnhlZVZVRVhVeHQzVURjWVAwMUJGMVluUFJKSVlYbWFDTnpGUUhnYzBuQTZLeDc4VGpqQUdhS1RtZ3Vab21EaWRFdHRoUlJJVThSd2tqTmppQ0dSWF85X2o1bWVxTUhpUQ?oc=5)
+- **Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia - The Motley Fool**
+  Anthropic's IPO news had analysts quickly parsing its implications for AMD and Nvidia. It suggests a potential shift in the AI chip supply chain dynamics. If the 'Anthropic Effect' drives demand for alternatives, the silicon game, already intense, becomes even more interesting for investors.
+  [Read more](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXFLdmRZbnlVUFpPYVduNHEzNm1oRlM5ZWZPSVFhUTJsdUZvdWtyd292Snd6TGJablgxSmRNRldtbUFuNDVXc2VKSGswT3VKUGZmZzBSRklEdUN2Z2FudWwxdlVzZTdRc1hWNG5RN21IemU1WkhYSFVaVTB4OUhIOXVIOFRfa2FYdWxfd3cwWkluOFphOUF0OFZVdGVIRmxiVmlFNHZya2RjUzZEQ3hGb1hEV0ZEcjB6bGlKQw?oc=5)
 
 ## Archive
 
