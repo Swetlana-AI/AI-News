@@ -5026,6 +5026,48 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZUGhIZlEzczZ3OTFxcjBiRFJLUDhrZjhGM1hKRHdQWnYzV05NQUh0Y19Nb2d6WHlQNWR6UkZmWEp0YlE4endwZXJTdVNwUmN3LXQxUU5MaTFaQldqZkZNZjFHZWNiZFN6LV9UdQ?oc=5",
           "commentary": "Not content with pure math, Anthropic's Claude Fable 5.2 has also reportedly solved two open problems in black hole physics. These aren't trivial academic exercises. It suggests AI is becoming a genuine, if sometimes bewildering, partner in the most complex scientific endeavors, opening doors human intuition alone struggled to find."
         }
+      ],
+      "2026-11-22": [
+        {
+          "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
+          "commentary": "The market's initial enthusiasm for Anthropic's IPO evaporated almost immediately. This wasn't a failure of the company, but a failure of the narrative. Wall Street needed a hero to validate its AI bets, and a single company, no matter how much capital it raised, simply can't carry that weight against a broader market correction. It exposes the fragility of sentiment, not just the underlying tech."
+        },
+        {
+          "title": "Anthropic mathematician proves Riemann hypothesis, most famous problem in all of math - Scientific American",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcl9DRERIZlViX1BNaFBRYU1WbjI4ejNhb2x6b2d1aXJRenVWQ3NtUUttb1VvTnRYUWNvUE5pQy1vbkpvcEpXeHU4bldwVXpfM3pwdzVtMjJyT3BvcTdyU0lZQUdtdzJEN2xoa1AtR1prQkd3Q1FDakxiZi1XRWVnSmt5aHNYTzlvRDhWcXl3emNNd2NNTTNESWF5bnFiWk5kYWZVQkdiSHFtX2RVYjlrNElMOV9lQ1c5R0dLQnN5RlRqemlIR0huTGhzMjZMb1ZRNU5r?oc=5",
+          "commentary": "A mathematician claiming to solve the Riemann hypothesis with Claude's help is certainly provocative. The verification, or lack thereof, is the real story here, revealing the limitations and biases in how we validate AI-assisted breakthroughs. It's less about the proof itself and more about the new dynamics of intellectual authority when an AI is involved."
+        },
+        {
+          "title": "Anthropic says Claude writes and reviews 90% of its team's code. The catch is how it checks the work. - The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBubFFkd0ZmODhXb3FwN2tYNTRHT2hLbTdDZ0taWDJncU1OdTBqTmJ0eDQ0UGlfSUtTb0FLdXNtcUdncnZiMW1hc1N4ejVPWVk2SkRGajRndFRkTjExMXZwU1dZQXhEaGQteUE?oc=5",
+          "commentary": "The fact that Anthropic uses Claude to write and review 90% of its code is a fascinating glimpse behind the curtain of AI development. It shows a recursive loop, where AI builds and scrutinizes AI. The 'human in the loop' problem is shifting, not disappearing, evolving into more of a quality control function for autonomous systems."
+        },
+        {
+          "title": "OpenAI’s Greg Brockman: AI Delivered “Roughly an Additional Year of Progress” on AMD’s Chip in Under 5 Months - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFdqUkR2UTB0cWRINUpOdS0tQ2gyUzZlZ0tOSW9QQVBwNGhzeWFfZ2RPSFBpRGtYRS1vT3FfQ20yZ2RFWjdYSUNqLS1qd2ZOZUxiTzJKaElTVFUxallyQTlrNlpLTndVbXFsa3FicDRoRnU0eDdmSXVEZFE0bWVYdElZcjh3UUROUG82RHowdHcyaHRZS3AzS3NjQVZ0QQ?oc=5",
+          "commentary": "Greg Brockman's claim about AI accelerating chip design is a stark reminder of the feedback loop in AI development. AI isn't just consuming compute, it's starting to design the very hardware that powers it, creating an exponential curve of capability. This is the real accelerant, not just better algorithms, but better infrastructure built by the algorithms themselves."
+        },
+        {
+          "title": "Sexualized deepfakes of me were created by social media platform’s AI, N.J. author claims in suit - NJ.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU3dqd0xMVGdaSW9keFhDYzhYdnk2Zm1vWTdlYVJIUVlhNFFQOEVERk1JM2pNZzRlQ1ZSVW51bXY3UkhqQzBRLVozb3ZnbVpOcy1kQnBCMFpXVGZ0ZjliYnZ4MlJYeEJUS3k4OTVyVmljVE50cWtpLTlqcDlqQWMtTXBEOWt6OW5YOFFILXBvMzNCbWdzM290WktZd1F4dmlTR1JsZDRxNlFaNGdaejFNUmY0SE1oWHRhU1F6bHlTcU9RdzZERUtfdmNR0gHeAUFVX3lxTFA2SXRaQmkxMnRlRHR4dlY3SlotVi1ndXhDanVqeklZcWdqal9CbmoxUGJLTHk3SkJXbEVQZ0FUT2FxTmVuVlNDOUY1UlVOWThtS2xXQ3QyREVpOWkyUEJubk9ZSDVsbWdsM1puQk5kWVBVdnZzdFNlMWo2TTlTZFprbUUzcjJHMERxVlpxUE1fOVFsOFFKaTdJZTdwckRXRjlWU0xmYVEwZDhSdE1xSlk4S3V4LTVfellRSHJ5VzV6QnZPdXBtUVFuSW5FRV9tNl9uelJMMTlXNXBuMXhDUQ?oc=5",
+          "commentary": "Another lawsuit over AI-generated sexualized deepfakes. This isn't just a 'bad actor' problem, it's a structural failure in how platforms implement AI, or rather, how they don't adequately control its misuse. The legal system is now the primary arena for grappling with the societal costs of rapidly deployed, under-regulated generative models."
+        },
+        {
+          "title": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution - Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teVBVYVBpX09MbkhFa0tJUWR1QkNhMUFROUR0WUFLRnd6TnhCYTh6RURoUlNRckVWQ1loZEQ1bE1NeFBpWmpKOUdHeG5oQ1VEMUY4LW0ybGVaRzYtcU9wai0zaVlub2ZKcjh1enZIdXJKZWZDdk1XNzk3NFdPWUk?oc=5",
+          "commentary": "The UC system's embrace of OpenAI, while faculty voices caution, highlights the core tension in institutional AI adoption. Speed and perceived efficiency often clash with deeper pedagogical and ethical concerns. It's a classic example of administrators making decisions that directly impact academic integrity and intellectual freedom, often without fully grasping the long-term implications."
+        },
+        {
+          "title": "Managing frontier AI risk: From training to deployment - OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHJmSHZiNVNSOHgwYTFQNmh3WnlKVGwyRE43R2dWMEF5d2xsTHBqYzdHQllCanRHeTNYTHAyX0FmcTJiT3p1amxoRDVzMTBxemNiSXkxUXJMcDhxUjdCNw?oc=5",
+          "commentary": "OpenAI detailing its approach to 'frontier AI risk' is necessary, if a bit performative. The true measure of these frameworks isn't their existence on paper, but their demonstrable impact on safety. The irony is, the more complex the AI, the more opaque the true risks become, even to those building it."
+        },
+        {
+          "title": "Elon Musk Says Anthropic 'Extremely Likely' to Expand SpaceX Compute Deal, Could Seek 10 Gigawatts More: 'That’s a Big Number' - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkU0N25PUzUwTWlsM1NUeFFaZXphS19wdDBNbWNFNjBmRzNheDRKRkxRb1N1ajBSeDdSeGVISmNUbHV3WThYZEF2ZEVwb2ZoMzlfNGJHQVhVX051Q1dIMk5ycTFoRUIwMTZ1Z2FPbE1lRENRWHU4cFlVeGphM2ljYWpaaUhNR0xDT0paZmJQMXFTZVFBcWw3cFQzbjZJcXM?oc=5",
+          "commentary": "Elon Musk talking about Anthropic seeking '10 Gigawatts more' for compute is a metric that cuts through the marketing fluff. It grounds the abstract idea of 'AI power' in a very concrete, almost terrifying, scale of energy consumption. The race for AI isn't just about algorithms, it's about raw, ungodly amounts of power. The infrastructure for this future is more critical than the models themselves."
+        }
       ]
     }
   }
