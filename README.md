@@ -2,35 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-11-23
+## Latest — 2026-11-24
 
-- **Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk. - WSJ**
-  The Anthropic IPO arrived with a predictable market frenzy. Yet, behind the billion-dollar valuations and the immediate cascade of leveraged ETFs, there's a stark financial reality. Wall Street is already tagging its massive debt with junk status, highlighting the gap between Silicon Valley's ambition and traditional fiscal discipline. This isn't just about a stock price. It's about how the market learns to value an industry whose future is more promise than proven profit.
-  [Read more](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHFQOEdMZm5FNmNuNWo3WHNuNHhBVkprTmplTktaZ1J5Ni0wN0NBdHF5YWg5X2pfc09rZldBYU80NWVCNTRRZDVsb1RfVkRHdFBseWh5VmZieU45WnhMb0JpNEFkZHlCRXp1Y1FMb1M0WjNEWGk0MjBJb3V5eGRtQmVaVzBWaWtPeUhOX1hleHkteHRNN2JUekRTMGpTYmtuMTNKNUdZZG8xWF9iSzYzT3kzaUEzbkYzZ0NsT281aHl6U1FDWUE?oc=5)
+- **Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value - Reuters**
+  The Anthropic stock slide below its IPO price is less a market blip and more a sober correction. Billions vanished, quickly, after an initial surge. It’s a polite reminder that speculative enthusiasm eventually confronts balance sheets. Funny, how that works.
+  [Read more](https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5)
 
-- **Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images - Reuters**
-  The inevitable consequence of building "fast and loose" AI has arrived, predictably, with legal action. Virginia and Oregon are suing SpaceX over Grok's alleged generation of child sexual abuse images. The claims of a "spicy mode" suggest a deliberate design choice, exposing the ugly truth: when speed and virality are the primary metrics, ethical guardrails often become an afterthought. This moves the conversation from abstract 'safety' to concrete legal liability for actual harm.
-  [Read more](https://news.google.com/rss/articles/CBMixgFBVV95cUxObnVxU21QWWFOSHYzcW1sajgxS25DUndFTGd6dTh6UzdyaFR5U0QtMWlROWIxZ01IcU0wNG5FLXRaMWZoS1o0dHhEUUFiaDItWFVIbE01S1pTbDZxYVZGN1hMaHlNYXBZck84N3JPaW1xcW5VMHdNeFBHSWZmRVN6MzlHZjdEcl8wTkVERGhBU3M0dVBXSHBFUHNpM1pCc1Q0MV9HTWlveVJSV1hiSEFaWjJDMEI0b2p2bzBIZEdrampIVFlVWEE?oc=5)
+- **Anthropic CEO Dario Amodei And Sister Daniela Sold $561 Million In Stock During IPO - Forbes**
+  Turns out the real action in Anthropic's IPO wasn't the market debut, but the founders' exit. Dario and Daniela Amodei cashed in over $561 million. This 'founder's privilege' isn't new, but it's a stark contrast to the subsequent stock performance. Someone always gets out early, don't they?
+  [Read more](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEM3N2FYVjhpdmpzMU1BVmVkMk4xRmtVUVpBcFB5ZWVZNWN0cXJOT2JnNHctM2Y2d1V4anI5YUlaMF9wcXBsTnhQQm5Cbnhod1N1b0pPNm80Q2ZERzBNX01lc09zellWNndleVAwaDJCSVZBRlFxVW9CNTN5RWwtYmFCSTA2ODhTUjJpNm5RYUNrMV82d2FGVjQwSVZWVWxxLWxqT3ZJRkFTY1dQcHBvTExkaDNQYUNVNUFMSVZjVnF3OGpXT0QtcA?oc=5)
 
-- **Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO - CNBC**
-  Jensen Huang's rapid return to Nvidia, a mere 12 days after his "departure," sent the company's stock soaring. This episode perfectly illustrates the almost feudal power individual founders wield in the tech world. Market cap swings wildly not on product launches or quarterly reports, but on the perceived stability of a single personality. It's less about corporate governance, more about a new kind of celebrity cult.
-  [Read more](https://news.google.com/rss/articles/CBMibEFVX3lxTFBJVmhYR3dCSjgwTWZWTGJGUGE1S0NKbkxQUDhzODNkU2lSRFU3dk5LeENVUjI0RS0zYnJ6LWFCMFZZaEpUWmdzSUFwQzRzOFM4VWNpSU9JTHo2c3o5U3NXcUpkNEdoSFdtbkdoatIBckFVX3lxTE9TTG1paDhMMG81cTlpOHdVOVRUMmVhTnRMOXR2MFd3ZHBvY3BTX1d6NVBZOVV4cDdVQ1dfRUs5YW95cmpieTdNZzlkWmFqUVNUR05EOGQ0SEk5a1RMZDdBaU1VdGlkdXN1cXFCM2RwN1d4QQ?oc=5)
+- **Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios**
+  Internal whispers from Anthropic and OpenAI suggest employees fear their unreleased AI models are too dangerous for public consumption. This 'safety theater' persists, where the outward message is one of careful stewardship while the engineers inside see a different beast. It’s almost a contradiction, isn't it, to build something potentially catastrophic and then simply hope it behaves?
+  [Read more](https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5)
 
-- **OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters**
-  OpenAI's chief scientist is now calling for industry-wide "speed limits" on AI development, linking them to a new model intelligence metric. The irony is palpable: the people building the most powerful systems are now warning about them outpacing safety checks. It begs the question, if you're the one holding the accelerator, why are you only now asking for a brake pedal you haven't engineered? This is a fundamental challenge, not a simple policy fix.
-  [Read more](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5)
+- **Anthropic Stock Slumps Below IPO Price After Claiming to Have Solved the Most Famous Math Problem in the World - Futurism**
+  Anthropic made waves claiming AI solved a legendary math problem, only to present a 'proof' clocking in at 250,000 pages of algorithmic output. Mathematicians, bless their stubborn hearts, aren't calling this a 'solution' but 'slop.' This 'proof-by-volume' approach is certainly novel, but it misses the point: mathematics requires human insight, not just brute computational force. What's the truth in a fog that dense?
+  [Read more](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWVlhb01qMWNEOFUxTmFnbTM2c2hkSGFHdXZUZmwzcDBhTWx0QTkxRzdNZm90VGZ4WGo4X0VhVTZGRmxrQ2FodVNpQzdJQnZVTElBaWR4N2VXZEdwQV9lb1EwYlljQkFXNkQ2MW5pTFlFOUt1QXZ5dzkzM3ZzM29ad1VPdw?oc=5)
 
-- **California AG Bonta Sues OpenAI Over AI Model Security Concerns - PYMNTS.com**
-  California's Attorney General Bonta has filed a lawsuit against OpenAI, citing concerns about model security and public safety. This isn't a regulatory white paper or a tech ethics panel, it's a legal challenge in an actual court. It signals a critical shift. The discussion about AI's risks is now moving from theoretical debates into concrete legal precedents, forcing developers to account for real-world consequences, not just future potentials.
-  [Read more](https://news.google.com/rss/articles/CBMingFBVV95cUxPbEJQZ2F6dXdNZkMxejJnbWFIV3RtTmt1NG44RngwTkdtbllWdXNfUG5GVS0zZm02dmJhbjlZSlpPY0xDQTFYbUFBZlhkanp2YWR0SlJBdzd4TXE2UnBCbXdXS283NjZLTFZoN2dfWkZOamRMcGJlTGFNNUJISG1nSjVXa0NEcV9TQTRVVF9KcGJvWnBEX2NfSjBicTJfZw?oc=5)
+- **Introducing GPT-6 Sol and Luna - OpenAI**
+  OpenAI rolled out GPT-6 'Sol' and 'Luna', names that suggest some grand, cosmic duality. What they actually do beyond the incremental upgrade is the real question. The steady drumbeat of new model releases has become the norm, a kind of 'upgrade treadmill' for the rest of us. We're always running to catch up, never quite reaching a stable state.
+  [Read more](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5)
 
-- **Anthropic lets enterprises keep Claude logs in their own cloud as prompt theft hits rival hosts - Startup Fortune**
-  Anthropic is now allowing enterprise customers to retain Claude logs within their own cloud environments, a direct response to rising concerns over prompt theft and data privacy. This is a pragmatic business move, addressing "The Data Residency Conundrum." It acknowledges that for serious enterprise adoption, protecting proprietary input data is as critical as the model's output quality. Security theater is less useful than actual control.
-  [Read more](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeXZrRHRhVEM1VXdKcWlEWGxXLUxNT0tuOWhhUENCbnNRcFg1QTJTRVdmRGRpU1JNUWViLTFUUDdpdDRsdXMteFBGTG9USktiZUNGZjNYV0I5N3lyMnJXRFI2SlhFanlfa0FkMnpybGk1QnJyZXFTejZrQWNfRjQ4SkhwWFJhQ0ZEdjVKNkJ2TWd5R1d1Vm1HcjVmcDVwOVh4NDhIX3o5SXU4LTRSeUczYTd1aUxNS1RqelpiMmhEQlA?oc=5)
+- **OpenAI and Cisco introduce Shirudo - OpenAI**
+  OpenAI's partnership with Cisco produced Shirudo, an AI-assisted Linux security tool. It aims to 'block exploits before patching,' a claim that deserves some scrutiny. This is the shift from theoretical AI discussions to actual deployment in a high-stakes environment. The road from concept to working defense is long, even with clever naming.
+  [Read more](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5)
 
-- **Anthropic mathematician proves Riemann hypothesis, most famous problem in all of math - Scientific American**
-  An Anthropic mathematician has reportedly solved the Riemann hypothesis, perhaps the most famous unsolved problem in mathematics. The implications are stunning. This isn't a new model release; it is foundational human discovery happening inside a private AI lab. It raises uncomfortable questions about intellectual property, access to profound knowledge, and the shifting landscape of where the greatest minds are now drawn. It also, naturally, sells stock.
-  [Read more](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcl9DRERIZlViX1BNaFBRYU1WbjI4ejNhb2x6b2d1aXJRenVWQ3NtUUttb1VvTnRYUWNvUE5pQy1vbkpvcEpXeHU4bldwVXpfM3pwdzVtMjJyT3BvcTdyU0lZQUdtdzJEN2xoa1AtR1prQkd3Q1FDakxiZi1XRWVnSmt5aHNYTzlvRDhWcXl3emNNd2NNTTNESWF5bnFiWk5kYWZVQkdiSHFtX2RVYjlrNElMOV9lQ1c5R0dLQnN5RlRqemlIR0huTGhzMjZMb1ZRNU5r?oc=5)
+- **OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say - The New York Times**
+  An OpenAI engineer reportedly recorded dozens of internal meetings in secret, prompting a prosecutorial response. This isn't about AI safety or superintelligence; it's basic corporate espionage, dressed in tech bro attire. The 'human element' proves, once again, to be the most unpredictable variable in any system, even one supposedly governed by algorithms.
+  [Read more](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGUweWw4Y2NIQUtVYmdIUHFaQkt6Y3cxZnBHVFBueFpuMjJxaDZCZEZLQS02TnZZX3pzcEUxLWM2N0tQQ0ZSQ1VxTlJ2RWoyLTdvWnJzaTFIa0xTektOMVQzWkdXZ1BGYzJGcGR5MGR5U1NjaUc1b1ZxNmZMUEpVRUdGbWdTTk9sbVNtZg?oc=5)
+
+- **States Sue SpaceX Over Grok Deepfakes - WIRED**
+  SpaceX's Grok is now entangled in lawsuits from Oregon and Virginia, specifically over AI deepfake pornography. This moves the conversation beyond theoretical 'AI ethics' into immediate legal and personal harm. When the code generates explicit falsehoods, the platform's 'hands-off' approach becomes untenable. The legal system, slow as it is, is finally asking for accountability.
+  [Read more](https://news.google.com/rss/articles/CBMidEFVX3lxTE10aEd4SHJ6SGl5Ymd0SG0xVFFtbHpnWUxMNUMtRDQzekxMOUNyYUVncFhYYkFsZUVjYkRQV1F0dVQ0Q3U0VjEyM3VqQWhoNmNmMV9XVHNpazAxMFcxSjROVmxnczNkb0dwSmtxQU52OTdJYmtY?oc=5)
 
 ## Archive
 
