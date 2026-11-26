@@ -2,39 +2,39 @@
 
 A daily digest of AI news, automatically fetched and curated down to the top 8 stories each day.
 
-## Latest — 2026-11-25
+## Latest — 2026-11-26
 
-- **Anthropic stock sinks further below IPO price as investors sour on the Amodei AI bet - Yahoo Finance**
-  Anthropic's stock performance post-IPO is less a 'clunker' and more a necessary re-calibration. Wall Street's exuberance often outpaces actual product monetization, especially in a sector still defining its business models. This isn't just about one company. It's about the entire AI ecosystem bumping against the limits of speculative valuation.
-  [Read more](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMkZ3R2JqVlJwZllwVm5BckhhSHZLNDlLVmVZNmpOVmxEVjVKYkk4T1lidzVyTWk2XzJ1LWREQlZRckVlUTMzUl9CVG02OGZXUHNWUmhfTzVlMFlTSWdhbnBYQkdhZ19IQTFmRXhpUTIwTFozTy1LSUpmeTVDM1M0c05DVnlYaUFGLWZuUHFKSjREM2pEYzN0UFY4SDhjLTFnLXJVOU1WVW50Qk80dllwdUZtSnc2Uk9ST1RscXJ4UDlXdDIwYXpzMUtrWjRTRlUtNE91WnE5UWVVUFZONndUbkhB?oc=5)
+- **Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling. - WSJ**
+  Anthropic's record IPO unraveled quickly. Shares plunged below their initial price, revealing a significant disconnect between Silicon Valley's private valuations and public market skepticism. This isn't just a stock story, it's a sobering dose of what we might call 'The IPO Washout' for hyped AI. It reminds everyone that actual market performance still trumps speculative enthusiasm.
+  [Read more](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHY3ODVIbFVMbGZSZ0tSd0p0YTZQTVRESWQxYW9UZ193WHc5N3JQNXJ6bVNEM3VWVEd5aFhlSURsaVJLMG9RZGFCQmdjbEFpc29tNTFvTkNxaTJJV29EQ3JFMUZXNmxZaF90TDM2VUJsNTRJdXotSmdRM09FS0wyMnk2dzBsRkppZHZRcFpKcThpeVVWX0lpemg1MkU4U1ZvQ2swazM1T0JEMS1nNmEw?oc=5)
 
-- **Anthropic CEO Dario Amodei And Sister Daniela Sold $561 Million In Stock During IPO - Forbes**
-  While the market frets over Anthropic's plummeting share price, CEO Dario Amodei and his sister Daniela collectively sold over half a billion dollars in stock. Executives take profits, that's how it works. But it creates a visible tension between their proclaimed long-term vision and their very immediate, substantial gains. It's a classic case of 'rules for thee, but not for me' in the high-stakes game of public offerings.
-  [Read more](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEM3N2FYVjhpdmpzMU1BVmVkMk4xRmtVUVpBcFB5ZWVZNWN0cXJOT2JnNHctM2Y2d1V4anI5YUlaMF9wcXBsTnhQQm5Cbnhod1N1b0pPNm80Q2ZERzBNX01lc09zellWNndleVAwaDJCSVZBRlFxVW9CNTN5RWwtYmFCSTA2ODhTUjJpNm5RYUNrMV82d2FGVjQwSVZWVWxxLWxqT3ZJRkFTY1dQcHBvTExkaDNQYUNVNUFMSVZjVnF3OGpXT0QtcA?oc=5)
+- **Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI - Al Jazeera**
+  Anthropic CEO Dario Amodei spent considerable energy denying he wants humanity to 'surrender' free will to AI. This public relations clean-up highlights the peculiar challenges of discussing existential AI risks. When a CEO needs to clarify that they aren't advocating for robot overlords, the conversation has already veered into rather philosophical, and slightly absurd, territory.
+  [Read more](https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1lFeWR4WThickRrRFF1RS1jOWdOdXNxUDRqZkJQQjhHMnVsZjR4QTN3emM2YlRkcnlrbVFrVl9TUmNJdm9EZXZTTDh0MmZxSzc5Z2hZSjRZMndpU2RuZTlIRXU1WWxlTFZJOXVQTFc2QVRyYWpfc04xN2tDZDZkdERhVjdGaV9lblV0U0x0SHVmYzF5WFkxOC1UODkyaDhoNFF2MWtUSWt0TC0zZVVBWi1TU2Y2TXkzMEHSAb8BQVVfeXFMTXlRMjR0aXQxNjU5emprZTUtUVBYTlZjUlJVQ3NfV1NOY2V0V004bjdhZjJzaU96akpVNmtaaHpUcC1LazBYdE85ZVlSQW95bnBHQS1qTWdlcUlyMENxUmlIVDVydWdyVnZjX2xGRlRPSGxaS0NDeldfdUxHOUNsN0x3YUNQZjJBSGZEY1V0Vm1EQWNtMmlQMnVNQjE3cnhFRktibnF4MnVzaFVQT2EzeldXaHk0WWRvRm8yTlJBd2c?oc=5)
 
-- **Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios**
-  Reports surface about employee fears at both Anthropic and OpenAI, claiming new models are too unsafe for release. This internal friction, often dismissed as 'alignment debates,' highlights the real-world tension inside these labs. The race to deploy clashes with genuine ethical concerns, creating a kind of 'ethical drag' on release schedules. It begs the question of what exactly these models can do that causes such internal alarm, beyond the usual PR spin.
-  [Read more](https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5)
+- **OpenAI and Cisco introduce Shirudo - OpenAI**
+  OpenAI and Cisco introduced Shirudo, an AI-assisted Linux security tool. This is a concrete move into practical cybersecurity, a domain where AI can offer immediate, tangible value beyond conversational interfaces. It suggests a growing trend where AI becomes a foundational utility, not just a flashy product, blending into existing infrastructure like a highly efficient, if unseen, cog.
+  [Read more](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5)
 
-- **Anthropic is getting more AI from less compute. That's great for Anthropic and bad for everyone else. - Business Insider**
-  Anthropic's claim of 'more AI from less compute' is a quiet earthquake. Efficiency gains in model training and inference aren't just about cutting costs. They represent a fundamental shift in the AI arms race. If you can do more with less, you hold a structural advantage, creating a significant 'compute chasm' for anyone trying to catch up. This development means fewer players will dominate, and the existing giants will only grow larger.
-  [Read more](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnFXQUktajV6cmdhc05MNGxPbUlzbk1MenZFUENscnBzV3JIYU1DUXJGdHlSQUpTaGE3ZUhhczNsdDUzSHJSQ0s2QzJmQXV1aFdhVk5Sb3hVR1lMZ0dBTWRxZWJObFgzTERMQlRRQksyNFBFcVRUQllWeUJIX1dnNnNmX3JTU2JWNTFHT3M4c2tkcUM4N042UF9hRFpFX0l3M2tyNTlhZE5HZnFu?oc=5)
+- **OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work - TechCrunch**
+  OpenAI is merging its Chat and Work services, which means heavy ChatGPT users will hit limits faster. This is the inevitable 'Paywall Creep', a classic maneuver to nudge enthusiastic free users towards paid tiers or enterprise solutions. The free tier was always a marketing tool, and now that the product is established, the gates are closing slightly.
+  [Read more](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWZET3dOcDNPZ1c3bnhSaGh6SkdXeGItdEl0dUNmbzVVZlhhSV8wZ1p0OTN5RDlfUXRZV3NMSXNnV2FxYXdVRWY5UnJZZ2FxbkVXNlFkWFFabHNfRTl2ZXJ5ZFVRd0prUkE0OFRYYktyVGNBemZkSGJZbXUzOVljaEtBdEhIT2Vydkhab2h1cFc0NDJyNVZMb29BQ3U2bUh3N2NETVpyenBmVVpRclBCWnpscjUwUQ?oc=5)
 
 - **GPT-6 models demonstrate intrinsic protein-design capabilities - OpenAI**
-  OpenAI's GPT-6 demonstrating intrinsic protein-design capabilities moves AI from theoretical discussions into hard science. This isn't another chatbot novelty. It's a tool for manipulating the building blocks of life itself. The implications for drug discovery and synthetic biology are vast, making the current obsession with stock market fluctuations seem, for a moment, rather small. This is where the real value is being created, quietly.
+  New GPT-6 models from OpenAI demonstrate intrinsic protein-design capabilities. This is where the real, quiet breakthroughs often happen: in specific scientific domains far from general chat. Less public theater, more fundamental advancement in areas like drug discovery or materials science. It suggests what's happening beneath the surface is far more profound than what's immediately visible.
   [Read more](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUdETW1TNzZiLWl5Z2lOUkhpRmtFMGNxY2dRVV9URkpQX3RVRGpVZGk5Q055WEY4elV1X2VHWlVCYzZTQUMydEk4YThidXZUOUh4dlBZVmpfZ21jaTZIeVRQaEFmdFN5MDNkNDhhYU5qdTJEN3ZQeGRXNG5NS215c3hxa2hFbEFjWW1DVE93UXFkdw?oc=5)
 
-- **California sues OpenAI over alleged unsafe AI development practices - Jurist.org**
-  California's lawsuit against OpenAI for 'alleged unsafe AI development practices' isn't just another legal spat. It's a significant regulatory pivot. It signals a shift from abstract safety guidelines to concrete legal liability, forcing a reckoning with actual harms. States, not just the Feds, are finding their teeth in this fight, and the implications for corporate responsibility are substantial. The idea of self-regulation just got a very public challenge.
-  [Read more](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXo5cjRBWUk3TnJ2QS1JTWU5MGVocmRzV2FrNzRQbFNTdkFNdlAtQTRsTHFoRlJlZTFQRzc4Q2lfY3BqbHl4cTk2akZuSXVkY2xFUS1DWUI1M2ZUWnBSOXJaS1VSODJ0QXNRbDVJUE5sbGQ2dHh1QXFhSW5OcHFtODR4MUlFZ19KWlRGSTl3c0syYUFVc2FYWmlIbGVVeU10bE5DSWpjMA?oc=5)
+- **Anthropic built a honeypot to see if AI agents will break out - Malwarebytes**
+  Anthropic built a 'honeypot' to observe if AI agents would attempt to 'break out' of their controlled environments. This direct, almost mischievous approach to AI safety testing is quite telling. It’s a practical, if slightly cinematic, attempt to grapple with the 'containment problem' for advanced AI, acknowledging the agents' potential for unexpected behavior rather than just theorizing about it.
+  [Read more](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3p0MzRlaGFoMHd1a0tLNkJ6YTBCRUZ6TGxMVHJvZGdTSVNZWkxMLWU0M2RMUE5mTU9CNEMxVGlKZVdXVjRNdWZUY0tIdV9NSGdMc2ZhVmdlN2R6NXNwUEM2OUc3c2NQUjJrWDdmOXVtLW83Sy15M05idk44bU9JWmk4ZTFRR0tIbjZHa2NvRDZ4WlQxbjc3XzhYOFl3bk0tc1J4Z3V2MzBzdw?oc=5)
 
-- **Oregon sues Musk's SpaceX for AI-generated child abuse images on X - Statesman Journal**
-  Oregon and Virginia are suing SpaceX over AI-generated child abuse images on X, linking platform technology directly to heinous real-world crimes. This case cuts through the usual academic debates about AI ethics. It puts the focus squarely on accountability for platform operators. The 'black box' of content moderation is being challenged, demanding more than just vague promises of safety. This is the messy reality of AI in public spaces.
-  [Read more](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWFPWDdsMnhIblhKU0MxS1dvakFDWjYxYjYtRDQtMWt6QWlPaTJtdy0xeDZUWERvanVObGdXUzJkMVpJV2VTSGp6aDFnWjhGTWxsTjlVeVRqMGRMMkF4aUlaX3VDVThlR3ZKRVluYjJFWmtKVFJ0Tjl3aDgxQ0twck00Vk1zaTd3SW1fRzJwY1d5VXVIRkMzWkdVTlBicGkycWk5V1ZqUDUzdllGM2VJdjc0ZzFtOHNleU9ONnVqWTA3aHdVTEZ6REZtMjhmY2hhdlFOT1NGdjY5dw?oc=5)
+- **Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios**
+  A scoop revealed employees at both Anthropic and OpenAI fear their unreleased AI models are too unsafe to deploy. Internal dissent is often the most reliable indicator of real underlying issues, cutting through corporate messaging. This 'Internal Safety Valve' highlights a profound tension between pushing the technological frontier and ensuring ethical, safe development.
+  [Read more](https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5)
 
-- **‘Anflopic’ bodes badly for OpenAI’s IPO prospects - Financial Times**
-  The term 'Anflopic' is already making the rounds, suggesting Anthropic's underwhelming IPO bodes poorly for OpenAI's public market prospects. Investors are notoriously fickle. One company's misstep often creates a 'contagion effect' across an entire sector. OpenAI leadership is likely watching closely, adjusting their timelines. This isn't just about one company's valuation. It's about the broader market's appetite for the next wave of speculative tech.
-  [Read more](https://news.google.com/rss/articles/CBMicEFVX3lxTE50NlZWWFBEUFhLNUI4T2JlTENLd01UNjA0VVZUNVVGUTktV1N2UlllSUtCTUNQSGxwRV8zTVJ2UldOeG1jaS1jMzZKSkFpLXlNTUxRcGM4VjJTeGwyNW5GamktSllBRV9Id2tselNkcTg?oc=5)
+- **States Sue SpaceX Over Grok Deepfakes - WIRED**
+  States are suing SpaceX over deepfakes generated by its Grok AI. This marks a shift from theoretical concerns about generative AI's misuse to concrete legal battles. The initial wave of AI deepfake enthusiasm is now colliding with actual liability and regulatory scrutiny, turning theoretical risks into costly realities for companies like SpaceX.
+  [Read more](https://news.google.com/rss/articles/CBMidEFVX3lxTE10aEd4SHJ6SGl5Ymd0SG0xVFFtbHpnWUxMNUMtRDQzekxMOUNyYUVncFhYYkFsZUVjYkRQV1F0dVQ0Q3U0VjEyM3VqQWhoNmNmMV9XVHNpazAxMFcxSjROVmxnczNkb0dwSmtxQU52OTdJYmtY?oc=5)
 
 ## Archive
 
